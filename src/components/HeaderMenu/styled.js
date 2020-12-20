@@ -13,6 +13,8 @@ export const MenuLinksList = styled.ul`
 export const MenuLinksItem = styled.li`
   padding: 2px 20px 6px;
   border-right: 2px dotted rgba(255,255,255,0.15);
+  text-transform: lowercase;
+  font-variant: small-caps;
 
   &:last-child {
     border-right: 0;

@@ -9,4 +9,5 @@ export const HeaderWrapper = styled.div`
   height: auto;
   background: #0984e3;
   padding: 10px 0;
+  font-family: Roboto;
 `
