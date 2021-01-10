@@ -1,6 +1,7 @@
 import styled from "styled-components"
 import media from "styled-media-query"
 import AniLink from "gatsby-plugin-transition-link/AniLink"
+import Img from "gatsby-image"
 
 export const PostItemLink = styled(AniLink)`
   color: var(--texts);
@@ -19,7 +20,7 @@ export const PostItemWrapper = styled.section`
     padding: 2rem 1rem;
     flex-direction: column;
     justify-content: center;
-  }
+  } 
 `
 
 export const PostItemTag = styled.div`
@@ -46,4 +47,7 @@ export const PostItemDescription = styled.p`
   font-size: 1.2rem;
   font-weight: 300;
   line-height: 1.2;
+`
+export const ThumbWrapper = styled(Img)`
+  width:100%;
 `
