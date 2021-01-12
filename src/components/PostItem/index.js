@@ -3,12 +3,13 @@ import PropTypes from "prop-types"
 
 import * as S from "./styled"
 
-const PostItem = ({ slug, category, date, timeToRead, title, description, thumb }) => (
+const PostItem = ({ slug, category, date, timeToRead, title, description, thumbnail }) => (
   <S.PostItemLink cover direction="right" duration={0.6} to={slug}>
     <S.PostItemWrapper>
       <S.PostItemTag>{category}</S.PostItemTag>
+      <S.ThumbWrapper fluid={thumbnail.childImageSharp.fluid} />
       <S.PostItemInfo>
-        <S.PostItemDate>{date} - {timeToRead} min de leitura - {thumb}</S.PostItemDate>
+        <S.PostItemDate>{date} - {timeToRead} min de leitura</S.PostItemDate>
         <S.PostItemTitle>{title}</S.PostItemTitle>
         <S.PostItemDescription>{description}</S.PostItemDescription>
       </S.PostItemInfo>

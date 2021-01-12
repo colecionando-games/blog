@@ -20,17 +20,12 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `images`,
-        path: `${__dirname}/static/assets/img`,
-      },
-    },    
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
         name: `posts`,
         path: `${__dirname}/posts`,
       }
     },
+    `gatsby-transformer-sharp`,
+    `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-transformer-remark`,
       options: {
@@ -63,8 +58,7 @@ module.exports = {
         display: 'swap'
       }
     },
-    `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,
+    
     {
       resolve: `gatsby-plugin-manifest`,
       options: {

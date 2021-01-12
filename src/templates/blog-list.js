@@ -24,7 +24,7 @@ const BlogList = props => {
           ({
             node: {
               fields: { slug },
-              frontmatter: { category, date, description, title },
+              frontmatter: { category, date, description, title, thumbnail },
               timeToRead
             }
           }) => (
@@ -35,6 +35,7 @@ const BlogList = props => {
               timeToRead={timeToRead}
               title={title}
               description={description}
+              thumbnail={thumbnail}
             />
           )
         )}
@@ -60,6 +61,13 @@ export const query = graphql`
             date(locale: "pt-br", formatString: "DD [de] MMMM [de] YYYY")
             description
             title
+            thumbnail {
+              childImageSharp {
+                fluid(maxWidth: 500) {
+                  ...GatsbyImageSharpFluid_tracedSVG
+                }
+              }
+            }
           }
           timeToRead
         }
