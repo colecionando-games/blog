@@ -2,7 +2,7 @@ backend:
   name: github
   repo: colecionando-games/blog
   branch: master
-  site_domain: https://blog.colecionando.games/
+  site_domain: blog.colecionando.games
 
 publish_mode: editorial_workflow
 media_folder: "static/assets/img"
