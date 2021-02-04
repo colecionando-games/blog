@@ -1,10 +1,12 @@
 import styled from "styled-components"
 import AniLink from "gatsby-plugin-transition-link/AniLink"
+import media from "styled-media-query"
+
 
 export const MenuLinksWrapper = styled.nav``
 
 export const MenuLinksList = styled.ul`
-  font-size: 1.1rem;
+  font-size: 1.3rem;
   font-weight: normal;
   display: flex;
   flex-direction: row;

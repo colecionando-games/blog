@@ -6,8 +6,8 @@ import * as S from "./styled"
 const PostItem = ({ slug, category, date, timeToRead, title, description, thumbnail }) => (
   <S.PostItemLink cover direction="right" duration={0.6} to={slug}>
     <S.PostItemWrapper>
-      <S.PostItemTag>{category}</S.PostItemTag>
       <S.ThumbWrapper fluid={thumbnail.childImageSharp.fluid} />
+      <S.PostItemTag>{category}</S.PostItemTag>
       <S.PostItemInfo>
         <S.PostItemDate>{date} - {timeToRead} min de leitura</S.PostItemDate>
         <S.PostItemTitle>{title}</S.PostItemTitle>

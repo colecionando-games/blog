@@ -1,9 +1,5 @@
 const links = [
   {
-    label: "Home",
-    url: "/"
-  },
-  {
     label: "Artigos",
     url: "/articles"
   },
@@ -14,10 +10,6 @@ const links = [
   {
     label: "Notícias",
     url: "/news"
-  },
-  {
-    label: "Sobre",
-    url: "/about"
   }
 ]
 

@@ -11,30 +11,31 @@ export const PostItemLink = styled(AniLink)`
 
 export const PostItemWrapper = styled.section`
   align-items: center;
-  display: flex;
-  padding: 2rem 3rem;
-  width: 100%;
-
-  body#grid & {
-    border: none;
-    padding: 2rem 1rem;
-    flex-direction: column;
-    justify-content: center;
-  } 
+  display: flex;  
+  border-radius: 10px;
+  padding: 1.5rem 1rem;
+  flex-direction: column;
+  justify-content: center;
+  margin: 1rem 5px;
+  background: #fff;
+  
 `
 
 export const PostItemTag = styled.div`
-  align-items: center;
+  background-color: red;
+  color: white;
+  border-radius: 50px;
+
 `
 
 export const PostItemInfo = styled.div`
   display: flex;
   flex-direction: column;
-  margin-left: 1.5rem;
 `
 
 export const PostItemDate = styled.time`
   font-size: 0.9rem;
+  padding-top: 10px;
 `
 
 export const PostItemTitle = styled.h1`

@@ -4,6 +4,7 @@ import links from "./content"
 
 import * as S from "./styled"
 
+
 const HeaderMenu = () => (
   <S.MenuLinksWrapper>
     <S.MenuLinksList>

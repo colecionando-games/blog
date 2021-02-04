@@ -1,8 +1,12 @@
 import styled from "styled-components"
-import media from "styled-media-query"
 import Img from "gatsby-image"
+import media from "styled-media-query"
 
 export const LogoWrapper = styled(Img)`
-  margin: auto;
-  width: 500px;
+  width: 400px;
+  margin: 20px 10px 20px 30px;
+
+  ${media.lessThan("medium")`
+    margin: 20px 10px 10px;
+  `}
 `
