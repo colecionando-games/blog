@@ -8,5 +8,5 @@ export const LayoutWrapper = styled.section`
 
 export const LayoutMain = styled.main`
   width: 100%;
-  min-height: 70vh;
+  min-height: 100vh;
 `
