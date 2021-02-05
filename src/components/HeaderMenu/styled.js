@@ -3,13 +3,21 @@ import AniLink from "gatsby-plugin-transition-link/AniLink"
 import media from "styled-media-query"
 
 
-export const MenuLinksWrapper = styled.nav``
+export const MenuLinksWrapper = styled.nav`
+  ${media.lessThan("medium")`
+    margin: 8px 0 10px;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.2);
+    
+  `}
+`
 
 export const MenuLinksList = styled.ul`
   font-size: 1.3rem;
   font-weight: normal;
   display: flex;
   flex-direction: row;
+  justify-content: center;
 `
 
 export const MenuLinksItem = styled.li`

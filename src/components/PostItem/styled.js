@@ -12,30 +12,31 @@ export const PostItemLink = styled(AniLink)`
 export const PostItemWrapper = styled.section`
   align-items: center;
   display: flex;  
-  border-radius: 10px;
-  padding: 1.5rem 1rem;
   flex-direction: column;
   justify-content: center;
-  margin: 1rem 5px;
+  border-radius: 5px;
   background: #fff;
-  
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.15);
 `
 
 export const PostItemTag = styled.div`
   background-color: red;
+  padding: 3px 10px 5px;
   color: white;
-  border-radius: 50px;
-
+  margin-top: -15px;
+  z-index: 5;
+  text-transform: uppercase;
+  border-radius: 10px;
 `
 
 export const PostItemInfo = styled.div`
   display: flex;
   flex-direction: column;
+  padding: 0.8rem 1.5rem 1.5rem;
 `
 
 export const PostItemDate = styled.time`
   font-size: 0.9rem;
-  padding-top: 10px;
 `
 
 export const PostItemTitle = styled.h1`
@@ -51,4 +52,5 @@ export const PostItemDescription = styled.p`
 `
 export const ThumbWrapper = styled(Img)`
   width:100%;
+  border-radius: 5px 5px 0 0;
 `
