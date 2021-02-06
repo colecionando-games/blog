@@ -18,7 +18,12 @@ const HeaderLogo = () => {
     `
   )
 
-  return <S.LogoWrapper fluid={logoImage.childImageSharp.fluid} />
+  return (
+    <S.LogoLink cover direction="left" bg="white" duration={0.6} to={"/"} activeClassName="active">
+      <S.LogoWrapper fluid={logoImage.childImageSharp.fluid} />
+    </S.LogoLink>
+  )
+
 }
 
 export default HeaderLogo
