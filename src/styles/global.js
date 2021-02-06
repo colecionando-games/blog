@@ -67,7 +67,7 @@ const GlobalStyles = createGlobalStyle`
   body {
     --borders: #38444d;
     --texts: #8899a6;
-    --postColor: #fff;
+    --postColor: #222;
     --highlight: #1fa1f2;
     --mediumBackground: #192734;
     --background: #fff;
