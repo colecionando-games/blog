@@ -7,6 +7,7 @@ export const PostItemLink = styled(AniLink)`
   color: var(--texts);
   display: flex;
   text-decoration: none;
+  justify-self: center;
 `
 
 export const PostItemWrapper = styled.section`
