@@ -63,7 +63,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Colecionando.Games`,
-        short_name: `Colecionando.Games`,
+        short_name: `C.G Blog`,
         start_url: `/`,
         background_color: `#248bfd`,
         theme_color: `#248bfd`,
