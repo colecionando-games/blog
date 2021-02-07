@@ -65,8 +65,8 @@ module.exports = {
         name: `Colecionando.Games`,
         short_name: `Colecionando.Games`,
         start_url: `/`,
-        background_color: `#663399`,
-        theme_color: `#663399`,
+        background_color: `#248bfd`,
+        theme_color: `#248bfd`,
         display: `minimal-ui`,
         icon: `static/assets/img/favicon.png`, // This path is relative to the root of the site.
       },
