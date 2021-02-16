@@ -50,11 +50,10 @@ export const PostDescription = styled.h2`
 `
 
 export const MainContent = styled.section`
-  margin: 0 auto 1rem;
+  margin: 0 auto;
   max-width: 70rem;
   padding: 2rem 5rem;
   background-color: white;
-  border-radius: 0 0 5px 5px;
   box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.15);
 
   ${media.lessThan("large")`
