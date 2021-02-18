@@ -76,7 +76,9 @@ if (process.env.CONTEXT === 'production') {
   const analytics = {
     resolve: `gatsby-plugin-google-gtag`,
     options: {
-      trackingId: process.env.GOOGLE_ANALYTICS_ID,
+      trackingIds: [
+        process.env.GOOGLE_ANALYTICS_ID
+      ],
       head: false,
       anonymize: true,
       respectDNT: true
