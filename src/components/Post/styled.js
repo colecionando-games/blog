@@ -1,5 +1,6 @@
 import styled from "styled-components"
 import media from "styled-media-query"
+import AniLink from "gatsby-plugin-transition-link/AniLink"
 
 export const PostHeader = styled.header`
   color: var(--postColor);
@@ -47,6 +48,14 @@ export const PostDescription = styled.h2`
     line-height: 1.3;
     padding: 0 1rem;
   `}
+`
+
+export const PostTags = styled.section`
+  margin: 10px 20px;
+`
+
+export const PostTag = styled(AniLink)`
+  margin-left: 7px;
 `
 
 export const MainContent = styled.section`
