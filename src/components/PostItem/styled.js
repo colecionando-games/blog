@@ -1,7 +1,7 @@
 import styled from "styled-components"
 import media from "styled-media-query"
 import AniLink from "gatsby-plugin-transition-link/AniLink"
-import Img from "gatsby-image"
+import { GatsbyImage } from "gatsby-plugin-image"
 
 export const PostItemLink = styled(AniLink)`
   color: var(--texts);
@@ -22,7 +22,7 @@ export const PostItemWrapper = styled.section`
     "post-item-info";
 `
 
-export const PostItemThumb = styled(Img)`
+export const PostItemThumb = styled(GatsbyImage)`
   grid-area: post-item-thumb;
   max-width: 100%;
   height: 100%;

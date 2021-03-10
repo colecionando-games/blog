@@ -57,6 +57,13 @@ export const query = graphql`
         date(locale: "pt-br", formatString: "DD [de] MMMM [de] YYYY")
         cover
         tags
+        author {
+          id
+          name
+          bio
+          twitter
+          instagram
+        }
       }
       html
       timeToRead

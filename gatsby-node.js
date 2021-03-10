@@ -25,60 +25,57 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   const tagTemplate = path.resolve(`./src/templates/tags.js`)
   const categoryTemplate = path.resolve(`./src/templates/categories.js`)
 
-  const result = await graphql(`
-    {
-      allMarkdownRemark(sort: { fields: frontmatter___date, order: DESC }) {
-        edges {
-          node {
-            fields {
-              slug
-            }
-            frontmatter {
-              date(locale: "pt-br", formatString: "DD [de] MMMM [de] YYYY")
-              description
-              title
-              category
-              tags
-              thumbnail {
-                childImageSharp {
-                  fluid(maxWidth: 500) {
-                    tracedSVG
-                  }
-                }
-              }
-            }
-            timeToRead
-          }
-          next {
-            frontmatter {
-              title
-            }
-            fields {
-              slug
-            }
-          }
-          previous {
-            frontmatter {
-              title
-            }
-            fields {
-              slug
+  const result = await graphql(`{
+  allMarkdownRemark(sort: {fields: frontmatter___date, order: DESC}) {
+    edges {
+      node {
+        fields {
+          slug
+        }
+        frontmatter {
+          date(locale: "pt-br", formatString: "DD [de] MMMM [de] YYYY")
+          description
+          title
+          category
+          tags
+          thumbnail {
+            childImageSharp {
+              gatsbyImageData(width: 500, placeholder: BLURRED, layout: CONSTRAINED)
             }
           }
         }
+        timeToRead
       }
-      tagsGroup: allMarkdownRemark(limit: 2000) {
-        group(field: frontmatter___tags) {
-          fieldValue
+      next {
+        frontmatter {
+          title
+        }
+        fields {
+          slug
         }
       }
-      categoriesGroup: allMarkdownRemark(limit: 2000) {
-        group(field: frontmatter___category) {
-          fieldValue
+      previous {
+        frontmatter {
+          title
+        }
+        fields {
+          slug
         }
       }
     }
-  `)
+  }
+  tagsGroup: allMarkdownRemark(limit: 2000) {
+    group(field: frontmatter___tags) {
+      fieldValue
+    }
+  }
+  categoriesGroup: allMarkdownRemark(limit: 2000) {
+    group(field: frontmatter___category) {
+      fieldValue
+    }
+  }
+}
+`)
 
   if (result.errors) {
     reporter.panicOnBuild(`Error while running GraphQL query.`)

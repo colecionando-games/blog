@@ -9,9 +9,7 @@ const HeaderLogo = () => {
       query {
         logoImage: file(relativePath: { eq: "logo.png" }) {
           childImageSharp {
-            fluid(maxWidth: 500) {
-              ...GatsbyImageSharpFluid_tracedSVG
-            }
+            gatsbyImageData(layout: FULL_WIDTH)
           }
         }
       }
@@ -20,7 +18,7 @@ const HeaderLogo = () => {
 
   return (
     <S.LogoLink cover direction="left" bg="white" duration={0.6} to={"/"} activeClassName="active">
-      <S.LogoWrapper fluid={logoImage.childImageSharp.fluid} />
+      <S.LogoWrapper image={logoImage.childImageSharp.gatsbyImageData} />
     </S.LogoLink>
   )
 

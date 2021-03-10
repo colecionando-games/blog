@@ -1,26 +1,36 @@
 require("dotenv").config()
 
-const pluginSetup = [
-  `gatsby-plugin-transition-link`,
-  `gatsby-plugin-styled-components`,
-  `gatsby-plugin-react-helmet`,
+const pluginSetup = [  
   // needs to be the first to work with gatsby-remark-images
   {
     resolve: `gatsby-source-filesystem`,
     options: {
       name: `uploads`,
-      path: `${__dirname}/static/assets/img`,
+      path: `${__dirname}/static/assets/img`
     }
   },
   {
     resolve: `gatsby-source-filesystem`,
     options: {
       name: `posts`,
-      path: `${__dirname}/posts`,
+      path: `${__dirname}/posts`
     }
   },
-  `gatsby-transformer-sharp`,
+  `gatsby-transformer-yaml`,
+  {
+    resolve: `gatsby-source-filesystem`,
+    options: {
+      name: 'mappings',
+      path: `${__dirname}/content/`
+    }
+  },
+  `gatsby-plugin-image`,
   `gatsby-plugin-sharp`,
+  `gatsby-transformer-sharp`,
+  `gatsby-plugin-transition-link`,
+  `gatsby-plugin-styled-components`,
+  `gatsby-plugin-react-helmet`,  
+  
   {
     resolve: `gatsby-transformer-remark`,
     options: {
@@ -62,8 +72,8 @@ const pluginSetup = [
       background_color: `#248bfd`,
       theme_color: `#248bfd`,
       display: `minimal-ui`,
-      icon: `static/assets/img/favicon.png`, // This path is relative to the root of the site.
-    },
+      icon: `static/assets/img/favicon.png` // This path is relative to the root of the site.
+    }
   },
   `gatsby-plugin-sitemap`,
   // this (optional) plugin enables Progressive Web App + Offline functionality
@@ -94,6 +104,9 @@ module.exports = {
     description: `Um site sobre o mundo do colecionismo de videogames.`,
     author: `Felipe B. Barbosa`,
     siteUrl: `https://blog.colecionando.games`
+  },
+  mapping: {
+    'MarkdownRemark.frontmatter.author': `AuthorYaml`
   },
   plugins: pluginSetup
 }

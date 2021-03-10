@@ -96,9 +96,7 @@ query($category: String) {
           date(locale: "pt-br", formatString: "DD [de] MMMM [de] YYYY")
           thumbnail {
             childImageSharp {
-              fluid(maxWidth: 1280) {
-                ...GatsbyImageSharpFluid_tracedSVG
-              }
+              gatsbyImageData(layout: FULL_WIDTH)
             }
           }
         }

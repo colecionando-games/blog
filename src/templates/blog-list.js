@@ -63,9 +63,7 @@ export const query = graphql`
             title
             thumbnail {
               childImageSharp {
-                fluid(maxWidth: 1280) {
-                  ...GatsbyImageSharpFluid_tracedSVG
-                }
+                gatsbyImageData(layout: FULL_WIDTH)
               }
             }
           }
