@@ -27,6 +27,7 @@ const pluginSetup = [
   `gatsby-plugin-image`,
   `gatsby-plugin-sharp`,
   `gatsby-transformer-sharp`,
+  `gatsby-transformer-yaml`,
   `gatsby-plugin-styled-components`,
   `gatsby-plugin-react-helmet`,  
   {
