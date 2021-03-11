@@ -50,6 +50,16 @@ export const PostDescription = styled.h2`
   `}
 `
 
+export const PostAuthor = styled.p`
+  font-size: 1.1rem;
+  font-weight: 100;
+  padding: 0 1.4rem;
+  margin-top: 12px;
+  ${media.lessThan("large")`
+    padding: 0 1rem;
+  `}
+`
+
 export const PostTags = styled.section`
   margin: 10px 20px;
 `

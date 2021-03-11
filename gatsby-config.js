@@ -1,8 +1,9 @@
 require("dotenv").config()
 
-const pluginSetup = [  
-  // needs to be the first to work with gatsby-remark-images
+const pluginSetup = [ 
+  `gatsby-plugin-transition-link`,
   {
+    // needs to be the first to work with gatsby-remark-images
     resolve: `gatsby-source-filesystem`,
     options: {
       name: `uploads`,
@@ -16,7 +17,6 @@ const pluginSetup = [
       path: `${__dirname}/posts`
     }
   },
-  `gatsby-transformer-yaml`,
   {
     resolve: `gatsby-source-filesystem`,
     options: {
@@ -27,17 +27,15 @@ const pluginSetup = [
   `gatsby-plugin-image`,
   `gatsby-plugin-sharp`,
   `gatsby-transformer-sharp`,
-  `gatsby-plugin-transition-link`,
   `gatsby-plugin-styled-components`,
   `gatsby-plugin-react-helmet`,  
-  
   {
     resolve: `gatsby-transformer-remark`,
     options: {
       plugins: [
         // this one is necessary when the images are outside of posts directory
         {
-          resolve: `gatsby-remark-relative-images`,
+          resolve: `gatsby-remark-relative-images-v2`,
           options: {
             name: `uploads`
           }
