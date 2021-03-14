@@ -20,22 +20,16 @@ const BlogList = props => {
     <Layout>
       <SEO title="Home" />
       <S.ListWrapper>
-        { postList.map(
-          ({
-            node: {
-              fields: { slug },
-              frontmatter: { category, date, description, title, thumbnail },
-              timeToRead
-            }
-          }) => (
+        { postList.map(({ node }, i) => (
             <PostItem
-              slug={slug}
-              category={category}
-              date={date}
-              timeToRead={timeToRead}
-              title={title}
-              description={description}
-              thumbnail={thumbnail}
+              key={i}
+              slug={node.fields.slug}
+              category={node.frontmatter.category}
+              date={node.frontmatter.date}
+              timeToRead={node.timeToRead}
+              title={node.frontmatter.title}
+              description={node.frontmatter.description}
+              thumbnail={node.frontmatter.thumbnail}
             />
           )
         )}
@@ -43,6 +37,8 @@ const BlogList = props => {
     </Layout>
   )
 }
+
+export default BlogList
 
 export const query = graphql`
   query PostList($skip: Int!, $limit: Int!) {
@@ -74,4 +70,3 @@ export const query = graphql`
   }
 `
 
-export default BlogList
