@@ -97,8 +97,6 @@ if (process.env.CONTEXT === 'production') {
   pluginSetup.push(analytics)
 }
 
-
-
 module.exports = {
   siteMetadata: {
     title: `Colecionando.Games`,
