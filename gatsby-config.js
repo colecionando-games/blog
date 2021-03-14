@@ -1,6 +1,7 @@
 require("dotenv").config()
 
 const pluginSetup = [ 
+  `gatsby-plugin-react-helmet`,
   `gatsby-plugin-transition-link`,
   {
     // needs to be the first to work with gatsby-remark-images
@@ -29,7 +30,6 @@ const pluginSetup = [
   `gatsby-transformer-sharp`,
   `gatsby-transformer-yaml`,
   `gatsby-plugin-styled-components`,
-  `gatsby-plugin-react-helmet`,  
   {
     resolve: `gatsby-transformer-remark`,
     options: {
@@ -101,11 +101,15 @@ module.exports = {
   siteMetadata: {
     title: `Colecionando.Games`,
     description: `Um site sobre o mundo do colecionismo de videogames.`,
-    author: `Felipe B. Barbosa`,
+    author: `felipebbarbosa`,
     siteUrl: `https://blog.colecionando.games`
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': `AuthorYaml`
   },
-  plugins: pluginSetup
+  plugins: pluginSetup,
+  flags: {
+    DEV_SSR: false,
+    FAST_DEV: true
+  }
 }

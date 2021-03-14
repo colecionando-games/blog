@@ -11,10 +11,7 @@ import * as S from "../components/ListWrapper/styled"
 
 const Categories = ({ pageContext, data }) => {
   const { category } = pageContext
-  const { edges, totalCount } = data.allMarkdownRemark
-  const tagHeader = `${totalCount} post${
-    totalCount === 1 ? "" : "s"
-  } marcados com "${category}"`
+  const { edges } = data.allMarkdownRemark
   const pageTitle = `Categoria: ${category}`
   const pageDescription = `Posts marcados com "${category}".`
 
