@@ -59,11 +59,9 @@
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/colecionando-games/blog"
-  },
+  "repository": "https://github.com/colecionando-games/blog",
   "bugs": {
     "url": "https://github.com/colecionando-games/blog/issues"
-  }
+  },
+  "main": "index.js"
 }
