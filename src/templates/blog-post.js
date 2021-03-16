@@ -6,6 +6,7 @@ import kebabCase from "lodash/kebabCase"
 import Layout from "../components/Layout"
 import SEO from "../components/seo"
 import Comments from "../components/Comments"
+import RecommendedPosts from "../components/RecommendedPosts"
 
 import * as S from "../components/Post/styled"
 
@@ -41,6 +42,8 @@ const BlogPost = ({ data, pageContext }) => {
       </S.MainContent>
 
       <Comments url={post.fields.slug} title={post.frontmatter.title} />
+
+      <RecommendedPosts next={next} previous={prev} />
     </Layout>
   )
 }

@@ -4,6 +4,7 @@ import { graphql } from "gatsby"
 import SEO from "../components/seo"
 import Layout from "../components/Layout"
 import PostItem from "../components/PostItem"
+import Pagination from "../components/Pagination"
 
 import * as S from "../components/ListWrapper/styled"
 
@@ -34,6 +35,14 @@ const BlogList = props => {
           )
         )}
       </S.ListWrapper>
+
+      <Pagination
+        currentPage={currentPage}
+        numPages={numPages}
+        isFirst={isFirst}
+        isLast={isLast}
+        prevPage={prevPage}
+        nextPage={nextPage} />
     </Layout>
   )
 }
