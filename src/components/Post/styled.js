@@ -2,17 +2,23 @@ import styled from "styled-components"
 import media from "styled-media-query"
 import AniLink from "gatsby-plugin-transition-link/AniLink"
 
-export const PostHeader = styled.header`
-  color: var(--postColor);
+export const PostWrapper = styled.section`
   margin: auto;
   max-width: 70rem;
+
+  ${media.lessThan("large")`
+    max-width: 100%;
+  `}
+`
+
+export const PostHeader = styled.header`
+  color: var(--postColor);
   padding: 5rem 5rem 0;
   background-color: white;
   border-radius: 5px 5px 0 0;
 
   ${media.lessThan("large")`
     padding: 3rem 0 0;
-    max-width: 100%;
     border-radius: 0;
   `}
 `
@@ -70,14 +76,12 @@ export const PostTag = styled(AniLink)`
 
 export const MainContent = styled.section`
   margin: 0 auto;
-  max-width: 70rem;
   padding: 2rem 5rem;
   background-color: white;
   box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.15);
-
+  
   ${media.lessThan("large")`
     padding: 2rem 0;
-    max-width: 100%;
     border-radius: 0;
   `}
 

@@ -24,24 +24,26 @@ const BlogPost = ({ data, pageContext }) => {
         image={post.frontmatter.cover}
       />
 
-      <S.PostHeader>
-        <S.PostDate>{post.frontmatter.date} • {post.timeToRead} min de leitura</S.PostDate>
-        <S.PostTitle>{post.frontmatter.title}</S.PostTitle>
-        <S.PostDescription>{post.frontmatter.description}</S.PostDescription>
-        <S.PostAuthor>por {post.frontmatter.author.name}</S.PostAuthor>
-      </S.PostHeader>
+      <S.PostWrapper>
+        <S.PostHeader>
+          <S.PostDate>{post.frontmatter.date} • {post.timeToRead} min de leitura</S.PostDate>
+          <S.PostTitle>{post.frontmatter.title}</S.PostTitle>
+          <S.PostDescription>{post.frontmatter.description}</S.PostDescription>
+          <S.PostAuthor>por {post.frontmatter.author.name}</S.PostAuthor>
+        </S.PostHeader>
 
-      <S.MainContent>
-        <div dangerouslySetInnerHTML={{ __html: post.html }}></div>
+        <S.MainContent>
+          <div dangerouslySetInnerHTML={{ __html: post.html }}></div>
 
-        <S.PostTags>TAGS: 
-          {tags.map(tag => (
-            <S.PostTag cover direction="right" duration={0.6} to={`/tags/${kebabCase(tag)}`}>{tag}</S.PostTag>
-          ))}
-        </S.PostTags>
-      </S.MainContent>
+          <S.PostTags>TAGS: 
+            {tags.map(tag => (
+              <S.PostTag cover direction="right" duration={0.6} to={`/tags/${kebabCase(tag)}`}>{tag}</S.PostTag>
+            ))}
+          </S.PostTags>
+        </S.MainContent>
 
-      <Comments url={post.fields.slug} title={post.frontmatter.title} />
+        <Comments url={post.fields.slug} title={post.frontmatter.title} />
+      </S.PostWrapper>
 
       <RecommendedPosts next={next} previous={prev} />
     </Layout>
