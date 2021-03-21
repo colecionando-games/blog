@@ -19,17 +19,18 @@ const HeaderMenu = () => {
   return (
     <S.MenuLinksWrapper>
       <S.MenuLinksList>
-        {links.map((link, i) => (
-          <S.MenuLinksItem key={i}>
-            <S.MenuLinksLink cover direction="left" 
-              bg="white" duration={0.6} to={link.url} 
-              activeClassName="active"
+        {links.map((link, i) => { 
+          let linkKey = `menu-${i}`
+          return (
+          <S.MenuLinksItem key={linkKey}>
+            <S.MenuLinksLink href={link.url} 
               onClick={() => menuLinkClickTrack(link.label)}
             >
               {link.label}
             </S.MenuLinksLink>
           </S.MenuLinksItem>
-        ))}
+        )
+        })}
       </S.MenuLinksList>
     </S.MenuLinksWrapper>
   )

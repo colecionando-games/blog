@@ -5,12 +5,11 @@ import GlobalStyles from "../../styles/global"
 import Header from "../Header"
 import Footer from "../Footer"
 
-
 import * as S from "./styled"
 
 const Layout = ({ children }) => {
   return (
-    <S.LayoutWrapper>
+    <S.LayoutWrapper key="layout">
       <GlobalStyles />
       <Header />
       <S.LayoutMain>{children}</S.LayoutMain>

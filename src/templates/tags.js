@@ -23,35 +23,34 @@ const Tags = ({ pageContext, data }) => {
       <SEO 
         title={pageTitle}
         description={pageDescription} />
+      
+        <S.TagsOtherTitle>{tagHeader}</S.TagsOtherTitle>
 
-      <S.TagsOtherTitle>{tagHeader}</S.TagsOtherTitle>
+        <S.TagsPostList>
 
-      <S.TagsPostList>
+          {edges.map(({ node }) => {
+            const { slug } = node.fields
+            const { title, category, description } = node.frontmatter
+            return (
+              <TagsPost
+                slug={slug}
+                title={title}
+                category={category}
+                description={description}
+              />
+            )
+          })}
 
-        {edges.map(({ node }) => {
-          const { slug } = node.fields
-          const { title, category, description } = node.frontmatter
-          return (
-            <TagsPost
-              slug={slug}
-              title={title}
-              category={category}
-              description={description}
-            />
-          )
-        })}
+          <S.AllTagsLink href="/tags">todas as tags</S.AllTagsLink>
 
-        <S.AllTagsLink to="/tags">todas as tags</S.AllTagsLink>
-
-      </S.TagsPostList>
-
+        </S.TagsPostList>
     </Layout>
   )
 }
 
 Tags.propTypes = {
   pageContext: PropTypes.shape({
-    tag: PropTypes.string.isRequired,
+    tag: PropTypes.string.isRequired
   }),
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({

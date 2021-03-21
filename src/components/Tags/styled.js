@@ -1,18 +1,24 @@
 import styled from "styled-components"
 import media from "styled-media-query"
-import AniLink from "gatsby-plugin-transition-link/AniLink"
+
+export const TagsWrapper = styled.section`
+  margin: 0 auto;
+  max-width: 70rem;
+  width: 100%;
+
+  ${media.lessThan("large")`
+    max-width: 100%;
+  `}
+`
 
 export const TagsHeader = styled.header`
   color: var(--postColor);
-  margin: auto;
-  max-width: 70rem;
-  padding: 5rem 5rem 0;
+  padding: 2.5rem 5rem 0;
   background-color: white;
   border-radius: 5px 5px 0 0;
 
   ${media.lessThan("large")`
     padding: 3rem 0 0;
-    max-width: 100%;
     border-radius: 0;
   `}
 `
@@ -47,14 +53,13 @@ export const TagsOtherTitle = styled.h1`
 
 export const MainContent = styled.section`
   margin: 0 auto;
-  max-width: 70rem;
   padding: 2rem 5rem;
   background-color: white;
   box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.15);
+  border-radius: 0 0 5px 5px;
 
   ${media.lessThan("large")`
     padding: 2rem 0;
-    max-width: 100%;
     border-radius: 0;
   `}
   p,
@@ -115,7 +120,7 @@ export const TagsPostList = styled.section`
   padding: 0 10px;
 `
 
-export const AllTagsLink = styled(AniLink)`
+export const AllTagsLink = styled.a`
   color: white;
   margin: 0 auto 20px;
   font-size: 1.2rem;

@@ -1,7 +1,6 @@
 import styled from "styled-components"
 import { GatsbyImage } from "gatsby-plugin-image"
 import media from "styled-media-query"
-import AniLink from "gatsby-plugin-transition-link/AniLink"
 
 export const LogoWrapper = styled(GatsbyImage)`
   width: 400px;
@@ -10,7 +9,4 @@ export const LogoWrapper = styled(GatsbyImage)`
   ${media.lessThan("medium")`
     margin: 20px 15px 10px;
   `}
-`
-export const LogoLink = styled(AniLink)`
-  transition: color 0.5s;
 `

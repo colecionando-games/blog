@@ -1,5 +1,4 @@
 import styled from 'styled-components'
-import AniLink from 'gatsby-plugin-transition-link/AniLink'
 
 export const RecommendedWrapper = styled.section`
   align-items: center;
@@ -10,7 +9,7 @@ export const RecommendedWrapper = styled.section`
   justify-content: space-between;
 `
 
-export const RecommendedLink = styled(AniLink)`
+export const RecommendedLink = styled.a`
   color: white;
   text-decoration: none;
 

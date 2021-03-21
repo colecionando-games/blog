@@ -1,8 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
 
-import kebabCase from "lodash/kebabCase"
-
 import Layout from "../components/Layout"
 import SEO from "../components/seo"
 import Comments from "../components/Comments"
@@ -37,7 +35,7 @@ const BlogPost = ({ data, pageContext }) => {
 
           <S.PostTags>TAGS: 
             {tags.map(tag => (
-              <S.PostTag cover direction="right" duration={0.6} to={`/tags/${kebabCase(tag)}`}>{tag}</S.PostTag>
+              <S.PostTag href={`/tags/${tag}`}>{tag}</S.PostTag>
             ))}
           </S.PostTags>
         </S.MainContent>

@@ -1,10 +1,10 @@
 import styled from "styled-components"
 import media from "styled-media-query"
-import AniLink from "gatsby-plugin-transition-link/AniLink"
 
 export const PostWrapper = styled.section`
   margin: auto;
   max-width: 70rem;
+  width: 100%;
 
   ${media.lessThan("large")`
     max-width: 100%;
@@ -70,7 +70,7 @@ export const PostTags = styled.section`
   margin: 10px 20px;
 `
 
-export const PostTag = styled(AniLink)`
+export const PostTag = styled.a`
   margin-left: 7px;
 `
 

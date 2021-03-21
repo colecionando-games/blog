@@ -2,7 +2,6 @@ require("dotenv").config()
 
 const pluginSetup = [ 
   `gatsby-plugin-react-helmet`,
-  `gatsby-plugin-transition-link`,
   {
     // needs to be the first to work with gatsby-remark-images
     resolve: `gatsby-source-filesystem`,
@@ -109,7 +108,7 @@ module.exports = {
   },
   plugins: pluginSetup,
   flags: {
-    DEV_SSR: false,
+    DEV_SSR: true,
     FAST_DEV: true
   }
 }

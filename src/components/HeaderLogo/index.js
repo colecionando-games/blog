@@ -17,9 +17,9 @@ const HeaderLogo = () => {
   )
 
   return (
-    <S.LogoLink cover direction="left" bg="white" duration={0.6} to={"/"} activeClassName="active">
-      <S.LogoWrapper image={logoImage.childImageSharp.gatsbyImageData} alt="Logo Colecionando.Games" />
-    </S.LogoLink>
+    <a href="/" title="Voltar ao Home">
+      <S.LogoWrapper key="logo" image={logoImage.childImageSharp.gatsbyImageData} alt="Logo Colecionando.Games" />
+    </a>
   )
 
 }

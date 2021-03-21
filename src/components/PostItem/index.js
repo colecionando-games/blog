@@ -6,7 +6,7 @@ import * as S from "./styled"
 const PostItem = ({ slug, category, date, timeToRead, title, description, thumbnail }) => {
   const thumbAlt = `Thumbnail do post: ${title}`
   return (
-    <S.PostItemLink cover direction="right" duration={0.6} to={slug}>
+    <S.PostItemLink href={slug}>
       <S.PostItemWrapper>
         <S.PostItemThumb image={thumbnail.childImageSharp.gatsbyImageData} alt={thumbAlt}/>
         <S.PostItemInfo>
