@@ -5,8 +5,8 @@ date: 2021-02-08 19:00:00
 author: felipebbarbosa
 category: artigo
 tags: ["playstation", "nintendo", "sega", "xbox", "atari", "pc"]
-thumbnail: ../static/assets/img/temp_thumbnail.jpg
-cover: /assets/img/temp_thumnail.jpg
+thumbnail: ../static/assets/img/first-post-thumbnail.jpg
+cover: /assets/img/first-post-thumbnail.jpg
 ---
 
 Desde que comecei a colecionar videogames lá em meados de 2010, descobri que esta nova paixão vai muito além do prazer de ter novos jogos na prateleira. É um hobby que envolve muita **pesquisa**, **organização** e principalmente, **amizades**! Pensando nisso, resolvi criar este blog totalmente dedicado ao **colecionismo de videogames** como forma de compartilhar minhas experiências e conhecimentos adquiridos durante esta jornada, que ainda tem muita lenha para queimar!
