@@ -9,7 +9,20 @@ export const FooterWrapper = styled.footer`
   font-size: 1.2em;
   display: flex;
   align-items: center;
-  
+  justify-content: space-between;
+  flex-wrap: wrap;
+`
+
+export const FooterCopyrightBox = styled.div`
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+`
+
+export const FooterCopyright = styled.span`
+  max-width: 450px;
+  margin-left: 10px;
+  line-height: 1.2em;
 
   a {
     text-decoration: none;
@@ -17,13 +30,25 @@ export const FooterWrapper = styled.footer`
   }
 `
 
-export const FooterCopyright = styled.span`
-  max-width: 400px;
-  margin-left: 10px;
-  line-height: 1.2em;
-`
-
 export const FooterLogo = styled(GatsbyImage)`
   width: 80px;
+`
+
+export const FooterSocialLinks = styled.ul`
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+  list-style: none !important;
+
+  a {
+    color: white;
+    text-decoration: none;
+  }
+`
+
+export const SocialLink = styled.div`
+  fill: #bbb;
+  width: 42px;
+  height: 42px;
 `
 

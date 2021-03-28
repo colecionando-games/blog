@@ -1,5 +1,8 @@
 import React from "react"
-import { useStaticQuery, graphql, Link } from "gatsby"
+import { useStaticQuery, graphql } from "gatsby"
+
+import links from "./content"
+import Icons from "./Icons"
 
 import * as S from "./styled"
 
@@ -17,13 +20,32 @@ const Footer = () => {
 
   return (
     <S.FooterWrapper>
-      <S.FooterLogo image={logoFooter.childImageSharp.gatsbyImageData} alt="Logo Colecionado.Games"/>
-      <S.FooterCopyright>
-        Colecionando.Games está sendo desenvolvido por 
-        <Link to="https://www.twitter.com/felipebbarbosa">Felipe B. Barbosa</Link> 
-        e pertence ao grupo 
-        <Link to="https://www.vgscomcerveja.com.br">Videogames com Cerveja</Link>.
-      </S.FooterCopyright>
+      <S.FooterCopyrightBox>
+        <S.FooterLogo image={logoFooter.childImageSharp.gatsbyImageData} alt="Logo Colecionado.Games"/>  
+        <S.FooterCopyright>
+          Colecionando.Games está sendo desenvolvido 
+          por <a 
+            href="https://www.twitter.com/felipebbarbosa" 
+            title="Felipe B. Barbosa no Twitter"
+            target="_blank" rel="noopener noreferrer">Felipe B. Barbosa</a> e 
+          pertence ao grupo <a 
+            href="https://www.vgscomcerveja.com.br"
+            title="Site Videogames com Cerveja"
+            target="_blank" rel="noopener noreferrer">Videogames com Cerveja</a>.
+        </S.FooterCopyright>
+      </S.FooterCopyrightBox>
+      <S.FooterSocialLinks>
+        {links.map((link, i) => {
+          const Icon = Icons[link.label]
+          return (
+            <li key={i}>
+              <a href={link.url} title={link.label} target="_blank" rel="noopener noreferrer">
+                <S.SocialLink><Icon /></S.SocialLink>
+              </a>
+            </li>
+          )
+        })}
+      </S.FooterSocialLinks>
     </S.FooterWrapper>
   )
 }
