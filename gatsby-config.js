@@ -44,7 +44,8 @@ const pluginSetup = [
           resolve: `gatsby-remark-images`,
           options: {
             maxWidth: 960,
-            linkImagesToOriginal: false
+            linkImagesToOriginal: false,
+            showCaptions: true
           }
         },
         `gatsby-remark-lazy-load`,

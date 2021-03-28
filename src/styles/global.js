@@ -74,5 +74,9 @@ const GlobalStyles = createGlobalStyle`
     --white: #fff;
     --black: #222;
   }
+  .gatsby-resp-image-figcaption {
+    padding: 5px;
+    text-align: center;
+  }
 `
 export default GlobalStyles
