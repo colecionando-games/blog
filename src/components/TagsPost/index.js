@@ -4,7 +4,7 @@ import PropTypes from "prop-types"
 import * as S from "./styled"
 
 const TagsPost = ({ slug, category, date, title, description }) => (
-  <S.TagsPostLink href={slug}>
+  <S.TagsPostLink to={slug}>
     <S.TagsPostWrapper>
       <S.TagsPostTag>{category}</S.TagsPostTag>
       <S.TagsPostInfo>

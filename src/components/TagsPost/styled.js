@@ -1,6 +1,7 @@
 import styled from "styled-components"
+import { Link } from "gatsby"
 
-export const TagsPostLink = styled.a`
+export const TagsPostLink = styled(Link)`
   color: var(--texts);
   display: flex;
   text-decoration: none;

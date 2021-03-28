@@ -15,16 +15,16 @@ const RecommendedClickTrack = () => {
 const RecommendedPosts = ({ next, previous }) => (
   <S.RecommendedWrapper>
     {previous && (
-      <S.RecommendedLink href={previous.fields.slug}
-        class="previous" onClick={() => RecommendedClickTrack()}>
+      <S.RecommendedLink to={previous.fields.slug}
+        class="previousPost" onClick={() => RecommendedClickTrack()}>
           <small>POST ANTERIOR</small><br></br>
           {previous.frontmatter.title}
       </S.RecommendedLink>
     )}
 
     {next && (
-      <S.RecommendedLink href={next.fields.slug}
-        class="next" onClick={() => RecommendedClickTrack()}>
+      <S.RecommendedLink to={next.fields.slug}
+        class="nextPost" onClick={() => RecommendedClickTrack()}>
           <small>PRÓXIMO POST</small><br></br>
           {next.frontmatter.title}
       </S.RecommendedLink>

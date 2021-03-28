@@ -1,20 +1,22 @@
 import React from "react"
+import { Link } from "gatsby"
 import propTypes from "prop-types"
+
 
 import * as S from "./styled"
 
 const Pagination = props => (
   <S.PaginationWrapper>
     {!props.isFirst && (
-      <a href={props.prevPage} rel="prev">
+      <Link to={props.prevPage} rel="prev">
         Página anterior
-      </a>
+      </Link>
     )}
     <p>{props.currentPage} de {props.numPages}</p>
     {!props.isLast && (
-      <a href={props.nextPage} rel="next">
+      <Link to={props.nextPage} rel="next">
         Próxima página
-      </a>
+      </Link>
     )}
   </S.PaginationWrapper>
 )

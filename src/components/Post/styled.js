@@ -1,5 +1,6 @@
 import styled from "styled-components"
 import media from "styled-media-query"
+import { Link } from "gatsby"
 
 export const PostWrapper = styled.section`
   margin: auto;
@@ -70,7 +71,7 @@ export const PostTags = styled.section`
   margin: 10px 20px;
 `
 
-export const PostTag = styled.a`
+export const PostTag = styled(Link)`
   margin-left: 7px;
 `
 

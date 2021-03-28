@@ -1,5 +1,6 @@
 import styled from "styled-components"
 import media from "styled-media-query"
+import { Link } from "gatsby"
 
 
 export const MenuLinksWrapper = styled.nav`
@@ -34,7 +35,7 @@ export const MenuLinksItem = styled.li`
   }
 `
 
-export const MenuLinksLink = styled.a`
+export const MenuLinksLink = styled(Link)`
   color: white;
   text-decoration: none;
   transition: color 0.5s;

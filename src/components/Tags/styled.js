@@ -1,5 +1,6 @@
 import styled from "styled-components"
 import media from "styled-media-query"
+import { Link } from "gatsby"
 
 export const TagsWrapper = styled.section`
   margin: 0 auto;
@@ -120,7 +121,7 @@ export const TagsPostList = styled.section`
   padding: 0 10px;
 `
 
-export const AllTagsLink = styled.a`
+export const AllTagsLink = styled(Link)`
   color: white;
   margin: 0 auto 20px;
   font-size: 1.2rem;

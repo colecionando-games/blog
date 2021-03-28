@@ -1,5 +1,5 @@
 import React from "react"
-import { useStaticQuery, graphql } from "gatsby"
+import { useStaticQuery, graphql, Link } from "gatsby"
 
 import * as S from "./styled"
 
@@ -17,9 +17,9 @@ const HeaderLogo = () => {
   )
 
   return (
-    <a href="/" title="Voltar ao Home">
+    <Link to="/" title="Voltar ao Home">
       <S.LogoWrapper key="logo" image={logoImage.childImageSharp.gatsbyImageData} alt="Logo Colecionando.Games" />
-    </a>
+    </Link>
   )
 
 }

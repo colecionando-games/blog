@@ -1,7 +1,8 @@
 import styled from "styled-components"
+import { Link } from "gatsby"
 import { GatsbyImage } from "gatsby-plugin-image"
 
-export const PostItemLink = styled.a`
+export const PostItemLink = styled(Link)`
   color: var(--texts);
   display: flex;
   text-decoration: none;

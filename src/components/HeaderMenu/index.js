@@ -23,7 +23,7 @@ const HeaderMenu = () => {
           let linkKey = `menu-${i}`
           return (
           <S.MenuLinksItem key={linkKey}>
-            <S.MenuLinksLink href={link.url} 
+            <S.MenuLinksLink to={link.url} 
               onClick={() => menuLinkClickTrack(link.label)}
             >
               {link.label}

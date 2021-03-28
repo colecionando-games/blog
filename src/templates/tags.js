@@ -41,7 +41,7 @@ const Tags = ({ pageContext, data }) => {
             )
           })}
 
-          <S.AllTagsLink href="/tags">todas as tags</S.AllTagsLink>
+          <S.AllTagsLink to="/tags">todas as tags</S.AllTagsLink>
 
         </S.TagsPostList>
     </Layout>
