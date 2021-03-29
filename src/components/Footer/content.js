@@ -1,7 +1,7 @@
 const links = [
   {
     label: 'RSS',
-    url: '#'
+    url: '/feed.xml'
   },
   {
     label: 'Instagram',
