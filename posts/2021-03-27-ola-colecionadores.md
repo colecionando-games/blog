@@ -15,9 +15,9 @@ Porém, não gostaria de ser o único a escrever por aqui e **já gostaria de de
 
 ## Quem sou
 
-Antes de mais nada, gostaria de me apresentar: Meu nome é **Felipe B. Barbosa**, sou desenvolvedor de softwares, tenho trinta e poucos anos e moro no interior de São Paulo. Videogames estão na minha vida desde que me conheço por gente com o Atari 2600 da minha irmã mais velha. Mas depois veio o Master System, Super Nintendo, PlayStation e por aí foi... 
+Antes de mais nada, gostaria de me apresentar: Meu nome é **Felipe B. Barbosa**, sou desenvolvedor de softwares, tenho trinta e poucos anos e moro no interior de São Paulo. Videogames estão na minha vida desde que me conheço por gente com o Atari 2600 da minha irmã mais velha. Mas depois veio o Master System, Super Nintendo, PlayStation e por aí foi até eu decidir colecionar de vez, em 2010. 
 
-Uma coisa bacana é que tivemos a felicidade de sempre mantermos nossos consoles velhos guardados **sem ter a necessidade de vendê-los para comprar um novo**. Então, quando decidi que iria começar a colecionar, eu já tinha alguns itens bem legais na coleção. 
+Uma coisa bacana é que aqui em casa, tivemos a felicidade de sempre mantermos nossos consoles velhos guardados **sem ter a necessidade de vendê-los para comprar um novo**. Então, quando decidi que iria começar a colecionar, eu já tinha alguns itens bem legais na coleção. 
 
 ![Começo da coleção!](/assets/img/felipebbarbosa_inicio_colecao_videogames.jpg)
 
@@ -29,6 +29,6 @@ Atualmente tenho por volta de 1.200 jogos e 50 consoles, sendo que a maior parte
 
 Porém, tenho uma "tara" meio estranha por **lançamentos nacionais de jogos** e esse é um dos principais motivos para criar esse blog, pois muitas vezes é muito difícil encontrar informações sobre eles na internet. Além disso, criei um [perfil no Instagram](https://www.instagram.com/colecionando.games/) totalmente focado neles.
 
-## Em Resumo
+## Em resumo
 
 Se você se interessa por este fascinante mundo do colecionismo de videogames, sinta-se em casa e deixe seu comentário dizendo se coleciona, já colecionou e ou se pretende começar uma coleção de games. Me diga quais são suas plataformas/jogos favoritos? Vamos trocar umas figurinhas! :D
