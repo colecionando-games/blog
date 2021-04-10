@@ -233,4 +233,19 @@ export const MainContent = styled.section`
       opacity: 0.8;
     }
   }
+  table {
+    width: 100%;
+
+    th {
+      border-bottom: 1px solid gray;
+      padding: 5px 10px;
+      font-weight: bold;
+    }
+    tr:nth-child(even) {
+      background: #d2d2d2;
+    }
+    td {
+      padding: 10px;
+    }
+  }
 `

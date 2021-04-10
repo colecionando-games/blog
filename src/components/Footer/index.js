@@ -35,7 +35,7 @@ const Footer = () => {
         </S.FooterCopyright>
       </S.FooterCopyrightBox>
       <S.FooterSocialLinks>
-        {links.map((link, i) => {
+        {links.map((link, i) => { 
           const Icon = Icons[link.label]
           return (
             <li key={i}>
