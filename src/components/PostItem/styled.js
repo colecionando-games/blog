@@ -14,7 +14,7 @@ export const PostItemWrapper = styled.section`
   background: #fff;
   box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.15);
   display: grid;
-  width: 350px;
+  
   grid-template-rows: 200px auto;
   grid-template-areas:
     "post-item-thumb"
