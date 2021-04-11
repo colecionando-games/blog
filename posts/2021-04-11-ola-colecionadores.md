@@ -1,7 +1,7 @@
 ---
 title: Olá, colecionadores!
 description: Bem-vindos ao novo blog brasileiro sobre colecionismo de videogames.
-date: 2021-03-27 17:00:00
+date: 2021-04-11 20:00:00
 author: felipebbarbosa
 category: artigo
 tags: ["playstation", "nintendo", "sega", "xbox", "atari", "pc"]

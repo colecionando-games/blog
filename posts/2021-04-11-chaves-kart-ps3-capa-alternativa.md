@@ -1,7 +1,7 @@
 ---
 title: Variação rara do jogo Chaves Kart para PlayStation 3
 description: Conheça uma variação um tanto quanto incomum do jogo.
-date: 2021-03-27 17:30:00
+date: 2021-04-11 20:50:00
 author: felipebbarbosa
 category: artigo
 tags: ["playstation"]

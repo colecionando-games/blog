@@ -1,7 +1,7 @@
 ---
 title: Lista completa de jogos para Master System lançados pela Tec Toy no Brasil
 description: Confira todos os lançamentos brasileiros do console 8-bits da Sega.
-date: 2021-03-30 17:30:00
+date: 2021-04-11 20:30:00
 author: felipebbarbosa
 category: lista
 tags: ["sega", "tectoy"]
