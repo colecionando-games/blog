@@ -5,8 +5,8 @@ date: 2021-03-27 17:30:00
 author: felipebbarbosa
 category: artigo
 tags: ["playstation"]
-thumbnail: ../static/assets/img/p00002-chaves-kart-thumbnail.jpg
-cover: /assets/img/p00002-chaves-kart-thumbnail.jpg
+thumbnail: ../static/assets/img/p00002-post_thumbnail.jpg
+cover: /assets/img/p00002-post_thumbnail.jpg
 ---
 
 O jogo **Chaves Kart** por si só já é um item bastante colecionável e procurado por colecionadores do mundo inteiro, pois, além de ser baseado no personagem Chaves (bastante querido e popular, principalmente por nós brasileiros), o jogo só saiu no Brasil e na sua terra natal: o México, sob o nome de **El Chavo Kart**.
