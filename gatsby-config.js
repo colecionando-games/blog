@@ -54,15 +54,6 @@ const pluginSetup = [
     }
   },
   {
-    resolve: `gatsby-plugin-google-fonts`,
-    options: {
-      fonts: [
-        `Roboto\:300,400,700`
-      ],
-      display: 'swap'
-    }
-  },
-  {
     resolve: `gatsby-plugin-manifest`,
     options: {
       name: `Colecionando.Games`,

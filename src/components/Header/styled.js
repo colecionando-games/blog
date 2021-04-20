@@ -4,7 +4,7 @@ import media from "styled-media-query"
 export const HeaderWrapper = styled.header`
   width: 100%;
   height: auto;
-  font-family: Roboto;
+  font-family: Arial;
 `
 export const HeaderContent = styled.div`
   max-width: 70rem;
