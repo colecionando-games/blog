@@ -54,6 +54,12 @@ const pluginSetup = [
     }
   },
   {
+    resolve: `gatsby-plugin-disqus`,
+    options: {
+      shortname: `colecionando-games`
+    }
+  },
+  {
     resolve: `gatsby-plugin-manifest`,
     options: {
       name: `Colecionando.Games`,

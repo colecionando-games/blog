@@ -1,5 +1,5 @@
 import React from "react"
-import ReactDisqusComments from "react-disqus-comments"
+import { Disqus } from "gatsby-plugin-disqus"
 import PropTypes from "prop-types"
 
 import * as S from "./styled"
@@ -8,17 +8,18 @@ const Comments = ({ url, title }) => {
 
   const completeURL = `https://blog.colecionando.games${url}`
 
+  let disqusConfig = {
+    url: completeURL,
+    identifier: completeURL,
+    title: title
+  }
+
   return (
     <S.CommentsWrapper>
 
       <S.CommentsTitle>Comentários</S.CommentsTitle>
 
-      <ReactDisqusComments
-        shortname="colecionando-games"
-        identifier={completeURL}
-        title={title}
-        url={completeURL}
-      />
+      <Disqus config={disqusConfig} />
     </S.CommentsWrapper>
   )
 
