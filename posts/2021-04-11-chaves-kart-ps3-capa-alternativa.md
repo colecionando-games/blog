@@ -31,7 +31,7 @@ O programa foi publicado no YouTube no dia 15 de maio de 2014, praticamente um m
 
 ![Foto do evento em SP com banner](/assets/img/p00002-chaves-kart-evento-sp-2014-banner.jpg "Uma das fotos que encontrei do evento na internet mostra esta variação de capa no banner.")
 
-Entretanto, mesmo pesquisando sobre o assunto, não cheguei a uma conclusão 100% verídica sobre essa versão. Meu palpite é que se trata de uma versão de pré-lançamento disponibilizado para alguns meios de comunicação, porém, pode ser também as primeiras tiragens do jogo, até porque, o disco e o manual são da versão mexicana como você pode ver:
+Entretanto, mesmo pesquisando sobre o assunto, **não cheguei a uma conclusão 100% verídica** sobre essa versão. Meu palpite é que se trata de uma versão de pré-lançamento disponibilizado para alguns meios de comunicação e não chegou a ser comercializada, porém, pode ser também as primeiras tiragens do jogo, até porque, o disco e o manual são da versão mexicana como você pode ver:
 
 ![Capa externa do jogo](/assets/img/p00002-chaves-kart-variacao-capa-aberta.jpg "Mais detalhes da variação. A capa está totalmente adequada para o mercado brasileiro.")
 
