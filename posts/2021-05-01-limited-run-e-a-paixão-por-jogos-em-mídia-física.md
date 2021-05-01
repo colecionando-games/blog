@@ -28,43 +28,105 @@ Um detalhe importante é que após o termino do estoque, eles se **comprometem a
 Seguindo a mesma ideia, diversas outras publicadoras surgiram e vou tentar listar todas elas por aqui, então caso conheça alguma que não esteja na lista, sinta-se a vontade nos informar nos comentários.
 
 #### 1Print Games
-
 **Origem:** EUA, Novembro de 2019\
 **Plataformas:** Nintendo Switch\
 **Principais lançamentos:** Death Squared, Kero Blaster e Ittle Drew\
 **Site:** [https://1printgames.com](https://1printgames.com)
 
 #### Dispatch Games
-
 **Origem:** 2018\
 **Plataformas:** PlayStation 4 e Nintendo Switch\
 **Principais lançamentos:** Penguin Wars\
 **Site:** [https://readytodispatch.com](https://readytodispatch.com)
 
-Fangamer
+#### Fangamer
+**Origem:** EUA, 2008\
+**Plataformas:** PC, PlayStation 4, PS Vita, Nintendo Switch e Xbox One\
+**Principais lançamentos:** Undertale, Celeste e Hollow Knight\
+**Site:** [https://www.fangamer.com](https://www.fangamer.com)
 
-First Press
+Além de jogos, a empresa também lança diversos produtos relacionados à games como camisetas...
 
-Hard Copy
+#### First Press
+**Origem:** \
+**Plataformas:** \
+**Principais lançamentos:** \
+**Site:** []()
 
-iam8bit
+#### Hard Copy
+**Origem:** \
+**Plataformas:** \
+**Principais lançamentos:** \
+**Site:** []()
 
-NISA
+#### iam8bit
+**Origem:** \
+**Plataformas:** \
+**Principais lançamentos:** \
+**Site:** []()
 
-Pix 'n Love
+#### NISA
+**Origem:** \
+**Plataformas:** \
+**Principais lançamentos:** \
+**Site:** []()
 
-PixelHeart
+#### Pix 'n Love
+**Origem:** \
+**Plataformas:** \
+**Principais lançamentos:** \
+**Site:** []()
 
-Play-Asia
+#### PixelHeart
+**Origem:** \
+**Plataformas:** 3DS, Dreamcast, Mega Drive, Neo Geo AES, NES, PlayStation 4, Super NES, Switch, Wii U e Xbox One
+**Principais lançamentos:** Golden Force, Liberated e The Ninja Saviors: Return of the Warriors\
+**Site:** [https://www.pixelheart.eu](https://www.pixelheart.eu)
 
-Red Art Games
+#### Play-Asia (PLAY Exclusives)
+**Origem:** \
+**Plataformas:** Dreamcast, PlayStation 4, PS Vita e Switch\
+**Principais lançamentos:** Flashback, Severed e Back in 1995\
+**Site:** [https://www.play-asia.com/exclusives](https://www.play-asia.com/exclusives)
 
-Rising Star
+#### Red Art Games
+**Origem:** \
+**Plataformas:** PlayStation 4, PS Vita e Switch\
+**Principais lançamentos:** Old Man's Journey, Kholat e Demetrios \
+**Site:** [https://www.redartgames.com](https://www.redartgames.com)
 
-Special Reserve Games
+#### Rising Star
+**Origem:** \
+**Plataformas:** \
+**Principais lançamentos:** \
+**Site:** []()
 
-Strictly Limited
+#### Signature Edition
+**Origem** \
+**Plataformas:** PC, PlayStation 4, PlayStation 5, PS Vita, Switch e Xbox One \
+**Principais lançamentos:** Alex Kidd in Miracle World DX, Streets of Rage 4 e Dead Cells \
+**Site:** [https://signatureeditiongames.com](https://signatureeditiongames.com)
 
-Super Rare Games
+#### Special Reserve Games
+**Origem:** \
+**Plataformas:** PlayStation 4 e Switch\
+**Principais lançamentos:** Carrion, Downwell e MINIT\
+**Site:** [https://specialreservegames.com](https://specialreservegames.com)
 
-VBlank
+#### Strictly Limited
+**Origem:** \
+**Plataformas:** PlayStation 4, PS Vita e Switch\
+**Principais lançamentos:** 99 Vidas, Gryphon Knight Epic e R-Type Dimensions\
+**Site:** [https://www.strictlylimitedgames.com](https://www.strictlylimitedgames.com)
+
+#### Super Rare Games
+**Origem:** 2018\
+**Plataformas:** Switch\
+**Principais lançamentos:** ABZÛ, Smoke and Sacrifice e The Gardens Between\
+**Site:** [https://superraregames.com](https://superraregames.com)
+
+#### Vblank Entertainment
+**Origem:** \
+**Plataformas:** PC, PlayStation 4, PS Vita, Switch, Wii e Wii U   \
+**Principais lançamentos:** Retro City Rampage DX, Guacamelee! STCE e Shakedown Hawaii \
+**Site:** [https://www.vblank.com](https://www.vblank.com)
