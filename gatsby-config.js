@@ -49,7 +49,14 @@ const pluginSetup = [
           }
         },
         `gatsby-remark-lazy-load`,
-        `gatsby-remark-prismjs`
+        `gatsby-remark-prismjs`,
+        {
+          resolve: `gatsby-remark-external-links`,
+          options: {
+            target: "_blank",
+            rel: "nofollow"
+          }
+        }
       ]
     }
   },
