@@ -59,11 +59,6 @@ const GlobalStyles = createGlobalStyle`
     font-size: 100%;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   }
-  img {
-    display: block;
-    width: 100%;
-    height: auto;
-  }
   body {
     --borders: #38444d;
     --texts: #8899a6;
@@ -73,6 +68,10 @@ const GlobalStyles = createGlobalStyle`
     --background: #fff;
     --white: #fff;
     --black: #222;
+  }
+  img {
+    display: block;
+    height: auto;
   }
   .gatsby-resp-image-figcaption {
     padding: 5px;

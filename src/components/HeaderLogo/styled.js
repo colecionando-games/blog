@@ -8,5 +8,6 @@ export const LogoWrapper = styled(GatsbyImage)`
 
   ${media.lessThan("medium")`
     margin: 20px 15px 10px;
+    width: 350px;
   `}
 `

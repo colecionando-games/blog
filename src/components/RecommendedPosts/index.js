@@ -16,7 +16,7 @@ const RecommendedPosts = ({ next, previous }) => (
   <S.RecommendedWrapper>
     {previous && (
       <S.RecommendedLink to={previous.fields.slug}
-        class="previousPost" onClick={() => RecommendedClickTrack()}>
+        className="previousPost" onClick={() => RecommendedClickTrack()}>
           <small>POST ANTERIOR</small><br></br>
           {previous.frontmatter.title}
       </S.RecommendedLink>
@@ -24,7 +24,7 @@ const RecommendedPosts = ({ next, previous }) => (
 
     {next && (
       <S.RecommendedLink to={next.fields.slug}
-        class="nextPost" onClick={() => RecommendedClickTrack()}>
+        className="nextPost" onClick={() => RecommendedClickTrack()}>
           <small>PRÓXIMO POST</small><br></br>
           {next.frontmatter.title}
       </S.RecommendedLink>

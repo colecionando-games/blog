@@ -35,7 +35,7 @@ const BlogPost = ({ data, pageContext }) => {
 
           <S.PostTags>TAGS: 
             {tags.map(tag => (
-              <S.PostTag to={`/tags/${tag}`}>{tag}</S.PostTag>
+              <S.PostTag key={tag} to={`/tags/${tag}`}>{tag}</S.PostTag>
             ))}
           </S.PostTags>
         </S.MainContent>
