@@ -19,7 +19,7 @@ Antes de mais nada, gostaria de me apresentar: Meu nome é **Felipe B. Barbosa**
 
 Uma coisa bacana é que aqui em casa, tivemos a felicidade de sempre mantermos nossos consoles velhos guardados **sem ter a necessidade de vendê-los para comprar um novo**. Então, quando decidi que iria começar a colecionar, eu já tinha alguns itens bem legais na coleção. 
 
-![Começo da coleção!](/assets/img/felipebbarbosa_inicio_colecao_videogames.jpg)
+![Começo da coleção!](/assets/img/felipebbarbosa_inicio_colecao_videogames.jpg "Começo da coleção! (Imagem: Acervo pessoal)")
 
 Sempre gostei de colecionar coisas, já colecionei embalagens de cigarros, latinhas de cervejas e cartões telefônicos (inclusive, tenho todas elas até hoje guardadas). Porém, quando comecei a ganhar meu próprio dinheiro, colecionar videogames se tornou meu hobby predileto, inclusive, possuo um outro site chamado [Videogames com Cerveja](https:///www.vgscomcerveja.com.br), onde já escrevo algumas groselhas por lá a um tempo. 
 

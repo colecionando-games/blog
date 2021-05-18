@@ -39,7 +39,7 @@ Dito isso, a lista está categorizada pelos formatos em sua ordem de lançamento
 
 ### Jogos na "caixa de papelão"
 
-![Jogos na caixa de papelão](/assets/img/p00003-sms-caixas-papelao-tectoy.jpg "Foram lançados 62 jogos neste formato.")
+![Jogos na caixa de papelão](/assets/img/p00003-sms-caixas-papelao-tectoy.jpg "Foram lançados 62 jogos neste formato. (Imagem: Acervo pessoal)")
 
 
 | Nome                                       |         Letra         |        Tipo        | Variações                                              |
@@ -109,7 +109,7 @@ Dito isso, a lista está categorizada pelos formatos em sua ordem de lançamento
 
 ### Jogos na "caixa plástica com encarte branco com quadrados grandes"
 
-![Jogos na caixa plástica com encarte branco com quadrados grandes](/assets/img/p00003-sms-caixas-plastica-branca-quadrados-grandes-tectoy.jpg "Foram lançados 102 jogos neste formato.")
+![Jogos na caixa plástica com encarte branco com quadrados grandes](/assets/img/p00003-sms-caixas-plastica-branca-quadrados-grandes-tectoy.jpg "Foram lançados 102 jogos neste formato. (Imagem: Acervo pessoal)")
 
 
 | Nome                                        | Letra | Variações                                                                                                       |
@@ -219,7 +219,7 @@ Dito isso, a lista está categorizada pelos formatos em sua ordem de lançamento
 
 ### Jogos na "caixa plástica com encarte branco com quadrados pequenos"
 
-![Jogos na caixa plástica com encarte branco com quadrados pequenos](/assets/img/p00003-sms-caixas-plastica-branca-quadrados-pequenos-tectoy.jpg "Foram lançados apenas 15 jogos neste formato.")
+![Jogos na caixa plástica com encarte branco com quadrados pequenos](/assets/img/p00003-sms-caixas-plastica-branca-quadrados-pequenos-tectoy.jpg "Foram lançados apenas 15 jogos neste formato. (Imagem: Acervo pessoal)")
 
 | Nome                                     | Letra | Variações                                    |
 | :--------------------------------------- | :---: | :------------------------------------------- |
@@ -241,7 +241,7 @@ Dito isso, a lista está categorizada pelos formatos em sua ordem de lançamento
 
 ### Jogos na "caixa plástica com encarte azul e branco"
 
-![Jogos na caixa plástica com encarte azul e branco](/assets/img/p00003-sms-caixas-plastica-azul-branca-tectoy.jpg "Foram lançados apenas 56 jogos neste formato.")
+![Jogos na caixa plástica com encarte azul e branco](/assets/img/p00003-sms-caixas-plastica-azul-branca-tectoy.jpg "Foram lançados apenas 56 jogos neste formato. (Imagem: Acervo pessoal)")
 
 | Nome                                                     | Letra | Variações                                         |
 | :------------------------------------------------------- | :---: | :------------------------------------------------ |
@@ -304,7 +304,7 @@ Dito isso, a lista está categorizada pelos formatos em sua ordem de lançamento
 
 ### Jogos na "caixa plástica com encarte azul"
 
-![Jogos na caixa plástica com encarte azul](/assets/img/p00003-sms-caixas-plastica-azul-tectoy.jpg "E por último, foram lançados 39 jogos neste formato.")
+![Jogos na caixa plástica com encarte azul](/assets/img/p00003-sms-caixas-plastica-azul-tectoy.jpg "E por último, foram lançados 39 jogos neste formato. (Imagem: Acervo pessoal)")
 
 | Nome                                           | Letra | Variações                                                                                   |
 | :--------------------------------------------- | :---: | :------------------------------------------------------------------------------------------ |
@@ -361,7 +361,7 @@ Saíram apenas **2 jogos** neste formato, pois eles eram inclusos em algum conso
 
 Para complementar o post, gostaria de enfatizar o quão bom foi o trabalho da Tec Toy na década de 90 selecionando dentre os jogos lançados, os que saíram exclusivamente para o Brasil, ou seja, em nenhum outro lugar no mundo você vai encontrar esses jogos para Master System!
 
-![Alguns dos jogos exclusivos do Brasil](/assets/img/p00003-sms-br-exclusivos-tectoy.jpg)
+![Alguns dos jogos exclusivos do Brasil](/assets/img/p00003-sms-br-exclusivos-tectoy.jpg "Imagem: Acervo pessoal")
 
 - **20 em 1** (1995) - Este é um dos jogos que não possuíram caixa (apenas manual), pois ele vinha incluso com o console Master System III Compact edição 21 jogos (este cartucho + Sonic na memória). Todos os 20 jogos são produções da própria Tec Toy, mas que nem ao menos possuem nome, são bem genéricos;
 - **Ariel: The Little Mermaid** (1992) - Jogo desenvolvido pela BlueSky Innovations;
