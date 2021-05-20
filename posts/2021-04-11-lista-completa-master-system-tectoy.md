@@ -9,9 +9,9 @@ thumbnail: ../static/assets/img/p00003-post_thumbnail.jpg
 cover: /assets/img/p00003-post_thumbnail.jpg
 ---
 
-Este é o primeiro post que estou importando do Videogames com Cerveja, pois ele não poderia faltar por aqui, afinal a Tec Toy foi uma empresa muito importante para o cenário brasileiro de videogames no final da década 80 e durante toda a década 90 representando a Sega no Brasil, com direito a jogos exclusivos e tudo mais!
+Este é o primeiro post que estou importando do [Videogames com Cerveja](https://www.vgscomcerveja.com.br/post/lista-completa-jogos-tectoy-para-master-system), pois ele não poderia faltar por aqui, afinal a [Tec Toy](https://www.tectoy.com.br) foi uma empresa muito importante para o cenário brasileiro de videogames no final da década 80 e durante toda a década 90 representando a Sega no Brasil, com direito a jogos exclusivos e tudo mais!
 
-Apesar de não termos uma lista oficial por parte da empresa, a legião de fãs que temos no Brasil é tão grande que temos praticamente uma lista definitiva de todos jogos de Master System nacionais. Este levantamento foi feito pelo pessoal do fórum Sega Brasil e demorou aproxidamente 3 anos para ser concluído. Mas não duvido que ainda possa aparecer uma variação desconhecida por aí. Então, já sabe: caso saiba de algo que não está na lista, não deixe de comentar! ;)
+Apesar de não termos uma lista oficial por parte da empresa, a legião de fãs que temos no Brasil é tão grande que temos praticamente uma lista definitiva de todos jogos de Master System nacionais. Este levantamento foi feito pelo pessoal do fórum [Sega Brasil](https://sega-brasil.com.br) e demorou aproxidamente 3 anos para ser concluído. Mas não duvido que ainda possa aparecer uma variação desconhecida por aí. Então, já sabe: caso saiba de algo que não está na lista, não deixe de comentar! ;)
 
 ## Variações das caixas
 
