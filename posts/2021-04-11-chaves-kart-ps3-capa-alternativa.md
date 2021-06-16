@@ -43,7 +43,7 @@ Sendo assim, se você tiver qualquer tipo de informação à respeito, sinta-se 
 
 Além de ter o próprio ator da série, Edgar Vivar, como atração na campanha de marketing e divulgação do jogo. A publicadora do game também distribuiu algumas cópias personalizadas para diversos criadores de conteúdo, onde cada cópia possuí na capa um nome personalizado impresso embaixo da logomarca do jogo (já na versão com a capa do Rio de Janeiro).
 
-![Edições personalizadas do jogo](/assets/img/p00002-chaves-kart-capas-personalizadas.jpg "Algumas das edições personalizadas para criadores da conteúdo. (Imagem: Montagem de Facebook/Chaves e Sua Turma, Combo Infinito e YouTube/Consoles & Jogos Brasil")
+![Edições personalizadas do jogo](/assets/img/p00002-chaves-kart-capas-personalizadas.jpg "Algumas das edições personalizadas para criadores da conteúdo. (Imagem: Montagem de Facebook/Chaves e Sua Turma, Combo Infinito e YouTube/Consoles & Jogos Brasil)")
 
 Inclusive, essa cópia personalizada para imprensa, vinha dentro de um estojo muito bonito feito de uma espécie de carmurça preto com o logo do jogo grafado em um pedaço de espelho na capa, [muito caprichada](https://youtu.be/jY1BefUuuDM?t=266).
 
