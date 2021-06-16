@@ -17,7 +17,7 @@ Mas há uma luz no fim do túnel, pois tem algumas empresas que enxergaram um me
 
 Fundada por Josh Fairhurst e Douglas Bogart em 2015 como uma ramificação editorial do seu estúdio de desenvolvimento de jogos, a [Mighty Rabbit Studios](http://www.mightyrabbitstudios.com), a Limited Run já lançou no mercado mais de 300 jogos -que até então eram somente digitais- para diversas plataformas no formato de mídia física, isto incluindo jogos de PS Vita, PlayStation 3, PlayStation 4, PC, Nintendo Switch e até alguns retrôs. Porém, o grande diferencial deles está no modelo de mercado adotado.
 
-![Jogos da Limited Run Games](/assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/thumbnail.jpg "DOOM 64, Celeste, Thimbleweed Park, Firewatch, Stranger Things 3: The Game, Spelunky, Iconoclasts, Wonder Boy: The Dragon's Trap são alguns dos exemplares lançados por eles. (Imagem: Acervo pessoal)")
+![Jogos da Limited Run Games](/assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/thumbnail.jpg "DOOM 64, Celeste, Thimbleweed Park, Firewatch, Stranger Things 3: The Game, Spelunky, Iconoclasts, Wonder Boy: The Dragon's Trap são alguns dos exemplares lançados por eles — Foto: Acervo pessoal")
 
 #### Como funciona?
 
@@ -25,7 +25,7 @@ A ideia é simples, eles negociam com as desenvolvedoras independentes para dist
 
 No começo da empresa, os jogos eram disponibilizados com uma tiragem pré-determinada bem limitada, chegando à tiragens mínimas de 1.500 jogos, por exemplo. Funcionava assim: **eles anunciavam que determinado jogo iria entrar à venda na data "X" e iria ter "Y" cópias**, com isso, caso você tivesse interesse naquele jogo, tinha que ficar atento a "data X", principalmente em algumas edições, pois se esgotavam em questão de minutos (ou até mesmo segundos). 
 
-![Jogo Oddworld: Abe's Oddysee para PS3](/assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/oddworld-ps3.jpg "Oddworld: Abe's Oddysee foi o segundo e último jogo para PS3 que eles lançaram e foi bastante cobiçado na época. (Imagem: Acervo pessoal)")
+![Jogo Oddworld: Abe's Oddysee para PS3](/assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/oddworld-ps3.jpg "Oddworld: Abe's Oddysee foi o segundo e último jogo para PS3 que eles lançaram e foi bastante cobiçado na época — Foto: Acervo pessoal")
 
 Mas recentemente, eles mudaram um pouco o modelo de vendas, onde agora **eles abrem uma espécie de pré-venda, onde o jogo fica disponível para compra por um determinado período de dias**. Depois disso, as vendas são encerradas e o jogo entra em produção, ou seja, a tiragem não é pre-determinada. Porém, após o fechamento das vendas, não serão produzidas cópias além do número total das pré-vendas.
 
@@ -35,13 +35,13 @@ Vale ressaltar que em ambos os casos, após o termino do estoque, eles se **comp
 
 Além disso, toda sua coleção é numerada, ou seja, cada lançamento recebe um número. Um número geral e um número por plataforma. Entretanto, cada cópia não é numerada de acordo com sua tiragem, ou seja, não existe cópia "1/5000" por exemplo, como é comum em edições de colecionadores.
 
-![Jogo Celeste para PS4](/assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/celeste-limited-run-ps4.jpg "Celeste é o Limited Run #207 e a versão de PS4 é o LR-P130 (conforme foto abaixo). (Imagem: Acervo pessoal)")
+![Jogo Celeste para PS4](/assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/celeste-limited-run-ps4.jpg "Celeste é o Limited Run #207 e a versão de PS4 é o LR-P130 (conforme foto abaixo) — Foto: Acervo pessoal")
 
-![Lombada do jogo Celeste para PS4](/assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/celeste-limited-run-ps4-lombada.jpg "Todo jogo deles tem esse código na lombada também. (Imagem: Acervo pessoal)")
+![Lombada do jogo Celeste para PS4](/assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/celeste-limited-run-ps4-lombada.jpg "Todo jogo deles tem esse código na lombada também — Foto: Acervo pessoal")
 
 E a título de curiosidade, toda cópia acompanha um card colecionável diferente (e aleatório) do mesmo tema do jogo e, recentemente, eles estão mandando uma espécie de newsletter impressa junto também.
 
-![Lombada do jogo Celeste para PS4](/assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/limited-run-cards.jpg "Os cards também são muito bonitos e caprichados. (Imagem: Acervo pessoal)")
+![Lombada do jogo Celeste para PS4](/assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/limited-run-cards.jpg "Os cards também são muito bonitos e caprichados — Foto: Acervo pessoal")
 
 Entretanto, a LRG não está sozinha nesse mercado e temos diversas outras que fazem um ótimo trabalho também, que você vai conhecer logo abaixo.
 
@@ -69,7 +69,7 @@ A [Dispatch Games](https://readytodispatch.com) é uma empresa recente também (
 
 A [Fangamer](https://www.fangamer.com) não segue o modelo de jogos com tiragem limitada, mas todos os jogos que eles lançam são praticamente indies e além disso, são edições muitos caprichadas, dignas de colecionadores mesmo, por isso entrou para lista. Além disso, eles produzem diversos outros tipos de produtos relacionados à videogames, tais como camisetas, livros, discos e diversos outros tipos de colecionáveis. Os principais lançamentos dela foram Hollow Knight, Celeste, Spelunk, Undertale, Stardew Valley e o mais recente é o Bugsnax para PS5.
 
-![Jogo Hollow Knight para PS4](/assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/hollow-knight-ps4.jpg "Jogos fantásticos como Hollow Knight merecem uma edição física caprichada! (Imagem: Acervo pessoal)")
+![Jogo Hollow Knight para PS4](/assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/hollow-knight-ps4.jpg "Jogos fantásticos como Hollow Knight merecem uma edição física caprichada — Foto: Acervo pessoal")
 
 ---
 
@@ -109,7 +109,7 @@ Acredito que foi a [IndieBox](https://theindiebox.com) que começou com tudo iss
 
 A [Nicalis](https://www.nicalis.com) também não entra no modelo de jogos limitados, mas seus lançamentos são tão caprichados quanto. Alguns inclusive, até inclui CD da trilha sonora (OST) e stickers na sua primeira tiragem. Seus principais lançamentos foram: Cave Story+, 1001 Spikes, Ikaruga e The Binding of Isaac: Afterbirth+. Isto tudo para Nintendo Switch, PlayStation 4 e agora PlayStation 5 também!
 
-![Jogo The Binding of Isaac: Afterbirth+ para PS4](/assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/the-binding-of-isaac.jpg "The Binding of Isaac: Afterbirth+. (Imagem: Acervo pessoal)")
+![Jogo The Binding of Isaac: Afterbirth+ para PS4](/assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/the-binding-of-isaac.jpg "The Binding of Isaac: Afterbirth+ — Foto: Acervo pessoal")
 
 ---
 
@@ -123,9 +123,9 @@ A [Nicalis](https://www.nicalis.com) também não entra no modelo de jogos limit
 
 A gigante loja varejista asiática Play-Asia, também tem sua linha de jogos exclusivos chamada de [PLAY Exclusives](https://www.play-asia.com/exclusives) com diversos jogos para PlayStation 4, PS Vita, Nintendo Switch e até para Dreamcast. Suas edições são muito recheadas contando até com CDs das trilhas sonoras e diversos outros brindes. Alguns de seus lançamentos foram: Severed, Flashback e Back in 1995.
 
-![Jogos da Play-Asia para PS4](/assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/play-asia-games.jpg "Alguns do jogos da Play-Asia da coleção de PlayStation 4. (Imagem: Acervo pessoal)")
+![Jogos da Play-Asia para PS4](/assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/play-asia-games.jpg "Alguns do jogos da Play-Asia da coleção de PlayStation 4 — Foto: Acervo pessoal")
 
-![Jogo Reverie para PS4](/assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/reverie-ps4.jpg "A edição vem recheada, nela acompanha o jogo, um poster (mapa do jogo), certificado, adesivo e até um CD da trilha sonora original. (Imagem: Acervo pessoal)")
+![Jogo Reverie para PS4](/assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/reverie-ps4.jpg "A edição vem recheada, nela acompanha o jogo, um poster (mapa do jogo), certificado, adesivo e até um CD da trilha sonora original — Foto: Acervo pessoal")
 
 ---
 
@@ -149,7 +149,7 @@ Além disso, eles também trabalham com livros e impressões de arte, figuras im
 
 Uma curiosidade é que alguns dos seus lançamentos foram feitos através da Limited Run Games com capas exclusivas por lá, sem deixarem de lançarem o mesmo jogo no site deles, ou seja, duas edições diferentes do mesmo jogo, como é o caso do jogo [The Messenger](https://limitedrungames.com/products/the-messenger-ps4-preorder).
 
-![Jogo The Messenger para PS4](/assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/the-messenger-special-reserve-ps4.jpg "Versão distribuída pela Limited Run do The Messenger da Special Reserve. (Imagem: Acervo pessoal)")
+![Jogo The Messenger para PS4](/assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/the-messenger-special-reserve-ps4.jpg "Versão distribuída pela Limited Run do The Messenger da Special Reserve — Foto: Acervo pessoal")
 
 ---
 
@@ -157,9 +157,9 @@ Uma curiosidade é que alguns dos seus lançamentos foram feitos através da Lim
 
 Seguindo o padrão de jogos limitados, a alemã [Strictly Limited](https://www.strictlylimitedgames.com) já realizou diversos lançamentos interessantes de jogos para Nintendo Switch, PS Vita e PS4. Dentre eles, destacam-se: R-Type Dimensions Ex, XenoCrisis, Darius Cozmic Collection e diversos jogos brasileiros tais como 99 Vidas, GryphonKnight Epic, Knights of Pen & Paper e Vasara Collection. Assim como a LRG, sua coleção também é numerada, porém ela também numera cada cópia da tiragem.
 
-![Jogos 99 Vidas e R-Type Dimensions Ex. para PS4](/assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/strictly-limited-games.jpg "Dois dos jogos lançados por eles: 99 Vidas e R-Type Dimensions Ex. (Imagem: Acervo pessoal)")
+![Jogos 99 Vidas e R-Type Dimensions Ex. para PS4](/assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/strictly-limited-games.jpg "Dois dos jogos lançados por eles: 99 Vidas e R-Type Dimensions Ex — Foto: Acervo pessoal")
 
-![Detalhes dos jogos 99 Vidas e R-Type Dimensions Ex. para PS4](/assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/strictly-limited-games-copias-numeradas.jpg "No jogo 99 Vidas, o número da cópia está impresso no encarte, já no R-Type a numeração é um adesivo. (Imagem: Acervo pessoal)")
+![Detalhes dos jogos 99 Vidas e R-Type Dimensions Ex. para PS4](/assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/strictly-limited-games-copias-numeradas.jpg "No jogo 99 Vidas, o número da cópia está impresso no encarte, já no R-Type a numeração é um adesivo — Foto: Acervo pessoal")
 
 Eles também tem um sistema de parceria, onde lançam algumas edições limitadas de jogos de outras publicadoras como Retro-bit, ININ, Beep, Deck13, DotEmu e Sekai Games. 
 
@@ -177,7 +177,7 @@ De 2018 até a data deste post, já passaram de 50 lançamentos, dentre eles est
 
 A [Vblank Entertainment](https://www.vblank.com) é um pouco diferente das demais, pois ela só lança os jogos desenvolvidos por ela mesma. A única excessão foi o jogo Guacamelee! Super Turbo Championship Edition também lançado por eles. 
 
-![Jogo Guacamelee! Super Turbo Championship Edition para PS4](/assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/guacamelee-ps4.jpg "O único jogo não desenvolvido por eles que distribuíram. (Imagem: Acervo pessoal)")
+![Jogo Guacamelee! Super Turbo Championship Edition para PS4](/assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/guacamelee-ps4.jpg "O único jogo não desenvolvido por eles que distribuíram — Foto: Acervo pessoal")
 
 Mas ela entrou na lista porque todos seus jogos físicos possuem tiragem limitadas. Ela inclusive, deve ter sido uma das poucas (senão for a única) que lançou jogos neste formato limitado para Nintendo Wii e Wii U. Ela lançou seus jogos para PS Vita, PlayStation 4, Nintendo Switch, PC e para PlayStation 5. Resumidamente, os dois jogos lançados por ela foram: Retro City Rampage DX e Shakedown: Hawaii.
 
