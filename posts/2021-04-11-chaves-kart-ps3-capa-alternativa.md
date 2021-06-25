@@ -4,7 +4,7 @@ description: Conheça uma variação um tanto quanto incomum do jogo.
 date: 2021-04-11 20:50:00
 author: felipebbarbosa
 category: artigo
-tags: ["playstation"]
+tags: ["playstation", "ps3"]
 thumbnail: ../static/assets/img/p00002-post_thumbnail.jpg
 cover: /assets/img/p00002-post_thumbnail.jpg
 ---

@@ -4,7 +4,7 @@ description: Conheça empresas que mantém aceso o prazer de colecionar jogos de
 date: 2021-06-15 16:00:00
 author: felipebbarbosa
 category: artigo
-tags: ["playstation", "nintendo", "xbox", "pc"]
+tags: ["playstation", "nintendo", "xbox", "pc", "ps3", "ps4", "switch", "xbox-one", "wii", "wii-u"]
 thumbnail: ../static/assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/thumbnail.jpg
 cover: /assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/thumbnail.jpg
 ---
