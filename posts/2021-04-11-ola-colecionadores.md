@@ -21,7 +21,7 @@ Uma coisa bacana é que aqui em casa, tivemos a felicidade de sempre mantermos n
 
 ![Começo da coleção!](/assets/img/felipebbarbosa_inicio_colecao_videogames.jpg "O começo da coleção, em 2010 — Foto: Acervo pessoal")
 
-Sempre gostei de colecionar coisas, já colecionei embalagens de cigarros, latinhas de cervejas e cartões telefônicos (inclusive, tenho todas elas até hoje guardadas). Porém, quando comecei a ganhar meu próprio dinheiro, colecionar videogames se tornou meu hobby predileto, inclusive, possuo um outro site chamado [Videogames com Cerveja](https:///www.vgscomcerveja.com.br), onde já escrevo algumas groselhas por lá a um tempo. 
+Sempre gostei de colecionar coisas, já colecionei embalagens de cigarros, latinhas de cervejas e cartões telefônicos (inclusive, tenho todas elas até hoje guardadas). Porém, quando comecei a ganhar meu próprio dinheiro, colecionar videogames se tornou meu hobby predileto, inclusive, possuo um outro site chamado [Videogames com Cerveja](https://www.vgscomcerveja.com.br), onde já escrevo algumas groselhas por lá a um tempo. 
 
 O foco da minha coleção são os jogos, tenho os videogames basicamente para ter onde rodar os jogos, não faço muita questão de tê-los nas caixas e nem variações do mesmo aparelho. Mas confesso que é mais por falta de espaço mesmo, pois acho sensacional coleções de consoles! :)
 
