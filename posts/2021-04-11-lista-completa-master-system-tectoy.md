@@ -11,22 +11,23 @@ cover: /assets/img/p00003-post_thumbnail.jpg
 
 Este é o primeiro post que estou importando do [Videogames com Cerveja](https://www.vgscomcerveja.com.br/post/lista-completa-jogos-tectoy-para-master-system), pois ele não poderia faltar por aqui, afinal a [Tec Toy](https://www.tectoy.com.br) foi uma empresa muito importante para o cenário brasileiro de videogames no final da década 80 e durante toda a década 90 representando a Sega no Brasil, com direito a jogos exclusivos e tudo mais!
 
-Apesar de não termos uma lista oficial por parte da empresa, a legião de fãs que temos no Brasil é tão grande que temos **praticamente uma lista definitiva** de todos jogos de Master System nacionais lançados pela Tec Toy. Este **levantamento foi feito pelo pessoal do fórum [Sega Brasil](https://sega-brasil.com.br)**, que inclusive, até possuem um [wiki dedicado à TecToy](https://www.sega-brasil.com.br/Tectoy/Página_principal) e, demoraram aproxidamente 3 anos para ser concluído. Mas não duvido que ainda possa aparecer uma variação desconhecida por aí. Então, já sabe: caso saiba de algo que não está na lista, não deixe de comentar! ;)
+Apesar de não termos uma lista oficial por parte da empresa, a legião de fãs que temos no Brasil é tão grande que temos **praticamente uma lista definitiva** de todos jogos de Master System nacionais lançados pela Tec Toy. Este **levantamento foi feito pelo pessoal do fórum [Sega Brasil](https://sega-brasil.com.br)**, que inclusive, até possuem um [projeto bem massa dedicado à TecToy](https://www.sega-brasil.com.br/Tectoy/Página_principal).
+
+Para chegar nessa lista, demoraram aproxidamente 3 anos para ser concluído, mas não duvido que ainda possa aparecer uma variação desconhecida por aí. Então já sabe, caso saiba de algo que não está na lista, não deixe de comentar! ;)
 
 ## Variações das caixas
 
-Antes de mais nada, a primeira coisa que precisa ser dita é que existem 5 tipos, ou melhor, gerações de caixas lançadas no Brasil, são elas:
+Antes de mais nada, a primeira coisa que precisa ser dita é que existem cinco tipos, ou melhor, formatos/layout de caixas lançadas no Brasil, são elas:
 
 ![](/assets/img/p00003-formatos-capas-sms-tectoy.jpg)
 
-- Caixa de papelão com 1 vinco (1V);
-- Caixa de papelão com 3 vincos (3V);
+- Caixa de papelão com 1 vinco (1V) ou 3 vincos (3V);
 - Caixa plástica com encarte branco com quadrados grandes;
 - Caixa plástica com encarte branco com quadrados pequenos;
 - Caixa plástica com encarte azul e branco;
 - Caixa plástica com encarte azul;
 
-Além disso, tivemos 2 jogos que foram lançados sem caixas, pois eles vinham junto no pacote com alguns consoles.
+Além disso, tivemos dois jogos que foram lançados sem caixas, pois eles vinham junto no pacote com alguns consoles.
 
 ## A lista
 
@@ -362,6 +363,8 @@ Saíram apenas **2 jogos** neste formato, pois eles eram inclusos em algum conso
 Para complementar o post, gostaria de enfatizar o quão bom foi o trabalho da Tec Toy na década de 90 selecionando dentre os jogos lançados, os que saíram **exclusivamente para o Brasil**, ou seja, em nenhum outro lugar no mundo você vai encontrar esses jogos para Master System!
 
 ![Alguns dos jogos exclusivos do Brasil](/assets/img/p00003-sms-br-exclusivos-tectoy.jpg "Jogos exclusivos do Brasil — Foto: Acervo pessoal")
+
+Em ordem alfabética:
 
 - **20 em 1** (1995) - Este é um dos jogos que não possuíram caixa (apenas manual), pois ele vinha incluso com o console Master System III Compact edição 21 jogos (este cartucho + Sonic na memória). Todos os 20 jogos são produções da própria Tec Toy, mas que nem ao menos possuem nome, são bem genéricos;
 - **Ariel: The Little Mermaid** (1992) - Jogo desenvolvido pela BlueSky Innovations;
