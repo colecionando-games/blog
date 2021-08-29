@@ -50,5 +50,6 @@ export const SocialLink = styled.div`
   fill: #bbb;
   width: 42px;
   height: 42px;
+  margin: 0 2px;
 `
 

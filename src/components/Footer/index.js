@@ -24,11 +24,7 @@ const Footer = () => {
         <S.FooterLogo image={logoFooter.childImageSharp.gatsbyImageData} alt="Logo Colecionado.Games"/>  
         <S.FooterCopyright>
           &copy; 2021 Colecionando.Games<br></br>
-          Desenvolvido por <a 
-            href="https://www.twitter.com/felipebbarbosa" 
-            title="Felipe B. Barbosa no Twitter"
-            target="_blank" rel="noopener noreferrer">Felipe B. Barbosa</a> e 
-          faz parte do grupo <a 
+          Um projeto do <a 
             href="https://www.vgscomcerveja.com.br"
             title="Site Videogames com Cerveja"
             target="_blank" rel="noopener noreferrer">Videogames com Cerveja</a>.
