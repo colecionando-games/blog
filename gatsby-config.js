@@ -121,6 +121,7 @@ const pluginSetup = [
                     description
                     date
                   }
+                  html
                   excerpt
                 }
               }
