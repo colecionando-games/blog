@@ -50,6 +50,7 @@ const pluginSetup = [
         },
         `gatsby-remark-lazy-load`,
         `gatsby-remark-prismjs`,
+        `gatsby-remark-emoji`,
         {
           resolve: `gatsby-remark-external-links`,
           options: {
