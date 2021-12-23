@@ -1,0 +1,23 @@
+{
+  "title": "Assassin's Creed: Revelations",
+  "developer": "Ubisoft",
+  "releases": [
+    {
+      "platform": "ps3",
+      "version": "Favoritos",
+      "region": "latin-america",
+      "photos": [
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/latin/assassins-creed-revelations.jpg",
+          "caption": "...",
+          "author": "Felipe"
+        },
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/latin/assassins-creed-revelations_inside.jpg",
+          "caption": "...",
+          "author": "Felipe"
+        }
+      ]
+    }
+  ]
+}

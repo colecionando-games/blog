@@ -20,6 +20,13 @@ const pluginSetup = [
   {
     resolve: `gatsby-source-filesystem`,
     options: {
+      name: `database`,
+      path: `${__dirname}/database`
+    }
+  },
+  {
+    resolve: `gatsby-source-filesystem`,
+    options: {
       name: 'mappings',
       path: `${__dirname}/content/`
     }
@@ -28,6 +35,7 @@ const pluginSetup = [
   `gatsby-plugin-sharp`,
   `gatsby-transformer-sharp`,
   `gatsby-transformer-yaml`,
+  `gatsby-transformer-json`,
   `gatsby-plugin-styled-components`,
   {
     resolve: `gatsby-transformer-remark`,

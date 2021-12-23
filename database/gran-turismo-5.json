@@ -1,0 +1,32 @@
+{
+  "title": "Gran Turismo 5",
+  "developer": "Ubisoft",
+  "releases": [
+    {
+      "edition": "XL Edition",
+      "platform": "ps3",
+      "version": "Favoritos",
+      "region": "br",
+      "photos": [
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/br/gran-turismo-5-xl.jpg",
+          "caption": "...",
+          "author": "Felipe"
+        }
+      ]
+    },
+    {
+      "edition": "XL Edition",
+      "platform": "ps3",
+      "version": "Favoritos",
+      "region": "latin-america",
+      "photos": [
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/latin/gran-turismo-5-xl.jpg",
+          "caption": "...",
+          "author": "Felipe"
+        }
+      ]
+    }
+  ]
+}

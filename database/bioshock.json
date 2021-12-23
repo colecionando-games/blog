@@ -1,0 +1,23 @@
+{
+  "title": "Bioshock",
+  "developer": "Ubisoft",
+  "releases": [
+    {
+      "platform": "ps3",
+      "version": "Favoritos",
+      "region": "latin-america",
+      "photos": [
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/latin/bioshock.jpg",
+          "caption": "...",
+          "author": "Felipe"
+        },
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/latin/bioshock_inside.jpg",
+          "caption": "...",
+          "author": "Felipe"
+        }
+      ]
+    }
+  ]
+}

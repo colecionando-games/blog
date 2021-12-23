@@ -1,0 +1,30 @@
+{
+  "title": "The Tomb Raider Trilogy",
+  "developer": "Ubisoft",
+  "releases": [
+    {
+      "platform": "ps3",
+      "version": "Favoritos",
+      "region": "br",
+      "photos": [
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/br/tomb-raider-trilogy.jpg",
+          "caption": "...",
+          "author": "Felipe"
+        }
+      ]
+    },
+    {
+      "platform": "ps3",
+      "version": "Favoritos",
+      "region": "latin-america",
+      "photos": [
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/latin/tomb-raider-trilogy.jpg",
+          "caption": "...",
+          "author": "Felipe"
+        }
+      ]
+    }
+  ]
+}

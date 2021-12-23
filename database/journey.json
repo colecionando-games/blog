@@ -1,0 +1,32 @@
+{
+  "title": "Journey",
+  "developer": "Ubisoft",
+  "releases": [
+    {
+      "edition": "Edição Colecionador",
+      "platform": "ps3",
+      "version": "Favoritos",
+      "region": "br",
+      "photos": [
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/br/journey.jpg",
+          "caption": "...",
+          "author": "Felipe"
+        }
+      ]
+    },
+    {
+      "edition": "Collector's Edition",
+      "platform": "ps3",
+      "version": "Favoritos",
+      "region": "latin-america",
+      "photos": [
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/latin/journey.jpg",
+          "caption": "...",
+          "author": "Felipe"
+        }
+      ]
+    }
+  ]
+}

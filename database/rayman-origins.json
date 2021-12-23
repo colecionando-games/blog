@@ -1,0 +1,18 @@
+{
+  "title": "Rayman Origins",
+  "developer": "Ubisoft",
+  "releases": [
+    {
+      "platform": "ps3",
+      "version": "Favoritos",
+      "region": "latin-america",
+      "photos": [
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/latin/rayman-origins.jpg",
+          "caption": "...",
+          "author": "Felipe"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "title": "The Walking Dead",
+  "developer": "Ubisoft",
+  "releases": [
+    {
+      "edition": "Game of the Year Edition",
+      "platform": "ps3",
+      "version": "Favoritos",
+      "region": "br"
+    },
+    {
+      "edition": "Game of the Year Edition",
+      "platform": "ps3",
+      "version": "Favoritos",
+      "region": "latin-america"
+    }
+  ]
+}

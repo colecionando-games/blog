@@ -1,0 +1,18 @@
+{
+  "title": "Call of Duty 4: Modern Warfare",
+  "developer": "Ubisoft",
+  "releases": [
+    {
+      "platform": "ps3",
+      "version": "Favoritos",
+      "region": "latin-america",
+      "photos": [
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/latin/call-of-duty-4-modern-warfare.jpg",
+          "caption": "...",
+          "author": "Felipe"
+        }
+      ]
+    }
+  ]
+}

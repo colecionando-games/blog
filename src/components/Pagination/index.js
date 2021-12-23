@@ -2,7 +2,6 @@ import React from "react"
 import { Link } from "gatsby"
 import propTypes from "prop-types"
 
-
 import * as S from "./styled"
 
 const Pagination = props => (

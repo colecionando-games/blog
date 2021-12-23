@@ -14,6 +14,16 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
       node, name: "slug", value: `/${slug.slice(12)}`
     })
   }
+
+  if (node.internal.type === "DatabaseJson") {
+    const slug = createFilePath({
+      node, getNode, basePath: "pages"
+    })
+
+    createNodeField({
+      node, name: "slug", value: `${slug}`
+    })
+  }
 }
 
 exports.createPages = ({ graphql, actions, reporter }) => {
@@ -23,6 +33,7 @@ exports.createPages = ({ graphql, actions, reporter }) => {
   const blogPostListTemplate = path.resolve(`./src/templates/blog-list.js`)
   const tagTemplate = path.resolve(`./src/templates/tags.js`)
   const categoryTemplate = path.resolve(`./src/templates/categories.js`)
+  const gamesTemplate = path.resolve(`./src/templates/games.js`)
 
   return graphql(`{
     allMarkdownRemark(sort: {fields: frontmatter___date, order: DESC}) {
@@ -71,6 +82,32 @@ exports.createPages = ({ graphql, actions, reporter }) => {
     categoriesGroup: allMarkdownRemark(limit: 2000) {
       group(field: frontmatter___category) {
         fieldValue
+      }
+    }
+    gamesGroup: allDatabaseJson {
+      edges {
+        node {
+          fields {
+            slug
+          }
+          title
+          developer
+          releases {
+            version
+            platform
+            region
+            edition
+            photos {
+              caption
+              author
+              url {
+                childImageSharp {
+                  gatsbyImageData(width: 1080, placeholder: BLURRED, layout: CONSTRAINED)
+                }
+              }
+            }
+          }
+        }
       }
     }
   }
@@ -134,5 +171,22 @@ exports.createPages = ({ graphql, actions, reporter }) => {
         }
       })
     })
+
+    const games = result.data.gamesGroup.edges
+
+    games.forEach(game => {
+      const { title, developer, releases } = game.node
+      const { slug } = game.node.fields
+      createPage({
+        path: `/games${slug}`,
+        component: gamesTemplate,
+        context: {
+          title,
+          developer,
+          releases
+        }
+      })
+    })
+
   })
 }

@@ -7,7 +7,6 @@ import * as S from "./styled"
 
 
 const HeaderMenu = () => {
-  
   const menuLinkClickTrack = link => {
     ReactGA.event({
       category: 'menu link',

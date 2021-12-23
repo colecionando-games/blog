@@ -1,0 +1,30 @@
+{
+  "title": "The ICO & Shadow of the Colossus Collection",
+  "developer": "Ubisoft",
+  "releases": [
+    {
+      "platform": "ps3",
+      "version": "Favoritos",
+      "region": "br",
+      "photos": [
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/br/the-ico-shadow-colossus-collection.jpg",
+          "caption": "...",
+          "author": "Felipe"
+        }
+      ]
+    },
+    {
+      "platform": "ps3",
+      "version": "Favoritos",
+      "region": "latin-america",
+      "photos": [
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/latin/the-ico-shadow-colossus-collection.jpg",
+          "caption": "...",
+          "author": "Felipe"
+        }
+      ]
+    }
+  ]
+}
