@@ -107,6 +107,10 @@ exports.createPages = ({ graphql, actions, reporter }) => {
               }
             }
           }
+          pingbacks {
+            title
+            url
+          }
         }
       }
     }
@@ -175,7 +179,7 @@ exports.createPages = ({ graphql, actions, reporter }) => {
     const games = result.data.gamesGroup.edges
 
     games.forEach(game => {
-      const { title, developer, releases } = game.node
+      const { title, developer, releases, pingbacks } = game.node
       const { slug } = game.node.fields
       createPage({
         path: `/games${slug}`,
@@ -183,7 +187,8 @@ exports.createPages = ({ graphql, actions, reporter }) => {
         context: {
           title,
           developer,
-          releases
+          releases,
+          pingbacks
         }
       })
     })

@@ -33,7 +33,7 @@ export const GameTitle = styled.h1`
 export const GameSectionTitle = styled.h2`
   font-size: 2rem;
   font-weight: 200;
-  padding: 0 1.4rem;
+  padding: 0 1.4rem 7px;
   ${media.lessThan("large")`
     font-size: 1.6rem;
     line-height: 1.3;
@@ -41,7 +41,7 @@ export const GameSectionTitle = styled.h2`
   `}
 `
 
-export const GameReleases = styled.section`
+export const GameSection = styled.section`
   margin: 10px auto;
   padding: 20px 40px;
   width: 100%;
@@ -81,6 +81,13 @@ export const GameReleaseTitle = styled.h3`
   font-size: 1.3em;
 `
 
-export const GameReleaseRegion = styled.span`
-  margin-bottom: 20px;
+export const GameReleaseRegion = styled.div`
+  margin-bottom: 10px;
+`
+
+export const GamePingbackLink = styled(Link)`
+  color: white;
+  transition: color 0.5s;
+  padding-left: 2rem;
+  line-height: 2rem;
 `

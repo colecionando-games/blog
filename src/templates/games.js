@@ -12,7 +12,7 @@ import * as S from "../components/Games/styled"
 
 const Games = ({ pageContext }) => {
 
-  const { title, developer, releases } = pageContext
+  const { title, developer, releases, pingbacks } = pageContext
 
   return (
     <Layout>
@@ -22,7 +22,7 @@ const Games = ({ pageContext }) => {
               <S.GameTitle>{title}</S.GameTitle>
             </S.GameInfo>
           </S.GameMainSection>
-          <S.GameReleases>
+          <S.GameSection>
             <S.GameSectionTitle>Edições lançadas</S.GameSectionTitle>
             {!releases ? <>nenhuma encontrada</> :
               releases.map(({ edition, version, platform, region, photos }) => {
@@ -37,7 +37,19 @@ const Games = ({ pageContext }) => {
                 )
               }) 
             }
-          </S.GameReleases>
+          </S.GameSection>
+          {!pingbacks ? <></> :
+            <S.GameSection>
+              <S.GameSectionTitle>Escrevemos sobre ele</S.GameSectionTitle>
+              {pingbacks.map(pingback => {
+                return (
+                  <S.GamePingbackLink to={pingback.url}>
+                    {pingback.title}
+                  </S.GamePingbackLink>
+                )
+              })}
+            </S.GameSection>
+          }
         </S.GameContent>
     </Layout>
   )
@@ -59,6 +71,12 @@ Games.propTypes = {
             url: PropTypes.object
           })
         )
+      })
+    ),
+    pingbacks: PropTypes.arrayOf(
+      PropTypes.shape({
+        title: PropTypes.string.isRequired,
+        url: PropTypes.string.isRequired
       })
     )
   })
