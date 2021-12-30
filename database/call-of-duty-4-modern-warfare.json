@@ -6,9 +6,15 @@
       "platform": "ps3",
       "version": "Favoritos",
       "region": "latin-america",
+      "description": "(sem manual) Argentina, México",
       "photos": [
         {
           "url": "../static/assets/img/games/ps3/favoritos/latin/call-of-duty-4-modern-warfare.jpg",
+          "caption": "...",
+          "author": "Felipe"
+        },
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/latin/call-of-duty-4-modern-warfare_inside.jpg",
           "caption": "...",
           "author": "Felipe"
         }

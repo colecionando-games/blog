@@ -5,7 +5,14 @@
     {
       "platform": "ps3",
       "version": "Favoritos",
-      "region": "br"
+      "region": "br",
+      "photos": [
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/br/playstation-all-stars-battle-royale.jpg",
+          "caption": "...",
+          "author": "Mercado Livre"
+        }
+      ]
     }
   ],
   "pingbacks": [

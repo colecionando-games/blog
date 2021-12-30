@@ -10,7 +10,17 @@
         {
           "url": "../static/assets/img/games/ps3/favoritos/br/final-fantasy-xiii.jpg",
           "caption": "...",
-          "author": "Felipe"
+          "author": "PS3 Hunter"
+        },
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/br/final-fantasy-xiii_back.jpg",
+          "caption": "...",
+          "author": "PS3 Hunter"
+        },
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/br/final-fantasy-xiii_inside.jpg",
+          "caption": "...",
+          "author": "PS3 Hunter"
         }
       ]
     },
@@ -18,9 +28,15 @@
       "platform": "ps3",
       "version": "Favoritos",
       "region": "latin-america",
+      "description": "(com manual e arte interna) Argentina, Chile, México, Perú",
       "photos": [
         {
           "url": "../static/assets/img/games/ps3/favoritos/latin/final-fantasy-xiii.jpg",
+          "caption": "...",
+          "author": "Felipe"
+        },
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/latin/final-fantasy-xiii_inside.jpg",
           "caption": "...",
           "author": "Felipe"
         }

@@ -10,7 +10,17 @@
         {
           "url": "../static/assets/img/games/ps3/favoritos/br/dmc-devil-may-cry.jpg",
           "caption": "...",
-          "author": "Felipe"
+          "author": "PS3 Hunter"
+        },
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/br/dmc-devil-may-cry_back.jpg",
+          "caption": "...",
+          "author": "PS3 Hunter"
+        },
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/br/dmc-devil-may-cry_inside.jpg",
+          "caption": "...",
+          "author": "PS3 Hunter"
         }
       ]
     },
@@ -18,6 +28,7 @@
       "platform": "ps3",
       "version": "Favoritos",
       "region": "latin-america",
+      "description": "Argentina, México, Perú",
       "photos": [
         {
           "url": "../static/assets/img/games/ps3/favoritos/latin/dmc-devil-may-cry.jpg",

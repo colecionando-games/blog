@@ -6,9 +6,15 @@
       "platform": "ps3",
       "version": "Favoritos",
       "region": "latin-america",
+      "description": "Chile, Perú",
       "photos": [
         {
           "url": "../static/assets/img/games/ps3/favoritos/latin/demons-souls.jpg",
+          "caption": "...",
+          "author": "Felipe"
+        },
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/latin/demons-souls_inside.jpg",
           "caption": "...",
           "author": "Felipe"
         }

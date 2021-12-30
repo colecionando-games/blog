@@ -10,7 +10,17 @@
         {
           "url": "../static/assets/img/games/ps3/favoritos/br/the-ico-shadow-colossus-collection.jpg",
           "caption": "...",
-          "author": "Felipe"
+          "author": "PS3 Hunter"
+        },
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/br/the-ico-shadow-colossus-collection_back.jpg",
+          "caption": "...",
+          "author": "PS3 Hunter"
+        },
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/br/the-ico-shadow-colossus-collection_inside.jpg",
+          "caption": "...",
+          "author": "PS3 Hunter"
         }
       ]
     },
@@ -18,9 +28,15 @@
       "platform": "ps3",
       "version": "Favoritos",
       "region": "latin-america",
+      "description": "(com manual) México",
       "photos": [
         {
           "url": "../static/assets/img/games/ps3/favoritos/latin/the-ico-shadow-colossus-collection.jpg",
+          "caption": "...",
+          "author": "Felipe"
+        },
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/latin/the-ico-shadow-colossus-collection_inside.jpg",
           "caption": "...",
           "author": "Felipe"
         }

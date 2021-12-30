@@ -6,9 +6,15 @@
       "platform": "ps3",
       "version": "Favoritos",
       "region": "latin-america",
+      "description": "(com manual) México",
       "photos": [
         {
           "url": "../static/assets/img/games/ps3/favoritos/latin/rayman-origins.jpg",
+          "caption": "...",
+          "author": "Felipe"
+        },
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/latin/rayman-origins_inside.jpg",
           "caption": "...",
           "author": "Felipe"
         }

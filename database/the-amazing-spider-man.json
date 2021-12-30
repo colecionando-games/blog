@@ -6,9 +6,15 @@
       "platform": "ps3",
       "version": "Favoritos",
       "region": "latin-america",
+      "description": "(com manual) México, Perú",
       "photos": [
         {
           "url": "../static/assets/img/games/ps3/favoritos/latin/the-amazing-spider-man.jpg",
+          "caption": "...",
+          "author": "Felipe"
+        },
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/latin/the-amazing-spider-man_inside.jpg",
           "caption": "...",
           "author": "Felipe"
         }

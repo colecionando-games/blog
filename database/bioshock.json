@@ -6,6 +6,7 @@
       "platform": "ps3",
       "version": "Favoritos",
       "region": "latin-america",
+      "description": "Chile, Perú",
       "photos": [
         {
           "url": "../static/assets/img/games/ps3/favoritos/latin/bioshock.jpg",

@@ -10,7 +10,17 @@
         {
           "url": "../static/assets/img/games/ps3/favoritos/br/uncharted-3.jpg",
           "caption": "...",
-          "author": "Felipe"
+          "author": "PS3 Hunter"
+        },
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/br/uncharted-3_back.jpg",
+          "caption": "...",
+          "author": "PS3 Hunter"
+        },
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/br/uncharted-3_inside.jpg",
+          "caption": "...",
+          "author": "PS3 Hunter"
         }
       ]
     },
@@ -18,9 +28,20 @@
       "platform": "ps3",
       "version": "Favoritos",
       "region": "latin-america",
+      "description": "(com manual) (sem manual) Argentina, Chile, México, Perú",
       "photos": [
         {
           "url": "../static/assets/img/games/ps3/favoritos/latin/uncharted-3.jpg",
+          "caption": "...",
+          "author": "Felipe"
+        },
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/latin/uncharted-3_inside.jpg",
+          "caption": "...",
+          "author": "Felipe"
+        },
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/latin/uncharted-3_inside2.jpg",
           "caption": "...",
           "author": "Felipe"
         }

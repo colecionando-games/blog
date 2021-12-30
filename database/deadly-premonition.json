@@ -11,7 +11,17 @@
         {
           "url": "../static/assets/img/games/ps3/favoritos/br/deadly-premonition.jpg",
           "caption": "...",
-          "author": "Felipe"
+          "author": "PS3 Hunter"
+        },
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/br/deadly-premonition_back.jpg",
+          "caption": "...",
+          "author": "PS3 Hunter"
+        },
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/br/deadly-premonition_inside.jpg",
+          "caption": "...",
+          "author": "PS3 Hunter"
         }
       ]
     },
@@ -20,9 +30,15 @@
       "platform": "ps3",
       "version": "Favoritos",
       "region": "latin-america",
+      "description": "(sem manual) Argentina, Perú",
       "photos": [
         {
           "url": "../static/assets/img/games/ps3/favoritos/latin/deadly-premonition.jpg",
+          "caption": "...",
+          "author": "Felipe"
+        },
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/latin/deadly-premonition_inside.jpg",
           "caption": "...",
           "author": "Felipe"
         }

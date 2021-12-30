@@ -11,17 +11,17 @@ const Lightbox = ({ images }) => {
     selectedImage: null
   })
 
+  const close = () => setState({ showLightbox: false });
+
   return (
-    <>
+    <S.Lightbox>
       <S.LightboxContainer>
         {
           images.map(img => (
             <S.PreviewButton
               key={img.url.childImageSharp.id}
               type="button"
-              onClick={() =>
-                setState({ showLightbox: true, selectedImage: img })
-              }>
+              onClick={() => setState({ showLightbox: true, selectedImage: img })}>
               <S.LightboxPhoto 
                 key={img.url.childImageSharp.id}
                 image={img.url.childImageSharp.gatsbyImageData}
@@ -32,16 +32,17 @@ const Lightbox = ({ images }) => {
         }
       </S.LightboxContainer>
       {showLightbox && (
-        <Dialog>
+        <Dialog onDismiss={close}>
           <S.LightboxDialogPhoto
             image={selectedImage.url.childImageSharp.gatsbyImageData}
-            alt={selectedImage.description}
-          />
-          <button type="button"
-            onClick={() => setState({ showLightbox: false })}>Close</button>
+            alt={selectedImage.description} />
+          <p></p>
+          <S.CloseButton onClick={close}>
+            Fechar
+          </S.CloseButton>
         </Dialog>
       )}
-    </>
+    </S.Lightbox>
   )
 }
 

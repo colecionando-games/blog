@@ -10,7 +10,17 @@
         {
           "url": "../static/assets/img/games/ps3/favoritos/br/devil-may-cry-collection.jpg",
           "caption": "...",
-          "author": "Felipe"
+          "author": "PS3 Hunter"
+        },
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/br/devil-may-cry-collection_back.jpg",
+          "caption": "...",
+          "author": "PS3 Hunter"
+        },
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/br/devil-may-cry-collection_inside.jpg",
+          "caption": "...",
+          "author": "PS3 Hunter"
         }
       ]
     },
@@ -18,9 +28,15 @@
       "platform": "ps3",
       "version": "Favoritos",
       "region": "latin-america",
+      "description": "(com manual) Argentina, México",
       "photos": [
         {
           "url": "../static/assets/img/games/ps3/favoritos/latin/devil-may-cry-collection.jpg",
+          "caption": "...",
+          "author": "Felipe"
+        },
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/latin/devil-may-cry-collection_inside.jpg",
           "caption": "...",
           "author": "Felipe"
         }

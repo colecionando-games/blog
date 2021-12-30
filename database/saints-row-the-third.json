@@ -11,6 +11,11 @@
           "url": "../static/assets/img/games/ps3/favoritos/br/saints-row-the-third.jpg",
           "caption": "...",
           "author": "Felipe"
+        },
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/br/saints-row-the-third_inside.jpg",
+          "caption": "...",
+          "author": "Felipe"
         }
       ]
     },
@@ -18,14 +23,10 @@
       "platform": "ps3",
       "version": "Favoritos",
       "region": "latin-america",
+      "description": "(com manual) México, Perú",
       "photos": [
         {
           "url": "../static/assets/img/games/ps3/favoritos/latin/saints-row-the-third.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        },
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/saints-row-the-third_inside.jpg",
           "caption": "...",
           "author": "Felipe"
         }

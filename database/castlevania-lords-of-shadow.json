@@ -9,8 +9,18 @@
       "photos": [
         {
           "url": "../static/assets/img/games/ps3/favoritos/br/castlevania-lords-of-shadow.jpg",
-          "caption": "...",
-          "author": "Felipe"
+          "caption": "Capa",
+          "author": "PS3 Hunter"
+        },
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/br/castlevania-lords-of-shadow_back.jpg",
+          "caption": "Capa",
+          "author": "PS3 Hunter"
+        },
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/br/castlevania-lords-of-shadow_inside.jpg",
+          "caption": "Capa",
+          "author": "PS3 Hunter"
         }
       ]
     },
@@ -18,11 +28,17 @@
       "platform": "ps3",
       "version": "Favoritos",
       "region": "latin-america",
+      "description": "(com manual) Argentina, Chile, México, Perú",
       "photos": [
         {
           "url": "../static/assets/img/games/ps3/favoritos/latin/castlevania-lords-of-shadow.jpg",
-          "caption": "...",
-          "author": "Felipe"
+          "caption": "Capa",
+          "author": "Mercado Libre"
+        },
+        {
+          "url": "../static/assets/img/games/ps3/favoritos/latin/castlevania-lords-of-shadow_inside.jpg",
+          "caption": "Manual e disco",
+          "author": "Mercado Libre"
         }
       ]
     }

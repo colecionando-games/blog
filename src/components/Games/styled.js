@@ -68,9 +68,7 @@ export const GameRelease = styled.div`
   margin: 10px;
   background-color: white;
   padding: 10px;
-  border: 1px solid black;
   box-shadow: 1px 2px 4px gray;
-  border-radius: 4px;
 `
 
 export const GameReleaseInfo = styled.div`
