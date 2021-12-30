@@ -27,11 +27,11 @@
     {
       "platform": "ps3",
       "version": "Favoritos",
-      "region": "latin-america",
+      "region": "latam",
       "description": "Argentina, Chile",
       "photos": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/darksiders-2.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/darksiders-2.jpg",
           "caption": "...",
           "author": "Felipe"
         }

@@ -29,11 +29,11 @@
       "edition": "Collector's Edition",
       "platform": "ps3",
       "version": "Favoritos",
-      "region": "latin-america",
+      "region": "latam",
       "description": "(com manual) Argentina",
       "photos": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/journey.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/journey.jpg",
           "caption": "...",
           "author": "Felipe"
         }

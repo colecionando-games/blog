@@ -27,16 +27,16 @@
     {
       "platform": "ps3",
       "version": "Favoritos",
-      "region": "latin-america",
+      "region": "latam",
       "description": "(sem manual) Argentina, México, Perú",
       "photos": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/vanquish.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/vanquish.jpg",
           "caption": "...",
           "author": "Felipe"
         },
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/vanquish_inside.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/vanquish_inside.jpg",
           "caption": "...",
           "author": "Felipe"
         }

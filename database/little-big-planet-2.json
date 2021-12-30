@@ -29,16 +29,16 @@
       "edition": "Special Edition",
       "platform": "ps3",
       "version": "Favoritos",
-      "region": "latin-america",
+      "region": "latam",
       "description": "(com manual) Argentina, México",
       "photos": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/littlebigplanet-2.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/littlebigplanet-2.jpg",
           "caption": "...",
           "author": "Felipe"
         },
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/littlebigplanet-2_inside.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/littlebigplanet-2_inside.jpg",
           "caption": "...",
           "author": "Felipe"
         }

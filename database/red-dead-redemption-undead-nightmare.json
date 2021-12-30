@@ -5,10 +5,10 @@
     {
       "platform": "ps3",
       "version": "Favoritos",
-      "region": "latin-america",
+      "region": "latam",
       "photos": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/red-dead-redemption-undead-nightmare.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/red-dead-redemption-undead-nightmare.jpg",
           "caption": "...",
           "author": "Felipe"
         }

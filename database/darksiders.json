@@ -17,16 +17,16 @@
     {
       "platform": "ps3",
       "version": "Favoritos",
-      "region": "latin-america",
+      "region": "latam",
       "description": "Argentina (sem manual), Chile (com manual), México, Perú",
       "photos": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/darksiders.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/darksiders.jpg",
           "caption": "...",
           "author": "Felipe"
         },
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/darksiders_inside.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/darksiders_inside.jpg",
           "caption": "...",
           "author": "Felipe"
         }

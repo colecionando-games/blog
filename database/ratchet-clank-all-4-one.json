@@ -17,16 +17,16 @@
     {
       "platform": "ps3",
       "version": "Favoritos",
-      "region": "latin-america",
+      "region": "latam",
       "description": "(com manual) Argentina, México",
       "photos": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/ratchet-clank-all4one.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/ratchet-clank-all4one.jpg",
           "caption": "...",
           "author": "Felipe"
         },
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/ratchet-clank-all4one_inside.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/ratchet-clank-all4one_inside.jpg",
           "caption": "...",
           "author": "Felipe"
         }

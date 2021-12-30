@@ -17,16 +17,16 @@
     {
       "platform": "ps3",
       "version": "Favoritos",
-      "region": "latin-america",
+      "region": "latam",
       "description": "(com manual) Argentina, Chile, (sem manual) México, (com manual) Perú",
       "photos": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/god-of-war-collection.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/god-of-war-collection.jpg",
           "caption": "...",
           "author": "Felipe"
         },
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/god-of-war-collection_inside.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/god-of-war-collection_inside.jpg",
           "caption": "...",
           "author": "Felipe"
         }

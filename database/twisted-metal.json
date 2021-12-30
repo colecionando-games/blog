@@ -27,16 +27,16 @@
     {
       "platform": "ps3",
       "version": "Favoritos",
-      "region": "latin-america",
+      "region": "latam",
       "description": "(com manual) (sem manual) Argentina, México, Perú",
       "photos": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/twisted-metal.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/twisted-metal.jpg",
           "caption": "...",
           "author": "Felipe"
         },
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/twisted-metal_inside.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/twisted-metal_inside.jpg",
           "caption": "...",
           "author": "Felipe"
         }

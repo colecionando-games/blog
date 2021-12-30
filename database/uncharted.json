@@ -27,16 +27,16 @@
     {
       "platform": "ps3",
       "version": "Favoritos",
-      "region": "latin-america",
+      "region": "latam",
       "description": "(sem manual) Argentina, Perú",
       "photos": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/uncharted.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/uncharted.jpg",
           "caption": "...",
           "author": "Felipe"
         },
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/uncharted_inside.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/uncharted_inside.jpg",
           "caption": "...",
           "author": "Felipe"
         }

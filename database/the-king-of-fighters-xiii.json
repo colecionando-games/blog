@@ -17,11 +17,11 @@
     {
       "platform": "ps3",
       "version": "Favoritos",
-      "region": "latin-america",
+      "region": "latam",
       "description": "Perú",
       "photos": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/the-king-of-fighters-xiii.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/the-king-of-fighters-xiii.jpg",
           "caption": "...",
           "author": "Felipe"
         }

@@ -29,21 +29,21 @@
       "edition": "Super Street Fighter IV: Arcade Edition",
       "platform": "ps3",
       "version": "Favoritos",
-      "region": "latin-america",
+      "region": "latam",
       "description": "(sem manual, escrito) Chile, (sem manual) México, Perú",
       "photos": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/super-street-fighter-iv.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/super-street-fighter-iv.jpg",
           "caption": "...",
           "author": "Felipe"
         },
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/super-street-fighter-iv_inside.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/super-street-fighter-iv_inside.jpg",
           "caption": "...",
           "author": "Felipe"
         },
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/super-street-fighter-iv_inside2.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/super-street-fighter-iv_inside2.jpg",
           "caption": "...",
           "author": "Felipe"
         }

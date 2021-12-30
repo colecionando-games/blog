@@ -17,11 +17,11 @@
     {
       "platform": "ps3",
       "version": "Favoritos",
-      "region": "latin-america",
+      "region": "latam",
       "description": "(com manual) Chile, México, Perú",
       "photos": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/sonic-generations.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/sonic-generations.jpg",
           "caption": "...",
           "author": "Felipe"
         }

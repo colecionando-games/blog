@@ -5,11 +5,11 @@
     {
       "platform": "ps3",
       "version": "Favoritos",
-      "region": "latin-america",
+      "region": "latam",
       "description": "(sem manual) Perú",
       "photos": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/transformers.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/transformers.jpg",
           "caption": "...",
           "author": "Felipe"
         }

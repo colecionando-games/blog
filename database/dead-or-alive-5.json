@@ -19,11 +19,11 @@
       "platform": "ps3",
       "edition": "Ultimate",
       "version": "Favoritos",
-      "region": "latin-america",
+      "region": "latam",
       "description": "Argentina (sem manual), Perú",
       "photos": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/dead-or-alive-5-ultimate.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/dead-or-alive-5-ultimate.jpg",
           "caption": "...",
           "author": "Felipe"
         }

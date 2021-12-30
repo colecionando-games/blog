@@ -27,16 +27,16 @@
     {
       "platform": "ps3",
       "version": "Favoritos",
-      "region": "latin-america",
+      "region": "latam",
       "description": "(com manual) México",
       "photos": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/the-ico-shadow-colossus-collection.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/the-ico-shadow-colossus-collection.jpg",
           "caption": "...",
           "author": "Felipe"
         },
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/the-ico-shadow-colossus-collection_inside.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/the-ico-shadow-colossus-collection_inside.jpg",
           "caption": "...",
           "author": "Felipe"
         }

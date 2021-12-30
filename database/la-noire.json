@@ -5,11 +5,11 @@
     {
       "platform": "ps3",
       "version": "Favoritos",
-      "region": "latin-america",
+      "region": "latam",
       "description": "Argentina, Perú",
       "photos": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/la-noire.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/la-noire.jpg",
           "caption": "...",
           "author": "Felipe"
         }

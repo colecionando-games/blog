@@ -5,16 +5,16 @@
     {
       "platform": "ps3",
       "version": "Favoritos",
-      "region": "latin-america",
+      "region": "latam",
       "description": "Chile, Perú",
       "photos": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/bioshock.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/bioshock.jpg",
           "caption": "...",
           "author": "Felipe"
         },
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/bioshock_inside.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/bioshock_inside.jpg",
           "caption": "...",
           "author": "Felipe"
         }

@@ -5,16 +5,16 @@
     {
       "platform": "ps3",
       "version": "Favoritos",
-      "region": "latin-america",
+      "region": "latam",
       "description": "Argentina, México",
       "photos": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/borderlands.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/borderlands.jpg",
           "caption": "...",
           "author": "Felipe"
         },
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/borderlands_inside.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/borderlands_inside.jpg",
           "caption": "...",
           "author": "Felipe"
         }

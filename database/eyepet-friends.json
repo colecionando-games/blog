@@ -5,16 +5,16 @@
     {
       "platform": "ps3",
       "version": "Favoritos",
-      "region": "latin-america",
+      "region": "latam",
       "description": "Argentina, Chile, Perú",
       "photos": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/eyepet-friends.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/eyepet-friends.jpg",
           "caption": "...",
           "author": "Felipe"
         },
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/eyepet-friends_inside.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/eyepet-friends_inside.jpg",
           "caption": "...",
           "author": "Felipe"
         }

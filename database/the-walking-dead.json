@@ -19,16 +19,16 @@
       "edition": "Game of the Year Edition",
       "platform": "ps3",
       "version": "Favoritos",
-      "region": "latin-america",
+      "region": "latam",
       "description": "(sem manual) Argentina",
       "photos": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/the-walking-dead.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/the-walking-dead.jpg",
           "caption": "...",
           "author": "Felipe"
         },
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/the-walking-dead_inside.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/the-walking-dead_inside.jpg",
           "caption": "...",
           "author": "Felipe"
         }

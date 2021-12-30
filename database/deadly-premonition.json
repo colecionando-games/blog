@@ -29,16 +29,16 @@
       "edition": "The Director's Cut",
       "platform": "ps3",
       "version": "Favoritos",
-      "region": "latin-america",
+      "region": "latam",
       "description": "(sem manual) Argentina, Perú",
       "photos": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/deadly-premonition.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/deadly-premonition.jpg",
           "caption": "...",
           "author": "Felipe"
         },
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/deadly-premonition_inside.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/deadly-premonition_inside.jpg",
           "caption": "...",
           "author": "Felipe"
         }

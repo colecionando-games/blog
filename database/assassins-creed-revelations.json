@@ -5,16 +5,16 @@
     {
       "platform": "ps3",
       "version": "Favoritos",
-      "region": "latin-america",
+      "region": "latam",
       "description": "Onde encontrar: Argentina, Chile",
       "photos": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/assassins-creed-revelations.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/assassins-creed-revelations.jpg",
           "caption": "Capa",
           "author": "Felipe"
         },
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/assassins-creed-revelations_inside.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/assassins-creed-revelations_inside.jpg",
           "caption": "Manual e disco",
           "author": "Felipe"
         }

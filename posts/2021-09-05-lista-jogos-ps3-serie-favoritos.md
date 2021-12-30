@@ -9,7 +9,7 @@ thumbnail: ../static/assets/img/posts/wb-games-brasil-jogo-filme/post_thumbnail.
 cover: /assets/img/posts/wb-games-brasil-jogo-filme/post_thumbnail.jpg
 ---
 
-| Jogo                                                                                      |       Brasil       |   América latina   |
+| Jogo                                                                                      |       Brasil       |   América Latina   |
 | :---------------------------------------------------------------------------------------- | :----------------: | :----------------: |
 | [Assassin's Creed: Revelations](/games/assassins-creed-revelations/)                      |                    | :white_check_mark: |
 | [Bayonetta](/games/bayonetta/)                                                            | :white_check_mark: | :white_check_mark: |
@@ -79,7 +79,7 @@ cover: /assets/img/posts/wb-games-brasil-jogo-filme/post_thumbnail.jpg
 - PlayStation All-Stars Battle Royale
 - Resident Evil 5: Gold Edition
 
-## Exclusivos da América latina
+## Exclusivos da América Latina (LATAM)
 
 - Assassin's Creed: Revelations
 - Bioshock

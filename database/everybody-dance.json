@@ -17,11 +17,11 @@
     {
       "platform": "ps3",
       "version": "Favoritos",
-      "region": "latin-america",
+      "region": "latam",
       "description": "(com manual) Argentina, México",
       "photos": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/everybody-dance.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/everybody-dance.jpg",
           "caption": "...",
           "author": "Felipe"
         }

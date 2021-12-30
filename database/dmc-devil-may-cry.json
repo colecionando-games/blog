@@ -27,11 +27,11 @@
     {
       "platform": "ps3",
       "version": "Favoritos",
-      "region": "latin-america",
+      "region": "latam",
       "description": "Argentina, México, Perú",
       "photos": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/dmc-devil-may-cry.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/dmc-devil-may-cry.jpg",
           "caption": "...",
           "author": "Felipe"
         }

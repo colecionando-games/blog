@@ -17,11 +17,11 @@
     {
       "platform": "ps3",
       "version": "Favoritos",
-      "region": "latin-america",
+      "region": "latam",
       "description": "(com manual) Argentina",
       "photos": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latin/metal-gear-solid-4.jpg",
+          "url": "../static/assets/img/games/ps3/favoritos/latam/metal-gear-solid-4.jpg",
           "caption": "...",
           "author": "Felipe"
         }

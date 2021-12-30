@@ -12,7 +12,7 @@ const regionsData = [
     name: "Canadá"
   },
   {
-    id: "latin-america",
+    id: "latam",
     name: "América Latina"
   },
   {
