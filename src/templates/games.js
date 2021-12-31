@@ -28,10 +28,12 @@ const Games = ({ pageContext }) => {
               releases.map(({ edition, version, platform, region, photos }) => {
                 return (
                   <S.GameRelease>
-                    <S.GameReleaseEdition>{edition}</S.GameReleaseEdition>
-                    <S.GameReleaseVersion>{version}</S.GameReleaseVersion>
-                    {platformsData.find(p => p.id === platform).name}<br></br>
-                    <S.GameReleaseRegion>{regionsData.find(r => r.id === region).name}</S.GameReleaseRegion>
+                    <S.GameReleaseInfo>
+                      <S.GameReleaseEdition>{edition}</S.GameReleaseEdition>
+                      <S.GameReleaseVersion>{version}</S.GameReleaseVersion>
+                      <S.GameReleasePlatformLogo src={platformsData.find(p => p.id === platform).logo}/>
+                      <S.GameReleaseRegion>{regionsData.find(r => r.id === region).name}</S.GameReleaseRegion>
+                    </S.GameReleaseInfo>
                     {!photos ? <></> : <Lightbox images={photos}></Lightbox>}
                   </S.GameRelease>
                 )

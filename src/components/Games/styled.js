@@ -19,14 +19,13 @@ export const GameInfo = styled.section`
 export const GameTitle = styled.h1`
   font-size: 4rem;
   font-weight: 700;
-  padding: 0 1.4rem;
+  padding: 0;
   margin: 1rem auto;
   color: white;
 
   ${media.lessThan("large")`
     font-size: 2.8rem;
     line-height: 1.1;
-    padding: 0 1rem;
   `}
 `
 
@@ -64,6 +63,11 @@ export const GameReleaseVersion = styled.h2`
   `}
 `
 
+export const GameReleasePlatformLogo = styled.img`
+  height: 20px;
+  margin: 5px 0;
+` 
+
 export const GameRelease = styled.div`
   margin: 10px;
   background-color: white;
@@ -72,7 +76,7 @@ export const GameRelease = styled.div`
 `
 
 export const GameReleaseInfo = styled.div`
-  padding: 10px;
+  padding: 10px 15px 5px;
 `
 
 export const GameReleaseTitle = styled.h3`
