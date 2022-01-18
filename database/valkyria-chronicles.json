@@ -1,34 +1,19 @@
 {
   "title": "Valkyria Chronicles",
-  "developer": "Ubisoft",
+  "original_developer": "Sega",
+  "original_publisher": "Sega",
+  "original_release_year": "2008",
   "releases": [
     {
       "platform": "ps3",
-      "version": "Favoritos",
-      "region": "br",
-      "photos": [
+      "release_date": "2008",
+      "regions": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/br/valkyria-chronicles.jpg",
-          "caption": "...",
-          "author": "PS3 Hunter"
-        },
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/br/valkyria-chronicles_back.jpg",
-          "caption": "...",
-          "author": "PS3 Hunter"
-        },
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/br/valkyria-chronicles_inside.jpg",
-          "caption": "...",
-          "author": "PS3 Hunter"
-        }
-      ]
-    },
-    {
-      "platform": "ps3",
-      "version": "Favoritos",
-      "region": "latam",
-      "description": "(sem manual) Argentina, Chile, Perú",
+          "region": "latam",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "description": "(sem manual) Argentina, Chile, Perú",
       "photos": [
         {
           "url": "../static/assets/img/games/ps3/favoritos/latam/valkyria-chronicles.jpg",
@@ -36,6 +21,49 @@
           "author": "Felipe"
         }
       ]
+            }
+          ]
+        },
+        {
+          "region": "br",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "region": "br",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/valkyria-chronicles.jpg",
+                  "caption": "...",
+                  "author": "PS3 Hunter"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/valkyria-chronicles_back.jpg",
+                  "caption": "...",
+                  "author": "PS3 Hunter"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/valkyria-chronicles_inside.jpg",
+                  "caption": "...",
+                  "author": "PS3 Hunter"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "windows",
+      "release_date": "2014"
+    },
+    {
+      "platform": "ps4",
+      "release_date": "2016",
+      "edition": "Remastered"
+    },
+    {
+      "platform": "switch",
+      "release_date": "2018"
     }
   ],
   "pingbacks": [

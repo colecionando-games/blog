@@ -1,19 +1,34 @@
 {
   "title": "Red Dead Redemption",
-  "developer": "Ubisoft",
+  "original_developer": "Rockstar San Diego",
+  "original_publisher": "Rockstar Games",
+  "original_release_year": "2010",
   "releases": [
     {
       "platform": "ps3",
-      "version": "Favoritos",
-      "region": "latam",
-      "description": "(sem manual) Argentina, Chile, México, Perú",
-      "photos": [
+      "release_date": "2010",
+      "regions": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/red-dead-redemption.jpg",
-          "caption": "...",
-          "author": "Felipe"
+          "region": "latam",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "description": "(sem manual) Argentina, Chile, México, Perú",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/red-dead-redemption.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
         }
       ]
+    },
+    {
+      "platform": "xbox-360",
+      "release_date": "2010"
     }
   ],
   "pingbacks": [

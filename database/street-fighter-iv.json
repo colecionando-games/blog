@@ -1,53 +1,137 @@
 {
   "title": "Street Fighter IV",
-  "developer": "Ubisoft",
+  "original_developer": "Capcom",
+  "original_publisher": "Capcom",
+  "original_release_year": "2008",
   "releases": [
     {
-      "edition": "Super Street Fighter IV: Arcade Edition",
       "platform": "ps3",
-      "version": "Favoritos",
-      "region": "br",
-      "photos": [
+      "release_date": "2008"
+    },
+    {
+      "platform": "xbox-360",
+      "release_date": "2008"
+    },
+    {
+      "platform": "windows",
+      "release_date": "2008"
+    },
+    {
+      "platform": "ps3",
+      "release_date": "2010",
+      "edition": "Super Street Fighter IV"
+    },
+    {
+      "platform": "xbox-360",
+      "release_date": "2010"
+    },
+    {
+      "platform": "windows",
+      "release_date": "2010"
+    },
+    {
+      "platform": "ps3",
+      "release_date": "2011",
+      "edition": "Super Street Fighter IV: Arcade Edition",
+      "regions": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/br/super-street-fighter-iv.jpg",
-          "caption": "...",
-          "author": "PS3 Hunter"
+          "region": "latam",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "description": "(sem manual, escrito) Chile, (sem manual) México, Perú",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/super-street-fighter-iv.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/super-street-fighter-iv_inside.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            },
+            {
+              "version": "Favoritos",
+              "description": "(sem manual, escrito) Chile, (sem manual) México, Perú",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/super-street-fighter-iv.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/super-street-fighter-iv_inside2.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
         },
         {
-          "url": "../static/assets/img/games/ps3/favoritos/br/super-street-fighter-iv_back.jpg",
-          "caption": "...",
-          "author": "PS3 Hunter"
-        },
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/br/super-street-fighter-iv_inside.jpg",
-          "caption": "...",
-          "author": "PS3 Hunter"
+          "region": "br",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "region": "br",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/super-street-fighter-iv.jpg",
+                  "caption": "...",
+                  "author": "PS3 Hunter"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/super-street-fighter-iv_back.jpg",
+                  "caption": "...",
+                  "author": "PS3 Hunter"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/super-street-fighter-iv_inside.jpg",
+                  "caption": "...",
+                  "author": "PS3 Hunter"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
     {
-      "edition": "Super Street Fighter IV: Arcade Edition",
+      "platform": "xbox-360",
+      "release_date": "2011"
+    },
+    {
+      "platform": "xbox-one",
+      "release_date": "2011"
+    },
+    {
+      "platform": "windows",
+      "release_date": "2011"
+    },
+    {
+      "platform": "3ds",
+      "release_date": "2011",
+      "edition": "Super Street Fighter IV: 3D Edition"
+    },
+    {
       "platform": "ps3",
-      "version": "Favoritos",
-      "region": "latam",
-      "description": "(sem manual, escrito) Chile, (sem manual) México, Perú",
-      "photos": [
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/super-street-fighter-iv.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        },
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/super-street-fighter-iv_inside.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        },
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/super-street-fighter-iv_inside2.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        }
-      ]
+      "release_date": "2014",
+      "edition": "Ultra Street Fighter IV"
+    },
+    {
+      "platform": "xbox-360",
+      "release_date": "2014"
+    },
+    {
+      "platform": "windows",
+      "release_date": "2014"
+    },
+    {
+      "platform": "ps4",
+      "release_date": "2014"
     }
   ],
   "pingbacks": [

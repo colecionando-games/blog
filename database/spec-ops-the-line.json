@@ -1,19 +1,46 @@
 {
   "title": "Spec Ops: The Line",
-  "developer": "Ubisoft",
+  "original_developer": "Yager Development",
+  "original_publisher": "2K Games",
+  "original_release_year": "2012",
   "releases": [
     {
       "platform": "ps3",
-      "version": "Favoritos",
-      "region": "latam",
-      "description": "(com manual) Argentina, México, Perú",
-      "photos": [
+      "release_date": "2012",
+      "regions": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/spec-ops-the-line.jpg",
-          "caption": "...",
-          "author": "Felipe"
+          "region": "latam",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "description": "(com manual) Argentina, México, Perú",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/spec-ops-the-line.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
         }
       ]
+    },
+    {
+      "platform": "xbox-360",
+      "release_date": "2012"
+    },
+    {
+      "platform": "windows",
+      "release_date": "2012"
+    },
+    {
+      "platform": "osx",
+      "release_date": "2013"
+    },
+    {
+      "platform": "linux",
+      "release_date": "2015"
     }
   ],
   "pingbacks": [

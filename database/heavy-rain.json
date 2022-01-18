@@ -1,48 +1,71 @@
 {
   "title": "Heavy Rain",
-  "developer": "Ubisoft",
+  "original_developer": "Quantic Dream",
+  "original_publisher": "Sony Computer Entertainment",
+  "original_release_year": "2010",
   "releases": [
     {
-      "edition": "Director's Cut",
       "platform": "ps3",
-      "version": "Favoritos",
-      "region": "br",
-      "photos": [
+      "release_date": "2010",
+      "regions": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/br/heavy-rain.jpg",
-          "caption": "...",
-          "author": "PS3 Hunter"
+          "region": "latam",
+          "versions": [
+            {
+              "edition": "Director's Cut",
+              "version": "Favoritos",
+              "description": "(com manual) Argentina, Chile, México, Perú",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/heavy-rain.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/heavy-rain_inside.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
         },
         {
-          "url": "../static/assets/img/games/ps3/favoritos/br/heavy-rain_back.jpg",
-          "caption": "...",
-          "author": "PS3 Hunter"
-        },
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/br/heavy-rain_inside.jpg",
-          "caption": "...",
-          "author": "PS3 Hunter"
+          "region": "br",
+          "versions": [
+            {
+              "edition": "Director's Cut",
+              "version": "Favoritos",
+              "region": "br",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/heavy-rain.jpg",
+                  "caption": "...",
+                  "author": "PS3 Hunter"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/heavy-rain_back.jpg",
+                  "caption": "...",
+                  "author": "PS3 Hunter"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/heavy-rain_inside.jpg",
+                  "caption": "...",
+                  "author": "PS3 Hunter"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
     {
-      "edition": "Director's Cut",
-      "platform": "ps3",
-      "version": "Favoritos",
-      "region": "latam",
-      "description": "(com manual) Argentina, Chile, México, Perú",
-      "photos": [
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/heavy-rain.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        },
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/heavy-rain_inside.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        }
-      ]
+      "platform": "ps4",
+      "release_date": "2016"
+    },
+    {
+      "platform": "windows",
+      "release_date": "2019"
     }
   ],
   "pingbacks": [

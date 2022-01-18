@@ -1,38 +1,89 @@
 {
   "title": "The Walking Dead",
-  "developer": "Ubisoft",
+  "original_developer": "Telltale Games ",
+  "original_publisher": "Telltale Games ",
+  "original_release_year": "2012",
   "releases": [
     {
-      "edition": "Game of the Year Edition",
       "platform": "ps3",
-      "version": "Favoritos",
-      "region": "br",
-      "photos": [
+      "release_date": "2012",
+      "regions": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/br/the-walking-dead.jpg",
-          "caption": "...",
-          "author": "Felipe"
+          "region": "latam",
+          "versions": [
+            {
+              "edition": "Game of the Year Edition",
+              "version": "Favoritos",
+              "description": "(sem manual) Argentina",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/the-walking-dead.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/the-walking-dead_inside.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "region": "br",
+          "versions": [
+            {
+              "edition": "Game of the Year Edition",
+              "version": "Favoritos",
+              "region": "br",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/the-walking-dead.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
     {
-      "edition": "Game of the Year Edition",
-      "platform": "ps3",
-      "version": "Favoritos",
-      "region": "latam",
-      "description": "(sem manual) Argentina",
-      "photos": [
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/the-walking-dead.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        },
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/the-walking-dead_inside.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        }
-      ]
+      "platform": "xbox-360",
+      "release_date": "2012"
+    },
+    {
+      "platform": "windows",
+      "release_date": "2012"
+    },
+    {
+      "platform": "osx",
+      "release_date": "2012"
+    },
+    {
+      "platform": "android",
+      "release_date": "2012"
+    },
+    {
+      "platform": "ios",
+      "release_date": "2012"
+    },
+    {
+      "platform": "vita",
+      "release_date": "2013"
+    },
+    {
+      "platform": "ps4",
+      "release_date": "2014"
+    },
+    {
+      "platform": "xbox-one",
+      "release_date": "2014"
+    },
+    {
+      "platform": "switch",
+      "release_date": "2018"
     }
   ],
   "pingbacks": [

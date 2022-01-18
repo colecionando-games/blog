@@ -1,44 +1,59 @@
 {
   "title": "The ICO & Shadow of the Colossus Collection",
-  "developer": "Ubisoft",
+  "original_developer": "Bluepoint Games",
+  "original_publisher": "Sony Computer Entertainment",
+  "original_release_year": "2011",
   "releases": [
     {
       "platform": "ps3",
-      "version": "Favoritos",
-      "region": "br",
-      "photos": [
+      "release_date": "2011",
+      "regions": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/br/the-ico-shadow-colossus-collection.jpg",
-          "caption": "...",
-          "author": "PS3 Hunter"
+          "region": "latam",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "description": "(com manual) México",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/the-ico-shadow-colossus-collection.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/the-ico-shadow-colossus-collection_inside.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
         },
         {
-          "url": "../static/assets/img/games/ps3/favoritos/br/the-ico-shadow-colossus-collection_back.jpg",
-          "caption": "...",
-          "author": "PS3 Hunter"
-        },
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/br/the-ico-shadow-colossus-collection_inside.jpg",
-          "caption": "...",
-          "author": "PS3 Hunter"
-        }
-      ]
-    },
-    {
-      "platform": "ps3",
-      "version": "Favoritos",
-      "region": "latam",
-      "description": "(com manual) México",
-      "photos": [
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/the-ico-shadow-colossus-collection.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        },
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/the-ico-shadow-colossus-collection_inside.jpg",
-          "caption": "...",
-          "author": "Felipe"
+          "region": "br",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "region": "br",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/the-ico-shadow-colossus-collection.jpg",
+                  "caption": "...",
+                  "author": "PS3 Hunter"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/the-ico-shadow-colossus-collection_back.jpg",
+                  "caption": "...",
+                  "author": "PS3 Hunter"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/the-ico-shadow-colossus-collection_inside.jpg",
+                  "caption": "...",
+                  "author": "PS3 Hunter"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

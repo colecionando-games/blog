@@ -1,36 +1,91 @@
 {
   "title": "Darksiders",
-  "developer": "Ubisoft",
+  "original_developer": "Vigil Games",
+  "original_publisher": "THQ",
+  "original_release_year": "2010",
   "releases": [
     {
       "platform": "ps3",
-      "version": "Favoritos",
-      "region": "br",
-      "photos": [
+      "release_date": "2010",
+      "regions": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/br/darksiders.jpg",
-          "caption": "...",
-          "author": "Felipe"
+          "region": "latam",
+          "release_date": "2010-01-05",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "description": "Argentina (sem manual), Chile (com manual), México, Perú",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/darksiders.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/darksiders_inside.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "region": "br",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "region": "br",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/darksiders.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
     {
-      "platform": "ps3",
-      "version": "Favoritos",
-      "region": "latam",
-      "description": "Argentina (sem manual), Chile (com manual), México, Perú",
-      "photos": [
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/darksiders.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        },
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/darksiders_inside.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        }
-      ]
+      "platform": "xbox-360",
+      "release_date": "2010"
+    },
+    {
+      "platform": "windows",
+      "release_date": "2010"
+    },
+    {
+      "platform": "ps4",
+      "release_date": "2016",
+      "developer": "Kaiko",
+      "publisher": "THQ Nordic",
+      "edition": "Warmastered Edition"
+    },
+    {
+      "platform": "xbox-one",
+      "release_date": "2016",
+      "developer": "Kaiko",
+      "publisher": "THQ Nordic"
+    },
+    {
+      "platform": "windows",
+      "release_date": "2016",
+      "developer": "Kaiko",
+      "publisher": "THQ Nordic"
+    },
+    {
+      "platform": "wii-u",
+      "release_date": "2017",
+      "developer": "Kaiko",
+      "publisher": "THQ Nordic"
+    },
+    {
+      "platform": "switch",
+      "release_date": "2019",
+      "developer": "Kaiko",
+      "publisher": "THQ Nordic"
     }
   ],
   "pingbacks": [

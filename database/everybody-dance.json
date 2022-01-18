@@ -1,29 +1,43 @@
 {
   "title": "Everybody Dance",
-  "developer": "Ubisoft",
+  "original_developer": "London Studio",
+  "original_publisher": "Sony Computer Entertainment",
+  "original_release_year": "2011",
   "releases": [
     {
       "platform": "ps3",
-      "version": "Favoritos",
-      "region": "br",
-      "photos": [
+      "regions": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/br/everybody-dance.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        }
-      ]
-    },
-    {
-      "platform": "ps3",
-      "version": "Favoritos",
-      "region": "latam",
-      "description": "(com manual) Argentina, México",
-      "photos": [
+          "region": "latam",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "description": "(com manual) Argentina, México",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/everybody-dance.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
+        },
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/everybody-dance.jpg",
-          "caption": "...",
-          "author": "Felipe"
+          "region": "br",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "region": "br",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/everybody-dance.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

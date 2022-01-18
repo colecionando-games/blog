@@ -1,47 +1,79 @@
 {
   "title": "Devil May Cry - HD Collection",
-  "developer": "Ubisoft",
+  "original_developer": "Pipeworks Software",
+  "original_publisher": "Capcom",
+  "original_release_year": "2012",
   "releases": [
     {
       "platform": "ps3",
-      "version": "Favoritos",
-      "region": "br",
-      "photos": [
+      "release_date": "2012",
+      "regions": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/br/devil-may-cry-collection.jpg",
-          "caption": "...",
-          "author": "PS3 Hunter"
+          "region": "latam",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "description": "(com manual) Argentina, México",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/devil-may-cry-collection.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/devil-may-cry-collection_inside.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
         },
         {
-          "url": "../static/assets/img/games/ps3/favoritos/br/devil-may-cry-collection_back.jpg",
-          "caption": "...",
-          "author": "PS3 Hunter"
-        },
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/br/devil-may-cry-collection_inside.jpg",
-          "caption": "...",
-          "author": "PS3 Hunter"
+          "region": "br",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "region": "br",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/devil-may-cry-collection.jpg",
+                  "caption": "...",
+                  "author": "PS3 Hunter"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/devil-may-cry-collection_back.jpg",
+                  "caption": "...",
+                  "author": "PS3 Hunter"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/devil-may-cry-collection_inside.jpg",
+                  "caption": "...",
+                  "author": "PS3 Hunter"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
     {
-      "platform": "ps3",
-      "version": "Favoritos",
-      "region": "latam",
-      "description": "(com manual) Argentina, México",
-      "photos": [
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/devil-may-cry-collection.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        },
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/devil-may-cry-collection_inside.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        }
-      ]
+      "platform": "xbox-360",
+      "release_date": "2012"
+    },
+    {
+      "platform": "windows",
+      "release_date": "2018"
+    },
+    {
+      "platform": "ps4",
+      "release_date": "2018"
+    },
+    {
+      "platform": "xbox-one",
+      "release_date": "2018"
     }
+
   ],
   "pingbacks": [
     {

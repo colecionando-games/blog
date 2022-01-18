@@ -1,43 +1,81 @@
 {
   "title": "Journey",
-  "developer": "Ubisoft",
+  "original_developer": "thatgamecompany",
+  "original_publisher": "Sony Computer Entertainment",
+  "original_release_year": "2012",
   "releases": [
     {
-      "edition": "Edição Colecionador",
       "platform": "ps3",
-      "version": "Favoritos",
-      "region": "br",
-      "photos": [
+      "release_date": "2012",
+      "regions": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/br/journey.jpg",
-          "caption": "...",
-          "author": "Mercado Livre"
+          "region": "latam",
+          "versions": [
+            {
+              "edition": "Collector's Edition",
+              "version": "Favoritos",
+              "description": "(com manual) Argentina",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/journey.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
         },
         {
-          "url": "../static/assets/img/games/ps3/favoritos/br/journey_back.jpg",
-          "caption": "...",
-          "author": "PS3 Hunter"
-        },
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/br/journey_inside.jpg",
-          "caption": "...",
-          "author": "PS3 Hunter"
+          "region": "br",
+          "versions": [
+            {
+              "edition": "Edição Colecionador",
+              "version": "Favoritos",
+              "region": "br",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/journey.jpg",
+                  "caption": "...",
+                  "author": "Mercado Livre"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/journey_back.jpg",
+                  "caption": "...",
+                  "author": "PS3 Hunter"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/journey_inside.jpg",
+                  "caption": "...",
+                  "author": "PS3 Hunter"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
     {
-      "edition": "Collector's Edition",
-      "platform": "ps3",
-      "version": "Favoritos",
-      "region": "latam",
-      "description": "(com manual) Argentina",
-      "photos": [
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/journey.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        }
-      ]
+      "platform": "ps4",
+      "release_date": "2015"
+    },
+    {
+      "platform": "windows",
+      "release_date": "2019",
+      "description": "via Epic Games"
+    },
+    {
+      "platform": "ios",
+      "release_date": "2019",
+      "developer": "Annapurna Interactive"
+    },
+    {
+      "platform": "steam",
+      "release_date": "2020",
+      "developer": "Annapurna Interactive"
+    },
+    {
+      "platform": "ps5",
+      "release_date": "2020"
     }
   ],
   "pingbacks": [

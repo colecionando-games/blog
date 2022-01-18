@@ -1,23 +1,31 @@
 const regionsData = [
   {
-    id: "aus",
-    name: "Austrália"
+    id: "au",
+    name: "Australasia"
   },
   {
     id: "br",
     name: "Brasil"
   },
   {
-    id: "ca",
-    name: "Canadá"
+    id: "eu",
+    name: "Europa"
+  },
+  {
+    id: "jp",
+    name: "Japão"
   },
   {
     id: "latam",
     name: "América Latina"
   },
   {
-    id: "us",
-    name: "EUA"
+    id: "na",
+    name: "América do Norte"
+  },
+  {
+    id: "pal",
+    name: "PAL"
   }
 ]
 

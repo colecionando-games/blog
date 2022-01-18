@@ -1,51 +1,84 @@
 {
   "title": "Uncharted 3: Drake's Deception",
-  "developer": "Ubisoft",
+  "original_developer": "Naughty Dog",
+  "original_publisher": "Sony Computer Entertainment",
+  "original_release_year": "2011",
   "releases": [
     {
       "platform": "ps3",
-      "version": "Favoritos",
-      "region": "br",
-      "photos": [
+      "release_date": "2011",
+      "regions": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/br/uncharted-3.jpg",
-          "caption": "...",
-          "author": "PS3 Hunter"
+          "region": "latam",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "description": "(com manual) (sem manual) Argentina, Chile, México, Perú",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/uncharted-3.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/uncharted-3_inside.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            },
+            {
+              "version": "Favoritos",
+              "description": "(com manual) (sem manual) Argentina, Chile, México, Perú",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/uncharted-3.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/uncharted-3_inside2.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
         },
         {
-          "url": "../static/assets/img/games/ps3/favoritos/br/uncharted-3_back.jpg",
-          "caption": "...",
-          "author": "PS3 Hunter"
-        },
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/br/uncharted-3_inside.jpg",
-          "caption": "...",
-          "author": "PS3 Hunter"
+          "region": "br",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "region": "br",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/uncharted-3.jpg",
+                  "caption": "...",
+                  "author": "PS3 Hunter"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/uncharted-3_back.jpg",
+                  "caption": "...",
+                  "author": "PS3 Hunter"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/uncharted-3_inside.jpg",
+                  "caption": "...",
+                  "author": "PS3 Hunter"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
     {
-      "platform": "ps3",
-      "version": "Favoritos",
-      "region": "latam",
-      "description": "(com manual) (sem manual) Argentina, Chile, México, Perú",
-      "photos": [
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/uncharted-3.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        },
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/uncharted-3_inside.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        },
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/uncharted-3_inside2.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        }
-      ]
+      "platform": "ps4",
+      "release_date": "2015",
+      "developer": "Bluepoint Games",
+      "edition": "Remasterizado",
+      "description": "Foi lançado dentro da coletânea Uncharted: The Nathan Drake Collection"
     }
   ],
   "pingbacks": [

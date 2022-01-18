@@ -1,22 +1,32 @@
 {
   "title": "EyePet & Friends",
-  "developer": "Ubisoft",
+  "original_developer": "SCEE London Studio",
+  "original_publisher": "Sony Computer Entertainment",
+  "original_release_year": "2011",
   "releases": [
     {
       "platform": "ps3",
-      "version": "Favoritos",
-      "region": "latam",
-      "description": "Argentina, Chile, Perú",
-      "photos": [
+      "regions": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/eyepet-friends.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        },
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/eyepet-friends_inside.jpg",
-          "caption": "...",
-          "author": "Felipe"
+          "region": "latam",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "description": "Argentina, Perú",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/eyepet-friends.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/eyepet-friends_inside.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

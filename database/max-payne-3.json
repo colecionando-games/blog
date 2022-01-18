@@ -1,23 +1,46 @@
 {
   "title": "Max Payne 3",
-  "developer": "Ubisoft",
+  "original_developer": "Rockstar Studios",
+  "original_publisher": "Rockstar Games",
+  "original_release_year": "2012",
   "releases": [
     {
       "platform": "ps3",
-      "version": "Favoritos",
-      "region": "latam",
-      "photos": [
+      "release_date": "2012",
+      "regions": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/max-payne-3.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        },
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/max-payne-3_inside.jpg",
-          "caption": "...",
-          "author": "Felipe"
+          "region": "latam",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/max-payne-3.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/max-payne-3_inside.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
         }
       ]
+    },
+    {
+      "platform": "xbox-360",
+      "release_date": "2012"
+    },
+    {
+      "platform": "windows",
+      "release_date": "2012"
+    },
+    {
+      "platform": "osx",
+      "release_date": "2013"
     }
   ],
   "pingbacks": [

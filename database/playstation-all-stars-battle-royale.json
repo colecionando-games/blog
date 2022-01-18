@@ -1,18 +1,36 @@
 {
   "title": "PlayStation All-Stars Battle Royale",
-  "developer": "Ubisoft",
+  "original_developer": "SuperBot Entertainment / SCE Santa Monica",
+  "original_publisher": "Sony Computer Entertainment",
+  "original_release_year": "2012",
   "releases": [
     {
       "platform": "ps3",
-      "version": "Favoritos",
-      "region": "br",
-      "photos": [
+      "release_date": "2012",
+      "developer": "SuperBot Entertainment / SCE Santa Monica",
+      "regions": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/br/playstation-all-stars-battle-royale.jpg",
-          "caption": "...",
-          "author": "Mercado Livre"
+          "region": "br",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "region": "br",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/playstation-all-stars-battle-royale.jpg",
+                  "caption": "...",
+                  "author": "Mercado Livre"
+                }
+              ]
+            }
+          ]
         }
       ]
+    },
+    {
+      "platform": "vita",
+      "release_date": "2012",
+      "developer": "Bluepoint Games"
     }
   ],
   "pingbacks": [

@@ -1,41 +1,73 @@
 {
   "title": "DmC: Devil May Cry",
-  "developer": "Ubisoft",
+  "original_developer": "Ninja Theory",
+  "original_publisher": "Capcom",
+  "original_release_year": "2013",
   "releases": [
     {
       "platform": "ps3",
-      "version": "Favoritos",
-      "region": "br",
-      "photos": [
+      "release_date": "2013",
+      "regions": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/br/dmc-devil-may-cry.jpg",
-          "caption": "...",
-          "author": "PS3 Hunter"
+          "region": "latam",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "description": "Argentina, México, Perú",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/dmc-devil-may-cry.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
         },
         {
-          "url": "../static/assets/img/games/ps3/favoritos/br/dmc-devil-may-cry_back.jpg",
-          "caption": "...",
-          "author": "PS3 Hunter"
-        },
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/br/dmc-devil-may-cry_inside.jpg",
-          "caption": "...",
-          "author": "PS3 Hunter"
+          "region": "br",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "region": "br",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/dmc-devil-may-cry.jpg",
+                  "caption": "...",
+                  "author": "PS3 Hunter"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/dmc-devil-may-cry_back.jpg",
+                  "caption": "...",
+                  "author": "PS3 Hunter"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/dmc-devil-may-cry_inside.jpg",
+                  "caption": "...",
+                  "author": "PS3 Hunter"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
     {
-      "platform": "ps3",
-      "version": "Favoritos",
-      "region": "latam",
-      "description": "Argentina, México, Perú",
-      "photos": [
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/dmc-devil-may-cry.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        }
-      ]
+      "platform": "xbox-360",
+      "release_date": "2013"
+    },
+    {
+      "platform": "windows",
+      "release_date": "2015"
+    },
+    {
+      "platform": "ps4",
+      "release_date": "2015",
+      "edition": "Definitive Edition"
+    },
+    {
+      "platform": "xbox-one",
+      "release_date": "2015"
     }
   ],
   "pingbacks": [

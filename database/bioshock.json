@@ -1,24 +1,62 @@
 {
-  "title": "Bioshock",
-  "developer": "Ubisoft",
+  "title": "BioShock",
+  "original_developer": "2K Boston e 2K Australia",
+  "original_publisher": "2K Games",
+  "original_release_year": "2007",
   "releases": [
     {
+      "platform": "xbox-360",
+      "release_date": "2007"
+    },
+    {
+      "platform": "windows",
+      "release_date": "2007"
+    },
+    {
       "platform": "ps3",
-      "version": "Favoritos",
-      "region": "latam",
-      "description": "Chile, Perú",
-      "photos": [
+      "release_date": "2008",
+      "regions": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/bioshock.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        },
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/bioshock_inside.jpg",
-          "caption": "...",
-          "author": "Felipe"
+          "region": "latam",
+          "release_date": "2008-10-21",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "description": "Chile, Perú",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/bioshock.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/bioshock_inside.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
         }
       ]
+    },
+    {
+      "platform": "ps4",
+      "release_date": "2016",
+      "developer": "Blind Squirrel Games",
+      "description": "Versão remasterizada lançada dentro da coletânia BioShock: The Collection"
+    },
+    {
+      "platform": "xbox-one",
+      "release_date": "2016",
+      "developer": "Blind Squirrel Games",
+      "description": "Versão remasterizada lançada dentro da coletânia BioShock: The Collection"
+    },
+    {
+      "platform": "switch",
+      "release_date": "2020",
+      "developer": "Blind Squirrel Games",
+      "description": "Versão remasterizada lançada dentro da coletânia BioShock: The Collection"
     }
   ],
   "pingbacks": [

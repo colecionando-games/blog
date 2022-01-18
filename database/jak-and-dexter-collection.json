@@ -1,24 +1,39 @@
 {
   "title": "Jak and Dexter Collection",
-  "developer": "Ubisoft",
+  "original_developer": "Mass Media Games",
+  "original_publisher": "Sony Computer Entertainment",
+  "original_release_year": "2012",
   "releases": [
     {
       "platform": "ps3",
-      "version": "Favoritos",
-      "region": "latam",
-      "description": "(com manual) Argentina, México",
-      "photos": [
+      "release_date": "2012",
+      "regions": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/jak-dexter.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        },
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/jak-dexter_inside.jpg",
-          "caption": "...",
-          "author": "Felipe"
+          "region": "latam",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "description": "(com manual) Argentina, México",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/jak-dexter.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/jak-dexter_inside.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
         }
       ]
+    },
+    {
+      "platform": "vita",
+      "release_date": "2013"
     }
   ],
   "pingbacks": [

@@ -1,28 +1,74 @@
 {
   "title": "Resident Evil 5",
-  "developer": "Ubisoft",
-  "releases": [
+  "original_developer": "Capcom",
+  "original_publisher": "Capcom",
+  "original_release_year": "2009",
+  "releases": [    
     {
       "platform": "ps3",
-      "version": "Favoritos",
-      "region": "br",
-      "photos": [
+      "release_date": "2009"
+    },
+    {
+      "platform": "xbox-360",
+      "release_date": "2009"
+    },
+    {
+      "platform": "windows",
+      "release_date": "2009"
+    },
+    {
+      "platform": "ps3",
+      "release_date": "2010",
+      "edition": "Gold Edition",
+      "regions": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/br/resident-evil-5.jpg",
-          "caption": "...",
-          "author": "PS3 Hunter"
-        },
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/br/resident-evil-5_back.jpg",
-          "caption": "...",
-          "author": "PS3 Hunter"
-        },
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/br/resident-evil-5_inside.jpg",
-          "caption": "...",
-          "author": "PS3 Hunter"
+          "region": "br",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "region": "br",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/resident-evil-5.jpg",
+                  "caption": "...",
+                  "author": "PS3 Hunter"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/resident-evil-5_back.jpg",
+                  "caption": "...",
+                  "author": "PS3 Hunter"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/resident-evil-5_inside.jpg",
+                  "caption": "...",
+                  "author": "PS3 Hunter"
+                }
+              ]
+            }
+          ]
         }
       ]
+    },
+    {
+      "platform": "xbox-360",
+      "release_date": "2010"
+    },
+    {
+      "platform": "windows",
+      "release_date": "2015"
+    },
+    {
+      "platform": "ps4",
+      "release_date": "2016",
+      "edition": " "
+    },
+    {
+      "platform": "xbox-one",
+      "release_date": "2016"
+    },
+    {
+      "platform": "switch",
+      "release_date": "2019"
     }
   ],
   "pingbacks": [

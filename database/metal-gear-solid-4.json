@@ -1,29 +1,44 @@
 {
   "title": "Metal Gear Solid 4: Guns of Patriots",
-  "developer": "Ubisoft",
+  "original_developer": "Kojima Productions",
+  "original_publisher": "Konami",
+  "original_release_year": "2008",
   "releases": [
     {
       "platform": "ps3",
-      "version": "Favoritos",
-      "region": "br",
-      "photos": [
+      "release_date": "2008",
+      "regions": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/br/metal-gear-solid-4.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        }
-      ]
-    },
-    {
-      "platform": "ps3",
-      "version": "Favoritos",
-      "region": "latam",
-      "description": "(com manual) Argentina",
-      "photos": [
+          "region": "latam",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "description": "(com manual) Argentina",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/metal-gear-solid-4.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
+        },
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/metal-gear-solid-4.jpg",
-          "caption": "...",
-          "author": "Felipe"
+          "region": "br",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "region": "br",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/metal-gear-solid-4.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

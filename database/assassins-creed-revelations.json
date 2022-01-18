@@ -1,24 +1,64 @@
 {
   "title": "Assassin's Creed: Revelations",
-  "developer": "Ubisoft",
+  "original_developer": "Ubisoft Montreal",
+  "original_publisher": "Ubisoft",
+  "original_release_year": "2011",
   "releases": [
     {
       "platform": "ps3",
-      "version": "Favoritos",
-      "region": "latam",
-      "description": "Onde encontrar: Argentina, Chile",
-      "photos": [
+      "developer": "Ubisoft Montreal",
+      "publisher": "Ubisoft",
+      "release_date": "2011",
+      "regions": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/assassins-creed-revelations.jpg",
-          "caption": "Capa",
-          "author": "Felipe"
-        },
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/assassins-creed-revelations_inside.jpg",
-          "caption": "Manual e disco",
-          "author": "Felipe"
+          "region": "latam",
+          "release_date": "2011-11-15",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "description": "Onde encontrar: Argentina, Chile",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/assassins-creed-revelations.jpg",
+                  "caption": "Capa",
+                  "author": "Felipe"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/assassins-creed-revelations_inside.jpg",
+                  "caption": "Manual e disco",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
         }
       ]
+    },
+    {
+      "platform": "xbox-360",
+      "developer": "Ubisoft Montreal",
+      "publisher": "Ubisoft",
+      "release_date": "2011"
+    },
+    {
+      "platform": "windows",
+      "developer": "Ubisoft Montreal",
+      "publisher": "Ubisoft",
+      "release_date": "2011"
+    },
+    {
+      "platform": "ps4",
+      "developer": "Ubisoft Montreal",
+      "publisher": "Ubisoft",
+      "release_date": "2016",
+      "description": "Versão remasterizada lançada dentro da coletânia Assassin's Creed: The Ezio Collection"
+    },
+    {
+      "platform": "xbox-one",
+      "developer": "Ubisoft Montreal",
+      "publisher": "Ubisoft",
+      "release_date": "2016",
+      "description": "Versão remasterizada lançada dentro da coletânia Assassin's Creed: The Ezio Collection"
     }
   ],
   "pingbacks": [

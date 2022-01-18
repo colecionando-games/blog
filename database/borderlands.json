@@ -1,24 +1,63 @@
 {
   "title": "Borderlands",
-  "developer": "Ubisoft",
+  "original_developer": "Gearbox Software",
+  "original_publisher": "2K Games",
+  "original_release_year": "2009",
   "releases": [
     {
       "platform": "ps3",
-      "version": "Favoritos",
-      "region": "latam",
-      "description": "Argentina, México",
-      "photos": [
+      "release_date": "2009",
+      "regions": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/borderlands.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        },
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/borderlands_inside.jpg",
-          "caption": "...",
-          "author": "Felipe"
+          "region": "latam",
+          "release_date": "2009-10-20",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "description": "Argentina, México",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/borderlands.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/borderlands_inside.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
         }
       ]
+    },
+    {
+      "platform": "xbox-360",
+      "release_date": "2009"
+    },
+    {
+      "platform": "windows",
+      "release_date": "2009"
+    },
+    {
+      "platform": "osx",
+      "release_date": "2010"
+    },
+    {
+      "platform": "ps4",
+      "release_date": "2019",
+      "description": "Versão remasterizada"
+    },
+    {
+      "platform": "xbox-one",
+      "release_date": "2019",
+      "description": "Versão remasterizada"
+    },
+    {
+      "platform": "switch",
+      "release_date": "2020",
+      "description": "Versão remasterizada"
     }
   ],
   "pingbacks": [

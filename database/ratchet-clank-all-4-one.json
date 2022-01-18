@@ -1,34 +1,49 @@
 {
   "title": "Ratchet & Clank: All 4 One",
-  "developer": "Ubisoft",
+  "original_developer": "Insomniac Games",
+  "original_publisher": "Sony Computer Entertainment",
+  "original_release_year": "2011",
   "releases": [
     {
       "platform": "ps3",
-      "version": "Favoritos",
-      "region": "br",
-      "photos": [
+      "release_date": "2011",
+      "regions": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/br/ratchet-clank-all4one.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        }
-      ]
-    },
-    {
-      "platform": "ps3",
-      "version": "Favoritos",
-      "region": "latam",
-      "description": "(com manual) Argentina, México",
-      "photos": [
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/ratchet-clank-all4one.jpg",
-          "caption": "...",
-          "author": "Felipe"
+          "region": "latam",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "description": "(com manual) Argentina, México",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/ratchet-clank-all4one.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/ratchet-clank-all4one_inside.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
         },
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/ratchet-clank-all4one_inside.jpg",
-          "caption": "...",
-          "author": "Felipe"
+          "region": "br",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "region": "br",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/ratchet-clank-all4one.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

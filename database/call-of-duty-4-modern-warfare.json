@@ -1,24 +1,67 @@
 {
   "title": "Call of Duty 4: Modern Warfare",
-  "developer": "Ubisoft",
+  "original_developer": "Infinity Ward",
+  "original_publisher": "Activision",
+  "original_release_year": "2007",
   "releases": [
     {
       "platform": "ps3",
-      "version": "Favoritos",
-      "region": "latam",
-      "description": "(sem manual) Argentina, México",
-      "photos": [
+      "release_date": "2007",
+      "regions": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/call-of-duty-4-modern-warfare.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        },
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/call-of-duty-4-modern-warfare_inside.jpg",
-          "caption": "...",
-          "author": "Felipe"
+          "region": "latam",
+          "release_date": "2007-11-05",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "description": "(sem manual) Argentina, México",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/call-of-duty-4-modern-warfare.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/call-of-duty-4-modern-warfare_inside.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
         }
       ]
+    },
+    {
+      "platform": "xbox-360",
+      "release_date": "2007"
+    },
+    {
+      "platform": "windows",
+      "release_date": "2007"
+    },
+    {
+      "platform": "osx",
+      "release_date": "2008"
+    },
+    {
+      "platform": "wii",
+      "release_date": "2009"
+    },
+    {
+      "platform": "ps4",
+      "release_date": "2016",
+      "description": "Versão melhorada lançada juntamente com algumas versões especiais do Call of Duty: Infinite Warfare."
+    },
+    {
+      "platform": "xbox-one",
+      "release_date": "2016",
+      "description": "Versão melhorada lançada juntamente com algumas versões especiais do Call of Duty: Infinite Warfare."
+    },
+    {
+      "platform": "windows",
+      "release_date": "2016",
+      "description": "Versão melhorada lançada juntamente com algumas versões especiais do Call of Duty: Infinite Warfare."
     }
   ],
   "pingbacks": [

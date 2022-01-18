@@ -1,31 +1,58 @@
 {
   "title": "Sonic Generations",
-  "developer": "Ubisoft",
+  "original_developer": "Sonic Team",
+  "original_publisher": "Sega",
+  "original_release_year": "2011",
   "releases": [
     {
       "platform": "ps3",
-      "version": "Favoritos",
-      "region": "br",
-      "photos": [
+      "release_date": "2011",
+      "regions": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/br/sonic-generations.jpg",
-          "caption": "...",
-          "author": "Felipe"
+          "region": "latam",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "description": "(com manual) Chile, México, Perú",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/sonic-generations.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "region": "br",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "region": "br",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/sonic-generations.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
     {
-      "platform": "ps3",
-      "version": "Favoritos",
-      "region": "latam",
-      "description": "(com manual) Chile, México, Perú",
-      "photos": [
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/sonic-generations.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        }
-      ]
+      "platform": "xbox-360",
+      "release_date": "2011"
+    },
+    {
+      "platform": "windows",
+      "release_date": "2011"
+    },
+    {
+      "platform": "3ds",
+      "release_date": "2011"
     }
   ],
   "pingbacks": [

@@ -1,22 +1,33 @@
 {
   "title": "Demon's Souls",
-  "developer": "Ubisoft",
+  "original_developer": "FromSoftware",
+  "original_publisher": "Atlus",
+  "original_release_year": "2009",
   "releases": [
     {
       "platform": "ps3",
-      "version": "Favoritos",
-      "region": "latam",
-      "description": "Chile, Perú",
-      "photos": [
+      "release_date": "2009",
+      "regions": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/demons-souls.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        },
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/demons-souls_inside.jpg",
-          "caption": "...",
-          "author": "Felipe"
+          "region": "latam",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "description": "Chile, Perú",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/demons-souls.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/demons-souls_inside.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

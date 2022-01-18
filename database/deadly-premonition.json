@@ -1,48 +1,78 @@
 {
   "title": "Deadly Premonition",
-  "developer": "Ubisoft",
+  "original_developer": "Access Games",
+  "original_publisher": "Ignition Entertainment",
+  "original_release_year": "2010",
   "releases": [
     {
-      "edition": "The Director's Cut",
+      "platform": "xbox-360",
+      "release_date": "2010"
+    },
+    {
       "platform": "ps3",
-      "version": "Favoritos",
-      "region": "br",
-      "photos": [
+      "release_date": "2013",
+      "publisher": "Rising Star Games",
+      "edition": "The Director's Cut",
+      "regions": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/br/deadly-premonition.jpg",
-          "caption": "...",
-          "author": "PS3 Hunter"
+          "region": "latam",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "description": "(sem manual) Argentina, Perú",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/deadly-premonition.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/deadly-premonition_inside.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
         },
         {
-          "url": "../static/assets/img/games/ps3/favoritos/br/deadly-premonition_back.jpg",
-          "caption": "...",
-          "author": "PS3 Hunter"
-        },
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/br/deadly-premonition_inside.jpg",
-          "caption": "...",
-          "author": "PS3 Hunter"
+          "region": "br",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "region": "br",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/deadly-premonition.jpg",
+                  "caption": "...",
+                  "author": "PS3 Hunter"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/deadly-premonition_back.jpg",
+                  "caption": "...",
+                  "author": "PS3 Hunter"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/deadly-premonition_inside.jpg",
+                  "caption": "...",
+                  "author": "PS3 Hunter"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
     {
-      "edition": "The Director's Cut",
-      "platform": "ps3",
-      "version": "Favoritos",
-      "region": "latam",
-      "description": "(sem manual) Argentina, Perú",
-      "photos": [
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/deadly-premonition.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        },
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/deadly-premonition_inside.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        }
-      ]
+      "platform": "windows",
+      "release_date": "2013",
+      "publisher": "Rising Star Games"
+    },
+    {
+      "platform": "switch",
+      "release_date": "2019",
+      "publisher": "Aksys Games",
+      "edition": "Origins"
     }
   ],
   "pingbacks": [

@@ -1,5 +1,4 @@
 import React from "react"
-import PropTypes from "prop-types"
 
 import Layout from "../components/Layout"
 import SEO from "../components/seo"
@@ -10,9 +9,28 @@ import regionsData from "../components/Games/regions"
 
 import * as S from "../components/Games/styled"
 
+function fmtDate(date) {
+  if (date === null) return "";
+
+  if (date.length === 4) return date;
+
+  const fmtDate = new Date(date);
+  var day = fmtDate.getDate() + 1;
+  var month = fmtDate.getMonth() + 1;
+  var year = fmtDate.getFullYear();
+  return day + "/" + month + "/" + year;
+}
+
 const Games = ({ pageContext }) => {
 
-  const { title, developer, releases, pingbacks } = pageContext
+  const { 
+    title, 
+    original_developer, 
+    original_publisher, 
+    original_release_year, 
+    releases, 
+    pingbacks 
+  } = pageContext
 
   return (
     <Layout>
@@ -20,29 +38,55 @@ const Games = ({ pageContext }) => {
           <S.GameMainSection>
             <S.GameInfo>
               <S.GameTitle>{title}</S.GameTitle>
+              {original_release_year}, {original_developer}<br></br>
+              {original_publisher}
             </S.GameInfo>
           </S.GameMainSection>
           <S.GameSection>
-            <S.GameSectionTitle>Edições lançadas</S.GameSectionTitle>
+            <S.GameReleases>
             {!releases ? <>nenhuma encontrada</> :
-              releases.map(({ edition, version, platform, region, photos }) => {
+              releases.map(({ platform, publisher, developer, edition, description, release_date, regions }) => {
                 return (
-                  <S.GameRelease>
-                    <S.GameReleaseInfo>
-                      <S.GameReleaseEdition>{edition}</S.GameReleaseEdition>
-                      <S.GameReleaseVersion>{version}</S.GameReleaseVersion>
-                      <S.GameReleasePlatformLogo src={platformsData.find(p => p.id === platform).logo}/>
-                      <S.GameReleaseRegion>{regionsData.find(r => r.id === region).name}</S.GameReleaseRegion>
-                    </S.GameReleaseInfo>
-                    {!photos ? <></> : <Lightbox images={photos}></Lightbox>}
-                  </S.GameRelease>
+                  <div style={{marginBottom: 30 + 'px'}}>
+                    {edition !== null ? <S.GameEditionTitle>{edition}</S.GameEditionTitle> : <></>}
+                    <S.GameReleasePlatformLogo src={platformsData.find(p => p.id === platform).logo}/>
+                    <span>{fmtDate(release_date)}{developer !== null ? "," : ""} {developer}</span><br></br>
+                    <span>{publisher}</span>
+                    <p>{description}</p>
+                    {!regions ? <></> :
+                      regions.map(({ region, release_date, versions }) => {
+                        return (
+                          <S.GameReleaseRegion>
+                            <S.GameSectionTitle>
+                              {regionsData.find(r => r.id === region).name}
+                            </S.GameSectionTitle>
+                            <span>{fmtDate(release_date)}</span>
+                            {!versions ? <></> :
+                                versions.map(({ edition, version, photos }) => {
+                                  return (
+                                    <S.GameRelease>
+                                      <S.GameReleaseInfo>
+                                        <S.GameReleaseEdition>{edition}</S.GameReleaseEdition>
+                                        <S.GameReleaseVersion>{version}</S.GameReleaseVersion>
+                                      </S.GameReleaseInfo>
+                                      {!photos ? <></> : <Lightbox images={photos}></Lightbox>}
+                                    </S.GameRelease>
+                                  )
+                                })
+                            }
+                          </S.GameReleaseRegion>
+                        )
+                      })
+                    }
+                  </div>
                 )
               }) 
             }
+            </S.GameReleases>
           </S.GameSection>
           {!pingbacks ? <></> :
             <S.GameSection>
-              <S.GameSectionTitle>Escrevemos sobre ele</S.GameSectionTitle>
+              <S.GameSectionTitle>Mais sobre {title} em</S.GameSectionTitle>
               {pingbacks.map(pingback => {
                 return (
                   <S.GamePingbackLink to={pingback.url}>
@@ -55,33 +99,6 @@ const Games = ({ pageContext }) => {
         </S.GameContent>
     </Layout>
   )
-}
-
-Games.propTypes = {
-  pageContext: PropTypes.shape({
-    title: PropTypes.string.isRequired,
-    developer: PropTypes.string,
-    releases: PropTypes.arrayOf(
-      PropTypes.shape({
-        version: PropTypes.string,
-        edition: PropTypes.string,
-        region: PropTypes.string,
-        photos: PropTypes.arrayOf(
-          PropTypes.shape({
-            caption: PropTypes.string,
-            author: PropTypes.string,
-            url: PropTypes.object
-          })
-        )
-      })
-    ),
-    pingbacks: PropTypes.arrayOf(
-      PropTypes.shape({
-        title: PropTypes.string.isRequired,
-        url: PropTypes.string.isRequired
-      })
-    )
-  })
 }
 
 export default Games

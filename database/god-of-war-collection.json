@@ -1,36 +1,57 @@
 {
   "title": "God of War Collection",
-  "developer": "Ubisoft",
+  "original_developer": "Bluepoint Games",
+  "original_publisher": "Sony Computer Entertainment",
+  "original_release_year": "2009",
   "releases": [
     {
       "platform": "ps3",
-      "version": "Favoritos",
-      "region": "br",
-      "photos": [
+      "release_date": "2009",
+      "developer": "Bluepoint Games",
+      "regions": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/br/god-of-war-collection.jpg",
-          "caption": "...",
-          "author": "Felipe"
+          "region": "latam",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "description": "(com manual) Argentina, Chile, (sem manual) México, (com manual) Perú",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/god-of-war-collection.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/god-of-war-collection_inside.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "region": "br",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "region": "br",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/god-of-war-collection.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
     {
-      "platform": "ps3",
-      "version": "Favoritos",
-      "region": "latam",
-      "description": "(com manual) Argentina, Chile, (sem manual) México, (com manual) Perú",
-      "photos": [
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/god-of-war-collection.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        },
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/god-of-war-collection_inside.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        }
-      ]
+      "platform": "vita",
+      "developer": "Sanzaru Games",
+      "release_date": "2014"
     }
   ],
   "pingbacks": [

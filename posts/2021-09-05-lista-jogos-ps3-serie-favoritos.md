@@ -19,7 +19,7 @@ cover: /assets/img/posts/wb-games-brasil-jogo-filme/post_thumbnail.jpg
 | [Castlevania: Lords of Shadow](/games/castlevania-lords-of-shadow/)                       | :white_check_mark: | :white_check_mark: |
 | [Darksiders](/games/darksiders/)                                                          | :white_check_mark: | :white_check_mark: |
 | [Darksiders II](/games/darksiders-2/)                                                     | :white_check_mark: | :white_check_mark: |
-| [Dead of Alive 5 Ultimate](/games/dead-or-alive-5/)                                       | :white_check_mark: | :white_check_mark: |
+| [Dead or Alive 5: Ultimate](/games/dead-or-alive-5/)                                      | :white_check_mark: | :white_check_mark: |
 | [Deadly Premonition: The Director's Cut](/games/deadly-premonition/)                      | :white_check_mark: | :white_check_mark: |
 | [Demon's Souls](/games/demons-souls/)                                                     |                    | :white_check_mark: |
 | [Devil May Cry - HD Collection](/games/devil-may-cry-collection/)                         | :white_check_mark: | :white_check_mark: |

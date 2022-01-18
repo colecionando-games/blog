@@ -1,24 +1,27 @@
 {
   "title": "Just Dance 3",
-  "developer": "Ubisoft",
+  "original_developer": "Ubisoft Paris",
+  "original_publisher": "Ubisoft",
+  "original_release_year": "2011",
   "releases": [
     {
-      "platform": "ps3",
-      "version": "Favoritos",
-      "region": "br",
-      "photos": [
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/br/just-dance-3.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        }
-      ]
+      "platform": "xbox-360",
+      "release_date": "2011"
+    },
+    {
+      "platform": "wii",
+      "release_date": "2011"
     },
     {
       "platform": "ps3",
-      "version": "Favoritos",
-      "region": "latam",
-      "description": "(com manual) Argentina, Perú",
+      "release_date": "2011",
+      "regions": [
+        {
+          "region": "latam",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "description": "(com manual) Argentina, Perú",
       "photos": [
         {
           "url": "../static/assets/img/games/ps3/favoritos/latam/just-dance-3.jpg",
@@ -31,7 +34,28 @@
           "author": "Felipe"
         }
       ]
+            }
+          ]
+        },
+        {
+          "region": "br",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "region": "br",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/just-dance-3.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
+   
   ],
   "pingbacks": [
     {

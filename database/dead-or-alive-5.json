@@ -1,33 +1,85 @@
 {
   "title": "Dead or Alive 5",
-  "developer": "Ubisoft",
+  "original_developer": "Team Ninja",
+  "original_publisher": "Tecmo Koei",
+  "original_release_year": "2012",
   "releases": [
     {
       "platform": "ps3",
+      "release_date": "2012"
+    },
+    {
+      "platform": "xbox-360",
+      "release_date": "2012"
+    },
+    {
+      "platform": "ps3",
+      "release_date": "2013",
       "edition": "Ultimate",
-      "version": "Favoritos",
-      "region": "br",
-      "photos": [
+      "regions": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/br/dead-or-alive-5-ultimate.jpg",
-          "caption": "...",
-          "author": "Felipe"
+          "region": "latam",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "description": "Argentina (sem manual), Perú",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/dead-or-alive-5-ultimate.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "region": "br",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "region": "br",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/dead-or-alive-5-ultimate.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
     {
+      "platform": "xbox-360",
+      "release_date": "2013"
+    },
+    {
+      "platform": "vita",
+      "release_date": "2013",
+      "edition": "Plus"
+    },
+    {
       "platform": "ps3",
-      "edition": "Ultimate",
-      "version": "Favoritos",
-      "region": "latam",
-      "description": "Argentina (sem manual), Perú",
-      "photos": [
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/dead-or-alive-5-ultimate.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        }
-      ]
+      "release_date": "2015",
+      "edition": "Last Round"
+    },
+    {
+      "platform": "xbox-360",
+      "release_date": "2015"
+    },
+    {
+      "platform": "ps4",
+      "release_date": "2015"
+    },
+    {
+      "platform": "xbox-one",
+      "release_date": "2015"
+    },
+    {
+      "platform": "windows",
+      "release_date": "2015"
     }
   ],
   "pingbacks": [

@@ -1,24 +1,55 @@
 {
   "title": "Rayman Origins",
-  "developer": "Ubisoft",
+  "original_developer": "Ubisoft Montpellier",
+  "original_publisher": "Ubisoft",
+  "original_release_year": "2011",
   "releases": [
     {
       "platform": "ps3",
-      "version": "Favoritos",
-      "region": "latam",
-      "description": "(com manual) México",
-      "photos": [
+      "release_date": "2011",
+      "regions": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/rayman-origins.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        },
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/rayman-origins_inside.jpg",
-          "caption": "...",
-          "author": "Felipe"
+          "region": "latam",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "description": "(com manual) México",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/rayman-origins.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/rayman-origins_inside.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
         }
       ]
+    },
+    {
+      "platform": "xbox-360",
+      "release_date": "2011"
+    },
+    {
+      "platform": "wii",
+      "release_date": "2011"
+    },
+    {
+      "platform": "vita",
+      "release_date": "2012"
+    },
+    {
+      "platform": "windows",
+      "release_date": "2012"
+    },
+    {
+      "platform": "3ds",
+      "release_date": "2012"
     }
   ],
   "pingbacks": [

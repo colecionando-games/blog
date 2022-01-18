@@ -1,20 +1,52 @@
 {
   "title": "L.A. Noire",
-  "developer": "Ubisoft",
+  "original_developer": "Team Bondi",
+  "original_publisher": "Rockstar Games",
+  "original_release_year": "2011",
   "releases": [
     {
       "platform": "ps3",
-      "version": "Favoritos",
-      "region": "latam",
-      "description": "Argentina, Perú",
-      "photos": [
+      "release_date": "2011",
+      "regions": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/la-noire.jpg",
-          "caption": "...",
-          "author": "Felipe"
+          "region": "latam",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "description": "Argentina, Perú",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/la-noire.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
         }
       ]
+    },
+    {
+      "platform": "xbox-360",
+      "release_date": "2011"
+    },
+    {
+      "platform": "windows",
+      "release_date": "2011"
+    },
+    {
+      "platform": "switch",
+      "release_date": "2017"
+    },
+    {
+      "platform": "ps4",
+      "release_date": "2017"
+    },
+    {
+      "platform": "xbox-one",
+      "release_date": "2017"
     }
+
   ],
   "pingbacks": [
     {

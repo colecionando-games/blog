@@ -1,31 +1,62 @@
 {
   "title": "The King of Fighters XIII",
-  "developer": "Ubisoft",
+  "original_developer": "SNK Playmore",
+  "original_publisher": "Atlus",
+  "original_release_year": "2012",
   "releases": [
     {
       "platform": "ps3",
-      "version": "Favoritos",
-      "region": "br",
-      "photos": [
+      "release_date": "2012",
+      "regions": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/br/the-king-of-fighters-xiii.jpg",
-          "caption": "...",
-          "author": "Felipe"
+          "region": "latam",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "description": "Perú",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/the-king-of-fighters-xiii.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "region": "br",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "region": "br",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/the-king-of-fighters-xiii.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
     {
-      "platform": "ps3",
-      "version": "Favoritos",
-      "region": "latam",
-      "description": "Perú",
-      "photos": [
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/the-king-of-fighters-xiii.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        }
-      ]
+      "platform": "xbox-360",
+      "release_date": "2012"
+    },
+    {
+      "platform": "android",
+      "release_date": "2012"
+    },
+    {
+      "platform": "ios",
+      "release_date": "2012"
+    },
+    {
+      "platform": "windows",
+      "release_date": "2013"
     }
   ],
   "pingbacks": [

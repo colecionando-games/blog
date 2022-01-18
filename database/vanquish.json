@@ -1,46 +1,83 @@
 {
   "title": "Vanquish",
-  "developer": "Ubisoft",
+  "original_developer": "Platinum Games",
+  "original_publisher": "Sega",
+  "original_release_year": "2010",
   "releases": [
     {
       "platform": "ps3",
-      "version": "Favoritos",
-      "region": "br",
-      "photos": [
+      "release_date": "2010",
+      "regions": [
         {
-          "url": "../static/assets/img/games/ps3/favoritos/br/vanquish.jpg",
-          "caption": "...",
-          "author": "PS3 Hunter"
+          "region": "latam",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "description": "(sem manual) Argentina, México, Perú",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/vanquish.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/vanquish_inside.jpg",
+                  "caption": "...",
+                  "author": "Felipe"
+                }
+              ]
+            }
+          ]
         },
         {
-          "url": "../static/assets/img/games/ps3/favoritos/br/vanquish_back.jpg",
-          "caption": "...",
-          "author": "PS3 Hunter"
-        },
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/br/vanquish_inside.jpg",
-          "caption": "...",
-          "author": "PS3 Hunter"
+          "region": "br",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "region": "br",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/vanquish.jpg",
+                  "caption": "...",
+                  "author": "PS3 Hunter"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/vanquish_back.jpg",
+                  "caption": "...",
+                  "author": "PS3 Hunter"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/vanquish_inside.jpg",
+                  "caption": "...",
+                  "author": "PS3 Hunter"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
     {
-      "platform": "ps3",
-      "version": "Favoritos",
-      "region": "latam",
-      "description": "(sem manual) Argentina, México, Perú",
-      "photos": [
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/vanquish.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        },
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/vanquish_inside.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        }
-      ]
+      "platform": "xbox-360",
+      "release_date": "2010"
+    },
+    {
+      "platform": "windows",
+      "release_date": "2017",
+      "developer": "Little Stone Software"
+    },
+    {
+      "platform": "ps4",
+      "release_date": "2020",
+      "developer": "Armature Studio",
+      "edition": "Remasterizado",
+      "description": "Foi lançado na coletânea chamada Bayonetta & Vanquish 10th Anniversary Bundle"
+    },
+    {
+      "platform": "xbox-one",
+      "release_date": "2020",
+      "developer": "Armature Studio",
+      "description": "Foi lançado na coletânea chamada Bayonetta & Vanquish 10th Anniversary Bundle"
     }
   ],
   "pingbacks": [

@@ -91,18 +91,31 @@ exports.createPages = ({ graphql, actions, reporter }) => {
             slug
           }
           title
-          developer
+          original_developer
+          original_publisher
+          original_release_year
           releases {
-            version
             platform
-            region
+            developer
+            publisher
+            release_date
             edition
-            photos {
-              caption
-              author
-              url {
-                childImageSharp {
-                  gatsbyImageData(width: 1080, placeholder: BLURRED, layout: CONSTRAINED)
+            description
+            regions {
+              region
+              release_date
+              versions {
+                version
+                edition
+                description
+                photos {
+                  caption
+                  author
+                  url {
+                    childImageSharp {
+                      gatsbyImageData(width: 1080, placeholder: BLURRED, layout: CONSTRAINED)
+                    }
+                  }
                 }
               }
             }
@@ -179,14 +192,23 @@ exports.createPages = ({ graphql, actions, reporter }) => {
     const games = result.data.gamesGroup.edges
 
     games.forEach(game => {
-      const { title, developer, releases, pingbacks } = game.node
+      const { 
+        title, 
+        original_developer, 
+        original_publisher, 
+        original_release_year, 
+        releases, 
+        pingbacks 
+      } = game.node
       const { slug } = game.node.fields
       createPage({
         path: `/games${slug}`,
         component: gamesTemplate,
         context: {
           title,
-          developer,
+          original_developer,
+          original_publisher,
+          original_release_year,
           releases,
           pingbacks
         }
