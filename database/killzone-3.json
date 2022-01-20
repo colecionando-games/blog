@@ -17,12 +17,12 @@
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/killzone-3.jpg",
                   "caption": "...",
-                  "author": "Felipe"
+                  "author": "Mercado Libre"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/killzone-3_inside.jpg",
                   "caption": "...",
-                  "author": "Felipe"
+                  "author": "Mercado Libre"
                 }
               ]
             }
@@ -38,17 +38,20 @@
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/killzone-3.jpg",
                   "caption": "...",
-                  "author": "PS3 Hunter"
+                  "author": "PS3 Hunter",
+                  "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/killzone-3_back.jpg",
                   "caption": "...",
-                  "author": "PS3 Hunter"
+                  "author": "PS3 Hunter",
+                  "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/killzone-3_inside.jpg",
                   "caption": "...",
-                  "author": "PS3 Hunter"
+                  "author": "PS3 Hunter",
+                  "author-link": "https://www.instagram.com/ps3_hunter/"
                 }
               ]
             }

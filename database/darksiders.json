@@ -10,21 +10,20 @@
       "regions": [
         {
           "region": "latam",
-          "release_date": "2010-01-05",
           "versions": [
             {
               "version": "Favoritos",
-              "description": "Argentina (sem manual), Chile (com manual), México, Perú",
+              "description": "O jogo possui manual. (Visto no Mercado Libre da Argentina, Chile, México e Peru)",
               "photos": [
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/darksiders.jpg",
                   "caption": "...",
-                  "author": "Felipe"
+                  "author": "Mercado Libre"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/darksiders_inside.jpg",
                   "caption": "...",
-                  "author": "Felipe"
+                  "author": "Mercado Libre"
                 }
               ]
             }
@@ -40,7 +39,7 @@
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/darksiders.jpg",
                   "caption": "...",
-                  "author": "Felipe"
+                  "author": "Mercado Libre"
                 }
               ]
             }

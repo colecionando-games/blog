@@ -62,7 +62,7 @@ const Games = ({ pageContext }) => {
                             </S.GameSectionTitle>
                             <span>{fmtDate(release_date)}</span>
                             {!versions ? <></> :
-                                versions.map(({ edition, version, photos }) => {
+                                versions.map(({ edition, version, description, photos }) => {
                                   return (
                                     <S.GameRelease>
                                       <S.GameReleaseInfo>

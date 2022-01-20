@@ -19,7 +19,7 @@
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/journey.jpg",
                   "caption": "...",
-                  "author": "Felipe"
+                  "author": "Mercado Libre"
                 }
               ]
             }
@@ -41,12 +41,14 @@
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/journey_back.jpg",
                   "caption": "...",
-                  "author": "PS3 Hunter"
+                  "author": "PS3 Hunter",
+                  "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/journey_inside.jpg",
                   "caption": "...",
-                  "author": "PS3 Hunter"
+                  "author": "PS3 Hunter",
+                  "author-link": "https://www.instagram.com/ps3_hunter/"
                 }
               ]
             }

@@ -12,21 +12,20 @@
       "regions": [
         {
           "region": "latam",
-          "release_date": "2011-11-15",
           "versions": [
             {
               "version": "Favoritos",
-              "description": "Onde encontrar: Argentina, Chile",
+              "description": "O jogo possui manual. (Visto no Mercado Libre da Argentina e Chile)",
               "photos": [
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/assassins-creed-revelations.jpg",
                   "caption": "Capa",
-                  "author": "Felipe"
+                  "author": "Mercado Libre"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/assassins-creed-revelations_inside.jpg",
                   "caption": "Manual e disco",
-                  "author": "Felipe"
+                  "author": "Mercado Libre"
                 }
               ]
             }

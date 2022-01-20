@@ -18,12 +18,12 @@
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/the-tomb-raider-trilogy.jpg",
                   "caption": "...",
-                  "author": "Felipe"
+                  "author": "Mercado Libre"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/the-tomb-raider-trilogy_inside.jpg",
                   "caption": "...",
-                  "author": "Felipe"
+                  "author": "Mercado Libre"
                 }
               ]
             }
@@ -39,17 +39,20 @@
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/the-tomb-raider-trilogy.jpg",
                   "caption": "...",
-                  "author": "PS3 Hunter"
+                  "author": "PS3 Hunter",
+                  "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/the-tomb-raider-trilogy_back.jpg",
                   "caption": "...",
-                  "author": "PS3 Hunter"
+                  "author": "PS3 Hunter",
+                  "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/the-tomb-raider-trilogy_inside.jpg",
                   "caption": "...",
-                  "author": "PS3 Hunter"
+                  "author": "PS3 Hunter",
+                  "author-link": "https://www.instagram.com/ps3_hunter/"
                 }
               ]
             }

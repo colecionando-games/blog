@@ -14,13 +14,13 @@
             {
               "version": "Favoritos",
               "description": "(sem manual) Argentina, Chile, Perú",
-      "photos": [
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/valkyria-chronicles.jpg",
-          "caption": "...",
-          "author": "Felipe"
-        }
-      ]
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/valkyria-chronicles.jpg",
+                  "caption": "...",
+                  "author": "Mercado Libre"
+                }
+              ]
             }
           ]
         },
@@ -34,17 +34,20 @@
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/valkyria-chronicles.jpg",
                   "caption": "...",
-                  "author": "PS3 Hunter"
+                  "author": "PS3 Hunter",
+                  "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/valkyria-chronicles_back.jpg",
                   "caption": "...",
-                  "author": "PS3 Hunter"
+                  "author": "PS3 Hunter",
+                  "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/valkyria-chronicles_inside.jpg",
                   "caption": "...",
-                  "author": "PS3 Hunter"
+                  "author": "PS3 Hunter",
+                  "author-link": "https://www.instagram.com/ps3_hunter/"
                 }
               ]
             }

@@ -26,7 +26,8 @@ const Lightbox = ({ images }) => {
                 key={img.url.childImageSharp.id}
                 image={img.url.childImageSharp.gatsbyImageData}
                 alt={img.description}
-              />
+              /><br></br>
+              {!img.author ? <></> : <>Foto: {img.author}</>}
             </S.PreviewButton>
           ))
         }

@@ -10,21 +10,20 @@
       "regions": [
         {
           "region": "latam",
-          "release_date": "2007-11-05",
           "versions": [
             {
               "version": "Favoritos",
-              "description": "(sem manual) Argentina, México",
+              "description": "O jogo não possui manual. (Visto no Mercado Libre da Argentina e México)",
               "photos": [
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/call-of-duty-4-modern-warfare.jpg",
                   "caption": "...",
-                  "author": "Felipe"
+                  "author": "Mercado Libre"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/call-of-duty-4-modern-warfare_inside.jpg",
                   "caption": "...",
-                  "author": "Felipe"
+                  "author": "Mercado Libre"
                 }
               ]
             }

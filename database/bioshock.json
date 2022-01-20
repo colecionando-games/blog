@@ -18,21 +18,20 @@
       "regions": [
         {
           "region": "latam",
-          "release_date": "2008-10-21",
           "versions": [
             {
               "version": "Favoritos",
-              "description": "Chile, Perú",
+              "description": "O jogo possui uma arte no verso do encarte e panfleto de garantia. (Visto no Mercado Libre do Chile e Peru)",
               "photos": [
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/bioshock.jpg",
                   "caption": "...",
-                  "author": "Felipe"
+                  "author": "Mercado Libre"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/bioshock_inside.jpg",
                   "caption": "...",
-                  "author": "Felipe"
+                  "author": "Mercado Libre"
                 }
               ]
             }

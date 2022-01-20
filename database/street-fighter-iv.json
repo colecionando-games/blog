@@ -44,12 +44,12 @@
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/super-street-fighter-iv.jpg",
                   "caption": "...",
-                  "author": "Felipe"
+                  "author": "Mercado Libre"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/super-street-fighter-iv_inside.jpg",
                   "caption": "...",
-                  "author": "Felipe"
+                  "author": "Mercado Libre"
                 }
               ]
             },
@@ -60,12 +60,12 @@
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/super-street-fighter-iv.jpg",
                   "caption": "...",
-                  "author": "Felipe"
+                  "author": "Mercado Libre"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/super-street-fighter-iv_inside2.jpg",
                   "caption": "...",
-                  "author": "Felipe"
+                  "author": "Mercado Libre"
                 }
               ]
             }
@@ -81,17 +81,20 @@
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/super-street-fighter-iv.jpg",
                   "caption": "...",
-                  "author": "PS3 Hunter"
+                  "author": "PS3 Hunter",
+                  "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/super-street-fighter-iv_back.jpg",
                   "caption": "...",
-                  "author": "PS3 Hunter"
+                  "author": "PS3 Hunter",
+                  "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/super-street-fighter-iv_inside.jpg",
                   "caption": "...",
-                  "author": "PS3 Hunter"
+                  "author": "PS3 Hunter",
+                  "author-link": "https://www.instagram.com/ps3_hunter/"
                 }
               ]
             }

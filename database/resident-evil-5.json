@@ -3,7 +3,7 @@
   "original_developer": "Capcom",
   "original_publisher": "Capcom",
   "original_release_year": "2009",
-  "releases": [    
+  "releases": [
     {
       "platform": "ps3",
       "release_date": "2009"
@@ -31,17 +31,20 @@
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/resident-evil-5.jpg",
                   "caption": "...",
-                  "author": "PS3 Hunter"
+                  "author": "PS3 Hunter",
+                  "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/resident-evil-5_back.jpg",
                   "caption": "...",
-                  "author": "PS3 Hunter"
+                  "author": "PS3 Hunter",
+                  "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/resident-evil-5_inside.jpg",
                   "caption": "...",
-                  "author": "PS3 Hunter"
+                  "author": "PS3 Hunter",
+                  "author-link": "https://www.instagram.com/ps3_hunter/"
                 }
               ]
             }

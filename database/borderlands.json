@@ -10,21 +10,20 @@
       "regions": [
         {
           "region": "latam",
-          "release_date": "2009-10-20",
           "versions": [
             {
               "version": "Favoritos",
-              "description": "Argentina, México",
+              "description": "O jogo possui manual e uma arte no verso do encarte. (Visto no Mercado Libre da Argentina e México)",
               "photos": [
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/borderlands.jpg",
                   "caption": "...",
-                  "author": "Felipe"
+                  "author": "Mercado Libre"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/borderlands_inside.jpg",
                   "caption": "...",
-                  "author": "Felipe"
+                  "author": "Mercado Libre"
                 }
               ]
             }

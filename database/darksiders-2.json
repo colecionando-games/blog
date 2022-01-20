@@ -13,12 +13,12 @@
           "versions": [
             {
               "version": "Favoritos",
-              "description": "Argentina, Chile",
+              "description": "(Visto no Mercado Libre da Argentina e Chile)",
               "photos": [
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/darksiders-2.jpg",
                   "caption": "...",
-                  "author": "Felipe"
+                  "author": "Mercado Libre"
                 }
               ]
             }
@@ -29,22 +29,25 @@
           "versions": [
             {
               "version": "Favoritos",
-              "region": "br",
+              "description": "O manual do jogo está no verso do encarte.",
               "photos": [
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/darksiders-2.jpg",
                   "caption": "...",
-                  "author": "PS3 Hunter"
+                  "author": "PS3 Hunter",
+                  "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/darksiders-2_back.jpg",
                   "caption": "...",
-                  "author": "PS3 Hunter"
+                  "author": "PS3 Hunter",
+                  "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/darksiders-2_inside.jpg",
                   "caption": "...",
-                  "author": "PS3 Hunter"
+                  "author": "PS3 Hunter",
+                  "author-link": "https://www.instagram.com/ps3_hunter/"
                 }
               ]
             }

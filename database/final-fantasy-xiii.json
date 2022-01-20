@@ -19,12 +19,12 @@
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/final-fantasy-xiii.jpg",
                   "caption": "...",
-                  "author": "Felipe"
+                  "author": "Mercado Libre"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/final-fantasy-xiii_inside.jpg",
                   "caption": "...",
-                  "author": "Felipe"
+                  "author": "Mercado Libre"
                 }
               ]
             }
@@ -41,17 +41,20 @@
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/final-fantasy-xiii.jpg",
                   "caption": "...",
-                  "author": "PS3 Hunter"
+                  "author": "PS3 Hunter",
+                  "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/final-fantasy-xiii_back.jpg",
                   "caption": "...",
-                  "author": "PS3 Hunter"
+                  "author": "PS3 Hunter",
+                  "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/final-fantasy-xiii_inside.jpg",
                   "caption": "...",
-                  "author": "PS3 Hunter"
+                  "author": "PS3 Hunter",
+                  "author-link": "https://www.instagram.com/ps3_hunter/"
                 }
               ]
             }
@@ -67,7 +70,6 @@
       "platform": "windows",
       "release_date": "2014"
     }
-    
   ],
   "pingbacks": [
     {
