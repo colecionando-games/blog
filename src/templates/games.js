@@ -34,6 +34,11 @@ const Games = ({ pageContext }) => {
 
   return (
     <Layout>
+        <SEO 
+          title={title}
+          description={original_developer} 
+        />
+
         <S.GameContent>
           <S.GameMainSection>
             <S.GameInfo>
