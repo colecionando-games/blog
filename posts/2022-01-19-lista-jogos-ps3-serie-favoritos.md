@@ -1,13 +1,25 @@
 ---
 title: Lista completa da coleção Favoritos do PlayStation 3
-description: Conheça todos os jogos lançados no Brasil e em outros países da América latina.
-date: 2021-09-05 10:00:00
+description: Conheça todos os jogos lançados no Brasil e em outros países da América Latina.
+date: 2022-01-19 22:00:00
 author: felipebbarbosa
 category: lista
 tags: ["playstation", "ps3"]
-thumbnail: ../static/assets/img/posts/wb-games-brasil-jogo-filme/post_thumbnail.jpg
-cover: /assets/img/posts/wb-games-brasil-jogo-filme/post_thumbnail.jpg
+thumbnail: ../static/assets/img/posts/ps3-favoritos/post_thumbnail2.jpg
+cover: /assets/img/posts/ps3-favoritos/post_thumbnail2.jpg
 ---
+
+Criada no intuito de oferecer ao consumidor uma opção mais acessível ($$$) de jogar os maiores sucessos da plataforma, a linha **Favoritos** do **PlayStation 3** chegou ao Brasil e alguns países da América Latina (LatAm) em 2013. Porém, entre os colecionadores, essa coleção divide opiniões, pois muitos não gostam e preferem a versão original (black label), mas alguns a consideram como um *subset* interessante e legal de colecionar, ainda mais sabendo que só saíram nos países da América Latina.
+
+![](/assets/img/posts/ps3-favoritos/favoritos.jpg "Foto: Acervo pessoal")
+
+Por esse fato, foi até difícil de levantar essa lista definitiva de quantos realmente saíram, pois tem muita informação desatualizada na internet, já que alguns dos jogos anunciados para essa linha acabaram não sendo lançados de fato, tais como DuckTales: Remastered e Fallout: New Vegas, por exemplos.
+
+Além disso, a versão brasileira é diferente do restante da América Latina, onde a nacional possui o selo de [Classificação Indicativa Brasileiro](https://www.gov.br/mj/pt-br/assuntos/seus-direitos/classificacao-1) (ClassInd), enquanto que no restante da américa latina usam a [ESRB](https://www.esrb.org/) como referência. Com isso, **alguns dos jogos não foram lançados aqui e vice-versa**!
+
+E para enriquecer o post, resolvi criar uma página dedicada para cada jogo da lista (basta clicar no nome para acessar) contendo, além de informações básicas sobre data de lançamento e desenvolvedor, também tem fotos reais do jogo demonstrando todo o conteúdo da edição. Ou seja, deu um trabalhão danado fazer esse post! :smile:
+
+Mas enfim, eis a lista:
 
 | Jogo                                                                                      |       Brasil       |   América Latina   |
 | :---------------------------------------------------------------------------------------- | :----------------: | :----------------: |
@@ -73,13 +85,13 @@ cover: /assets/img/posts/wb-games-brasil-jogo-filme/post_thumbnail.jpg
 | [Zone of the Enders - HD Collection](/games/zone-of-the-enders-collection/)               | :white_check_mark: | :white_check_mark: |
 | **Total de 60 jogos**                                                                     |       **45**       |       **57**       |
 
-## Exclusivos do Brasil
+### Exclusivos do Brasil
 
 - God of War: Ascension
 - PlayStation All-Stars Battle Royale
 - Resident Evil 5: Gold Edition
 
-## Exclusivos da América Latina (LATAM)
+### Exclusivos da América Latina (LatAm)
 
 - Assassin's Creed: Revelations
 - Bioshock
