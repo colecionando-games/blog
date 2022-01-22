@@ -2,22 +2,22 @@ const platformsData = [
   {
     id: "ps1",
     name: "PlayStation",
-    logo: "/assets/img/logos/xbox-360.png"
+    logo: "/assets/img/logos/ps1.png"
   },
   {
     id: "ps2",
     name: "PlayStation 2",
-    logo: "/assets/img/logos/xbox-360.png"
+    logo: "/assets/img/logos/ps2.png"
   },
   { 
     id: "ps3",
     name: "PlayStation 3",
-    logo: "/assets/img/logos/playstation-3.png"
+    logo: "/assets/img/logos/ps3.png"
   },
   {
     id: "ps4",
     name: "PlayStation 4",
-    logo: "/assets/img/logos/playstation-4.png"
+    logo: "/assets/img/logos/ps4.png"
   },
   {
     id: "ps5",
@@ -38,22 +38,22 @@ const platformsData = [
   {
     id: "nes",
     name: "NES",
-    logo: "/assets/img/logos/xbox-360.png"
+    logo: "/assets/img/logos/nes.png"
   },
   {
     id: "snes",
     name: "Super Nintendo",
-    logo: "/assets/img/logos/xbox-360.png"
+    logo: "/assets/img/logos/snes.png"
   },
   {
     id: "n64",
     name: "Nintendo 64",
-    logo: "/assets/img/logos/xbox-360.png"
+    logo: "/assets/img/logos/n64.png"
   },
   {
     id: "gc",
     name: "GameCube",
-    logo: "/assets/img/logos/xbox-360.png"
+    logo: "/assets/img/logos/gamecube.png"
   },
   {
     id: "wii",
@@ -73,22 +73,22 @@ const platformsData = [
   {
     id: "gb",
     name: "Game Boy",
-    logo: "/assets/img/logos/xbox-360.png"
+    logo: "/assets/img/logos/gb.png"
   },
   {
     id: "gbc",
     name: "Game Boy Color",
-    logo: "/assets/img/logos/xbox-360.png"
+    logo: "/assets/img/logos/gbc.png"
   },
   {
     id: "gba",
     name: "Game Boy Advance",
-    logo: "/assets/img/logos/xbox-360.png"
+    logo: "/assets/img/logos/gba.png"
   },
   {
     id: "nds",
     name: "Nintendo DS",
-    logo: "/assets/img/logos/xbox-360.png"
+    logo: "/assets/img/logos/nds.png"
   },
   {
     id: "3ds",
@@ -114,7 +114,7 @@ const platformsData = [
   {
     id: "linux",
     name: "Linux",
-    logo: "/assets/img/logos/steam.png"
+    logo: "/assets/img/logos/linux.png"
   },
 
   {
@@ -130,13 +130,13 @@ const platformsData = [
   {
     id: "xbox-series",
     name: "Xbox Series",
-    logo: "/assets/img/logos/xbox-one.png"
+    logo: "/assets/img/logos/xbox-series.png"
   },
 
   {
     id: "android",
     name: "Android",
-    logo: "/assets/img/logos/ios.png"
+    logo: "/assets/img/logos/android.png"
   },
   {
     id: "ios",
