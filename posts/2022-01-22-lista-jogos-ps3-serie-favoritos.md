@@ -1,7 +1,7 @@
 ---
 title: Lista completa da coleção Favoritos do PlayStation 3
 description: Conheça todos os jogos lançados no Brasil e em outros países da América Latina.
-date: 2022-01-19 22:00:00
+date: 2022-01-22 17:30:00
 author: felipebbarbosa
 category: lista
 tags: ["playstation", "ps3"]
