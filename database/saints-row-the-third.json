@@ -17,8 +17,7 @@
               "photos": [
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/saints-row-the-third.jpg",
-                  "caption": "...",
-                  "author": "Mercado Libre"
+                  "caption": "..."
                 }
               ]
             }
@@ -33,13 +32,11 @@
               "photos": [
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/saints-row-the-third.jpg",
-                  "caption": "...",
-                  "author": "Mercado Libre"
+                  "caption": "..."
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/saints-row-the-third_inside.jpg",
-                  "caption": "...",
-                  "author": "Mercado Libre"
+                  "caption": "..."
                 }
               ]
             }

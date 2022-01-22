@@ -19,13 +19,11 @@
               "photos": [
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/assassins-creed-revelations.jpg",
-                  "caption": "Capa",
-                  "author": "Mercado Libre"
+                  "caption": "Capa"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/assassins-creed-revelations_inside.jpg",
-                  "caption": "Manual e disco",
-                  "author": "Mercado Libre"
+                  "caption": "Manual e disco"
                 }
               ]
             }

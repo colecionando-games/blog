@@ -18,13 +18,11 @@
               "photos": [
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/god-of-war-collection.jpg",
-                  "caption": "...",
-                  "author": "Mercado Libre"
+                  "caption": "..."
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/god-of-war-collection_inside.jpg",
-                  "caption": "...",
-                  "author": "Mercado Libre"
+                  "caption": "..."
                 }
               ]
             }
@@ -39,8 +37,7 @@
               "photos": [
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/god-of-war-collection.jpg",
-                  "caption": "...",
-                  "author": "Mercado Libre"
+                  "caption": "..."
                 }
               ]
             }

@@ -17,13 +17,11 @@
               "photos": [
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/castlevania-lords-of-shadow.jpg",
-                  "caption": "Capa",
-                  "author": "Mercado Libre"
+                  "caption": "Capa"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/castlevania-lords-of-shadow_inside.jpg",
-                  "caption": "Manual e disco",
-                  "author": "Mercado Libre"
+                  "caption": "Manual e disco"
                 }
               ]
             }
