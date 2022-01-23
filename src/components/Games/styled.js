@@ -1,6 +1,5 @@
 import styled from "styled-components"
 import media from "styled-media-query"
-import { GatsbyImage } from "gatsby-plugin-image"
 import { Link } from "gatsby"
 
 export const GameContent = styled.section`
