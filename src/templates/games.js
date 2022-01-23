@@ -90,7 +90,7 @@ const Games = ({ pageContext }) => {
             </S.GameReleases>
           </S.GameSection>
           {!pingbacks ? <></> :
-            <S.GameSection>
+            <S.GamePingbacks>
               <S.GameSectionTitle>Mais sobre {title} em</S.GameSectionTitle>
               {pingbacks.map(pingback => {
                 return (
@@ -99,7 +99,7 @@ const Games = ({ pageContext }) => {
                   </S.GamePingbackLink>
                 )
               })}
-            </S.GameSection>
+            </S.GamePingbacks>
           }
         </S.GameContent>
     </Layout>

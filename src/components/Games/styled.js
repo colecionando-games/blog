@@ -3,24 +3,32 @@ import media from "styled-media-query"
 import { GatsbyImage } from "gatsby-plugin-image"
 import { Link } from "gatsby"
 
-export const GameContent = styled.div``
+export const GameContent = styled.section`
+  margin: auto;
+  max-width: 70rem;
+  width: 100%;
+
+  ${media.lessThan("large")`
+    max-width: 100%;
+  `}
+`
 
 export const GameMainSection = styled.section`
   margin: 0 auto;
   padding: 0 40px;
-  width: 100%;
 `
 
 export const GameInfo = styled.section`
   width: 100%;
   margin: 0 20px;
+  ${media.lessThan("large")`
+    margin: 0;
+  `}
 `
 
 export const GameTitle = styled.h1`
   font-size: 4rem;
   font-weight: 700;
-  padding: 0;
-  margin: 1rem auto;
   color: white;
 
   ${media.lessThan("large")`
@@ -56,7 +64,7 @@ export const GameEditionTitle = styled.h2`
 
 export const GameSection = styled.section`
   margin: 10px auto;
-  padding: 20px 40px;
+  padding: 10px 0;
   width: 100%;
 `
 
@@ -103,9 +111,19 @@ export const GameReleaseRegion = styled.div`
   margin: 10px 0;
 `
 
+export const GamePingbacks = styled.section`
+  margin-bottom: 40px;
+  ${media.lessThan("large")`
+    text-align: center;
+  `}
+`
+
 export const GamePingbackLink = styled(Link)`
   color: white;
   transition: color 0.5s;
   padding-left: 2rem;
   line-height: 2rem;
+  ${media.lessThan("large")`
+    padding: 0;
+  `}
 `
