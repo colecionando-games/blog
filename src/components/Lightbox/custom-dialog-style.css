@@ -1,0 +1,11 @@
+[data-reach-dialog-content] {
+  width: 70vw;
+  margin: 2vh auto;
+  padding: 0;
+}
+
+@media (max-width: 600px) {
+  [data-reach-dialog-content] {
+    width: 100vw;
+  }
+}

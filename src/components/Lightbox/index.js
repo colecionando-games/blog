@@ -4,6 +4,7 @@ import { Dialog } from "@reach/dialog"
 import "@reach/dialog/styles.css"
 
 import * as S from "./styled"
+import "./custom-dialog-style.css"
 
 const Lightbox = ({ images }) => {
   const [{ showLightbox, selectedImage }, setState] = useState({

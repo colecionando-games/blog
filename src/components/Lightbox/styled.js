@@ -42,6 +42,4 @@ export const CloseButton = styled.button`
   margin: 10px;
 `
 
-export const AuthorLink = styled(Link)`
-
-`
+export const AuthorLink = styled(Link)``
