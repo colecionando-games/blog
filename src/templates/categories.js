@@ -3,7 +3,7 @@ import PropTypes from "prop-types"
 
 import { graphql } from "gatsby"
 
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 import Layout from "../components/Layout"
 import PostItem from "../components/PostItem"
 
@@ -17,7 +17,7 @@ const Categories = ({ pageContext, data }) => {
 
   return (
     <Layout>
-      <SEO 
+      <Seo 
         title={pageTitle}
         description={pageDescription} />
 

@@ -1,7 +1,7 @@
 import React from "react"
 
 import Layout from "../components/Layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 import Lightbox from "../components/Lightbox"
 
 import platformsData from "../components/Games/platforms"
@@ -34,7 +34,7 @@ const Games = ({ pageContext }) => {
 
   return (
     <Layout>
-        <SEO 
+        <Seo 
           title={title}
           description={original_developer} 
         />

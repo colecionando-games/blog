@@ -2,7 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 
 import Layout from "../components/Layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 import Comments from "../components/Comments"
 import RecommendedPosts from "../components/RecommendedPosts"
 
@@ -16,10 +16,11 @@ const BlogPost = ({ data, pageContext }) => {
 
   return (
     <Layout>
-      <SEO 
+      <Seo 
         title={post.frontmatter.title}
         description={post.frontmatter.description}
         image={post.frontmatter.cover}
+        author={post.frontmatter.author}
       />
 
       <S.PostWrapper>

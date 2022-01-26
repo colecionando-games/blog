@@ -4,7 +4,7 @@ import PropTypes from "prop-types"
 import { graphql } from "gatsby"
 
 import Layout from "../components/Layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 import TagsPost from "../components/TagsPost"
 
 import * as S from "../components/Tags/styled"
@@ -20,7 +20,7 @@ const Tags = ({ pageContext, data }) => {
 
   return (
     <Layout>
-      <SEO 
+      <Seo 
         title={pageTitle}
         description={pageDescription} />
       

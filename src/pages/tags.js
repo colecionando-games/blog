@@ -5,7 +5,7 @@ import { Helmet } from "react-helmet"
 import { Link, graphql } from "gatsby"
 
 import Layout from "../components/Layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 
 import * as S from "../components/Tags/styled"
 
@@ -20,7 +20,7 @@ const TagsPage = ({
 }) => (
   <Layout>
     <Helmet title={title} />
-    <SEO 
+    <Seo 
         title="TAGS"
         description="Todas as TAGS do blog" />
 
