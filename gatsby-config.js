@@ -41,13 +41,6 @@ const pluginSetup = [
     resolve: `gatsby-transformer-remark`,
     options: {
       plugins: [
-        // this one is necessary when the images are outside of posts directory
-        {
-          resolve: `gatsby-remark-relative-images-v2`,
-          options: {
-            name: `uploads`
-          }
-        },
         { 
           resolve: `gatsby-remark-images`,
           options: {
