@@ -14,13 +14,13 @@ Antes de mais nada, **Poop Slinger** é um jogo independente lançado em 2018 pe
 
 ## Mas como um jogo deste se tornou raro?
 
-Bom, a história é mais ou menos a seguinte: A **Limited Run** é uma empresa que vem fazendo um enorme sucesso no mercado de jogos limitados, onde basicamente, eles fecham acordo com alguma desenvolvedora de jogos independentes (na grande maioria dos casos) para lançar seus jogos em formato físico para colecionadores. Alguns de seus lançamentos fazem tanto sucesso que, simplesmente, esgotam em pouco minutos após seu lançamento. Uma loucura!
+Bom, a história é mais ou menos a seguinte: A **Limited Run** é uma empresa que vem fazendo um enorme sucesso no mercado de jogos limitados, onde basicamente, eles fecham acordo com alguma desenvolvedora de jogos (na grande maioria) independentes  para lançar seus jogos em formato físico para colecionadores. Alguns de seus lançamentos fazem tanto sucesso que, simplesmente, esgotam em pouco minutos após seu lançamento. Uma loucura!
 
-Sendo assim, tentando "morder uma fatia" deste mercado, uma nova "empresa" chamada **Limited Rare Games** fechou um acordo com a desenvolvedora **Diggidy.net** ([confirmado pela própria](http://diggidy.net/forums/viewtopic.php?f=7&t=607)) para lançarem o jogo **Poop Slinger** em mídia física e, como este seria o primeiro lançamento da empresa, todo o investimento dependia de suas vendas, caso contrário, a empresa não teria dinheiro para continuar!
+Sendo assim, tentando "morder uma fatia" deste mercado, uma nova "empresa" chamada **Limited Rare Games** fechou um acordo com a desenvolvedora **Diggidy.net** ([confirmado pela própria](http://diggidy.net/forums/viewtopic.php?f=7&t=607)) para lançarem o jogo **Poop Slinger** em mídia física e, como este seria o primeiro lançamento da empresa, todo o investimento dependia de suas vendas, caso contrário, a empresa não teria dinheiro para continuar com o projeto!
 
 #### Pois bem, as vendas fracassaram!
 
-Mas foi por uma série de fatores que levaram à isso. Fatores tão grotescos, que até estão levantando uma hipótese de que essa empresa nunca existiu de verdade e tudo não passou de uma brincadeira de alguma dessas publicadoras famosas, que negam de pés juntos!
+Mas foi por uma série de fatores que levaram à isso. Fatores tão grotescos, que até levantaram uma hipótese de que essa empresa nunca existiu de verdade e tudo não passou de uma brincadeira de alguma dessas publicadoras famosas, que negam de pés juntos!
 
 Mas enfim, vamos aos motivos do fracasso... Primeiro, o site deles, que hoje está fora do ar, era bastante simples e "suspeito", que incluia até um rodapé com *copyright* escrito em RUSSO!
 
@@ -32,9 +32,9 @@ E reparem no logo deles, uma cópia descarada da Limited Run...
 
 Outra suspeita: No anúncio dizia que o jogo teria apenas 820 cópias disponíveis, sendo que limite mínimo exigido pela **Sony** é de 1.000 cópias.
 
-Mas o pior de tudo é que eles não poderiam ter escolhido uma data melhora para divulgar o jogo: **1º de abril**, de 2019.
+Mas o pior de tudo é que eles não poderiam ter escolhido uma data melhor para divulgar o jogo: **1º de abril**, de 2019.
 
-Não deu outra, viralizou na internet! Mas de forma negativa, pois muita gente desconfiou da veracidade, ainda mais que depois um certo momento chegou até o conhecimento da Limited Run, que eles estavam plagiando o logo, que imediatamente negou o envolvimento e disse para que eles retirassem o logo do anúncio. Enfim, estava claro que era tudo uma brincadeira ou um grande golpe!
+Não deu outra, viralizou na internet! Mas de forma negativa, pois muita gente desconfiou da veracidade, ainda mais que depois um certo momento a notícia chegou até o conhecimento da Limited Run, que eles estavam plagiando o logo, que imediatamente negou o envolvimento e disse para que eles retirassem o logo do anúncio. Enfim, estava claro que era tudo uma brincadeira ou um grande golpe!
 
 Mas ainda sim, teve "meia dúzia de gato pingado", 84 para ser mais exato, que arriscou e comprou o jogo, mesmo sem muitas esperanças de receber algo ou ter o dinheiro de volta. Mas eis que em um anúncio "oficial" da empresa, ela disse que honraria todos os pedidos, mesmo alegando que estariam "fechando as portas" após o fracasso de vendas.
 
