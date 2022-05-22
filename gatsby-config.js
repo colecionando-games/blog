@@ -81,6 +81,18 @@ const pluginSetup = [
     }
   },
   `gatsby-plugin-sitemap`,
+  {
+    resolve: `gatsby-plugin-netlify`,
+    options: {
+      headers: {},
+      allPageHeaders: [],
+      mergeSecurityHeaders: true,
+      mergeLinkHeaders: true,
+      mergeCachingHeaders: true,
+      transformHeaders: (headers, path) => headers,
+      generateMatchPathRewrites: true
+    }
+  },
   // this (optional) plugin enables Progressive Web App + Offline functionality
   // To learn more, visit: https://gatsby.dev/offline
   `gatsby-plugin-offline`,
