@@ -28,6 +28,10 @@ export const FooterCopyright = styled.span`
     text-decoration: none;
     color: #2980b9;
   }
+
+  small {
+    font-size: 0.87em;
+  }
 `
 
 export const FooterLogo = styled(GatsbyImage)`

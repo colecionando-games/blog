@@ -23,11 +23,10 @@ const Footer = () => {
       <S.FooterCopyrightBox>
         <S.FooterLogo image={logoFooter.childImageSharp.gatsbyImageData} alt="Logo Colecionado.Games"/>  
         <S.FooterCopyright>
-          &copy; 2021 Colecionando.Games<br></br>
-          Um projeto do <a 
-            href="https://www.vgscomcerveja.com.br"
-            title="Site Videogames com Cerveja"
-            target="_blank" rel="noopener noreferrer">Videogames com Cerveja</a>.
+          &copy; 2022 Colecionando.Games<br></br>
+          <small>
+            Um projeto independente sobre colecionismo e preservação de jogos eletrônicos.
+          </small>
         </S.FooterCopyright>
       </S.FooterCopyrightBox>
       <S.FooterSocialLinks>
