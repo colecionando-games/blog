@@ -42,6 +42,8 @@ Dito isso, a lista está categorizada pelos formatos em sua ordem de lançamento
 
 ### Jogos na "caixa de papelão"
 
+Foram lançados **62 jogos** neste formato.
+
 ![Jogos na caixa de papelão](/assets/img/p00003-sms-caixas-papelao-tectoy.jpg "Foram lançados 62 jogos neste formato — Foto: Acervo pessoal")
 
 | Nome                                       |         Letra         |        Tipo        | Variações                                              |
@@ -110,6 +112,8 @@ Dito isso, a lista está categorizada pelos formatos em sua ordem de lançamento
 | Zillion II                                 |          S/L          |         1V         |                                                        | [fonte](https://www.sega-brasil.com.br/Tectoy/Zillion_II)                                                   |
 
 ### Jogos na "caixa plástica com encarte branco com quadrados grandes"
+
+O formato com a maior quantidade de jogos. Foram lançados **102 jogos** no total.
 
 ![Jogos na caixa plástica com encarte branco com quadrados grandes](/assets/img/p00003-sms-caixas-plastica-branca-quadrados-grandes-tectoy.jpg "Foram lançados 102 jogos neste formato — Foto: Acervo pessoal")
 
@@ -220,6 +224,8 @@ Dito isso, a lista está categorizada pelos formatos em sua ordem de lançamento
 
 ### Jogos na "caixa plástica com encarte branco com quadrados pequenos"
 
+Foram lançados apenas **15 jogos** neste formato.
+
 ![Jogos na caixa plástica com encarte branco com quadrados pequenos](/assets/img/p00003-sms-caixas-plastica-branca-quadrados-pequenos-tectoy.jpg "Foram lançados apenas 15 jogos neste formato — Foto: Acervo pessoal")
 
 | Nome                                     | Letra | Variações                                    |
@@ -241,6 +247,8 @@ Dito isso, a lista está categorizada pelos formatos em sua ordem de lançamento
 | World Class Leader Board                 |  (B)  |                                              | [fonte](https://www.sega-brasil.com.br/Tectoy/World_Class_Leader_Board)                 |
 
 ### Jogos na "caixa plástica com encarte azul e branco"
+
+Eu gosto deste formato, pois tem o logo do jogo na lateral, porém saíram apenas **56 jogos** neste formato.
 
 ![Jogos na caixa plástica com encarte azul e branco](/assets/img/p00003-sms-caixas-plastica-azul-branca-tectoy.jpg "Foram lançados apenas 56 jogos neste formato — Foto: Acervo pessoal")
 
@@ -304,6 +312,8 @@ Dito isso, a lista está categorizada pelos formatos em sua ordem de lançamento
 | WWF Wrestlemania Steel Cage Challenge                    |  (C)  |                                                   | [fonte](https://www.sega-brasil.com.br/Tectoy/WWF_Wrestlemania_Steel_Cage_Challenge)                                      |
 
 ### Jogos na "caixa plástica com encarte azul"
+
+Por fim, o último formato, todo azul, teve **39 jogos**.
 
 ![Jogos na caixa plástica com encarte azul](/assets/img/p00003-sms-caixas-plastica-azul-tectoy.jpg "E por último, foram lançados 39 jogos neste formato — Foto: Acervo pessoal")
 
