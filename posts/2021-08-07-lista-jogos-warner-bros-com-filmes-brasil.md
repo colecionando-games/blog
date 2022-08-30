@@ -30,19 +30,19 @@ Um detalhe importante, no Nintendo Wii e Xbox 360, os filmes que acompanham são
 
 ![Logo Xbox 360](/assets/img/posts/wb-games-brasil-jogo-filme/logo-xbox-360.jpg " ")
 
-| Ano  | Jogo                                                                                                    | Filme                                   |
-| :--: | :------------------------------------------------------------------------------------------------------ | :-------------------------------------- |
-| 2011 | Happy Feet 2                                                                                            | Happy Feet: O Pinguim                   |
-| 2011 | Lanterna Verde: A Ascensão dos Caçadores Cósmicos                                                       | Lanterna Verde: Primeiro Vôo            |
-| 2012 | F1 2012                                                                                                 | Senna                                   |
-| 2012 | LEGO O Senhor dos Anéis                                                                                 | O Senhor dos Anéis: A Sociedade do Anel |
-| 2012 | Mortal Kombat: Komplete Edition                                                                         | Mortal Kombat: O Legado                 |
-| 2013 | Battlefield 4                                                                                           | Tropa de Elite                          |
-| 2013 | Injustice: Gods Among Us                                                                                | Liga da Justição Doom: A Legião do Mal  |
-| 2013 | [LEGO Marvel Super Heroes](/assets/img/posts/wb-games-brasil-jogo-filme/xbox360_lego-marvel.jpg " ")    | Os Vingadores                           |
-| 2014 | [LEGO O Hobbit](/assets/img/posts/wb-games-brasil-jogo-filme/xbox360_lego-hobbit.jpg " ")               | O Hobbit: Uma Jornada Inesperada        |
-| 2014 | Terra-Média: Sombras de Mordor                                                                          | O Senhor dos Anéis: O Retorno do Rei    |
-| 2015 | [LEGO Jurassic World](/assets/img/posts/wb-games-brasil-jogo-filme/xbox360_lego-jurassic-world.jpg " ") | Jurassic Park                           |
+| Ano  | Jogo                                                                                                                             | Filme                                   |
+| :--: | :------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------- |
+| 2011 | Happy Feet 2                                                                                                                     | Happy Feet: O Pinguim                   |
+| 2011 | [Lanterna Verde: A Ascensão dos Caçadores Cósmicos](/assets/img/posts/wb-games-brasil-jogo-filme/xbox360_lanterna-verde.jpg " ") | Lanterna Verde: Primeiro Vôo            |
+| 2012 | F1 2012                                                                                                                          | Senna                                   |
+| 2012 | LEGO O Senhor dos Anéis                                                                                                          | O Senhor dos Anéis: A Sociedade do Anel |
+| 2012 | Mortal Kombat: Komplete Edition                                                                                                  | Mortal Kombat: O Legado                 |
+| 2013 | Battlefield 4                                                                                                                    | Tropa de Elite                          |
+| 2013 | Injustice: Gods Among Us                                                                                                         | Liga da Justição Doom: A Legião do Mal  |
+| 2013 | [LEGO Marvel Super Heroes](/assets/img/posts/wb-games-brasil-jogo-filme/xbox360_lego-marvel.jpg " ")                             | Os Vingadores                           |
+| 2014 | [LEGO O Hobbit](/assets/img/posts/wb-games-brasil-jogo-filme/xbox360_lego-hobbit.jpg " ")                                        | O Hobbit: Uma Jornada Inesperada        |
+| 2014 | Terra-Média: Sombras de Mordor                                                                                                   | O Senhor dos Anéis: O Retorno do Rei    |
+| 2015 | [LEGO Jurassic World](/assets/img/posts/wb-games-brasil-jogo-filme/xbox360_lego-jurassic-world.jpg " ")                          | Jurassic Park                           |
 
 **Total:** 11 jogos
 
