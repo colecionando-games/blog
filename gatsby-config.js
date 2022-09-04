@@ -49,6 +49,12 @@ const pluginSetup = [
             showCaptions: true
           }
         },
+        {
+          resolve: `gatsby-remark-figure-caption`,
+          options: {
+            figureClassName: 'md-figure'
+          }
+        },
         `gatsby-remark-lazy-load`,
         `gatsby-remark-prismjs`,
         `gatsby-remark-emoji`,

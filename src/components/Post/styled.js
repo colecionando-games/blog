@@ -248,4 +248,14 @@ export const MainContent = styled.section`
       padding: 10px;
     }
   }
+  .md-figure {
+    max-width: 960px;
+    img {
+      margin: 0 auto; 
+    }
+    figcaption {
+      padding: 5px 10px;
+      text-align: center;
+    }
+  }
 `

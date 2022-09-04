@@ -13,13 +13,13 @@ Se teve uma empresa que deu uma atenção especial ao mercado nacional de jogos,
 
 Para quem não sabe, a divisão de games da Warner - que é forte em filmes e séries - possui mais de 10 estúdios em seu portifólio, então ela tem bastante "carta na manga" para lançamentos de jogos. Porém, para tornar algo atrativo à nós brasileiros, ela uniu duas de suas frentes de mercado em um produto só, criando assim o combo "jogo + filme" (nome não-oficial) em edições limitadas muito legais.
 
-![](/assets/img/posts/wb-games-brasil-jogo-filme/post_thumbnail.jpg "Foto: Acervo pessoal")
+![Foto: Acervo pessoal](/assets/img/posts/wb-games-brasil-jogo-filme/post_thumbnail.jpg)
 
 Tudo começou no Wii em 2011, mas depois se espandiu para Xbox 360 e PlayStation 3 até chegar e encerrar no PlayStation 4 e Xbox One em 2018. Como a maioria dos jogos foram lançados para mais de uma plataforma, eu fiquei na dúvida de como apresentar a lista. Então resolvi primeiro separar por plataforma, mas no final coloquei uma lista com todos os jogos e plataformas que foram lançados em colunas.
 
 Um detalhe importante, no Nintendo Wii e Xbox 360, os filmes que acompanham são em DVD, já no PS3, PS4 e Xbox One, os filmes são em Blu-ray.
 
-![Logo Nintendo Wii](/assets/img/posts/wb-games-brasil-jogo-filme/logo-wii.jpg " ")
+![](/assets/img/posts/wb-games-brasil-jogo-filme/logo-wii.jpg)
 
 | Ano  | Jogo                                                                                                                         | Filme                        |
 | :--: | :--------------------------------------------------------------------------------------------------------------------------- | :--------------------------- |
@@ -28,7 +28,7 @@ Um detalhe importante, no Nintendo Wii e Xbox 360, os filmes que acompanham são
 
 **Total:** 2 jogos
 
-![Logo Xbox 360](/assets/img/posts/wb-games-brasil-jogo-filme/logo-xbox-360.jpg " ")
+![](/assets/img/posts/wb-games-brasil-jogo-filme/logo-xbox-360.jpg)
 
 | Ano  | Jogo                                                                                                                             | Filme                                   |
 | :--: | :------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------- |
@@ -46,9 +46,9 @@ Um detalhe importante, no Nintendo Wii e Xbox 360, os filmes que acompanham são
 
 **Total:** 11 jogos
 
-![Jogo LEGO Jurassic World para Xbox 360](/assets/img/posts/wb-games-brasil-jogo-filme/xbox360_lego-jurassic-world_aberto.jpg "LEGO Jurassic World + DVD do Jurassic Park - Foto: Acervo pessoal")
+![LEGO Jurassic World + DVD do filme Jurassic Park - Foto: Acervo pessoal](/assets/img/posts/wb-games-brasil-jogo-filme/xbox360_lego-jurassic-world_aberto.jpg)
 
-![Logo Xbox One](/assets/img/posts/wb-games-brasil-jogo-filme/logo-xbox-one.jpg " ")
+![](/assets/img/posts/wb-games-brasil-jogo-filme/logo-xbox-one.jpg)
 
 | Ano  | Jogo                            | Filme                                |
 | :--: | :------------------------------ | :----------------------------------- |
@@ -61,7 +61,7 @@ Um detalhe importante, no Nintendo Wii e Xbox 360, os filmes que acompanham são
 
 **Total:** 6 jogos
 
-![Logo PlayStation 3](/assets/img/posts/wb-games-brasil-jogo-filme/logo-ps3.jpg " ")
+![](/assets/img/posts/wb-games-brasil-jogo-filme/logo-ps3.jpg)
 
 | Ano  | Jogo                                                                                                      | Filme                                   |
 | :--: | :-------------------------------------------------------------------------------------------------------- | :-------------------------------------- |
@@ -78,7 +78,7 @@ Um detalhe importante, no Nintendo Wii e Xbox 360, os filmes que acompanham são
 
 **Total:** 10 jogos
 
-![Logo PlayStation 4](/assets/img/posts/wb-games-brasil-jogo-filme/logo-ps4.jpg " ")
+![](/assets/img/posts/wb-games-brasil-jogo-filme/logo-ps4.jpg)
 
 | Ano  | Jogo                                                                                                      | Filme                                |
 | :--: | :-------------------------------------------------------------------------------------------------------- | :----------------------------------- |
@@ -91,7 +91,7 @@ Um detalhe importante, no Nintendo Wii e Xbox 360, os filmes que acompanham são
 
 **Total:** 6 jogos
 
-![Jogo Terra-Média: Sombras de Mordor para PS4](/assets/img/posts/wb-games-brasil-jogo-filme/ps4_sombras-mordor.jpg "Jogo Terra-Média: Sombras de Mordor para PS4 - Foto: Acervo pessoal")
+![Jogo Terra-Média: Sombras de Mordor para PS4 - Foto: Acervo pessoal](/assets/img/posts/wb-games-brasil-jogo-filme/ps4_sombras-mordor.jpg)
 
 ### Lista final
 

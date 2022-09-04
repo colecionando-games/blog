@@ -44,7 +44,7 @@ Dito isso, a lista está categorizada pelos formatos em sua ordem de lançamento
 
 Foram lançados **62 jogos** neste formato.
 
-![Jogos na caixa de papelão](/assets/img/p00003-sms-caixas-papelao-tectoy.jpg "Foram lançados 62 jogos neste formato — Foto: Acervo pessoal")
+![Jogos na caixa de papelão — Foto: Acervo pessoal](/assets/img/p00003-sms-caixas-papelao-tectoy.jpg)
 
 | Nome                                       |         Letra         |        Tipo        | Variações                                              |
 | :----------------------------------------- | :-------------------: | :----------------: | :----------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
@@ -115,7 +115,7 @@ Foram lançados **62 jogos** neste formato.
 
 O formato com a maior quantidade de jogos. Foram lançados **102 jogos** no total.
 
-![Jogos na caixa plástica com encarte branco com quadrados grandes](/assets/img/p00003-sms-caixas-plastica-branca-quadrados-grandes-tectoy.jpg "Foram lançados 102 jogos neste formato — Foto: Acervo pessoal")
+![Jogos na caixa plástica com encarte branco com quadrados grandes — Foto: Acervo pessoal](/assets/img/p00003-sms-caixas-plastica-branca-quadrados-grandes-tectoy.jpg)
 
 | Nome                                        | Letra | Variações                                                                                                       |
 | :------------------------------------------ | :---: | :-------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- |
@@ -226,7 +226,7 @@ O formato com a maior quantidade de jogos. Foram lançados **102 jogos** no tota
 
 Foram lançados apenas **15 jogos** neste formato.
 
-![Jogos na caixa plástica com encarte branco com quadrados pequenos](/assets/img/p00003-sms-caixas-plastica-branca-quadrados-pequenos-tectoy.jpg "Foram lançados apenas 15 jogos neste formato — Foto: Acervo pessoal")
+![Jogos na caixa plástica com encarte branco com quadrados pequenos — Foto: Acervo pessoal](/assets/img/p00003-sms-caixas-plastica-branca-quadrados-pequenos-tectoy.jpg)
 
 | Nome                                     | Letra | Variações                                    |
 | :--------------------------------------- | :---: | :------------------------------------------- | :------------------------------------------------------------------------------------- |
@@ -250,7 +250,7 @@ Foram lançados apenas **15 jogos** neste formato.
 
 Eu gosto deste formato, pois tem o logo do jogo na lateral, porém saíram apenas **56 jogos** neste formato.
 
-![Jogos na caixa plástica com encarte azul e branco](/assets/img/p00003-sms-caixas-plastica-azul-branca-tectoy.jpg "Foram lançados apenas 56 jogos neste formato — Foto: Acervo pessoal")
+![Jogos na caixa plástica com encarte azul e branco — Foto: Acervo pessoal](/assets/img/p00003-sms-caixas-plastica-azul-branca-tectoy.jpg)
 
 | Nome                                                     | Letra | Variações                                         |
 | :------------------------------------------------------- | :---: | :------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------- |
@@ -315,7 +315,7 @@ Eu gosto deste formato, pois tem o logo do jogo na lateral, porém saíram apena
 
 Por fim, o último formato, todo azul, teve **39 jogos**.
 
-![Jogos na caixa plástica com encarte azul](/assets/img/p00003-sms-caixas-plastica-azul-tectoy.jpg "E por último, foram lançados 39 jogos neste formato — Foto: Acervo pessoal")
+![Jogos na caixa plástica com encarte azul — Foto: Acervo pessoal](/assets/img/p00003-sms-caixas-plastica-azul-tectoy.jpg)
 
 | Nome                                           | Letra | Variações                                                                                   |
 | :--------------------------------------------- | :---: | :------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
@@ -372,7 +372,7 @@ Saíram apenas **2 jogos** neste formato, pois eles eram inclusos em algum conso
 
 Para complementar o post, gostaria de enfatizar o quão bom foi o trabalho da Tec Toy na década de 90 selecionando dentre os jogos lançados, os que saíram **exclusivamente para o Brasil**, ou seja, em nenhum outro lugar no mundo você vai encontrar esses jogos para Master System!
 
-![Alguns dos jogos exclusivos do Brasil](/assets/img/p00003-sms-br-exclusivos-tectoy.jpg "Jogos exclusivos do Brasil — Foto: Acervo pessoal")
+![Alguns dos jogos exclusivos do Brasil — Foto: Acervo pessoal](/assets/img/p00003-sms-br-exclusivos-tectoy.jpg)
 
 Em ordem alfabética:
 
