@@ -19,6 +19,14 @@ Tudo começou no Wii em 2011, mas depois se espandiu para Xbox 360 e PlayStation
 
 Um detalhe importante, no Nintendo Wii e Xbox 360, os filmes que acompanham são em DVD, já no PS3, PS4 e Xbox One, os filmes são em Blu-ray.
 
+![](/assets/img/posts/wb-games-brasil-jogo-filme/logo-pc.jpg)
+
+| Ano  | Jogo                                                                                                                | Filme                            |
+| :--: | :------------------------------------------------------------------------------------------------------------------ | :------------------------------- |
+| 2011 | [LEGO Harry Potter: Years 1-4](/assets/img/posts/wb-games-brasil-jogo-filme/pc_lego-harry-potter-years-1-4.jpg " ") | Harry Potter e a Pedra Filosofal |
+
+**Total:** 1 jogo
+
 ![](/assets/img/posts/wb-games-brasil-jogo-filme/logo-wii.jpg)
 
 | Ano  | Jogo                                                                                                                         | Filme                        |
@@ -97,21 +105,26 @@ Um detalhe importante, no Nintendo Wii e Xbox 360, os filmes que acompanham são
 
 Aqui está a lista de todos os jogos e plataformas que eles foram lançados em ordem de lançamento.
 
-| Ano  | Jogo                                                                                                   |        Wii         |        360         |        PS3         |        One         |        PS4         |
-| :--: | :----------------------------------------------------------------------------------------------------- | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: |
-| 2011 | **Jogo:** Happy Feet 2<br>**Filme:** Happy Feet: O Pinguim                                             | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |                    |
-| 2011 | **Jogo:** Lanterna Verde: A Ascensão dos Caçadores Cósmicos<br>**Filme:** Lanterna Verde: Primeiro Vôo | :white_check_mark: | :white_check_mark: |                    |                    |                    |
-| 2012 | **Jogo:** F1 2012<br>**Filme:** Senna                                                                  |                    | :white_check_mark: | :white_check_mark: |                    |                    |
-| 2012 | **Jogo:** LEGO O Senhor dos Anéis<br>**Filme:** O Senhor dos Anéis: A Sociedade do Anel                |                    | :white_check_mark: | :white_check_mark: |                    |                    |
-| 2012 | **Jogo:** Mortal Kombat: Komplete Edition<br>**Filme:** Mortal Kombat: O Legado                        |                    | :white_check_mark: | :white_check_mark: |                    |                    |
-| 2013 | **Jogo:** Battlefield 4<br>**Filme:** Tropa de Elite                                                   |                    | :white_check_mark: | :white_check_mark: |                    |                    |
-| 2013 | **Jogo:** Injustice: Gods Among Us<br>**Filme:** Liga da Justição Doom: A Legião do Mal                |                    | :white_check_mark: | :white_check_mark: |                    |                    |
-| 2013 | **Jogo:** LEGO Marvel Super Heroes<br>**Filme:** Os Vingadores                                         |                    | :white_check_mark: | :white_check_mark: |                    |                    |
-| 2014 | **Jogo:** LEGO O Hobbit<br>**Filme:** O Hobbit: Uma Jornada Inesperada                                 |                    | :white_check_mark: | :white_check_mark: |                    |                    |
-| 2014 | **Jogo:** Terra-Média: Sombras de Mordor<br>**Filme:** O Senhor dos Anéis: O Retorno do Rei            |                    | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| 2015 | **Jogo:** LEGO Jurassic World<br>**Filme:** Jurassic Park                                              |                    | :white_check_mark: | :white_check_mark: |                    |                    |
-| 2015 | **Jogo:** Mad Max<br>**Filme:** Mad Max 2: A Caçada Continua                                           |                    |                    |                    | :white_check_mark: | :white_check_mark: |
-| 2016 | **Jogo:** Batman: Return to Arkham <br>**Filme:** Assalto em Arkham                                    |                    |                    |                    | :white_check_mark: | :white_check_mark: |
-| 2017 | **Jogo:** Injustice 2 <br>**Filme:** Liga da Justiça Sombria                                           |                    |                    |                    | :white_check_mark: | :white_check_mark: |
-| 2017 | **Jogo:** LEGO Ninjago: O Filme Videogame<br>**Filme:** LEGO Ninjago: O Filme                          |                    |                    |                    | :white_check_mark: | :white_check_mark: |
-| 2018 | **Jogo:** Hitman 2 <br>**Filme:** Hitman Agente 47                                                     |                    |                    |                    | :white_check_mark: | :white_check_mark: |
+| Ano  | Jogo                                                                                                   |         PC         |        Wii         |        360         |        PS3         |        One         |        PS4         |
+| :--: | :----------------------------------------------------------------------------------------------------- | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: |
+| 2011 | **Jogo:** LEGO Harry Potter: Years 1-4<br>**Filme:** Harry Potter e a Pedra Filosofal                  | :white_check_mark: |                    |                    |                    |                    |                    |
+| 2011 | **Jogo:** Happy Feet 2<br>**Filme:** Happy Feet: O Pinguim                                             |                    | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |                    |
+| 2011 | **Jogo:** Lanterna Verde: A Ascensão dos Caçadores Cósmicos<br>**Filme:** Lanterna Verde: Primeiro Vôo |                    | :white_check_mark: | :white_check_mark: |                    |                    |                    |
+| 2012 | **Jogo:** F1 2012<br>**Filme:** Senna                                                                  |                    |                    | :white_check_mark: | :white_check_mark: |                    |                    |
+| 2012 | **Jogo:** LEGO O Senhor dos Anéis<br>**Filme:** O Senhor dos Anéis: A Sociedade do Anel                |                    |                    | :white_check_mark: | :white_check_mark: |                    |                    |
+| 2012 | **Jogo:** Mortal Kombat: Komplete Edition<br>**Filme:** Mortal Kombat: O Legado                        |                    |                    | :white_check_mark: | :white_check_mark: |                    |                    |
+| 2013 | **Jogo:** Battlefield 4<br>**Filme:** Tropa de Elite                                                   |                    |                    | :white_check_mark: | :white_check_mark: |                    |                    |
+| 2013 | **Jogo:** Injustice: Gods Among Us<br>**Filme:** Liga da Justição Doom: A Legião do Mal                |                    |                    | :white_check_mark: | :white_check_mark: |                    |                    |
+| 2013 | **Jogo:** LEGO Marvel Super Heroes<br>**Filme:** Os Vingadores                                         |                    |                    | :white_check_mark: | :white_check_mark: |                    |                    |
+| 2014 | **Jogo:** LEGO O Hobbit<br>**Filme:** O Hobbit: Uma Jornada Inesperada                                 |                    |                    | :white_check_mark: | :white_check_mark: |                    |                    |
+| 2014 | **Jogo:** Terra-Média: Sombras de Mordor<br>**Filme:** O Senhor dos Anéis: O Retorno do Rei            |                    |                    | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| 2015 | **Jogo:** LEGO Jurassic World<br>**Filme:** Jurassic Park                                              |                    |                    | :white_check_mark: | :white_check_mark: |                    |                    |
+| 2015 | **Jogo:** Mad Max<br>**Filme:** Mad Max 2: A Caçada Continua                                           |                    |                    |                    |                    | :white_check_mark: | :white_check_mark: |
+| 2016 | **Jogo:** Batman: Return to Arkham <br>**Filme:** Assalto em Arkham                                    |                    |                    |                    |                    | :white_check_mark: | :white_check_mark: |
+| 2017 | **Jogo:** Injustice 2 <br>**Filme:** Liga da Justiça Sombria                                           |                    |                    |                    |                    | :white_check_mark: | :white_check_mark: |
+| 2017 | **Jogo:** LEGO Ninjago: O Filme Videogame<br>**Filme:** LEGO Ninjago: O Filme                          |                    |                    |                    |                    | :white_check_mark: | :white_check_mark: |
+| 2018 | **Jogo:** Hitman 2 <br>**Filme:** Hitman Agente 47                                                     |                    |                    |                    |                    | :white_check_mark: | :white_check_mark: |
+
+### Atualizações
+
+- **10/01/2023:** Adicionado o jogo *"LEGO Harry Potter: Years 1-4"* para PC na lista.
