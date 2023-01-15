@@ -23,7 +23,7 @@ const Footer = () => {
       <S.FooterCopyrightBox>
         <S.FooterLogo image={logoFooter.childImageSharp.gatsbyImageData} alt="Logo Colecionado.Games"/>  
         <S.FooterCopyright>
-          &copy; 2022 Colecionando.Games<br></br>
+          &copy; 2023 Colecionando.Games<br></br>
           <small>
             Um projeto independente sobre colecionismo e preservação de jogos eletrônicos.
           </small>
