@@ -5,7 +5,7 @@ const links = [
   },
   {
     label: 'YouTube',
-    url: 'https://www.youtube.com/channel/UCLpZFDHNru0rdxMx-mtZkpQ'
+    url: 'https://www.youtube.com/@colecionandogames'
   },
   {
     label: 'RSS',
