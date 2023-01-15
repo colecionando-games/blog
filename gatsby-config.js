@@ -41,6 +41,7 @@ const pluginSetup = [
     resolve: `gatsby-transformer-remark`,
     options: {
       plugins: [
+        `gatsby-remark-embed-video`,
         { 
           resolve: `gatsby-remark-images`,
           options: {
@@ -55,6 +56,7 @@ const pluginSetup = [
             figureClassName: 'md-figure'
           }
         },
+        `gatsby-remark-responsive-iframe`,
         `gatsby-remark-lazy-load`,
         `gatsby-remark-prismjs`,
         `gatsby-remark-emoji`,
