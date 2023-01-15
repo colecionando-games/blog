@@ -6,6 +6,10 @@ const links = [
   {
     label: "Listas",
     url: "/lista"
+  },
+  {
+    label: "Notícias",
+    url: "/notícia"
   }
 ]
 
