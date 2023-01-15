@@ -41,12 +41,16 @@ export const FooterLogo = styled(GatsbyImage)`
 export const FooterSocialLinks = styled.ul`
   align-items: center;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
   list-style: none !important;
 
   a {
     color: white;
     text-decoration: none;
+  }
+
+  svg {
+    margin: 5px;
   }
 `
 

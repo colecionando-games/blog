@@ -8,6 +8,10 @@ const links = [
     url: 'https://www.youtube.com/@colecionandogames'
   },
   {
+    label: 'InternetArchive',
+    url: 'https://archive.org/details/@felipebbarbosa'
+  },
+  {
     label: 'RSS',
     url: '/feed.xml'
   }
