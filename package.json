@@ -33,7 +33,7 @@
     "gatsby-remark-responsive-iframe": "^6.4.0",
     "gatsby-source-filesystem": "^3.0.0",
     "gatsby-transformer-json": "^4.4.0",
-    "gatsby-transformer-remark": "^5.25.1",
+    "gatsby-transformer-remark": "^3.2.0",
     "gatsby-transformer-sharp": "^3.0.0",
     "gatsby-transformer-yaml": "^3.0.0",
     "joi": "^17.5.0",
