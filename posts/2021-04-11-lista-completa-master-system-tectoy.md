@@ -5,27 +5,28 @@ date: 2021-04-11 20:30:00
 author: felipebbarbosa
 category: lista
 tags: ["sega", "tectoy", "master-system"]
-thumbnail: ../static/assets/img/p00003-post_thumbnail.jpg
-cover: /assets/img/p00003-post_thumbnail.jpg
+thumbnail: ../static/assets/img/posts/fullset-master-system-tectoy/post_thumbnail.jpg
+cover: /assets/img/posts/fullset-master-system-tectoy/post_thumbnail.jpg
 ---
 
 Este é o primeiro post que estou importando do [Videogames com Cerveja](https://www.vgscomcerveja.com.br/post/lista-completa-jogos-tectoy-para-master-system), pois ele não poderia faltar por aqui, afinal a [Tec Toy](https://www.tectoy.com.br) foi uma empresa muito importante para o cenário brasileiro de videogames no final da década 80 e durante toda a década 90 representando a Sega no Brasil, com direito a jogos exclusivos e tudo mais!
 
-Apesar de não termos uma lista oficial por parte da empresa, a legião de fãs que temos no Brasil é tão grande que temos **praticamente uma lista definitiva** de todos jogos de Master System nacionais lançados pela Tec Toy. Este **levantamento foi feito pelo pessoal do fórum [Sega Brasil](https://sega-brasil.com.br)**, que inclusive, até possuem um [projeto bem massa dedicado à TecToy](https://www.sega-brasil.com.br/Tectoy/Página_principal).
+Apesar de não termos uma lista oficial por parte da empresa, a legião de fãs que temos no Brasil é tão grande que temos **praticamente uma lista definitiva** de todos jogos de Master System nacionais lançados pela Tec Toy. Este **levantamento foi feito pelo pessoal do fórum [Sega Brasil](https://sega-brasil.com.br)**, que inclusive, possuem um [projeto bem massa dedicado à TecToy](https://www.sega-brasil.com.br/Tectoy/Página_principal).
 
 Para chegar nessa lista, demoraram aproxidamente 3 anos para ser concluído, mas não duvido que ainda possa aparecer uma variação desconhecida por aí. Então já sabe, caso saiba de algo que não está na lista, não deixe de comentar! ;)
 
 ## Variações das caixas
 
-Antes de mais nada, a primeira coisa que precisa ser dita é que existem cinco tipos, ou melhor, formatos/layout de caixas lançadas no Brasil, são elas:
+Antes de mais nada, a primeira coisa que precisa ser dita é que existem seis tipos, ou melhor, formatos/layout de caixas lançadas no Brasil, são elas:
 
-![](/assets/img/p00003-formatos-capas-sms-tectoy.jpg)
+![](/assets/img/posts/fullset-master-system-tectoy/formatos-capas-sms-tectoy.jpg)
 
 - Caixa de papelão com 1 vinco (1V) ou 3 vincos (3V);
 - Caixa plástica com encarte branco com quadrados grandes;
 - Caixa plástica com encarte branco com quadrados pequenos;
 - Caixa plástica com encarte azul e branco;
 - Caixa plástica com encarte azul;
+- Coletâneas Game Box na caixa plástica;
 
 Além disso, tivemos dois jogos que foram lançados sem caixas, pois eles vinham junto no pacote com alguns consoles.
 
@@ -38,16 +39,14 @@ Dito isso, a lista está categorizada pelos formatos em sua ordem de lançamento
 - **Tipo**: No formato de caixa de papelão temos duas variações: 1 vinco (1V) ou 3 vincos (3V);
 - **Variações**: As pequenas variações que um jogo pode ter.
 
-> **ATUALIZAÇÃO 25/06/21:** Adicionei o link de cada jogo para sua respectiva página no **TecToy Wiki** para maiores detalhes.
-
 ### Jogos na "caixa de papelão"
 
 Foram lançados **62 jogos** neste formato.
 
-![Jogos na caixa de papelão — Foto: Acervo pessoal](/assets/img/p00003-sms-caixas-papelao-tectoy.jpg)
+![Jogos na caixa de papelão — Foto: Acervo pessoal](/assets/img/posts/fullset-master-system-tectoy/sms-caixas-papelao-tectoy.jpg)
 
 | Nome                                       |         Letra         |        Tipo        | Variações                                              |
-| :----------------------------------------- | :-------------------: | :----------------: | :----------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| :----------------------------------------- | :-------------------: | :----------------: | :----------------------------------------------------- | :---------------------------------------------------------------------------------------------------------- |
 | After Burner                               |          S/L          |     1V <br> 3V     | logo da SEGA atrás                                     | [fonte](https://www.sega-brasil.com.br/Tectoy/After_Burner)                                                 |
 | Alex Kidd in Miracle World                 |     S/L <br> (B)      | 1V <br> 1V <br> 3V | nome "Alex Kid in Miracle World" na label do cartucho  | [fonte](https://www.sega-brasil.com.br/Tectoy/Alex_Kidd_in_Miracle_World)                                   |
 | Alex Kidd In Shinobi World                 | S/L <br> (A) <br> (B) |         3V         |                                                        | [fonte](https://www.sega-brasil.com.br/Tectoy/Alex_Kidd_in_Shinobi_World)                                   |
@@ -115,10 +114,10 @@ Foram lançados **62 jogos** neste formato.
 
 O formato com a maior quantidade de jogos. Foram lançados **102 jogos** no total.
 
-![Jogos na caixa plástica com encarte branco com quadrados grandes — Foto: Acervo pessoal](/assets/img/p00003-sms-caixas-plastica-branca-quadrados-grandes-tectoy.jpg)
+![Jogos na caixa plástica com encarte branco com quadrados grandes — Foto: Acervo pessoal](/assets/img/posts/fullset-master-system-tectoy/sms-caixas-plastica-branca-quadrados-grandes-tectoy.jpg)
 
 | Nome                                        | Letra | Variações                                                                                                       |
-| :------------------------------------------ | :---: | :-------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- |
+| :------------------------------------------ | :---: | :-------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------ |
 | Ace of Aces                                 |  (A)  |                                                                                                                 | [fonte](https://www.sega-brasil.com.br/Tectoy/Ace_of_Aces)                                                    |
 | Action Fighter                              |  (B)  | código de barras                                                                                                | [fonte](https://www.sega-brasil.com.br/Tectoy/Action_Fighter)                                                 |
 | Aerial Assault                              |  (A)  |                                                                                                                 | [fonte](<https://www.sega-brasil.com.br/Tectoy/Aerial_Assault_(Master_System)>)                               |
@@ -226,10 +225,10 @@ O formato com a maior quantidade de jogos. Foram lançados **102 jogos** no tota
 
 Foram lançados apenas **15 jogos** neste formato.
 
-![Jogos na caixa plástica com encarte branco com quadrados pequenos — Foto: Acervo pessoal](/assets/img/p00003-sms-caixas-plastica-branca-quadrados-pequenos-tectoy.jpg)
+![Jogos na caixa plástica com encarte branco com quadrados pequenos — Foto: Acervo pessoal](/assets/img/posts/fullset-master-system-tectoy/sms-caixas-plastica-branca-quadrados-pequenos-tectoy.jpg)
 
 | Nome                                     | Letra | Variações                                    |
-| :--------------------------------------- | :---: | :------------------------------------------- | :------------------------------------------------------------------------------------- |
+| :--------------------------------------- | :---: | :------------------------------------------- | :-------------------------------------------------------------------------------------- |
 | Batman Returns                           |  (D)  |                                              | [fonte](<https://www.sega-brasil.com.br/Tectoy/Batman_Returns_(Master_System)>)         |
 | Chuck Rock                               |  S/L  |                                              | [fonte](<https://www.sega-brasil.com.br/Tectoy/Chuck_Rock_(Master_System)>)             |
 | Global Gladiators                        |  (D)  |                                              | [fonte](https://www.sega-brasil.com.br/Tectoy/Global_Gladiators)                        |
@@ -250,10 +249,10 @@ Foram lançados apenas **15 jogos** neste formato.
 
 Eu gosto deste formato, pois tem o logo do jogo na lateral, porém saíram apenas **56 jogos** neste formato.
 
-![Jogos na caixa plástica com encarte azul e branco — Foto: Acervo pessoal](/assets/img/p00003-sms-caixas-plastica-azul-branca-tectoy.jpg)
+![Jogos na caixa plástica com encarte azul e branco — Foto: Acervo pessoal](/assets/img/posts/fullset-master-system-tectoy/sms-caixas-plastica-azul-branca-tectoy.jpg)
 
 | Nome                                                     | Letra | Variações                                         |
-| :------------------------------------------------------- | :---: | :------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------- |
+| :------------------------------------------------------- | :---: | :------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------ |
 | Andre Agassi Tennis                                      |  (B)  |                                                   | [fonte](https://www.sega-brasil.com.br/Tectoy/Andre_Agassi_Tennis)                                                        |
 | Asterix and the Great Rescue                             |  S/L  |                                                   | [fonte](https://www.sega-brasil.com.br/Tectoy/Asterix_and_The_Great_Rescue)                                               |
 | Astérix and the Secret Mission                           |  S/L  |                                                   | [fonte](<https://www.sega-brasil.com.br/Tectoy/Astérix_and_the_Secret_Mission_(Master_System)>)                           |
@@ -313,12 +312,12 @@ Eu gosto deste formato, pois tem o logo do jogo na lateral, porém saíram apena
 
 ### Jogos na "caixa plástica com encarte azul"
 
-Por fim, o último formato, todo azul, teve **39 jogos**.
+No formato, todo azul, teve **35 jogos**.
 
-![Jogos na caixa plástica com encarte azul — Foto: Acervo pessoal](/assets/img/p00003-sms-caixas-plastica-azul-tectoy.jpg)
+![Jogos na caixa plástica com encarte azul — Foto: Acervo pessoal](/assets/img/posts/fullset-master-system-tectoy/sms-caixas-plastica-azul-tectoy.jpg)
 
 | Nome                                           | Letra | Variações                                                                                   |
-| :--------------------------------------------- | :---: | :------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
+| :--------------------------------------------- | :---: | :------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- |
 | Altered Beast                                  |  S/L  |                                                                                             | [fonte](https://www.sega-brasil.com.br/Tectoy/Altered_Beast)                                  |
 | Ariel The Little Mermaid                       |  (C)  |                                                                                             | [fonte](https://www.sega-brasil.com.br/Tectoy/Ariel_the_Little_Mermaid)                       |
 | As Aventuras da TV Colosso                     |  S/L  |                                                                                             | [fonte](https://www.sega-brasil.com.br/Tectoy/As_Aventuras_da_TV_Colosso)                     |
@@ -333,10 +332,6 @@ Por fim, o último formato, todo azul, teve **39 jogos**.
 | Férias Frustradas do Pica-Pau                  |  S/L  |                                                                                             | [fonte](https://www.sega-brasil.com.br/Tectoy/Férias_Frustradas_do_Pica_Pau)                  |
 | FIFA International Soccer                      |  S/L  | logo do INMETRO atrás                                                                       | [fonte](<https://www.sega-brasil.com.br/Tectoy/FIFA_International_Soccer_(Master_System)>)    |
 | Fire & Ice                                     |  (D)  |                                                                                             | [fonte](https://www.sega-brasil.com.br/Tectoy/Fire_and_Ice)                                   |
-| Game Box série Corridas                        |  S/L  |                                                                                             | [fonte](https://www.sega-brasil.com.br/Tectoy/Game_Box_Série_Corridas)                        |
-| Game Box série Esportes                        |  S/L  | label                                                                                       | [fonte](https://www.sega-brasil.com.br/Tectoy/Game_Box_Série_Esportes)                        |
-| Game Box série Esportes Radicais               |  (B)  | adesivo do INMETRO                                                                          | [fonte](https://www.sega-brasil.com.br/Tectoy/Game_Box_Série_Esportes_Radicais)               |
-| Game Box série Lutas                           |  S/L  |                                                                                             | [fonte](https://www.sega-brasil.com.br/Tectoy/Game_Box_Série_Lutas)                           |
 | Gangster Town                                  |  (B)  |                                                                                             | [fonte](https://www.sega-brasil.com.br/Tectoy/Gangster_Town)                                  |
 | Ghouls 'n Ghosts                               |  S/L  |                                                                                             | [fonte](<https://www.sega-brasil.com.br/Tectoy/Ghouls%27n_Ghosts_(Master_System)>)            |
 | Indiana Jones e a Última Cruzada               |  (D)  | adesivo do INMETRO na lombada                                                               | [fonte](https://www.sega-brasil.com.br/Tectoy/Indiana_Jones_e_a_Última_Cruzada)               |
@@ -359,12 +354,23 @@ Por fim, o último formato, todo azul, teve **39 jogos**.
 | Virtua Fighter Animation                       |  S/L  |                                                                                             | [fonte](https://www.sega-brasil.com.br/Tectoy/Virtua_Fighter_Animation)                       |
 | X-Men Mojo World                               |  S/L  |                                                                                             | [fonte](https://www.sega-brasil.com.br/Tectoy/X-Men_Mojo_World)                               |
 
+### Coletâneas Game Box
+
+E por fim, as coletâneas **Game Box** que por sua vez, possuem uma arte diferente de todos os outros jogos. Saíram apenas 4 cartuchos!
+
+| Nome                    | Jogos inclusos                                  | Letra | Variações          |
+| :---------------------- | :---------------------------------------------- | :---: | :----------------- | ------------------------------------------------------------------------------- |
+| Série Corridas          | Super Cross, Super Monaco GP e World Grand Prix |  S/L  |                    | [fonte](https://www.sega-brasil.com.br/Tectoy/Game_Box_Série_Corridas)          |
+| Série Esportes          | Great Volley, Super Futebol II e Wimbledon      |  S/L  | label              | [fonte](https://www.sega-brasil.com.br/Tectoy/Game_Box_Série_Esportes)          |
+| Série Esportes Radicais | Surf e BMX                                      |  (B)  | adesivo do INMETRO | [fonte](https://www.sega-brasil.com.br/Tectoy/Game_Box_Série_Esportes_Radicais) |
+| Série Lutas             | Shinobi, The Ninja e Kung Fu Kid                |  S/L  |                    | [fonte](https://www.sega-brasil.com.br/Tectoy/Game_Box_Série_Lutas)             |
+
 ### Jogos sem caixa
 
 Saíram apenas **2 jogos** neste formato, pois eles eram inclusos em algum console, são eles:
 
 | Nome                  | Label do cartucho | Incluso no console                                                     |
-| :-------------------- | :---------------: | :--------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| :-------------------- | :---------------: | :--------------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | Hang On & Safari Hunt |     Vermelho      | Master System 3D <br> Master System III Compact c/ Light Phaser (azul) | [fonte](https://www.sega-brasil.com.br/Tectoy/Hang_On_%26_Safari_Hunt) |
 | 20 em 1               |       Azul        | Master System III Compact 21 Jogos                                     | [fonte](https://www.sega-brasil.com.br/Tectoy/20_em_1)                 |
 
@@ -372,7 +378,7 @@ Saíram apenas **2 jogos** neste formato, pois eles eram inclusos em algum conso
 
 Para complementar o post, gostaria de enfatizar o quão bom foi o trabalho da Tec Toy na década de 90 selecionando dentre os jogos lançados, os que saíram **exclusivamente para o Brasil**, ou seja, em nenhum outro lugar no mundo você vai encontrar esses jogos para Master System!
 
-![Alguns dos jogos exclusivos do Brasil — Foto: Acervo pessoal](/assets/img/p00003-sms-br-exclusivos-tectoy.jpg)
+![Alguns dos jogos exclusivos do Brasil — Foto: Acervo pessoal](/assets/img/posts/fullset-master-system-tectoy/sms-br-exclusivos-tectoy.jpg)
 
 Em ordem alfabética:
 
@@ -412,3 +418,8 @@ Em ordem alfabética:
 - **X-Men: Mojo World** (1998) - Portabilidade (port) realizada pela Tec Toy do jogo de Game Gear originalmente desenvolvido pela Sega;
 
 Além disso, tivemos dois jogos totalmente traduzidos para o português: **Phantasy Star** e **Where in the World is Carmen Sandiego?**, algo totalmente raro na época!
+
+#### Atualizações
+
+- **25/06/21:** Adicionei o link de cada jogo para sua respectiva página no **TecToy Wiki** para maiores detalhes.
+- **18/09/23:** Separei as coletâneas Game Box em uma categoria exclusiva, antes estavam dentro da categoria **Caixa plástica com encarte azul**. Sugestão vinda do grupo de WhatsApp "[Master System Sem Miséria](https://chat.whatsapp.com/BOabR2Ng36RHK8fLRLpIOV)" através do colecionador Fábio Martucci.
