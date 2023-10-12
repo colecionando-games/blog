@@ -7,7 +7,7 @@ const HeaderLogo = () => {
   const { logoImage } = useStaticQuery(
     graphql`
       query {
-        logoImage: file(relativePath: { eq: "logo.png" }) {
+        logoImage: file(relativePath: { eq: "logo_com_slogan.png" }) {
           childImageSharp {
             gatsbyImageData(layout: FULL_WIDTH)
           }

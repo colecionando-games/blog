@@ -175,7 +175,7 @@ if (process.env.CONTEXT === 'production') {
 module.exports = {
   siteMetadata: {
     title: `Colecionando.Games`,
-    description: `Um site sobre o mundo do colecionismo de videogames.`,
+    description: `O manual do colecionador de videogames!`,
     author: `felipebbarbosa`,
     siteUrl: `https://blog.colecionando.games`
   },
