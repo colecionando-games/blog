@@ -11,9 +11,9 @@ cover: /assets/img/posts/fullset-master-system-tectoy/post_thumbnail.jpg
 
 Este é o primeiro post que estou importando do [Videogames com Cerveja](https://www.vgscomcerveja.com.br/post/lista-completa-jogos-tectoy-para-master-system), pois ele não poderia faltar por aqui, afinal a [Tec Toy](https://www.tectoy.com.br) foi uma empresa muito importante para o cenário brasileiro de videogames no final da década 80 e durante toda a década 90 representando a Sega no Brasil, com direito a jogos exclusivos e tudo mais!
 
-Apesar de não termos uma lista oficial por parte da empresa, a legião de fãs que temos no Brasil é tão grande que temos **praticamente uma lista definitiva** de todos jogos de Master System nacionais lançados pela Tec Toy. Este **levantamento foi feito pelo pessoal do fórum [Sega Brasil](https://sega-brasil.com.br)**, que inclusive, possuem um [projeto bem massa dedicado à TecToy](https://www.sega-brasil.com.br/Tectoy/Página_principal).
+Apesar de não termos uma lista oficial por parte da empresa, a legião de fãs que temos no Brasil é tão grande que temos **praticamente uma lista definitiva** de todos jogos de Master System nacionais lançados pela Tec Toy. Este **levantamento foi feito pelo pessoal do fórum [Sega Brasil](https://sega-brasil.com.br)**, que inclusive, possuem um [projeto bem massa dedicado à TecToy](https://www.sega-brasil.com.br/Tectoy/Página_principal), que vale a pena conferir!
 
-Para chegar nessa lista, demoraram aproxidamente 3 anos para ser concluído, mas não duvido que ainda possa aparecer uma variação desconhecida por aí. Então já sabe, caso saiba de algo que não está na lista, não deixe de comentar! ;)
+Para chegar nessa lista, demoraram aproxidamente 3 anos para ser concluída, mas não duvido que ainda possa aparecer uma variação desconhecida por aí. Então já sabe, caso saiba de algo que não está na lista, não deixe de comentar! ;)
 
 ## Variações das caixas
 
@@ -112,7 +112,7 @@ Foram lançados **62 jogos** neste formato.
 
 ### Jogos na "caixa plástica com encarte branco com quadrados grandes"
 
-O formato com a maior quantidade de jogos. Foram lançados **102 jogos** no total.
+O formato com a maior quantidade de jogos. Foram lançados **103 jogos** no total.
 
 ![Jogos na caixa plástica com encarte branco com quadrados grandes — Foto: Acervo pessoal](/assets/img/posts/fullset-master-system-tectoy/sms-caixas-plastica-branca-quadrados-grandes-tectoy.jpg)
 
@@ -124,7 +124,8 @@ O formato com a maior quantidade de jogos. Foram lançados **102 jogos** no tota
 | After Burner                                |  S/L  |                                                                                                                 | [fonte](https://www.sega-brasil.com.br/Tectoy/After_Burner)                                                   |
 | Air Rescue                                  |  (A)  | código de barras                                                                                                | [fonte](https://www.sega-brasil.com.br/Tectoy/Air_Rescue)                                                     |
 | Alex Kidd High-Tech World                   |  (B)  | label do cartucho azul; código de barras                                                                        | [fonte](https://www.sega-brasil.com.br/Tectoy/Alex_Kidd_High-Tech_World)                                      |
-| Alex Kidd In Shinobi World                  |  (A)  |                                                                                                                 | [fonte](https://www.sega-brasil.com.br/Tectoy/Alex_Kidd_in_Shinobi_World)                                     |
+| Alex Kidd in Miracle World                  |       |                                                                                                                 |                                                                                                               |
+| Alex Kidd in Shinobi World                  |  (A)  |                                                                                                                 | [fonte](https://www.sega-brasil.com.br/Tectoy/Alex_Kidd_in_Shinobi_World)                                     |
 | Alien 3                                     |  (D)  |                                                                                                                 | [fonte](https://www.sega-brasil.com.br/Tectoy/Alien_3)                                                        |
 | Alien Storm                                 |  (A)  | código de barras                                                                                                | [fonte](https://www.sega-brasil.com.br/Tectoy/Alien_Storm)                                                    |
 | Alien Syndrome                              |  (A)  |                                                                                                                 | [fonte](https://www.sega-brasil.com.br/Tectoy/Alien_Syndrome)                                                 |
@@ -422,4 +423,5 @@ Além disso, tivemos dois jogos totalmente traduzidos para o português: **Phant
 #### Atualizações
 
 - **25/06/21:** Adicionei o link de cada jogo para sua respectiva página no **TecToy Wiki** para maiores detalhes.
-- **18/09/23:** Separei as coletâneas Game Box em uma categoria exclusiva, antes estavam dentro da categoria **Caixa plástica com encarte azul**. Sugestão vinda do grupo de WhatsApp "[Master System Sem Miséria](https://chat.whatsapp.com/BOabR2Ng36RHK8fLRLpIOV)" através do colecionador Fábio Martucci.
+- **18/09/23:** Separei as coletâneas 'Game Box' em uma categoria exclusiva, antes estavam dentro da categoria **Caixa plástica com encarte azul**. Sugestão vinda do grupo de WhatsApp "[Master System Sem Miséria](https://chat.whatsapp.com/BOabR2Ng36RHK8fLRLpIOV)" através do colecionador Fábio Martucci.
+- **26/11/23:** Adicionei o jogo 'Alex Kidd in Miracle World' na versão **Caixa plástica com encarte branco com quadrados grandes** conforme comentário do colecionador Flavio Lima.
