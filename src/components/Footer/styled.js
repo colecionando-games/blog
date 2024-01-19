@@ -38,6 +38,12 @@ export const FooterLogo = styled(GatsbyImage)`
   width: 80px;
 `
 
+export const FooterProjectCopy = styled.div`
+  text-align: right;
+  font-size: 0.8em;
+  margin-right: 10px;
+`
+
 export const FooterSocialLinks = styled.ul`
   align-items: center;
   display: flex;

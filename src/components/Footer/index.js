@@ -28,6 +28,10 @@ const Footer = () => {
         </S.FooterCopyright>
       </S.FooterCopyrightBox>
       <S.FooterSocialLinks>
+        <S.FooterProjectCopy>
+          um projeto<br></br>
+          <a href="https://www.vgscomcerveja.com.br">videogames com cerveja</a>
+        </S.FooterProjectCopy>
         {links.map((link, i) => { 
           const Icon = Icons[link.label]
           return (
