@@ -44,3 +44,13 @@ export const MenuLinksLink = styled(Link)`
     border-bottom: 2px solid yellow;
   }
 `
+
+export const MenuLinksExtLink = styled.a`
+  color: white;
+  text-decoration: none;
+  transition: color 0.5s;
+
+  &:hover {
+    border-bottom: 2px solid yellow;
+  }
+`

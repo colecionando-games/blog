@@ -10,10 +10,6 @@ const links = [
   {
     label: "Notícias",
     url: "/notícia"
-  },
-  {
-    label: "Unboxing",
-    url: "https://www.youtube.com/@colecionandogames/videos"
   }
 ]
 
