@@ -73,6 +73,14 @@ const GlobalStyles = createGlobalStyle`
     display: block;
     height: auto;
   }
+  em {
+    font-style: italic;
+  }
+  pre {
+    margin: 20px 0 0;
+    border: 1px solid #cecece;
+    padding: 10px;
+  }
   .gatsby-resp-image-figcaption {
     padding: 5px;
     text-align: center;

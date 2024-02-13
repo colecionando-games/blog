@@ -43,8 +43,7 @@ const Games = ({ pageContext }) => {
           <S.GameMainSection>
             <S.GameInfo>
               <S.GameTitle>{title}</S.GameTitle>
-              {original_release_year}, {original_developer}<br></br>
-              {original_publisher}
+              <S.GameDeveloper>{original_release_year}, {original_developer}</S.GameDeveloper>
             </S.GameInfo>
           </S.GameMainSection>
           <S.GameSection>
@@ -52,13 +51,13 @@ const Games = ({ pageContext }) => {
             {!releases ? <>nenhuma encontrada</> :
               releases.map(({ platform, publisher, developer, edition, description, release_date, regions }) => {
                 return (
-                  <div style={{marginBottom: 30 + 'px'}}>
+                  <div style={{ marginBottom: '30px' }}>
                     {edition !== null ? <S.GameEditionTitle>{edition}</S.GameEditionTitle> : <></>}
                     <S.GameReleasePlatformLogo src={platformsData.find(p => p.id === platform).logo}/>
                     <span>{fmtDate(release_date)}{developer !== null ? "," : ""} {developer}</span><br></br>
                     <span>{publisher}</span>
                     <p>{description}</p>
-                    {!regions ? <></> :
+                    {!regions ? <div style={{ fontStyle: 'italic', marginTop: '7px', color: 'gray' }}>Nenhum jogo cadastrado.</div> :
                       regions.map(({ region, release_date, versions }) => {
                         return (
                           <S.GameReleaseRegion>

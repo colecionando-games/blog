@@ -36,8 +36,12 @@ export const GameTitle = styled.h1`
   `}
 `
 
+export const GameDeveloper = styled.h2`
+  
+`
+
 export const GameSectionTitle = styled.h2`
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: 200;
   padding: 0 0 6px 0;
   ${media.lessThan("large")`
