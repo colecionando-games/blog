@@ -10,11 +10,10 @@ export const PostItemLink = styled(Link)`
 `
 
 export const PostItemWrapper = styled.section`
-  border-radius: 5px;
   background: #fff;
   box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.15);
   display: grid;
-  
+
   grid-template-rows: 200px auto;
   grid-template-areas:
     "post-item-thumb"
@@ -25,7 +24,7 @@ export const PostItemThumb = styled(GatsbyImage)`
   grid-area: post-item-thumb;
   max-width: 100%;
   height: 100%;
-  border-radius: 5px 5px 0 0;
+  
 `
 
 export const PostItemTag = styled.div`
