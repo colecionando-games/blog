@@ -4,7 +4,7 @@ description: O clássico jogo brasileiro de computador ganha relançamento exclu
 date: 2022-09-04 17:00:00
 author: felipebbarbosa
 category: notícia
-tags: ["pc", "big-box", "jogos-brasileiros"]
+tags: [pc, big-box, jogos-brasileiros, bitnamic]
 thumbnail: ../static/assets/img/posts/relancamento-incidente-varginha/post_thumbnail.jpg
 cover: /assets/img/posts/relancamento-incidente-varginha/post_thumbnail.jpg
 ---
