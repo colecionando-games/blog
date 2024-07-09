@@ -4,11 +4,11 @@ import { Link } from "gatsby"
 
 
 export const MenuLinksWrapper = styled.nav`
-  ${media.lessThan("medium")`
+  ${media.lessThan("large")`
     margin: 8px 0 10px;
+    height: 30px;
     width: 100%;
     background: rgba(0, 0, 0, 0.2);
-    
   `}
 `
 
@@ -18,6 +18,7 @@ export const MenuLinksList = styled.ul`
   display: flex;
   flex-direction: row;
   justify-content: center;
+  align-items: baseline;
 `
 
 export const MenuLinksItem = styled.li`
@@ -50,7 +51,18 @@ export const MenuLinksExtLink = styled.a`
   text-decoration: none;
   transition: color 0.5s;
 
+  svg {
+    height: 1.5rem;
+    margin-right: 5px;
+  }
+
   &:hover {
     border-bottom: 2px solid yellow;
   }
+
+  ${media.lessThan("medium")`
+    span {
+      display: none;
+    }
+  `}
 `

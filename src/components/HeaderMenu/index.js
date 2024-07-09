@@ -1,5 +1,6 @@
 import React from "react"
 import ReactGA from "react-ga"
+import { Youtube } from "@styled-icons/boxicons-logos/Youtube"
 
 import links from "./content"
 
@@ -31,7 +32,10 @@ const HeaderMenu = () => {
         )
         })}
         <S.MenuLinksItem key="menu-unboxing">
-          <S.MenuLinksExtLink href="https://www.youtube.com/@colecionandogames/videos">Unboxing</S.MenuLinksExtLink>
+          <S.MenuLinksExtLink href="https://www.youtube.com/@colecionandogames/videos">
+            <Youtube />
+            <span>Unboxing</span>
+          </S.MenuLinksExtLink>
         </S.MenuLinksItem>
       </S.MenuLinksList>
     </S.MenuLinksWrapper>

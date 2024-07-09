@@ -14,7 +14,7 @@ export const HeaderContent = styled.div`
   align-items: center;
   margin: auto;
 
-  ${media.lessThan("medium")`
+  ${media.lessThan("large")`
     flex-direction: column;
   `}
 `
