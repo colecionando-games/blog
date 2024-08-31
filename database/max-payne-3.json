@@ -13,14 +13,13 @@
           "versions": [
             {
               "version": "Favoritos",
+              "description": "Versão com manual e panfleto Politica de Garantia.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/max-payne-3.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/max-payne-3.jpg"
                 },
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/max-payne-3_inside.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/max-payne-3_inside.jpg"
                 }
               ]
             }

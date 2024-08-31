@@ -13,15 +13,15 @@
           "versions": [
             {
               "version": "Favoritos",
-              "description": "O jogo não possui manual. (Visto no Mercado Libre da Argentina e México)",
+              "description": "Versão sem manual.",
               "photos": [
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/call-of-duty-4-modern-warfare.jpg",
-                  "caption": "..."
+                  "author": "Mercado Libre (Argentina e México)"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/call-of-duty-4-modern-warfare_inside.jpg",
-                  "caption": "..."
+                  "author": "Mercado Libre (Argentina e México)"
                 }
               ]
             }

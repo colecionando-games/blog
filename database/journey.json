@@ -14,11 +14,10 @@
             {
               "edition": "Collector's Edition",
               "version": "Favoritos",
-              "description": "(com manual) Argentina",
+              "description": "Versão com manual.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/journey.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/journey.jpg"
                 }
               ]
             }
@@ -28,24 +27,21 @@
           "region": "br",
           "versions": [
             {
-              "edition": "Edição Colecionador",
+              "edition": "Edição de Colecionador",
               "version": "Favoritos",
-              "region": "br",
+              "description": "Versão com manual.",
               "photos": [
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/journey.jpg",
-                  "caption": "...",
                   "author": "Mercado Livre"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/journey_back.jpg",
-                  "caption": "...",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/journey_inside.jpg",
-                  "caption": "...",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 }

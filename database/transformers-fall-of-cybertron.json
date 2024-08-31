@@ -13,11 +13,9 @@
           "versions": [
             {
               "version": "Favoritos",
-              "description": "(sem manual) Perú",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/transformers.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/transformers.jpg"
                 }
               ]
             }

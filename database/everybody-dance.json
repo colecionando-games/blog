@@ -12,11 +12,10 @@
           "versions": [
             {
               "version": "Favoritos",
-              "description": "(com manual) Argentina, México",
+              "description": "Versão com manual.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/everybody-dance.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/everybody-dance.jpg"
                 }
               ]
             }
@@ -30,8 +29,7 @@
               "region": "br",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/everybody-dance.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/br/everybody-dance.jpg"
                 }
               ]
             }

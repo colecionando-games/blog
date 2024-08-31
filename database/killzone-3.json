@@ -12,15 +12,13 @@
           "versions": [
             {
               "version": "Favoritos",
-              "description": "(com manual) Argentina, Chile, México, Perú",
+              "description": "Versão com manual.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/killzone-3.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/killzone-3.jpg"
                 },
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/killzone-3_inside.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/killzone-3_inside.jpg"
                 }
               ]
             }
@@ -31,23 +29,20 @@
           "versions": [
             {
               "version": "Favoritos",
-              "region": "br",
+              "description": "Versão com manual.",
               "photos": [
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/killzone-3.jpg",
-                  "caption": "...",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/killzone-3_back.jpg",
-                  "caption": "...",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/killzone-3_inside.jpg",
-                  "caption": "...",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 }

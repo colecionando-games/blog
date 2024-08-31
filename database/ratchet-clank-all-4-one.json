@@ -13,15 +13,13 @@
           "versions": [
             {
               "version": "Favoritos",
-              "description": "(com manual) Argentina, México",
+              "description": "Versão com manual.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/ratchet-clank-all4one.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/ratchet-clank-all4one.jpg"
                 },
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/ratchet-clank-all4one_inside.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/ratchet-clank-all4one_inside.jpg"
                 }
               ]
             }
@@ -32,11 +30,9 @@
           "versions": [
             {
               "version": "Favoritos",
-              "region": "br",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/ratchet-clank-all4one.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/br/ratchet-clank-all4one.jpg"
                 }
               ]
             }

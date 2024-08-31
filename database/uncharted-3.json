@@ -13,29 +13,25 @@
           "versions": [
             {
               "version": "Favoritos",
-              "description": "(com manual) (sem manual) Argentina, Chile, México, Perú",
+              "description": "Versão com manual.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/uncharted-3.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/uncharted-3.jpg"
                 },
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/uncharted-3_inside.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/uncharted-3_inside.jpg"
                 }
               ]
             },
             {
               "version": "Favoritos",
-              "description": "(com manual) (sem manual) Argentina, Chile, México, Perú",
+              "description": "Versão com manual no verso do encarte.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/uncharted-3.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/uncharted-3.jpg"
                 },
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/uncharted-3_inside2.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/uncharted-3_inside2.jpg"
                 }
               ]
             }
@@ -46,23 +42,20 @@
           "versions": [
             {
               "version": "Favoritos",
-              "region": "br",
+              "description": "Versão sem manual.",
               "photos": [
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/uncharted-3.jpg",
-                  "caption": "...",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/uncharted-3_back.jpg",
-                  "caption": "...",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/uncharted-3_inside.jpg",
-                  "caption": "...",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 }

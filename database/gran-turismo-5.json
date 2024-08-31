@@ -18,15 +18,13 @@
           "versions": [
             {
               "version": "Favoritos",
-              "description": "(com manual) Argentina, México, Perú",
+              "description": "Versão com manual e panfleto de Politica de Garantia.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/gran-turismo-5-xl.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/gran-turismo-5-xl.jpg"
                 },
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/gran-turismo-5-xl_inside.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/gran-turismo-5-xl_inside.jpg"
                 }
               ]
             }
@@ -38,22 +36,20 @@
             {
               "version": "Favoritos",
               "region": "br",
+              "description": "Versão com manual.",
               "photos": [
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/gran-turismo-5-xl.jpg",
-                  "caption": "...",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/gran-turismo-5-xl_back.jpg",
-                  "caption": "...",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/gran-turismo-5-xl_inside.jpg",
-                  "caption": "...",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 }

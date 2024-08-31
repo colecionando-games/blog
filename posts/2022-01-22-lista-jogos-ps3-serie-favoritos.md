@@ -21,8 +21,8 @@ E para enriquecer o post, resolvi criar uma página dedicada para cada jogo da l
 
 Mas enfim, eis a lista:
 
-| Jogo                                        |       Brasil       |   América Latina   |                                                           |
-| :------------------------------------------ | :----------------: | :----------------: | :-------------------------------------------------------- |
+| Jogo                                        |       Brasil       |   América Latina   |                                                            |
+| :------------------------------------------ | :----------------: | :----------------: | :--------------------------------------------------------- |
 | Assassin's Creed: Revelations               |                    | :white_check_mark: | [saiba mais](/games/assassins-creed-revelations/)          |
 | Bayonetta                                   | :white_check_mark: | :white_check_mark: | [saiba mais](/games/bayonetta/)                            |
 | Bioshock                                    |                    | :white_check_mark: | [saiba mais](/games/bioshock/)                             |
@@ -46,7 +46,7 @@ Mas enfim, eis a lista:
 | Heavy Rain: Director's Cut                  | :white_check_mark: | :white_check_mark: | [saiba mais](/games/heavy-rain/)                           |
 | inFamous 2                                  | :white_check_mark: | :white_check_mark: | [saiba mais](/games/infamous-2/)                           |
 | Jak and Daxter Collection                   |                    | :white_check_mark: | [saiba mais](/games/jak-and-dexter-collection/)            |
-| Journey: Edição Colecionador                | :white_check_mark: | :white_check_mark: | [saiba mais](/games/journey/)                              |
+| Journey: Edição de Colecionador             | :white_check_mark: | :white_check_mark: | [saiba mais](/games/journey/)                              |
 | Just Dance 3                                | :white_check_mark: | :white_check_mark: | [saiba mais](/games/just-dance-3/)                         |
 | Killzone 2                                  | :white_check_mark: | :white_check_mark: | [saiba mais](/games/killzone-2/)                           |
 | Killzone 3                                  | :white_check_mark: | :white_check_mark: | [saiba mais](/games/killzone-3/)                           |
@@ -83,7 +83,7 @@ Mas enfim, eis a lista:
 | Valkyria Chronicles                         | :white_check_mark: | :white_check_mark: | [saiba mais](/games/valkyria-chronicles/)                  |
 | Vanquish                                    | :white_check_mark: | :white_check_mark: | [saiba mais](/games/vanquish/)                             |
 | Zone of the Enders - HD Collection          | :white_check_mark: | :white_check_mark: | [saiba mais](/games/zone-of-the-enders-collection/)        |
-| **Total de 60 jogos**                       |       **45**       |       **57**       |                                                           |
+| **Total de 60 jogos**                       |       **45**       |       **57**       |                                                            |
 
 ### Exclusivos do Brasil
 
@@ -108,3 +108,7 @@ Mas enfim, eis a lista:
 - Spec Ops: The Line
 - The Amazing Spider-man
 - Transformers: Fall of Cybertron
+
+### Atualizações
+
+- **31/08/2024:** Adicionado as variações dos jogos: God of War Collection, Infamous 2, Killzone 2, Metal Gear Solid 4 e The ICO & Shadow of the Colossus Collection, de acordo com as informações do Drasgon Digger (muito obrigado! 😀)

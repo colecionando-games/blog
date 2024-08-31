@@ -13,15 +13,17 @@
           "versions": [
             {
               "version": "Favoritos",
-              "description": "O jogo possui manual. (Visto no Mercado Libre da Argentina, Chile, México e Peru)",
+              "description": "Versão com manual.",
               "photos": [
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/castlevania-lords-of-shadow.jpg",
-                  "caption": "Capa"
+                  "caption": "Capa",
+                  "author": "Mercado Libre (Argentina, Chile, México e Peru)"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/castlevania-lords-of-shadow_inside.jpg",
-                  "caption": "Manual e disco"
+                  "caption": "Manual e disco",
+                  "author": "Mercado Libre (Argentina, Chile, México e Peru)"
                 }
               ]
             }
@@ -32,7 +34,7 @@
           "versions": [
             {
               "version": "Favoritos",
-              "description": "O manual do jogo está no verso do encarte.",
+              "description": "Versão com manual no verso do encarte.",
               "photos": [
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/castlevania-lords-of-shadow.jpg",

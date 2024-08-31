@@ -13,11 +13,10 @@
           "versions": [
             {
               "version": "Favoritos",
-              "description": "(com manual) Argentina",
+              "description": "Versão com manual.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/metal-gear-solid-4.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/metal-gear-solid-4.jpg"
                 }
               ]
             }
@@ -28,11 +27,22 @@
           "versions": [
             {
               "version": "Favoritos",
-              "region": "br",
+              "description": "Versão com manual.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/metal-gear-solid-4.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/br/metal-gear-solid-4.jpg"
+                }
+              ]
+            },
+            {
+              "version": "Favoritos",
+              "description": "Versão com manual no verso do encarte.",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/metal-gear-solid-4_sm.jpg"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/metal-gear-solid-4_sm_inside.jpg"
                 }
               ]
             }

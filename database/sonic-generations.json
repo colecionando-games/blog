@@ -13,11 +13,10 @@
           "versions": [
             {
               "version": "Favoritos",
-              "description": "(com manual) Chile, México, Perú",
+              "description": "Versão com manual.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/sonic-generations.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/sonic-generations.jpg"
                 }
               ]
             }
@@ -28,11 +27,9 @@
           "versions": [
             {
               "version": "Favoritos",
-              "region": "br",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/sonic-generations.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/br/sonic-generations.jpg"
                 }
               ]
             }

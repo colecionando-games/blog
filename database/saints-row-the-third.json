@@ -13,11 +13,10 @@
           "versions": [
             {
               "version": "Favoritos",
-              "description": "(com manual) México, Perú",
+              "description": "Versão com manual.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/saints-row-the-third.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/saints-row-the-third.jpg"
                 }
               ]
             }
@@ -28,15 +27,13 @@
           "versions": [
             {
               "version": "Favoritos",
-              "region": "br",
+              "description": "Versão com manual no verso do encarte.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/saints-row-the-third.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/br/saints-row-the-third.jpg"
                 },
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/saints-row-the-third_inside.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/br/saints-row-the-third_inside.jpg"
                 }
               ]
             }

@@ -13,11 +13,10 @@
           "versions": [
             {
               "version": "Favoritos",
-              "description": "(sem manual) Argentina, Chile, México, Perú",
+              "description": "Versão sem manual.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/red-dead-redemption.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/red-dead-redemption.jpg"
                 }
               ]
             }

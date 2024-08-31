@@ -21,19 +21,17 @@
           "versions": [
             {
               "version": "Favoritos",
-              "description": "(com manual) Argentina, Perú",
-      "photos": [
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/just-dance-3.jpg",
-          "caption": "...",
-          "author": "Mercado Libre"
-        },
-        {
-          "url": "../static/assets/img/games/ps3/favoritos/latam/just-dance-3_inside.jpg",
-          "caption": "...",
-          "author": "Mercado Libre"
-        }
-      ]
+              "description": "Versão com manual.",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/just-dance-3.jpg",
+                  "author": "Mercado Libre"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/just-dance-3_inside.jpg",
+                  "author": "Mercado Libre"
+                }
+              ]
             }
           ]
         },
@@ -42,11 +40,9 @@
           "versions": [
             {
               "version": "Favoritos",
-              "region": "br",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/just-dance-3.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/br/just-dance-3.jpg"
                 }
               ]
             }
@@ -54,7 +50,6 @@
         }
       ]
     }
-   
   ],
   "pingbacks": [
     {

@@ -72,6 +72,7 @@ const Games = ({ pageContext }) => {
                                       <S.GameReleaseInfo>
                                         <S.GameReleaseEdition>{edition}</S.GameReleaseEdition>
                                         <S.GameReleaseVersion>{version}</S.GameReleaseVersion>
+                                        <S.GameReleaseDescription>{description}</S.GameReleaseDescription>
                                       </S.GameReleaseInfo>
                                       {!photos ? <></> : <Lightbox images={photos}></Lightbox>}
                                     </S.GameRelease>

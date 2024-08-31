@@ -13,15 +13,13 @@
           "versions": [
             {
               "version": "Favoritos",
-              "description": "(sem manual, online pass) Argentina, Perú",
+              "description": "Versão com manual no verso do encarte e panfleto do Online Pass.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/ninja-gaiden-3.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/ninja-gaiden-3.jpg"
                 },
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/ninja-gaiden-3_inside.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/ninja-gaiden-3_inside.jpg"
                 }
               ]
             }
@@ -32,11 +30,9 @@
           "versions": [
             {
               "version": "Favoritos",
-              "region": "br",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/ninja-gaiden-3.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/br/ninja-gaiden-3.jpg"
                 }
               ]
             }

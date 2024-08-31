@@ -80,6 +80,8 @@ export const GameReleases = styled.div`
 export const GameReleaseEdition = styled.h2`
   font-size: 1.5rem;
   font-weight: bold;
+  color: gray;
+  margin-bottom: 2px;
 `
 
 export const GameReleaseVersion = styled.h2`
@@ -93,6 +95,11 @@ export const GameReleaseVersion = styled.h2`
     font-size: 1.6rem;
     line-height: 1.3;
   `}
+`
+
+export const GameReleaseDescription = styled.p`
+  margin-top: 5px;
+  color: gray;
 `
 
 export const GameReleasePlatformLogo = styled.img`

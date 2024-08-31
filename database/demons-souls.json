@@ -13,15 +13,13 @@
           "versions": [
             {
               "version": "Favoritos",
-              "description": "Chile, Perú",
+              "description": "Versão com panfleto de Política de Garantia",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/demons-souls.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/demons-souls.jpg"
                 },
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/demons-souls_inside.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/demons-souls_inside.jpg"
                 }
               ]
             }

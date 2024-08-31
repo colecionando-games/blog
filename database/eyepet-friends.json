@@ -12,15 +12,13 @@
           "versions": [
             {
               "version": "Favoritos",
-              "description": "Argentina, Perú",
+              "description": "Versão com manual.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/eyepet-friends.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/eyepet-friends.jpg"
                 },
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/eyepet-friends_inside.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/eyepet-friends_inside.jpg"
                 }
               ]
             }

@@ -15,15 +15,17 @@
           "versions": [
             {
               "version": "Favoritos",
-              "description": "O jogo possui manual. (Visto no Mercado Libre da Argentina e Chile)",
+              "description": "Versão com manual.",
               "photos": [
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/assassins-creed-revelations.jpg",
-                  "caption": "Capa"
+                  "caption": "Capa",
+                  "author": "Mercado Libre (Argentina e Chile)"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/assassins-creed-revelations_inside.jpg",
-                  "caption": "Manual e disco"
+                  "caption": "Manual e disco",
+                  "author": "Mercado Libre (Argentina e Chile)"
                 }
               ]
             }

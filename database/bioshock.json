@@ -21,15 +21,15 @@
           "versions": [
             {
               "version": "Favoritos",
-              "description": "O jogo possui uma arte no verso do encarte e panfleto de garantia. (Visto no Mercado Libre do Chile e Peru)",
+              "description": "Versão com arte no verso do encarte e panfleto de garantia.",
               "photos": [
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/bioshock.jpg",
-                  "caption": "..."
+                  "author": "Mercado Libre (Chile e Peru)"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/bioshock_inside.jpg",
-                  "caption": "..."
+                  "author": "Mercado Libre (Chile e Peru)"
                 }
               ]
             }

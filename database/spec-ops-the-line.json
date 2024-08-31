@@ -13,11 +13,10 @@
           "versions": [
             {
               "version": "Favoritos",
-              "description": "(com manual) Argentina, México, Perú",
+              "description": "Versão com manual.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/spec-ops-the-line.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/spec-ops-the-line.jpg"
                 }
               ]
             }

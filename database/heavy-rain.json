@@ -14,15 +14,13 @@
             {
               "edition": "Director's Cut",
               "version": "Favoritos",
-              "description": "(com manual) Argentina, Chile, México, Perú",
+              "description": "Versão com manual.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/heavy-rain.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/heavy-rain.jpg"
                 },
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/heavy-rain_inside.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/heavy-rain_inside.jpg"
                 }
               ]
             }
@@ -34,23 +32,20 @@
             {
               "edition": "Director's Cut",
               "version": "Favoritos",
-              "region": "br",
+              "description": "Versão com manual.",
               "photos": [
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/heavy-rain.jpg",
-                  "caption": "...",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/heavy-rain_back.jpg",
-                  "caption": "...",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/heavy-rain_inside.jpg",
-                  "caption": "...",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 }

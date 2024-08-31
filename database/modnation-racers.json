@@ -14,19 +14,16 @@
           "versions": [
             {
               "version": "Favoritos",
-              "description": "(com manual) México, Perú",
+              "description": "Versão com manual e panfleto de garantia.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/modnation-racers.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/modnation-racers.jpg"
                 },
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/modnation-racers_inside.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/modnation-racers_inside.jpg"
                 },
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/modnation-racers_content.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/modnation-racers_content.jpg"
                 }
               ]
             }
@@ -37,11 +34,9 @@
           "versions": [
             {
               "version": "Favoritos",
-              "region": "br",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/modnation-racers.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/br/modnation-racers.jpg"
                 }
               ]
             }

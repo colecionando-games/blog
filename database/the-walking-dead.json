@@ -14,15 +14,13 @@
             {
               "edition": "Game of the Year Edition",
               "version": "Favoritos",
-              "description": "(sem manual) Argentina",
+              "description": "Versão com manual no verso do encarte.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/the-walking-dead.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/the-walking-dead.jpg"
                 },
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/the-walking-dead_inside.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/the-walking-dead_inside.jpg"
                 }
               ]
             }
@@ -34,11 +32,9 @@
             {
               "edition": "Game of the Year Edition",
               "version": "Favoritos",
-              "region": "br",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/the-walking-dead.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/br/the-walking-dead.jpg"
                 }
               ]
             }

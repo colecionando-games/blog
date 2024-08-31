@@ -13,15 +13,13 @@
           "versions": [
             {
               "version": "Favoritos",
-              "description": "(com manual) México",
+              "description": "Versão com manual.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/rayman-origins.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/rayman-origins.jpg"
                 },
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/rayman-origins_inside.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/rayman-origins_inside.jpg"
                 }
               ]
             }

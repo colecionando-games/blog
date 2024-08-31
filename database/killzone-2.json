@@ -12,11 +12,10 @@
           "versions": [
             {
               "version": "Favoritos",
-              "description": "(com manual) Argentina, Chile, México, Perú",
+              "description": "Versão com manual.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/killzone-2.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/killzone-2.jpg"
                 }
               ]
             }
@@ -27,11 +26,21 @@
           "versions": [
             {
               "version": "Favoritos",
-              "region": "br",
+              "description": "Versão com manual.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/killzone-2.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/br/killzone-2_cm.jpg"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/killzone-2_cm_inside.jpg"
+                }
+              ]
+            },
+            {
+              "version": "Favoritos",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/killzone-2.jpg"
                 }
               ]
             }

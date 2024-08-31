@@ -13,15 +13,13 @@
           "versions": [
             {
               "version": "Favoritos",
-              "description": "(com manual) México, Perú",
+              "description": "Versão com manual.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/the-amazing-spider-man.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/the-amazing-spider-man.jpg"
                 },
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/the-amazing-spider-man_inside.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/the-amazing-spider-man_inside.jpg"
                 }
               ]
             }

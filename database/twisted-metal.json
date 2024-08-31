@@ -13,15 +13,13 @@
           "versions": [
             {
               "version": "Favoritos",
-              "description": "(com manual) (sem manual) Argentina, México, Perú",
+              "description": "Versão com manual no verso do encarte.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/twisted-metal.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/twisted-metal.jpg"
                 },
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/twisted-metal_inside.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/twisted-metal_inside.jpg"
                 }
               ]
             }
@@ -32,23 +30,20 @@
           "versions": [
             {
               "version": "Favoritos",
-              "region": "br",
+              "description": "Versão com manual.",
               "photos": [
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/twisted-metal.jpg",
-                  "caption": "...",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/twisted-metal_back.jpg",
-                  "caption": "...",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/twisted-metal_inside.jpg",
-                  "caption": "...",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 }

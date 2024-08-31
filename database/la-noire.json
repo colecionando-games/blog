@@ -13,11 +13,9 @@
           "versions": [
             {
               "version": "Favoritos",
-              "description": "Argentina, Perú",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/la-noire.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/la-noire.jpg"
                 }
               ]
             }

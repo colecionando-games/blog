@@ -13,15 +13,13 @@
           "versions": [
             {
               "version": "Favoritos",
-              "description": "(com manual) México",
+              "description": "Versão com manual.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/the-ico-shadow-colossus-collection.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/the-ico-shadow-colossus-collection.jpg"
                 },
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/the-ico-shadow-colossus-collection_inside.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/the-ico-shadow-colossus-collection_inside.jpg"
                 }
               ]
             }
@@ -32,25 +30,31 @@
           "versions": [
             {
               "version": "Favoritos",
-              "region": "br",
+              "description": "Versão com manual.",
               "photos": [
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/the-ico-shadow-colossus-collection.jpg",
-                  "caption": "...",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/the-ico-shadow-colossus-collection_back.jpg",
-                  "caption": "...",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/the-ico-shadow-colossus-collection_inside.jpg",
-                  "caption": "...",
-                  "author": "PS3 Hunter",
-                  "author-link": "https://www.instagram.com/ps3_hunter/"
+                  "author": "Drasgon Digger"
+                }
+              ]
+            },
+            {
+              "version": "Favoritos",
+              "description": "Versão com manual no verso do encarte.",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/the-ico-shadow-colossus-collection_inside_2.jpg",
+                  "author": "Drasgon Digger"
                 }
               ]
             }

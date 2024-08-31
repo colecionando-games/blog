@@ -13,11 +13,9 @@
           "versions": [
             {
               "version": "Favoritos",
-              "description": "México",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/motorstorm-apocalypse.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/motorstorm-apocalypse.jpg"
                 }
               ]
             }
@@ -28,11 +26,9 @@
           "versions": [
             {
               "version": "Favoritos",
-              "region": "br",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/motorstorm-apocalypse.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/br/motorstorm-apocalypse.jpg"
                 }
               ]
             }

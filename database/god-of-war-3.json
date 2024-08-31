@@ -13,15 +13,13 @@
           "versions": [
             {
               "version": "Favoritos",
-              "description": "(com manual) Argentina, (sem manual) Chile, (sem manual) México, Perú",
+              "description": "Versão com manual no verso do encarte.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/god-of-war-3.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/god-of-war-3.jpg"
                 },
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/god-of-war-3_inside.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/god-of-war-3_inside.jpg"
                 }
               ]
             }
@@ -33,22 +31,20 @@
             {
               "version": "Favoritos",
               "region": "br",
+              "description": "Versão sem manual.",
               "photos": [
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/god-of-war-3.jpg",
-                  "caption": "...",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/god-of-war-3_back.jpg",
-                  "caption": "...",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/god-of-war-3_inside.jpg",
-                  "caption": "...",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 }

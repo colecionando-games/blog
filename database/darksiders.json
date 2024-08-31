@@ -13,15 +13,15 @@
           "versions": [
             {
               "version": "Favoritos",
-              "description": "O jogo possui manual. (Visto no Mercado Libre da Argentina, Chile, México e Peru)",
+              "description": "Versão com  manual.",
               "photos": [
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/darksiders.jpg",
-                  "caption": "..."
+                  "author": "Mercado Libre (Argentina, Chile, México e Peru)"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/darksiders_inside.jpg",
-                  "caption": "..."
+                  "author": "Mercado Libre (Argentina, Chile, México e Peru)"
                 }
               ]
             }
@@ -32,11 +32,9 @@
           "versions": [
             {
               "version": "Favoritos",
-              "region": "br",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/darksiders.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/br/darksiders.jpg"
                 }
               ]
             }

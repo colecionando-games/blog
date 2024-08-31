@@ -15,11 +15,10 @@
           "versions": [
             {
               "version": "Favoritos",
-              "description": "(Visto no Mercado Libre da Argentina e Peru)",
               "photos": [
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/latam/bayonetta.jpg",
-                  "caption": "..."
+                  "author": "Mercado Livre (Argentina e Peru)"
                 }
               ]
             }
@@ -30,24 +29,20 @@
           "versions": [
             {
               "version": "Favoritos",
-              "region": "br",
-              "description": "Manual no verso do encarte.",
+              "description": "Versão com manual no verso do encarte.",
               "photos": [
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/bayonetta.jpg",
-                  "caption": "...",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/bayonetta_back.jpg",
-                  "caption": "...",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/bayonetta_inside.jpg",
-                  "caption": "...",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 }

@@ -14,15 +14,13 @@
           "versions": [
             {
               "version": "Favoritos",
-              "description": "(com manual) Argentina, Chile, (sem manual) México, (com manual) Perú",
+              "description": "Versão com manual e panfleto 'Póliza de Garantia'.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/god-of-war-collection.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/god-of-war-collection.jpg"
                 },
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/god-of-war-collection_inside.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/god-of-war-collection_inside.jpg"
                 }
               ]
             }
@@ -33,11 +31,22 @@
           "versions": [
             {
               "version": "Favoritos",
-              "region": "br",
+              "description": "Versão com manual.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/god-of-war-collection.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/br/god-of-war-collection_manual.jpg"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/god-of-war-collection_manual_inside.jpg"
+                }
+              ]
+            },
+            {
+              "version": "Favoritos",
+              "description": "Versão com manual no verso do encarte.",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/br/god-of-war-collection.jpg"
                 }
               ]
             }

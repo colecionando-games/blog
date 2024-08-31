@@ -39,29 +39,25 @@
           "versions": [
             {
               "version": "Favoritos",
-              "description": "(sem manual, escrito) Chile, (sem manual) México, Perú",
+              "description": "Versão com manual no verso do encarte.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/super-street-fighter-iv.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/super-street-fighter-iv.jpg"
                 },
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/super-street-fighter-iv_inside.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/super-street-fighter-iv_inside.jpg"
                 }
               ]
             },
             {
               "version": "Favoritos",
-              "description": "(sem manual, escrito) Chile, (sem manual) México, Perú",
+              "description": "Versão sem manual.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/super-street-fighter-iv.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/super-street-fighter-iv.jpg"
                 },
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/super-street-fighter-iv_inside2.jpg",
-                  "caption": "..."
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/super-street-fighter-iv_inside2.jpg"
                 }
               ]
             }
@@ -72,23 +68,20 @@
           "versions": [
             {
               "version": "Favoritos",
-              "region": "br",
+              "description": "Versão com manual no verso do encarte.",
               "photos": [
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/super-street-fighter-iv.jpg",
-                  "caption": "...",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/super-street-fighter-iv_back.jpg",
-                  "caption": "...",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
                   "url": "../static/assets/img/games/ps3/favoritos/br/super-street-fighter-iv_inside.jpg",
-                  "caption": "...",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 }
