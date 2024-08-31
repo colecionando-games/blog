@@ -23,7 +23,7 @@ const Footer = () => {
       <S.FooterCopyrightBox>
         <S.FooterLogo image={logoFooter.childImageSharp.gatsbyImageData} alt="Logo Colecionado.Games"/>  
         <S.FooterCopyright>
-          &copy; 2023 Colecionando.Games<br></br>
+          &copy; 2024 Colecionando.Games<br></br>
           O manual do colecionador de videogames!
         </S.FooterCopyright>
       </S.FooterCopyrightBox>
