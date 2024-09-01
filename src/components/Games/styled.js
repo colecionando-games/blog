@@ -41,7 +41,7 @@ export const GameDeveloper = styled.span`
   background: linear-gradient(180deg, rgba(255,183,0,1) 0%, rgba(255,221,0,1) 100%);
   color: black;
   padding: 2px 10px 5px;
-
+  box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.5);
 `
 
 export const GameSectionTitle = styled.h2`
@@ -78,7 +78,7 @@ export const GameSection = styled.section`
 export const GameReleases = styled.div`
   background-color: white;
   padding: 20px;
-  box-shadow: 1px 2px 4px gray;
+  box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.5);
 `
 
 export const GameReleaseEdition = styled.h2`
@@ -126,18 +126,25 @@ export const GameReleaseRegion = styled.div`
 `
 
 export const GamePingbacks = styled.section`
-  margin-bottom: 40px;
+  margin: -45px -15px 20px 15px;
+  padding: 10px 20px;
+  display: flex;
+  flex-direction: column;  
+
+  background: rgb(255,183,0);
+  background: linear-gradient(180deg, rgba(255,183,0,1) 0%, rgba(255,221,0,1) 100%);
+  color: black;
+  box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.5);
+
   ${media.lessThan("large")`
-    text-align: center;
+    margin-right: 0;
   `}
 `
 
 export const GamePingbackLink = styled(Link)`
-  color: white;
+  color: black;
+  font-weight: bold;
   transition: color 0.5s;
-  padding-left: 2rem;
-  line-height: 2rem;
-  ${media.lessThan("large")`
-    padding: 0;
-  `}
+  line-height: 1.2rem;
+  margin: 4px 0 0;
 `
