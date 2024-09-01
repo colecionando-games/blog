@@ -4,7 +4,19 @@ description: Conheça empresas que mantém aceso o prazer de colecionar jogos de
 date: 2021-06-15 16:00:00
 author: felipebbarbosa
 category: artigo
-tags: ["playstation", "nintendo", "xbox", "pc", "ps3", "ps4", "switch", "xbox-one", "wii", "wii-u"]
+tags:
+  [
+    "playstation",
+    "nintendo",
+    "xbox",
+    "pc",
+    "ps3",
+    "ps4",
+    "switch",
+    "xbox-one",
+    "wii",
+    "wii-u",
+  ]
 thumbnail: ../static/assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/thumbnail.jpg
 cover: /assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/thumbnail.jpg
 ---
@@ -17,19 +29,17 @@ Mas há uma luz no fim do túnel, pois tem algumas empresas que enxergaram um me
 
 Fundada por Josh Fairhurst e Douglas Bogart em 2015 como uma ramificação editorial do seu estúdio de desenvolvimento de jogos, a [Mighty Rabbit Studios](http://www.mightyrabbitstudios.com), a Limited Run já lançou no mercado mais de 300 jogos -que até então eram somente digitais- para diversas plataformas no formato de mídia física, isto incluindo jogos de PS Vita, PlayStation 3, PlayStation 4, PC, Nintendo Switch e até alguns retrôs. Porém, o grande diferencial deles está no modelo de mercado adotado.
 
-![Alguns jogos da Limited Run Games - Foto: Acervo pessoal](/assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/thumbnail.jpg "")
+![Alguns jogos da Limited Run Games - Foto: Acervo pessoal](/assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/thumbnail.jpg)
 
 #### Como funciona?
 
-A ideia é simples, eles negociam com as desenvolvedoras independentes para distribuírem seu jogo digital no mundo real através de caprichadas edições físicas, sejam elas edições especiais de colecionador (com diversos itens adicionais) ou regulares mesmo, porém, ambas muito bem feitas! 
+A ideia é simples, eles negociam com as desenvolvedoras independentes para distribuírem seu jogo digital no mundo real através de caprichadas edições físicas, sejam elas edições especiais de colecionador (com diversos itens adicionais) ou regulares mesmo, porém, ambas muito bem feitas!
 
-No começo da empresa, os jogos eram disponibilizados com uma tiragem pré-determinada bem limitada, chegando à tiragens mínimas de 1.500 jogos, por exemplo. Funcionava assim: **eles anunciavam que determinado jogo iria entrar à venda na data "X" e iria ter "Y" cópias**, com isso, caso você tivesse interesse naquele jogo, tinha que ficar atento a "data X", principalmente em algumas edições, pois se esgotavam em questão de minutos (ou até mesmo segundos). 
+No começo da empresa, os jogos eram disponibilizados com uma tiragem pré-determinada bem limitada, chegando à tiragens mínimas de 1.500 jogos, por exemplo. Funcionava assim: **eles anunciavam que determinado jogo iria entrar à venda na data "X" e iria ter "Y" cópias**, com isso, caso você tivesse interesse naquele jogo, tinha que ficar atento a "data X", principalmente em algumas edições, pois se esgotavam em questão de minutos (ou até mesmo segundos).
 
 ![Oddworld: Abe's Oddysee foi o segundo e último jogo para PS3 que eles lançaram — Foto: Acervo pessoal](/assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/oddworld-ps3.jpg)
 
 Mas recentemente, eles mudaram um pouco o modelo de vendas, onde agora **eles abrem uma espécie de pré-venda, onde o jogo fica disponível para compra por um determinado período de dias**. Depois disso, as vendas são encerradas e o jogo entra em produção, ou seja, a tiragem não é pre-determinada. Porém, após o fechamento das vendas, não serão produzidas cópias além do número total das pré-vendas.
-
-
 
 Vale ressaltar que em ambos os casos, após o termino do estoque, eles se **comprometem a não lançarem uma segunda tiragem do jogo**, se acabar, acabou! Isso que faz o item se tornar bastante colecionável e procurado.
 
@@ -47,7 +57,7 @@ Entretanto, a LRG não está sozinha nesse mercado e temos diversas outras que f
 
 ## As concorrentes da LRG
 
-Seguindo a mesma ideia, diversas outras publicadoras surgiram! Algumas seguem o mesmo formato de vendas da LRG, outras não, mas todas são especializadas em lançar edições caprichadas de jogos e, na maioria das vezes, independentes que a princípio não seriam lançados em mídia física! 
+Seguindo a mesma ideia, diversas outras publicadoras surgiram! Algumas seguem o mesmo formato de vendas da LRG, outras não, mas todas são especializadas em lançar edições caprichadas de jogos e, na maioria das vezes, independentes que a princípio não seriam lançados em mídia física!
 
 Um adendo: vou tentar listar todas elas por aqui, mas **essa não é uma lista definitiva**! Então caso conheça alguma que não esteja na lista, sinta-se a vontade nos informar nos comentários. Também não inclui as especializadas em jogos retrôs que não possuem licença dos criadores originais.
 
@@ -93,7 +103,7 @@ Especializada em PlayStation 4, a [Hard Copy Games](https://hardcopygames.com) t
 
 ![](/assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/iam8bit-logo.jpg)
 
-A empresa americana [iam8bit](https://www.iam8bit.com) possui uma variedade grande de produtos relacionados à cultura geek, tais como artworks, discos de vinil, camisetas e também edições exclusivas de jogos para PlayStation 4, Nintendo Switch e também retrogames. 
+A empresa americana [iam8bit](https://www.iam8bit.com) possui uma variedade grande de produtos relacionados à cultura geek, tais como artworks, discos de vinil, camisetas e também edições exclusivas de jogos para PlayStation 4, Nintendo Switch e também retrogames.
 
 Para você ter uma ideia, ela é a responsável pelo já extremamente cobiçado cartucho do Mega Man X - 30th Anniversary para o Super Nintendo, assim como a versão de 30 anos do Street Fighter II também para SNES e do Mega Man 2 para NES, entre outros retrôs. E como não se isso não fosse o bastante para entrar na lista, ela também lançou para as plataformas modernas os jogos: What Remains of Edith Finch, Grim Fandango, Psychonauts, Untitled Goose Game e [vários outros](https://www.iam8bit.com/collections/collectors-editions).
 
@@ -143,7 +153,7 @@ Desde seu primeiro lançamento em 2016, a [Signature Edition](https://signaturee
 
 ![](/assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/specialreserve-logo.jpg)
 
-A [Special Reserve Games](https://specialreservegames.com) preza pela qualidade e, segundo o que eles mesmos dizem: qualidade de alto padrão. Qualquer edição lançada por eles está incluso o jogo (óbvio), uma caixa de "reserva" personalizada, capa reversível com numeração sequencial e manual de instruções. 
+A [Special Reserve Games](https://specialreservegames.com) preza pela qualidade e, segundo o que eles mesmos dizem: qualidade de alto padrão. Qualquer edição lançada por eles está incluso o jogo (óbvio), uma caixa de "reserva" personalizada, capa reversível com numeração sequencial e manual de instruções.
 
 Além disso, eles também trabalham com livros e impressões de arte, figuras impressas em 3D, discos de vinil, estojos SteelBook&copy; e outros itens exclusivos para PlayStation 4 e Nintendo Switch.
 
@@ -161,27 +171,48 @@ Seguindo o padrão de jogos limitados, a alemã [Strictly Limited](https://www.s
 
 ![No jogo 99 Vidas, o número da cópia está impresso no encarte, já no R-Type a numeração é um adesivo — Foto: Acervo pessoal](/assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/strictly-limited-games-copias-numeradas.jpg)
 
-Eles também tem um sistema de parceria, onde lançam algumas edições limitadas de jogos de outras publicadoras como Retro-bit, ININ, Beep, Deck13, DotEmu e Sekai Games. 
+Eles também tem um sistema de parceria, onde lançam algumas edições limitadas de jogos de outras publicadoras como Retro-bit, ININ, Beep, Deck13, DotEmu e Sekai Games.
 
 ---
 
 ![](/assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/superrare-logo.jpg)
 
-Especializada em Nintendo Switch, a [Super Rare Games](https://superraregames.com) é a empresa européia que mais lança jogos físicos para o console da Nintendo por lá e a segunda do mundo. O alvo deles são os jogos independentes e todos seus lançamentos possuem tiragem limitada. A coleção também é numerada. 
+Especializada em Nintendo Switch, a [Super Rare Games](https://superraregames.com) é a empresa européia que mais lança jogos físicos para o console da Nintendo por lá e a segunda do mundo. O alvo deles são os jogos independentes e todos seus lançamentos possuem tiragem limitada. A coleção também é numerada.
 
 De 2018 até a data deste post, já passaram de 50 lançamentos, dentre eles estão Human: Fall Flat, Worms: W.M.D., EARTHLOCK, Machinarium, The Gardens Between, World of Goo, Dandara: Trials of Fear Edition e Brothers: A Tale of Two Sons.
 
---- 
+---
 
 ![](/assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/vblank-logo.jpg)
 
-A [Vblank Entertainment](https://www.vblank.com) é um pouco diferente das demais, pois ela só lança os jogos desenvolvidos por ela mesma. A única excessão foi o jogo Guacamelee! Super Turbo Championship Edition também lançado por eles. 
+A [Vblank Entertainment](https://www.vblank.com) é um pouco diferente das demais, pois ela só lança os jogos desenvolvidos por ela mesma. A única excessão foi o jogo Guacamelee! Super Turbo Championship Edition também lançado por eles.
 
 ![O único jogo não desenvolvido por eles que distribuíram — Foto: Acervo pessoal](/assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/guacamelee-ps4.jpg)
 
 Mas ela entrou na lista porque todos seus jogos físicos possuem tiragem limitadas. Ela inclusive, deve ter sido uma das poucas (senão for a única) que lançou jogos neste formato limitado para Nintendo Wii e Wii U. Ela lançou seus jogos para PS Vita, PlayStation 4, Nintendo Switch, PC e para PlayStation 5. Resumidamente, os dois jogos lançados por ela foram: Retro City Rampage DX e Shakedown: Hawaii.
 
----
+## Empresas x Plataformas
+
+| Empresa           |         PC         |        PS3         |        PS4         |        PS5         |        Vita        |        Xbox        |       Switch       |       Retro        |
+| :---------------- | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: |
+| 1Print Games      |                    |                    |                    |                    |                    |                    | :white_check_mark: |                    |
+| Dispatch Games    |                    |                    | :white_check_mark: |                    |                    |                    | :white_check_mark: |                    |
+| Fangamer          | :white_check_mark: |                    | :white_check_mark: |                    |                    | :white_check_mark: | :white_check_mark: |                    |
+| First Press       |                    |                    | :white_check_mark: |                    |                    |                    | :white_check_mark: | :white_check_mark: |
+| Gamefairy         |                    |                    | :white_check_mark: |                    |                    |                    | :white_check_mark: | :white_check_mark: |
+| Hard Copy Games   |                    |                    | :white_check_mark: |                    |                    |                    |                    |                    |
+| iam8bit           |                    |                    | :white_check_mark: | :white_check_mark: |                    | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| IndieBox          | :white_check_mark: |                    |                    |                    |                    |                    |                    |                    |
+| Limited Run       | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| Nicalis           |                    |                    | :white_check_mark: | :white_check_mark: |                    |                    | :white_check_mark: |                    |
+| PixelHeart        |                    |                    | :white_check_mark: | :white_check_mark: |                    |                    | :white_check_mark: | :white_check_mark: |
+| Play-Asia         |                    |                    | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    | :white_check_mark: | :white_check_mark: |
+| Red Art Games     |                    |                    | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |
+| Signature Edition | :white_check_mark: |                    | :white_check_mark: | :white_check_mark: |                    | :white_check_mark: | :white_check_mark: |                    |
+| Special Reserve   |                    |                    | :white_check_mark: |                    |                    |                    | :white_check_mark: |                    |
+| Strictly Limited  |                    |                    | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    | :white_check_mark: | :white_check_mark: |
+| Super Rare        |                    |                    | :white_check_mark: | :white_check_mark: |                    |                    | :white_check_mark: |                    |
+| Vblank            |                    | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |                    |                    | :white_check_mark: |
 
 ## Considerações finais
 
@@ -190,3 +221,7 @@ São tantas opções que fica até difícil de dar conta de comprar tudo o que a
 E para fechar, acredito que devam ter outras publicadoras neste formato, então gostaria novamente de ressaltar que **toda informação é bem-vinda para complementar o post, sinta-se a vontade para comentar** caso conheça alguma outra ou caso encontre alguma informação errada ou caso queira só trocar uma ideia mesmo! :)
 
 E aí, você gosta de colecionar essas edições limitadas?
+
+### Atualizações
+
+- **31/08/2024**: Adicionado uma tabela "Empresas x Plataformas" que sintetiza as empresas e para quais plataformas elas lançaram jogos.
