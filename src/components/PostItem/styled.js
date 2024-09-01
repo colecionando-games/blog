@@ -28,13 +28,16 @@ export const PostItemThumb = styled(GatsbyImage)`
 `
 
 export const PostItemTag = styled.div`
-  background: #f39c12;
-  padding: 3px 10px 5px;
-  color: white;
-  margin: -25px auto 10px;
+  background: rgb(255,183,0);
+  background: linear-gradient(180deg, rgba(255,183,0,1) 0%, rgba(255,221,0,1) 100%);
+  color: black;
+  box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.5);
+  padding: 3px 10px 4px;
+  margin: -26px -32px 10px 250px;
   z-index: 5;
   text-transform: uppercase;
-  border-radius: 10px;
+  text-align: center;
+  font-weight: 600;
 `
 
 export const PostItemInfo = styled.div`
