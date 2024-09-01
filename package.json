@@ -51,6 +51,7 @@
     "type-fest": "^2.10.0"
   },
   "devDependencies": {
+    "plop": "^4.0.1",
     "prettier": "2.2.1"
   },
   "keywords": [
