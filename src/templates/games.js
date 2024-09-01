@@ -43,7 +43,7 @@ const Games = ({ pageContext }) => {
           <S.GameMainSection>
             <S.GameInfo>
               <S.GameTitle>{title}</S.GameTitle>
-              <S.GameDeveloper>{original_release_year}, {original_developer}</S.GameDeveloper>
+              <S.GameDeveloper> {original_release_year}, {original_developer}</S.GameDeveloper>
             </S.GameInfo>
           </S.GameMainSection>
           <S.GameSection>

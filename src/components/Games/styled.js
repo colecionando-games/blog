@@ -14,21 +14,21 @@ export const GameContent = styled.section`
 
 export const GameMainSection = styled.section`
   margin: 0 auto;
-  padding: 0 40px;
 `
 
 export const GameInfo = styled.section`
   width: 100%;
-  margin: 0 20px;
-  ${media.lessThan("large")`
-    margin: 0;
-  `}
+  margin: 0;
+  padding: 12px 20px 0;
+  background: rgba(0, 0, 0, 0.1);
 `
 
 export const GameTitle = styled.h1`
-  font-size: 4rem;
+  font-size: 3.2rem;
   font-weight: 700;
   color: white;
+  margin-bottom: 14px;
+  
 
   ${media.lessThan("large")`
     font-size: 2.8rem;
@@ -36,8 +36,12 @@ export const GameTitle = styled.h1`
   `}
 `
 
-export const GameDeveloper = styled.h2`
-  
+export const GameDeveloper = styled.span`
+  background: rgb(255,183,0);
+  background: linear-gradient(180deg, rgba(255,183,0,1) 0%, rgba(255,221,0,1) 100%);
+  color: black;
+  padding: 2px 10px 5px;
+
 `
 
 export const GameSectionTitle = styled.h2`
