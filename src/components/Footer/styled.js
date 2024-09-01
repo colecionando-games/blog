@@ -1,4 +1,5 @@
 import styled from "styled-components"
+import media from "styled-media-query"
 import { GatsbyImage } from "gatsby-plugin-image"
 
 export const FooterWrapper = styled.footer`
@@ -10,7 +11,11 @@ export const FooterWrapper = styled.footer`
   display: flex;
   align-items: center;
   justify-content: space-between;
-  flex-wrap: wrap;
+
+  ${media.lessThan("large")`
+    flex-direction: column;
+  `}
+
 `
 
 export const FooterCopyrightBox = styled.div`
@@ -58,6 +63,10 @@ export const FooterSocialLinks = styled.ul`
   svg {
     margin: 5px;
   }
+
+  ${media.lessThan("large")`
+    margin-top: 32px;
+  `}
 `
 
 export const SocialLink = styled.div`
