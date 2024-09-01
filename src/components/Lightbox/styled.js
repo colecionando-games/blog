@@ -26,7 +26,7 @@ export const LightboxPhoto = styled(GatsbyImage)`
 `
 
 export const LightboxDialogPhoto = styled(GatsbyImage)`
-  margin: 10px;
+  margin: 10px 10px 0;
 `
 
 export const PreviewButton = styled.button`
