@@ -123,6 +123,12 @@ A [Nicalis](https://www.nicalis.com) também não entra no modelo de jogos limit
 
 ---
 
+![](/assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/pix-n-love-logo.jpg)
+
+Criada em 2007, a [Pix'n Love](https://www.pixnlove.com) foi uma das primeiras editoras de livros dedicada a história e cultura dos videogames. Em 2019, se tornou uma publicadora de jogos sob a label **Pix'n Love Games**. Alguns de seus principais lançamentos foram: Vengeful Guardian Moonrider, Blazing Chrome, Cuphead, Resident Evil 2 e outros.
+
+---
+
 ![](/assets/img/posts/limited-run-e-outras-publicadoras-de-jogos-limitados/pixelheart-logo.jpg)
 
 [PixelHeart](https://www.pixelheart.eu) é uma empresa européia que distribui e publica jogos independentes para diversas plataformas como Dreamcast, Super Nintendo, Nintendo 3DS, PlayStation 4 ou Nintendo Switch, mas que também trabalha em projetos de jogos de tabuleiros e card games. Alguns de seus lançamentos foram: Golden Force, Liberated e The Ninja Saviors: Return of the Warriors.
@@ -205,6 +211,7 @@ Mas ela entrou na lista porque todos seus jogos físicos possuem tiragem limitad
 | IndieBox          | :white_check_mark: |                    |                    |                    |                    |                    |                    |                    |
 | Limited Run       | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Nicalis           |                    |                    | :white_check_mark: | :white_check_mark: |                    |                    | :white_check_mark: |                    |
+| Pix'n Love        | :white_check_mark: |                    | :white_check_mark: | :white_check_mark: |                    | :white_check_mark: | :white_check_mark: |                    |
 | PixelHeart        |                    |                    | :white_check_mark: | :white_check_mark: |                    |                    | :white_check_mark: | :white_check_mark: |
 | Play-Asia         |                    |                    | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    | :white_check_mark: | :white_check_mark: |
 | Red Art Games     |                    |                    | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |
@@ -224,4 +231,5 @@ E aí, você gosta de colecionar essas edições limitadas?
 
 ### Atualizações
 
+- **31/08/2024**: Adicionado a empresa **Pix'n Love Games** na lista.
 - **31/08/2024**: Adicionado uma tabela "Empresas x Plataformas" que sintetiza as empresas e para quais plataformas elas lançaram jogos.
