@@ -55,6 +55,7 @@ export const PostItemTitle = styled.h1`
   font-size: 1.6rem;
   font-weight: 700;
   margin: 0.2rem 0 0.5rem;
+  color: rgb(70, 70, 70);
 `
 
 export const PostItemDescription = styled.p`
