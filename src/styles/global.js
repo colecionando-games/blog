@@ -85,5 +85,9 @@ const GlobalStyles = createGlobalStyle`
     padding: 5px;
     text-align: center;
   }
+  td a {
+    color: black !important;
+    border-bottom-color: black !important;
+  }
 `
 export default GlobalStyles
