@@ -34,7 +34,41 @@ const platformsData = [
     name: "PS Vita",
     logo: "/assets/img/logos/ps-vita.png"
   },
-  
+  {
+    id: "sms",
+    name: "Master System",
+    logo: "/assets/img/logos/sms.png"
+  },
+  {
+    id: "gg",
+    name: "Game Gear",
+    logo: "/assets/img/logos/gg.png"
+  },
+  {
+    id: "md",
+    name: "Mega Drive",
+    logo: "/assets/img/logos/md.png"
+  },
+  {
+    id: "sega-cd",
+    name: "Sega CD",
+    logo: "/assets/img/logos/sega-cd.png"
+  },
+  {
+    id: "32x",
+    name: "Sega 32X",
+    logo: "/assets/img/logos/32x.png"
+  },
+  {
+    id: "sat",
+    name: "Saturn",
+    logo: "/assets/img/logos/sat.png"
+  },
+  {
+    id: "dc",
+    name: "Dreamcast",
+    logo: "/assets/img/logos/dc.png"
+  },
   {
     id: "nes",
     name: "NES",

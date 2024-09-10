@@ -4,6 +4,7 @@ import Layout from "../components/Layout"
 import Seo from "../components/seo"
 import Lightbox from "../components/Lightbox"
 
+import distributorsData from "../components/Games/distributors"
 import platformsData from "../components/Games/platforms"
 import regionsData from "../components/Games/regions"
 
@@ -62,12 +63,13 @@ const Games = ({ pageContext }) => {
                     <span>{publisher}</span>
                     <p>{description}</p>
                     {!regions ? <div style={{ fontStyle: 'italic', marginTop: '7px', color: 'gray' }}>Nenhum jogo cadastrado.</div> :
-                      regions.map(({ region, release_date, versions }) => {
+                      regions.map(({ region, distributor, release_date, versions }) => {
                         return (
                           <S.GameReleaseRegion>
                             <S.GameSectionTitle>
                               {regionsData.find(r => r.id === region).name}
                             </S.GameSectionTitle>
+                            {!!distributor && <S.GameReleasePlatformLogo src={distributorsData.find(d => d.id === distributor).logo} />}
                             <span>{fmtDate(release_date)}</span>
                             {!versions ? <></> :
                                 versions.map(({ edition, version, description, photos }) => {
