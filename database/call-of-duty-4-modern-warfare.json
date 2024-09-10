@@ -40,25 +40,6 @@
     {
       "platform": "osx",
       "release_date": "2008"
-    },
-    {
-      "platform": "wii",
-      "release_date": "2009"
-    },
-    {
-      "platform": "ps4",
-      "release_date": "2016",
-      "description": "Versão melhorada lançada juntamente com algumas versões especiais do Call of Duty: Infinite Warfare."
-    },
-    {
-      "platform": "xbox-one",
-      "release_date": "2016",
-      "description": "Versão melhorada lançada juntamente com algumas versões especiais do Call of Duty: Infinite Warfare."
-    },
-    {
-      "platform": "windows",
-      "release_date": "2016",
-      "description": "Versão melhorada lançada juntamente com algumas versões especiais do Call of Duty: Infinite Warfare."
     }
   ],
   "pingbacks": [

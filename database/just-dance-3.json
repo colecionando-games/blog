@@ -1,15 +1,11 @@
 {
   "title": "Just Dance 3",
-  "original_developer": "Ubisoft Paris",
+  "original_developer": "Ubisoft Montreal",
   "original_publisher": "Ubisoft",
   "original_release_year": "2011",
   "releases": [
     {
       "platform": "xbox-360",
-      "release_date": "2011"
-    },
-    {
-      "platform": "wii",
       "release_date": "2011"
     },
     {

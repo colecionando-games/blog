@@ -25,14 +25,14 @@ Mas enfim, eis a lista:
 | :---------------------------------------------------------------------------------------- | :----------------: | :----------------: |
 | [Assassin's Creed: Revelations](/games/assassins-creed-revelations/)                      |                    | :white_check_mark: |
 | [Bayonetta](/games/bayonetta/)                                                            | :white_check_mark: | :white_check_mark: |
-| [Bioshock](/games/bioshock/)                                                              |                    | :white_check_mark: |
+| [BioShock](/games/bioshock-2008/)                                                         |                    | :white_check_mark: |
 | [Borderlands](/games/borderlands/)                                                        |                    | :white_check_mark: |
 | [Call of Duty 4: Modern Warfare](/games/call-of-duty-4-modern-warfare/)                   |                    | :white_check_mark: |
 | [Castlevania: Lords of Shadow](/games/castlevania-lords-of-shadow/)                       | :white_check_mark: | :white_check_mark: |
 | [Darksiders](/games/darksiders/)                                                          | :white_check_mark: | :white_check_mark: |
 | [Darksiders II](/games/darksiders-2/)                                                     | :white_check_mark: | :white_check_mark: |
-| [Dead or Alive 5: Ultimate](/games/dead-or-alive-5/)                                      | :white_check_mark: | :white_check_mark: |
-| [Deadly Premonition: The Director's Cut](/games/deadly-premonition/)                      | :white_check_mark: | :white_check_mark: |
+| [Dead or Alive 5 Ultimate](/games/dead-or-alive-5-ultimate/)                                      | :white_check_mark: | :white_check_mark: |
+| [Deadly Premonition: The Director's Cut](/games/deadly-premonition-directors-cut/)                      | :white_check_mark: | :white_check_mark: |
 | [Demon's Souls](/games/demons-souls/)                                                     |                    | :white_check_mark: |
 | [Devil May Cry - HD Collection](/games/devil-may-cry-collection/)                         | :white_check_mark: | :white_check_mark: |
 | [DmC: Devil May Cry](/games/dmc-devil-may-cry/)                                           | :white_check_mark: | :white_check_mark: |
@@ -42,16 +42,16 @@ Mas enfim, eis a lista:
 | [God of War III](/games/god-of-war-3/)                                                    | :white_check_mark: | :white_check_mark: |
 | [God of War: Ascension](/games/god-of-war-ascension/)                                     | :white_check_mark: |                    |
 | [God of War Collection](/games/god-of-war-collection/)                                    | :white_check_mark: | :white_check_mark: |
-| [Gran Turismo 5: XL Edition](/games/gran-turismo-5/)                                      | :white_check_mark: | :white_check_mark: |
-| [Heavy Rain: Director's Cut](/games/heavy-rain/)                                          | :white_check_mark: | :white_check_mark: |
+| [Gran Turismo 5: XL Edition](/games/gran-turismo-5-xl-edition/)                                      | :white_check_mark: | :white_check_mark: |
+| [Heavy Rain: Director's Cut](/games/heavy-rain-directors-cut/)                                          | :white_check_mark: | :white_check_mark: |
 | [inFamous 2](/games/infamous-2/)                                                          | :white_check_mark: | :white_check_mark: |
 | [Jak and Daxter Collection](/games/jak-and-dexter-collection/)                            |                    | :white_check_mark: |
-| [Journey: Edição de Colecionador](/games/journey/)                                        | :white_check_mark: | :white_check_mark: |
+| [Journey: Edição de Colecionador](/games/journey-collectors-edition/)                                        | :white_check_mark: | :white_check_mark: |
 | [Just Dance 3](/games/just-dance-3/)                                                      | :white_check_mark: | :white_check_mark: |
 | [Killzone 2](/games/killzone-2/)                                                          | :white_check_mark: | :white_check_mark: |
 | [Killzone 3](/games/killzone-3/)                                                          | :white_check_mark: | :white_check_mark: |
 | [L.A. Noire](/games/la-noire/)                                                            |                    | :white_check_mark: |
-| [LittleBigPlanet 2: Special Edition](/games/little-big-planet-2/)                         | :white_check_mark: | :white_check_mark: |
+| [LittleBigPlanet 2: Special Edition](/games/little-big-planet-2-special-edition/)                         | :white_check_mark: | :white_check_mark: |
 | [Max Payne 3](/games/max-payne-3/)                                                        |                    | :white_check_mark: |
 | [Metal Gear Solid 4: Guns of Patriots](/games/metal-gear-solid-4/)                        | :white_check_mark: | :white_check_mark: |
 | [Metal Gear Solid - HD Collection](/games/metal-gear-solid-collection/)                   | :white_check_mark: | :white_check_mark: |
@@ -63,13 +63,13 @@ Mas enfim, eis a lista:
 | [Rayman Origins](/games/rayman-origins/)                                                  |                    | :white_check_mark: |
 | [Red Dead Redemption](/games/red-dead-redemption/)                                        |                    | :white_check_mark: |
 | [Red Dead Redemption: Undead Nightmare](/games/red-dead-redemption-undead-nightmare/)     |                    | :white_check_mark: |
-| [Resident Evil 5: Gold Edition](/games/resident-evil-5/)                                  | :white_check_mark: |                    |
+| [Resident Evil 5: Gold Edition](/games/resident-evil-5-gold-edition/)                                  | :white_check_mark: |                    |
 | [Resistance 3](/games/resistance-3/)                                                      | :white_check_mark: | :white_check_mark: |
 | [Saints Row: The Third](/games/saints-row-the-third/)                                     | :white_check_mark: | :white_check_mark: |
 | [Silent Hill - HD Collection](/games/silent-hill-collection/)                             | :white_check_mark: | :white_check_mark: |
 | [Sonic Generations](/games/sonic-generations/)                                            | :white_check_mark: | :white_check_mark: |
 | [Spec Ops: The Line](/games/spec-ops-the-line/)                                           |                    | :white_check_mark: |
-| [Super Street Fighter IV: Arcade Edition](/games/street-fighter-iv/)                      | :white_check_mark: | :white_check_mark: |
+| [Super Street Fighter IV: Arcade Edition](/games/super-street-fighter-iv-arcade-edition/)                      | :white_check_mark: | :white_check_mark: |
 | [The Amazing Spider-man](/games/the-amazing-spider-man/)                                  |                    | :white_check_mark: |
 | [The ICO & Shadow of the Colossus Collection](/games/the-ico-shadow-colossus-collection/) | :white_check_mark: | :white_check_mark: |
 | [The King of Fighters XIII](/games/the-king-of-fighters-xiii/)                            | :white_check_mark: | :white_check_mark: |

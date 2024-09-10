@@ -1,24 +1,30 @@
 {
-  "title": "Bayonetta",
-  "original_developer": "PlatinumGames",
-  "original_publisher": "Sega",
-  "original_release_year": "2009",
+  "title": "Deadly Premonition: The Director's Cut",
+  "original_developer": "Access Games",
+  "original_publisher": "Ignition Entertainment",
+  "original_release_year": "2010",
+  "game_type": "Versão expandida do Deadly Premonition",
+  "game_type_ref": "/games/deadly-premonition",
   "releases": [
     {
       "platform": "ps3",
-      "developer": "Nex Entertainment",
-      "publisher": "Sega",
-      "release_date": "2009",
+      "release_date": "2013",
+      "publisher": "Rising Star Games",
       "regions": [
         {
           "region": "latam",
           "versions": [
             {
               "version": "Favoritos",
+              "description": "Versão com manual no verso do encarte.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/bayonetta.jpg",
-                  "author": "Mercado Livre (Argentina e Peru)"
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/deadly-premonition.jpg",
+                  "author": "Mercado Libre (Argentina e Peru)"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/deadly-premonition_inside.jpg",
+                  "author": "Mercado Libre (Argentina e Peru)"
                 }
               ]
             }
@@ -32,17 +38,17 @@
               "description": "Versão com manual no verso do encarte.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/bayonetta.jpg",
+                  "url": "../static/assets/img/games/ps3/favoritos/br/deadly-premonition.jpg",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/bayonetta_back.jpg",
+                  "url": "../static/assets/img/games/ps3/favoritos/br/deadly-premonition_back.jpg",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/bayonetta_inside.jpg",
+                  "url": "../static/assets/img/games/ps3/favoritos/br/deadly-premonition_inside.jpg",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 }
@@ -53,16 +59,9 @@
       ]
     },
     {
-      "platform": "xbox-360",
-      "developer": "PlatinumGames",
-      "publisher": "Sega",
-      "release_date": "2009"
-    },
-    {
       "platform": "windows",
-      "developer": "PlatinumGames",
-      "publisher": "Sega",
-      "release_date": "2017"
+      "release_date": "2013",
+      "publisher": "Rising Star Games"
     }
   ],
   "pingbacks": [

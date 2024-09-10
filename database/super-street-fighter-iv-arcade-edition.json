@@ -1,8 +1,10 @@
 {
-  "title": "Uncharted 3: Drake's Deception",
-  "original_developer": "Naughty Dog",
-  "original_publisher": "Sony Computer Entertainment",
+  "title": "Super Street Fighter IV: Arcade Edition",
+  "original_developer": "Dimps",
+  "original_publisher": "Capcom",
   "original_release_year": "2011",
+  "game_type": "Versão expandida do Super Street Fighter IV",
+  "game_type_ref": "/games/super-street-fighter-iv",
   "releases": [
     {
       "platform": "ps3",
@@ -13,25 +15,25 @@
           "versions": [
             {
               "version": "Favoritos",
-              "description": "Versão com manual.",
+              "description": "Versão com manual no verso do encarte.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/uncharted-3.jpg"
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/super-street-fighter-iv.jpg"
                 },
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/uncharted-3_inside.jpg"
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/super-street-fighter-iv_inside.jpg"
                 }
               ]
             },
             {
               "version": "Favoritos",
-              "description": "Versão com manual no verso do encarte.",
+              "description": "Versão sem manual.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/uncharted-3.jpg"
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/super-street-fighter-iv.jpg"
                 },
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/uncharted-3_inside2.jpg"
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/super-street-fighter-iv_inside2.jpg"
                 }
               ]
             }
@@ -42,20 +44,20 @@
           "versions": [
             {
               "version": "Favoritos",
-              "description": "Versão sem manual.",
+              "description": "Versão com manual no verso do encarte.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/uncharted-3.jpg",
+                  "url": "../static/assets/img/games/ps3/favoritos/br/super-street-fighter-iv.jpg",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/uncharted-3_back.jpg",
+                  "url": "../static/assets/img/games/ps3/favoritos/br/super-street-fighter-iv_back.jpg",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/uncharted-3_inside.jpg",
+                  "url": "../static/assets/img/games/ps3/favoritos/br/super-street-fighter-iv_inside.jpg",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 }
@@ -64,6 +66,14 @@
           ]
         }
       ]
+    },
+    {
+      "platform": "xbox-360",
+      "release_date": "2011"
+    },
+    {
+      "platform": "windows",
+      "release_date": "2011"
     }
   ],
   "pingbacks": [

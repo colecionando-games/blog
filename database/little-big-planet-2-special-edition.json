@@ -1,25 +1,27 @@
 {
-  "title": "Uncharted: Drake's Fortune",
-  "original_developer": "Naughty Dog",
+  "title": "LittleBigPlanet 2: Special Edition",
+  "original_developer": "Media Molecule",
   "original_publisher": "Sony Computer Entertainment",
-  "original_release_year": "2007",
+  "original_release_year": "2011",
+  "game_type": "Versão extendida de LittleBigPlanet 2",
+  "game_type_ref": "/games/little-big-planet-2",
   "releases": [
     {
       "platform": "ps3",
-      "release_date": "2007",
+      "release_date": "2011",
       "regions": [
         {
           "region": "latam",
           "versions": [
             {
               "version": "Favoritos",
-              "description": "Versão com manual no verso do encarte.",
+              "description": "Versão com manual.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/uncharted.jpg"
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/littlebigplanet-2.jpg"
                 },
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/uncharted_inside.jpg"
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/littlebigplanet-2_inside.jpg"
                 }
               ]
             }
@@ -30,20 +32,15 @@
           "versions": [
             {
               "version": "Favoritos",
-              "description": "Versão com manual no verso do encarte.",
+              "description": "Versão com manual.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/uncharted.jpg",
+                  "url": "../static/assets/img/games/ps3/favoritos/br/littlebigplanet-2.jpg",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/uncharted_back.jpg",
-                  "author": "PS3 Hunter",
-                  "author-link": "https://www.instagram.com/ps3_hunter/"
-                },
-                {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/uncharted_inside.jpg",
+                  "url": "../static/assets/img/games/ps3/favoritos/br/littlebigplanet-2_back.jpg",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 }

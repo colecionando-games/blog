@@ -27,7 +27,9 @@ const Games = ({ pageContext }) => {
     title, 
     original_developer, 
     original_publisher, 
-    original_release_year, 
+    original_release_year,
+    game_type,
+    game_type_ref,
     releases, 
     pingbacks 
   } = pageContext
@@ -42,17 +44,17 @@ const Games = ({ pageContext }) => {
         <S.GameContent>
           <S.GameMainSection>
             <S.GameInfo>
-              <S.GameTitle>{title}</S.GameTitle>
+              <S.GameTitle>{title} </S.GameTitle>
               <S.GameDeveloper>{original_release_year}, {original_developer}</S.GameDeveloper>
+              {!!game_type && <S.GameType><a href={game_type_ref}>{game_type}</a></S.GameType>}
             </S.GameInfo>
           </S.GameMainSection>
           <S.GameSection>
             <S.GameReleases>
             {!releases ? <>nenhuma encontrada</> :
-              releases.map(({ platform, publisher, developer, edition, description, release_date, regions }) => {
+              releases.map(({ platform, publisher, developer, description, release_date, regions }) => {
                 return (
                   <div style={{ marginBottom: '30px' }}>
-                    {edition !== null ? <S.GameEditionTitle>{edition}</S.GameEditionTitle> : <></>}
                     <S.GameReleasePlatformLogo src={platformsData.find(p => p.id === platform).logo}/>
                     <span>{fmtDate(release_date)}{developer !== null ? "," : ""} {developer}</span><br></br>
                     <span>{publisher}</span>

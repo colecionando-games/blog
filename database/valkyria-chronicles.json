@@ -48,19 +48,6 @@
           ]
         }
       ]
-    },
-    {
-      "platform": "windows",
-      "release_date": "2014"
-    },
-    {
-      "platform": "ps4",
-      "release_date": "2016",
-      "edition": "Remastered"
-    },
-    {
-      "platform": "switch",
-      "release_date": "2018"
     }
   ],
   "pingbacks": [

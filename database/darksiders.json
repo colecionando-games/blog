@@ -51,35 +51,8 @@
       "release_date": "2010"
     },
     {
-      "platform": "ps4",
-      "release_date": "2016",
-      "developer": "Kaiko",
-      "publisher": "THQ Nordic",
-      "edition": "Warmastered Edition"
-    },
-    {
-      "platform": "xbox-one",
-      "release_date": "2016",
-      "developer": "Kaiko",
-      "publisher": "THQ Nordic"
-    },
-    {
-      "platform": "windows",
-      "release_date": "2016",
-      "developer": "Kaiko",
-      "publisher": "THQ Nordic"
-    },
-    {
-      "platform": "wii-u",
-      "release_date": "2017",
-      "developer": "Kaiko",
-      "publisher": "THQ Nordic"
-    },
-    {
-      "platform": "switch",
-      "release_date": "2019",
-      "developer": "Kaiko",
-      "publisher": "THQ Nordic"
+      "platform": "linux",
+      "release_date": "2010"
     }
   ],
   "pingbacks": [

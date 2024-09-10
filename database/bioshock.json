@@ -1,65 +1,18 @@
 {
   "title": "BioShock",
-  "original_developer": "2K Boston e 2K Australia",
+  "original_developer": "2K Boston",
   "original_publisher": "2K Games",
   "original_release_year": "2007",
   "releases": [
     {
       "platform": "xbox-360",
+      "developer": "2K Boston",
       "release_date": "2007"
     },
     {
       "platform": "windows",
+      "developer":"2K Boston",
       "release_date": "2007"
-    },
-    {
-      "platform": "ps3",
-      "release_date": "2008",
-      "regions": [
-        {
-          "region": "latam",
-          "versions": [
-            {
-              "version": "Favoritos",
-              "description": "Versão com arte no verso do encarte e panfleto de garantia.",
-              "photos": [
-                {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/bioshock.jpg",
-                  "author": "Mercado Libre (Chile e Peru)"
-                },
-                {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/bioshock_inside.jpg",
-                  "author": "Mercado Libre (Chile e Peru)"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "platform": "ps4",
-      "release_date": "2016",
-      "developer": "Blind Squirrel Games",
-      "description": "Versão remasterizada lançada dentro da coletânia BioShock: The Collection"
-    },
-    {
-      "platform": "xbox-one",
-      "release_date": "2016",
-      "developer": "Blind Squirrel Games",
-      "description": "Versão remasterizada lançada dentro da coletânia BioShock: The Collection"
-    },
-    {
-      "platform": "switch",
-      "release_date": "2020",
-      "developer": "Blind Squirrel Games",
-      "description": "Versão remasterizada lançada dentro da coletânia BioShock: The Collection"
-    }
-  ],
-  "pingbacks": [
-    {
-      "title": "Lista completa da coleção Favoritos do PlayStation 3",
-      "url": "/lista-jogos-ps3-serie-favoritos"
     }
   ]
 }

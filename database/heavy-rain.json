@@ -6,54 +6,7 @@
   "releases": [
     {
       "platform": "ps3",
-      "release_date": "2010",
-      "regions": [
-        {
-          "region": "latam",
-          "versions": [
-            {
-              "edition": "Director's Cut",
-              "version": "Favoritos",
-              "description": "Versão com manual.",
-              "photos": [
-                {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/heavy-rain.jpg"
-                },
-                {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/heavy-rain_inside.jpg"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "region": "br",
-          "versions": [
-            {
-              "edition": "Director's Cut",
-              "version": "Favoritos",
-              "description": "Versão com manual.",
-              "photos": [
-                {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/heavy-rain.jpg",
-                  "author": "PS3 Hunter",
-                  "author-link": "https://www.instagram.com/ps3_hunter/"
-                },
-                {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/heavy-rain_back.jpg",
-                  "author": "PS3 Hunter",
-                  "author-link": "https://www.instagram.com/ps3_hunter/"
-                },
-                {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/heavy-rain_inside.jpg",
-                  "author": "PS3 Hunter",
-                  "author-link": "https://www.instagram.com/ps3_hunter/"
-                }
-              ]
-            }
-          ]
-        }
-      ]
+      "release_date": "2010"
     },
     {
       "platform": "ps4",
@@ -61,13 +14,7 @@
     },
     {
       "platform": "windows",
-      "release_date": "2019"
-    }
-  ],
-  "pingbacks": [
-    {
-      "title": "Lista completa da coleção Favoritos do PlayStation 3",
-      "url": "/lista-jogos-ps3-serie-favoritos"
+      "release_date": "2020"
     }
   ]
 }

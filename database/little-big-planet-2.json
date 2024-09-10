@@ -6,55 +6,7 @@
   "releases": [
     {
       "platform": "ps3",
-      "release_date": "2011",
-      "regions": [
-        {
-          "region": "latam",
-          "versions": [
-            {
-              "edition": "Special Edition",
-              "version": "Favoritos",
-              "description": "Versão com manual.",
-              "photos": [
-                {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/littlebigplanet-2.jpg"
-                },
-                {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/littlebigplanet-2_inside.jpg"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "region": "br",
-          "versions": [
-            {
-              "edition": "Special Edition",
-              "version": "Favoritos",
-              "description": "Versão com manual.",
-              "photos": [
-                {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/littlebigplanet-2.jpg",
-                  "author": "PS3 Hunter",
-                  "author-link": "https://www.instagram.com/ps3_hunter/"
-                },
-                {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/littlebigplanet-2_back.jpg",
-                  "author": "PS3 Hunter",
-                  "author-link": "https://www.instagram.com/ps3_hunter/"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ],
-  "pingbacks": [
-    {
-      "title": "Lista completa da coleção Favoritos do PlayStation 3",
-      "url": "/lista-jogos-ps3-serie-favoritos"
+      "release_date": "2011"
     }
   ]
 }

@@ -56,15 +56,6 @@
     {
       "platform": "windows",
       "release_date": "2015"
-    },
-    {
-      "platform": "ps4",
-      "release_date": "2015",
-      "edition": "Definitive Edition"
-    },
-    {
-      "platform": "xbox-one",
-      "release_date": "2015"
     }
   ],
   "pingbacks": [

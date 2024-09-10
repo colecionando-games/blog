@@ -15,66 +15,6 @@
     {
       "platform": "windows",
       "release_date": "2009"
-    },
-    {
-      "platform": "ps3",
-      "release_date": "2010",
-      "edition": "Gold Edition",
-      "regions": [
-        {
-          "region": "br",
-          "versions": [
-            {
-              "version": "Favoritos",
-              "description": "Versão com manual no verso do encarte.",
-              "photos": [
-                {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/resident-evil-5.jpg",
-                  "author": "PS3 Hunter",
-                  "author-link": "https://www.instagram.com/ps3_hunter/"
-                },
-                {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/resident-evil-5_back.jpg",
-                  "author": "PS3 Hunter",
-                  "author-link": "https://www.instagram.com/ps3_hunter/"
-                },
-                {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/resident-evil-5_inside.jpg",
-                  "author": "PS3 Hunter",
-                  "author-link": "https://www.instagram.com/ps3_hunter/"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "platform": "xbox-360",
-      "release_date": "2010"
-    },
-    {
-      "platform": "windows",
-      "release_date": "2015"
-    },
-    {
-      "platform": "ps4",
-      "release_date": "2016",
-      "edition": " "
-    },
-    {
-      "platform": "xbox-one",
-      "release_date": "2016"
-    },
-    {
-      "platform": "switch",
-      "release_date": "2019"
-    }
-  ],
-  "pingbacks": [
-    {
-      "title": "Lista completa da coleção Favoritos do PlayStation 3",
-      "url": "/lista-jogos-ps3-serie-favoritos"
     }
   ]
 }

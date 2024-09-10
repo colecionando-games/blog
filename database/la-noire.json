@@ -30,20 +30,7 @@
     {
       "platform": "windows",
       "release_date": "2011"
-    },
-    {
-      "platform": "switch",
-      "release_date": "2017"
-    },
-    {
-      "platform": "ps4",
-      "release_date": "2017"
-    },
-    {
-      "platform": "xbox-one",
-      "release_date": "2017"
     }
-
   ],
   "pingbacks": [
     {

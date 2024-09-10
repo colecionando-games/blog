@@ -94,12 +94,13 @@ exports.createPages = ({ graphql, actions, reporter }) => {
           original_developer
           original_publisher
           original_release_year
+          game_type
+          game_type_ref
           releases {
             platform
             developer
             publisher
             release_date
-            edition
             description
             regions {
               region
@@ -197,6 +198,8 @@ exports.createPages = ({ graphql, actions, reporter }) => {
         original_developer, 
         original_publisher, 
         original_release_year, 
+        game_type,
+        game_type_ref,
         releases, 
         pingbacks 
       } = game.node
@@ -209,6 +212,8 @@ exports.createPages = ({ graphql, actions, reporter }) => {
           original_developer,
           original_publisher,
           original_release_year,
+          game_type,
+          game_type_ref,
           releases,
           pingbacks
         }

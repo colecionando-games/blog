@@ -32,39 +32,8 @@
       "release_date": "2012"
     },
     {
-      "platform": "vita",
-      "release_date": "2012"
-    },
-    {
-      "platform": "nds",
-      "release_date": "2012",
-      "developer": "Other Ocean Interactive"
-    },
-    {
-      "platform": "3ds",
-      "release_date": "2012"
-    },
-    {
-      "platform": "wii",
-      "release_date": "2012"
-    },
-    {
-      "platform": "wii-u",
-      "release_date": "2012"
-    },
-    {
       "platform": "windows",
       "release_date": "2012"
-    },
-    {
-      "platform": "ios",
-      "release_date": "2012",
-      "developer": "Gameloft"
-    },
-    {
-      "platform": "android",
-      "release_date": "2012",
-      "developer": "Gameloft"
     }
   ],
   "pingbacks": [

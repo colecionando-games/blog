@@ -1,27 +1,15 @@
 {
-  "title": "Darksiders II",
-  "original_developer": "Vigil Games",
-  "original_publisher": "THQ",
-  "original_release_year": "2012",
+  "title": "Resident Evil 5: Gold Edition",
+  "original_developer": "Capcom",
+  "original_publisher": "Capcom",
+  "original_release_year": "2010",
+  "game_type": "Pacote do Resident Evil 5 com DLCs",
+  "game_type_ref": "/games/resident-evil-5",
   "releases": [
     {
       "platform": "ps3",
-      "release_date": "2012",
+      "release_date": "2010",
       "regions": [
-        {
-          "region": "latam",
-          "versions": [
-            {
-              "version": "Favoritos",
-              "photos": [
-                {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/darksiders-2.jpg",
-                  "author": "Mercado Libre (Argentina e Chile)"
-                }
-              ]
-            }
-          ]
-        },
         {
           "region": "br",
           "versions": [
@@ -30,17 +18,17 @@
               "description": "Versão com manual no verso do encarte.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/darksiders-2.jpg",
+                  "url": "../static/assets/img/games/ps3/favoritos/br/resident-evil-5.jpg",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/darksiders-2_back.jpg",
+                  "url": "../static/assets/img/games/ps3/favoritos/br/resident-evil-5_back.jpg",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/darksiders-2_inside.jpg",
+                  "url": "../static/assets/img/games/ps3/favoritos/br/resident-evil-5_inside.jpg",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 }
@@ -52,15 +40,11 @@
     },
     {
       "platform": "xbox-360",
-      "release_date": "2012"
+      "release_date": "2010"
     },
     {
       "platform": "windows",
-      "release_date": "2012"
-    },
-    {
-      "platform": "wii-u",
-      "release_date": "2012"
+      "release_date": "2015"
     }
   ],
   "pingbacks": [

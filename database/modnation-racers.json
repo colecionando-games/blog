@@ -7,7 +7,6 @@
     {
       "platform": "ps3",
       "release_date": "2010",
-      "developer": "United Front Games",
       "regions": [
         {
           "region": "latam",
@@ -47,7 +46,7 @@
     {
       "platform": "psp",
       "release_date": "2010",
-      "developer": "San Diego Studio"
+      "developer": "SCE San Diego Studio"
     }
   ],
   "pingbacks": [

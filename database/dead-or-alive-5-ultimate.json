@@ -1,21 +1,25 @@
 {
-  "title": "The King of Fighters XIII",
-  "original_developer": "SNK Playmore",
-  "original_publisher": "Atlus",
-  "original_release_year": "2012",
+  "title": "Dead or Alive 5 Ultimate",
+  "original_developer": "Team Ninja",
+  "original_publisher": "Tecmo Koei",
+  "original_release_year": "2013",
+  "game_type": "Versão expandida do Dead or Alive 5",
+  "game_type_ref": "/games/dead-or-alive-5",
   "releases": [
     {
       "platform": "ps3",
-      "release_date": "2012",
+      "release_date": "2013",
       "regions": [
         {
           "region": "latam",
           "versions": [
             {
               "version": "Favoritos",
+              "description": "Versão sem manual",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/the-king-of-fighters-xiii.jpg"
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/dead-or-alive-5-ultimate.jpg",
+                  "author": "Mercado Libre (Argentina e Peru)"
                 }
               ]
             }
@@ -28,7 +32,7 @@
               "version": "Favoritos",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/the-king-of-fighters-xiii.jpg"
+                  "url": "../static/assets/img/games/ps3/favoritos/br/dead-or-alive-5-ultimate.jpg"
                 }
               ]
             }
@@ -38,7 +42,7 @@
     },
     {
       "platform": "xbox-360",
-      "release_date": "2012"
+      "release_date": "2013"
     }
   ],
   "pingbacks": [

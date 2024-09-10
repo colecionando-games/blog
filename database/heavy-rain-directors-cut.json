@@ -1,24 +1,27 @@
 {
-  "title": "Bayonetta",
-  "original_developer": "PlatinumGames",
-  "original_publisher": "Sega",
-  "original_release_year": "2009",
+  "title": "Heavy Rain: Director's Cut",
+  "original_developer": "Quantic Dream",
+  "original_publisher": "Sony Computer Entertainment",
+  "original_release_year": "2011",
+  "game_type": "Pacote do Heavy Rain com conteúdos adicionais",
+  "game_type_ref": "/games/heavy-rain",
   "releases": [
     {
       "platform": "ps3",
-      "developer": "Nex Entertainment",
-      "publisher": "Sega",
-      "release_date": "2009",
+      "release_date": "2011",
       "regions": [
         {
           "region": "latam",
           "versions": [
             {
               "version": "Favoritos",
+              "description": "Versão com manual.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/bayonetta.jpg",
-                  "author": "Mercado Livre (Argentina e Peru)"
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/heavy-rain.jpg"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/heavy-rain_inside.jpg"
                 }
               ]
             }
@@ -29,20 +32,20 @@
           "versions": [
             {
               "version": "Favoritos",
-              "description": "Versão com manual no verso do encarte.",
+              "description": "Versão com manual.",
               "photos": [
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/bayonetta.jpg",
+                  "url": "../static/assets/img/games/ps3/favoritos/br/heavy-rain.jpg",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/bayonetta_back.jpg",
+                  "url": "../static/assets/img/games/ps3/favoritos/br/heavy-rain_back.jpg",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 },
                 {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/bayonetta_inside.jpg",
+                  "url": "../static/assets/img/games/ps3/favoritos/br/heavy-rain_inside.jpg",
                   "author": "PS3 Hunter",
                   "author-link": "https://www.instagram.com/ps3_hunter/"
                 }
@@ -51,18 +54,6 @@
           ]
         }
       ]
-    },
-    {
-      "platform": "xbox-360",
-      "developer": "PlatinumGames",
-      "publisher": "Sega",
-      "release_date": "2009"
-    },
-    {
-      "platform": "windows",
-      "developer": "PlatinumGames",
-      "publisher": "Sega",
-      "release_date": "2017"
     }
   ],
   "pingbacks": [

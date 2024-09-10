@@ -1,135 +1,28 @@
 {
   "title": "Street Fighter IV",
-  "original_developer": "Capcom",
+  "original_developer": "Dimps",
   "original_publisher": "Capcom",
   "original_release_year": "2008",
   "releases": [
     {
       "platform": "ps3",
-      "release_date": "2008"
+      "release_date": "2009"
     },
     {
       "platform": "xbox-360",
-      "release_date": "2008"
+      "release_date": "2009"
     },
     {
       "platform": "windows",
-      "release_date": "2008"
+      "release_date": "2009"
     },
     {
-      "platform": "ps3",
-      "release_date": "2010",
-      "edition": "Super Street Fighter IV"
-    },
-    {
-      "platform": "xbox-360",
+      "platform": "ios",
       "release_date": "2010"
     },
     {
-      "platform": "windows",
-      "release_date": "2010"
-    },
-    {
-      "platform": "ps3",
-      "release_date": "2011",
-      "edition": "Super Street Fighter IV: Arcade Edition",
-      "regions": [
-        {
-          "region": "latam",
-          "versions": [
-            {
-              "version": "Favoritos",
-              "description": "Versão com manual no verso do encarte.",
-              "photos": [
-                {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/super-street-fighter-iv.jpg"
-                },
-                {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/super-street-fighter-iv_inside.jpg"
-                }
-              ]
-            },
-            {
-              "version": "Favoritos",
-              "description": "Versão sem manual.",
-              "photos": [
-                {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/super-street-fighter-iv.jpg"
-                },
-                {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/super-street-fighter-iv_inside2.jpg"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "region": "br",
-          "versions": [
-            {
-              "version": "Favoritos",
-              "description": "Versão com manual no verso do encarte.",
-              "photos": [
-                {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/super-street-fighter-iv.jpg",
-                  "author": "PS3 Hunter",
-                  "author-link": "https://www.instagram.com/ps3_hunter/"
-                },
-                {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/super-street-fighter-iv_back.jpg",
-                  "author": "PS3 Hunter",
-                  "author-link": "https://www.instagram.com/ps3_hunter/"
-                },
-                {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/super-street-fighter-iv_inside.jpg",
-                  "author": "PS3 Hunter",
-                  "author-link": "https://www.instagram.com/ps3_hunter/"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "platform": "xbox-360",
-      "release_date": "2011"
-    },
-    {
-      "platform": "xbox-one",
-      "release_date": "2011"
-    },
-    {
-      "platform": "windows",
-      "release_date": "2011"
-    },
-    {
-      "platform": "3ds",
-      "release_date": "2011",
-      "edition": "Super Street Fighter IV: 3D Edition"
-    },
-    {
-      "platform": "ps3",
-      "release_date": "2014",
-      "edition": "Ultra Street Fighter IV"
-    },
-    {
-      "platform": "xbox-360",
-      "release_date": "2014"
-    },
-    {
-      "platform": "windows",
-      "release_date": "2014"
-    },
-    {
-      "platform": "ps4",
-      "release_date": "2014"
-    }
-  ],
-  "pingbacks": [
-    {
-      "title": "Lista completa da coleção Favoritos do PlayStation 3",
-      "url": "/lista-jogos-ps3-serie-favoritos"
+      "platform": "android",
+      "release_date": "2012"
     }
   ]
 }

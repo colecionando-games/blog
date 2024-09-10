@@ -7,63 +7,6 @@
     {
       "platform": "ps3",
       "release_date": "2010"
-    },
-    {
-      "platform": "ps3",
-      "edition": "XL Edition",
-      "release_date": "2012",
-      "regions": [
-        {
-          "region": "latam",
-          "versions": [
-            {
-              "version": "Favoritos",
-              "description": "Versão com manual e panfleto de Politica de Garantia.",
-              "photos": [
-                {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/gran-turismo-5-xl.jpg"
-                },
-                {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/gran-turismo-5-xl_inside.jpg"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "region": "br",
-          "versions": [
-            {
-              "version": "Favoritos",
-              "region": "br",
-              "description": "Versão com manual.",
-              "photos": [
-                {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/gran-turismo-5-xl.jpg",
-                  "author": "PS3 Hunter",
-                  "author-link": "https://www.instagram.com/ps3_hunter/"
-                },
-                {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/gran-turismo-5-xl_back.jpg",
-                  "author": "PS3 Hunter",
-                  "author-link": "https://www.instagram.com/ps3_hunter/"
-                },
-                {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/gran-turismo-5-xl_inside.jpg",
-                  "author": "PS3 Hunter",
-                  "author-link": "https://www.instagram.com/ps3_hunter/"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ],
-  "pingbacks": [
-    {
-      "title": "Lista completa da coleção Favoritos do PlayStation 3",
-      "url": "/lista-jogos-ps3-serie-favoritos"
     }
   ]
 }

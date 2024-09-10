@@ -6,50 +6,7 @@
   "releases": [
     {
       "platform": "ps3",
-      "release_date": "2012",
-      "regions": [
-        {
-          "region": "latam",
-          "versions": [
-            {
-              "edition": "Collector's Edition",
-              "version": "Favoritos",
-              "description": "Versão com manual.",
-              "photos": [
-                {
-                  "url": "../static/assets/img/games/ps3/favoritos/latam/journey.jpg"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "region": "br",
-          "versions": [
-            {
-              "edition": "Edição de Colecionador",
-              "version": "Favoritos",
-              "description": "Versão com manual.",
-              "photos": [
-                {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/journey.jpg",
-                  "author": "Mercado Livre"
-                },
-                {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/journey_back.jpg",
-                  "author": "PS3 Hunter",
-                  "author-link": "https://www.instagram.com/ps3_hunter/"
-                },
-                {
-                  "url": "../static/assets/img/games/ps3/favoritos/br/journey_inside.jpg",
-                  "author": "PS3 Hunter",
-                  "author-link": "https://www.instagram.com/ps3_hunter/"
-                }
-              ]
-            }
-          ]
-        }
-      ]
+      "release_date": "2012"
     },
     {
       "platform": "ps4",
@@ -64,21 +21,6 @@
       "platform": "ios",
       "release_date": "2019",
       "developer": "Annapurna Interactive"
-    },
-    {
-      "platform": "steam",
-      "release_date": "2020",
-      "developer": "Annapurna Interactive"
-    },
-    {
-      "platform": "ps5",
-      "release_date": "2020"
-    }
-  ],
-  "pingbacks": [
-    {
-      "title": "Lista completa da coleção Favoritos do PlayStation 3",
-      "url": "/lista-jogos-ps3-serie-favoritos"
     }
   ]
 }

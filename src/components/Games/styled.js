@@ -44,25 +44,23 @@ export const GameDeveloper = styled.span`
   box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.5);
 `
 
+export const GameType = styled.small`
+  background: rgb(112,112,112);
+  background: linear-gradient(188deg, rgba(112,112,112,1) 0%, rgba(204,204,204,1) 100%);
+  padding: 2px 10px 5px;
+  box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.5);
+  margin-left: 10px;
+
+  > a {
+    text-decoration: none;
+    color: black;
+  }
+`
+
 export const GameSectionTitle = styled.h2`
   font-size: 1.5rem;
   font-weight: 200;
   padding: 0 0 6px 0;
-  ${media.lessThan("large")`
-    font-size: 1.6rem;
-    line-height: 1.3;
-  `}
-`
-
-export const GameEditionTitle = styled.h2`
-  font-size: 2rem;
-  font-weight: 500;
-  padding: 2px 20px 10px;
-  margin-bottom: 20px;
-  text-transform: lowercase;
-  font-variant: small-caps;
-  background-color: rgba(66, 66, 66, 0.5);
-  color: white;
   ${media.lessThan("large")`
     font-size: 1.6rem;
     line-height: 1.3;

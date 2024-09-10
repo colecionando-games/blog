@@ -1,0 +1,42 @@
+{
+  "title": "BioShock",
+  "original_developer": "2K Australia",
+  "original_publisher": "2K Games",
+  "original_release_year": "2008",
+  "game_type": "Port do BioShock com conteúdo exclusivo",
+  "game_type_ref": "/games/bioshock",
+  "releases": [
+    {
+      "platform": "ps3",
+      "developer": "2K Australia",
+      "release_date": "2008",
+      "regions": [
+        {
+          "region": "latam",
+          "versions": [
+            {
+              "version": "Favoritos",
+              "description": "Versão com arte no verso do encarte e panfleto de garantia.",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/bioshock.jpg",
+                  "author": "Mercado Libre (Chile e Peru)"
+                },
+                {
+                  "url": "../static/assets/img/games/ps3/favoritos/latam/bioshock_inside.jpg",
+                  "author": "Mercado Libre (Chile e Peru)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa da coleção Favoritos do PlayStation 3",
+      "url": "/lista-jogos-ps3-serie-favoritos"
+    }
+  ]
+}
