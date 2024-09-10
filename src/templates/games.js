@@ -59,32 +59,32 @@ const Games = ({ pageContext }) => {
                 return (
                   <div style={{ marginBottom: '30px' }}>
                     <S.GameReleasePlatformLogo src={platformsData.find(p => p.id === platform).logo}/>
-                    <span>{fmtDate(release_date)}{developer !== null ? "," : ""} {developer}</span><br></br>
-                    <span>{publisher}</span>
-                    <p>{description}</p>
+                    <S.GameReleasePlatformInfo>
+                      <span>{fmtDate(release_date)}{!!developer && ", " + developer}</span>
+                      {!!publisher && <span>{publisher}</span>}
+                      {!!description && <p>{description}</p>}
+                    </S.GameReleasePlatformInfo>
                     {!regions ? <div style={{ fontStyle: 'italic', marginTop: '7px', color: 'gray' }}>Nenhum jogo cadastrado.</div> :
-                      regions.map(({ region, distributor, release_date, versions }) => {
+                      regions.map(({ region, release_date, versions }) => {
                         return (
                           <S.GameReleaseRegion>
                             <S.GameSectionTitle>
                               {regionsData.find(r => r.id === region).name}
                             </S.GameSectionTitle>
-                            {!!distributor && <S.GameReleasePlatformLogo src={distributorsData.find(d => d.id === distributor).logo} />}
                             <span>{fmtDate(release_date)}</span>
-                            {!versions ? <></> :
-                                versions.map(({ edition, version, description, photos }) => {
-                                  return (
-                                    <S.GameRelease>
-                                      <S.GameReleaseInfo>
-                                        <S.GameReleaseEdition>{edition}</S.GameReleaseEdition>
-                                        <S.GameReleaseVersion>{version}</S.GameReleaseVersion>
-                                        <S.GameReleaseDescription>{description}</S.GameReleaseDescription>
-                                      </S.GameReleaseInfo>
-                                      {!photos ? <></> : <Lightbox images={photos}></Lightbox>}
-                                    </S.GameRelease>
-                                  )
-                                })
-                            }
+                            {versions?.map(({ edition, distributor, version, description, photos }) => {
+                              return (
+                                <S.GameRelease>
+                                  {!!distributor && <S.GameReleaseRegionDistributorLogo src={distributorsData.find(d => d.id === distributor).logo} />}
+                                  <S.GameReleaseInfo>
+                                    <S.GameReleaseEdition>{edition}</S.GameReleaseEdition>
+                                    <S.GameReleaseVersion>{version}</S.GameReleaseVersion>
+                                    <S.GameReleaseDescription>{description}</S.GameReleaseDescription>
+                                  </S.GameReleaseInfo>
+                                  {!!photos && <Lightbox images={photos}></Lightbox>}
+                                </S.GameRelease>
+                              )
+                            })}
                           </S.GameReleaseRegion>
                         )
                       })
