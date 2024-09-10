@@ -36,6 +36,11 @@ export const GameTitle = styled.h1`
   `}
 `
 
+export const GameInfoSubtitle = styled.span`
+  display: flex;
+  flex-wrap: wrap;
+`
+
 export const GameDeveloper = styled.span`
   background: rgb(255,183,0);
   background: linear-gradient(180deg, rgba(255,183,0,1) 0%, rgba(255,221,0,1) 100%);
