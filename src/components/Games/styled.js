@@ -164,3 +164,11 @@ export const GamePingbackLink = styled(Link)`
   line-height: 1.2rem;
   margin: 4px 0 0;
 `
+
+export const GamePingbackExtLink = styled.a`
+  color: black;
+  font-weight: bold;
+  transition: color 0.5s;
+  line-height: 1.2rem;
+  margin: 4px 0 0;
+`

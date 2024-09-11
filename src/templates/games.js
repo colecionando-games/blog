@@ -1,5 +1,7 @@
 import React from "react"
 
+import { LinkExternal } from "@styled-icons/boxicons-regular/LinkExternal"
+
 import Layout from "../components/Layout"
 import Seo from "../components/seo"
 import Lightbox from "../components/Lightbox"
@@ -95,15 +97,19 @@ const Games = ({ pageContext }) => {
             }
             </S.GameReleases>
           </S.GameSection>
-          {!pingbacks ? <></> :
+          {!!pingbacks &&
             <S.GamePingbacks>
               <span>Mais sobre {title} em:</span>
-              {pingbacks.map(pingback => {
-                return (
-                  <S.GamePingbackLink to={pingback.url}>
-                    {pingback.title}
-                  </S.GamePingbackLink>
-                )
+              {pingbacks.map(({ title, url, external }) => {
+                if (!!external) {
+                  return (<S.GamePingbackExtLink href={url} target="_blank">
+                    {title} ({external})<LinkExternal size={16} style={{marginLeft:3, marginBottom:3}} />
+                  </S.GamePingbackExtLink>)
+                } else {
+                  return (<S.GamePingbackLink to={url}>
+                    {title}
+                  </S.GamePingbackLink>)
+                }
               })}
             </S.GamePingbacks>
           }

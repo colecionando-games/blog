@@ -125,6 +125,7 @@ exports.createPages = ({ graphql, actions, reporter }) => {
           pingbacks {
             title
             url
+            external
           }
         }
       }
