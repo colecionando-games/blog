@@ -176,6 +176,26 @@ const platformsData = [
     id: "ios",
     name: "iOS",
     logo: "/assets/img/logos/ios.png"
+  },
+  {
+    id: "dos",
+    name: "DOS",
+    logo: "/assets/img/logos/dos.png"
+  },
+  {
+    id: "msx",
+    name: "MSX",
+    logo: "/assets/img/logos/msx.png"
+  },
+  {
+    id: "atari-2600",
+    name: "Atari 2600",
+    logo: "/assets/img/logos/atari-2600.png"
+  },
+  {
+    id: "other",
+    name: "Outros",
+    logo: "/assets/img/logos/other.png"
   }
 ]
 
