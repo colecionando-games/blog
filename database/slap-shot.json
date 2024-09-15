@@ -1,0 +1,40 @@
+{
+  "title": "Slap Shot",
+  "original_developer": "Sanritsu",
+  "original_publisher": "Sega",
+  "original_release_year": "1990",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "release_date": "1993",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados pequenos",
+              "description": "Letra A ",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Slap Shot",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Slap_Shot",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

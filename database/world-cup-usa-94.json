@@ -1,0 +1,58 @@
+{
+  "title": "World Cup USA '94",
+  "original_developer": "Sega",
+  "original_publisher": "",
+  "original_release_year": "1994",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte azul e branco",
+              "description": "",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "gg"
+    },
+    {
+      "platform": "md"
+    },
+    {
+      "platform": "sega-cd"
+    },
+    {
+      "platform": "dos"
+    },
+    {
+      "platform": "gb"
+    },
+    {
+      "platform": "other",
+      "description": "Amiga"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "World Cup USA 94 (Master System)",
+      "url": "https://www.sega-brasil.com.br/Tectoy/World_Cup_USA_94_(Master_System)",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

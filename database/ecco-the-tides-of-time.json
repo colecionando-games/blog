@@ -1,0 +1,43 @@
+{
+  "title": "Ecco: The Tides of Time",
+  "original_developer": "Novotrade",
+  "original_publisher": "",
+  "original_release_year": "1994",
+  "game_type": "Port",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte azul",
+              "description": "",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "gg"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Ecco the Tides of Time",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Ecco_the_Tides_of_Time",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

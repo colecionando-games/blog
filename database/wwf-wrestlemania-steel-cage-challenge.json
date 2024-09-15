@@ -1,0 +1,45 @@
+{
+  "title": "WWF Wrestlemania: Steel Cage Challenge",
+  "original_developer": "Teeny Weeny Games",
+  "original_publisher": "",
+  "original_release_year": "1992",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte azul e branco",
+              "description": "Letra C",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "gg"
+    },
+    {
+      "platform": "nes"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "WWF Wrestlemania Steel Cage Challenge",
+      "url": "https://www.sega-brasil.com.br/Tectoy/WWF_Wrestlemania_Steel_Cage_Challenge",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

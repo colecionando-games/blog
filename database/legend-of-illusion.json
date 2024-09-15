@@ -1,0 +1,43 @@
+{
+  "title": "Legend of Illusion starring Mickey Mouse",
+  "original_developer": "Aspect",
+  "original_publisher": "Sega",
+  "original_release_year": "1995",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "release_date": "1998",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte azul",
+              "description": "",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "gg"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Legend of Illusion Starring Mickey Mouse",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Legend_of_Illusion_Starring_Mickey_Mouse",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

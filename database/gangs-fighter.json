@@ -1,0 +1,64 @@
+{
+  "title": "Gang's Fighter",
+  "alt_titles": ["My Hero", "Seishun Scandal"],
+  "original_developer": "Coreland",
+  "original_publisher": "",
+  "original_release_year": "1985",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados grandes",
+              "description": "",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados grandes",
+              "description": "Código de barras, modelo",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados grandes",
+              "description": "Código de barras, modelo, selo do Inmetro",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "other",
+      "description": "Arcade"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Gang's Fighter",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Gang%27s_Fighter",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

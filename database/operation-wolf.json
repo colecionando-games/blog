@@ -1,0 +1,47 @@
+{
+  "title": "Operation Wolf",
+  "original_developer": "",
+  "original_publisher": "",
+  "original_release_year": "1989",
+  "game_type": "Port",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "release_date": "1991",
+          "versions": [
+            {
+              "case_format": "Caixa de papelão",
+              "description": "Letra A",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "nes"
+    },
+    {
+      "platform": "wii"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Operation Wolf",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Operation_Wolf",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

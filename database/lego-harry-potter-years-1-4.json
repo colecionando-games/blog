@@ -1,0 +1,33 @@
+{
+  "title": "LEGO Harry Potter: Years 1-4",
+  "original_developer": "Warner Bros",
+  "original_publisher": "",
+  "original_release_year": "2011",
+  "releases": [
+    {
+      "platform": "ps3",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "version": "",
+              "description": "",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "",
+      "url": "/"
+    }
+  ]
+}

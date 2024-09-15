@@ -1,0 +1,72 @@
+{
+  "title": "Choplifter",
+  "original_developer": "Sega",
+  "original_publisher": "",
+  "original_release_year": "1991",
+  "game_type": "Port",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa de papelão (3V)",
+              "description": "Letra B",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa de papelão (1V)",
+              "description": "Sem letra, logo Sega",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa de papelão (1V)",
+              "description": "Sem letra, frase 'Produzido sob Licença de SEGA Enterprises'",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "nes"
+    },
+    {
+      "platform": "other",
+      "description": " Apple II, Arcade, Atari 5200, Atari 7800, Atari 8-bit, ColecoVision, Commodore C64/128/MAX, Commodore VIC-20, Family Computer, FM-7, MSX, NEC PC-6000 Series, PC-8800 Series, SG-1000, Sharp X1, Thomson MO5"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Choplifter",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Choplifter",
+      "external": "TecToy Wiki"
+    },
+    {
+      "title": "Choplifter",
+      "url": "https://www.igdb.com/games/choplifter",
+      "external": "IGDB"
+    }
+  ]
+}

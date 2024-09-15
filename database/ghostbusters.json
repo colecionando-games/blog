@@ -1,0 +1,52 @@
+{
+  "title": "Ghostbusters",
+  "original_developer": "Activision",
+  "original_publisher": "",
+  "original_release_year": "1984",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa de papelão (1V)",
+              "description": "",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "dos"
+    },
+    {
+      "platform": "msx"
+    },
+    {
+      "platform": "atari-2600"
+    },
+    {
+      "platform": "other",
+      "description": "Amstrad CPC, Apple II, Atari 8-bit, Commodore C64/128/MAX, ZX Spectrum"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Ghostbusters",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Ghostbusters",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

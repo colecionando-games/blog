@@ -1,0 +1,59 @@
+{
+  "title": "Alex Kidd: The Lost Stars",
+  "original_developer": "Sega",
+  "original_publisher": "",
+  "original_release_year": "1986",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "release_date": "1991",
+          "versions": [
+            {
+              "case_format": "Caixa de papelão (1V)",
+              "description": "Sem letra",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa de papelão (1V)",
+              "description": "Letra A",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "wii",
+      "description": "Virtual Console",
+      "regions": []
+    },
+    {
+      "platform": "other",
+      "description": "Arcade"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Alex Kidd: The Lost Stars",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Alex_Kidd_The_Lost_Stars",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

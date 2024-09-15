@@ -1,0 +1,48 @@
+{
+  "title": "Batman Returns",
+  "original_developer": "Aspect",
+  "original_publisher": "Sega",
+  "original_release_year": "1992",
+  "game_type": "Port",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados pequenos",
+              "description": "Letra D",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "gg"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Batman Returns (Master System)",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Batman_Returns_(Master_System)",
+      "external": "TecToy Wiki"
+    },
+    {
+      "title": "",
+      "url": "https://www.igdb.com/games/batman-returns--6",
+      "external": "IGDB"
+    }
+  ]
+}

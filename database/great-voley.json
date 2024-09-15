@@ -1,0 +1,60 @@
+{
+  "title": "Great Voley",
+  "alt_titles": ["Great Volleyball"],
+  "original_developer": "Sega",
+  "original_publisher": "",
+  "original_release_year": "1987",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa de papelão",
+              "description": "Sem letra, logo Sega",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados grandes",
+              "description": "Letra B",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados grandes",
+              "description": "Letra B, código de barras, modelo",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Great Voley",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Great_Voley",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

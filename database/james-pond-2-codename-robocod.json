@@ -1,0 +1,52 @@
+{
+  "title": "James Pond 2: Codename - Robocod",
+  "original_developer": "Vectordean",
+  "original_publisher": "",
+  "original_release_year": "1991",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte azul",
+              "description": "",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "md"
+    },
+    {
+      "platform": "dos"
+    },
+    {
+      "platform": "other",
+      "description": "Amiga, Amiga CD32"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "James Pond 2 Codename RoboCod",
+      "url": "https://www.sega-brasil.com.br/Tectoy/James_Pond_2_Codename_RoboCod",
+      "external": "TecToy Wiki"
+    },
+    {
+      "url": "https://www.igdb.com/games/james-pond-2-codename-robocod"
+    }
+  ]
+}

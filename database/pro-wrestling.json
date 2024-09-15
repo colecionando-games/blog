@@ -1,0 +1,39 @@
+{
+  "title": "Pro Wrestling",
+  "original_developer": "Sega",
+  "original_publisher": "",
+  "original_release_year": "1986",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa de papelão",
+              "description": "",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Pro-Wrestling",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Pro-Wrestling",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

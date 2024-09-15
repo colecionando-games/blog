@@ -1,0 +1,40 @@
+{
+  "title": "Danan",
+  "alt_titles": ["Danan: The Jungle Fighter"],
+  "original_developer": "Sega",
+  "original_publisher": "",
+  "original_release_year": "1990",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados grandes",
+              "description": "Letra A",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Danan",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Danan",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Time Soldiers",
+  "original_developer": "Alpha Denshi",
+  "original_publisher": "",
+  "original_release_year": "1987",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "release_date": "1991",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados grandes",
+              "description": "Letra A",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "other",
+      "description": "Amiga, Arcade, Atari ST/STE, Commodore C64/128/MAX"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Time Soldiers",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Time_Soldiers",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

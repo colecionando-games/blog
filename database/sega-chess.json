@@ -1,0 +1,49 @@
+{
+  "title": "Sega Chess",
+  "original_developer": "Probe Software",
+  "original_publisher": "Sega",
+  "original_release_year": "1991",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados grandes",
+              "description": "Letra A",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados grandes",
+              "description": "Letra A; Código de barras; Modelo",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "SEGA Chess",
+      "url": "https://www.sega-brasil.com.br/Tectoy/SEGA_Chess",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

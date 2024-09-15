@@ -1,0 +1,70 @@
+{
+  "title": "Shinobi",
+  "original_developer": "Sega AM1",
+  "original_publisher": "",
+  "original_release_year": "1988",
+  "game_type": "Port",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa de papelão (3V)",
+              "description": "Letra C; Frase 'Produzido sob Licença de SEGA Enterprises' à esquerda",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa de papelão (3V)",
+              "description": "Letra C; Frase 'Produzido sob Licença de SEGA Enterprises' centralizado",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados grandes",
+              "description": "Letra C",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa plástica com encarte azul e branco",
+              "description": "Letra C",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Shinobi (Master System)",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Shinobi_(Master_System)",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

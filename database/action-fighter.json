@@ -1,0 +1,61 @@
+{
+  "title": "Action Fighter",
+  "original_developer": "Sega",
+  "original_publisher": "",
+  "original_release_year": "1986",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados grandes",
+              "description": "Letra B",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados grandes",
+              "description": "Letra B, código de barras e Modelo nº 023010",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "dos"
+    },
+    {
+      "platform": "other",
+      "description": "Amiga, Amstrad PC, Arcade, Atari ST/STE, Commodore C64/128/MAX, ZX Spectrum"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Action Fighter",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Action_Fighter",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

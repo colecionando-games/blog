@@ -1,0 +1,61 @@
+{
+  "title": "Master of Darkness",
+  "alt_titles": ["Vampire: Master of Darkness"],
+  "original_developer": "SIMS Co., Ltd",
+  "original_publisher": "",
+  "original_release_year": "1992",
+  "game_type": "Port",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "release_date": "1993",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados pequenos",
+              "description": "Letra B; Código de barras",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados pequenos",
+              "description": "Letra B; Código de barras; Modelo",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "gg"
+    },
+    {
+      "platform": "3ds"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Master of Darkness",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Master_of_Darkness",
+      "external": "TecToy Wiki"
+    },
+    {
+      "url": "https://www.igdb.com/games/vampire-master-of-darkness"
+    }
+  ]
+}

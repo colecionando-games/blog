@@ -1,0 +1,52 @@
+{
+  "title": "Where in the World is Carmen Sandiego?",
+  "original_developer": "Brøderbund Software",
+  "original_publisher": "",
+  "original_release_year": "1985",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte azul e branco",
+              "description": "Letra B",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "md"
+    },
+    {
+      "platform": "snes"
+    },
+    {
+      "platform": "dos"
+    },
+    {
+      "platform": "other",
+      "description": "Amiga, Amstrad CPC, Apple II, Apple IIGS, Atari ST/STE, Commodore C64/128/MAX, Mac, TRS-80 Color Computer, Turbografx-16"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Where in the world is Carmen Sandiego? (Master System)",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Where_in_the_world_is_Carmen_Sandiego%3F_(Master_System)",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

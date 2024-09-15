@@ -1,0 +1,42 @@
+{
+  "title": "Férias Frustradas do Pica-Pau",
+  "original_developer": "Tec Toy",
+  "original_publisher": "",
+  "original_release_year": "1995",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte azul",
+              "description": "",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "md"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Férias Frustradas do Pica-Pau",
+      "url": "https://www.sega-brasil.com.br/Tectoy/F%C3%A9rias_Frustradas_do_Pica_Pau",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Mônica no Castelo do Dragão",
+  "original_developer": "Tec Toy",
+  "original_publisher": "",
+  "original_release_year": "1991",
+  "game_type": "Port de Wonder Boy: Monster Land",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados grandes",
+              "description": "Letra C",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Mônica no Castelo do Dragão",
+      "url": "https://www.sega-brasil.com.br/Tectoy/M%C3%B4nica_no_Castelo_do_Drag%C3%A3o",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

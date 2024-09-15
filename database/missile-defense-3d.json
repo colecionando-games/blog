@@ -1,0 +1,59 @@
+{
+  "title": "Missile Defense 3D",
+  "original_developer": "Sega",
+  "original_publisher": "",
+  "original_release_year": "1987",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa de papelão",
+              "description": "Letra B; Frase 'Produzido sob licença de SEGA Enterprises'",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa de papelão",
+              "description": "Letra B; Logo Sega",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados grandes",
+              "description": "Letra B",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Missile Defense 3D",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Missile_Defense_3D",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

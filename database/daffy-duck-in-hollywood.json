@@ -1,0 +1,45 @@
+{
+  "title": "Daffy Duck in Hollywood",
+  "original_developer": "Probe Entertainment",
+  "original_publisher": "Sega",
+  "original_release_year": "1993",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte azul e branco",
+              "description": "Código de barras, modelo",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "gg"
+    },
+    {
+      "platform": "md"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Daffy Duck In Hollywood (Master System)",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Daffy_Duck_In_Hollywood_(Master_System)",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

@@ -107,6 +107,11 @@ export const GameReleaseVersion = styled.h2`
   `}
 `
 
+export const GameReleaseCaseFormat = styled.span`
+  font-size: 1.3rem;
+  color: #424242;
+`
+
 export const GameReleaseDescription = styled.p`
   margin-top: 5px;
   color: gray;

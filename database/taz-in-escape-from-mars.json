@@ -1,0 +1,55 @@
+{
+  "title": "Taz in Escape from Mars",
+  "original_developer": "HeadGames",
+  "original_publisher": "",
+  "original_release_year": "1994",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte azul",
+              "description": "",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa plástica com encarte azul",
+              "description": "Logo Zona Franca de Manaus (fundo branco)",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "gg"
+    },
+    {
+      "platform": "md"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Taz in Escape from Mars (Master System)",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Taz_in_Escape_From_Mars_(Master_System)",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Sonic the Hedgehog: Chaos",
+  "original_developer": "Aspect",
+  "original_publisher": "Sega",
+  "original_release_year": "1993",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte azul e branco",
+              "description": "",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa plástica com encarte azul e branco",
+              "description": "Selo Inmetro (atrás)",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa plástica com encarte azul e branco",
+              "description": "Selo Inmetro (na frente)",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "gg"
+    },
+    {
+      "platform": "wii",
+      "description": "Virtual Console",
+      "regions": []
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Sonic The Hedgehog Chaos (Master System)",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Sonic_The_Hedgehog_Chaos_(Master_System)",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

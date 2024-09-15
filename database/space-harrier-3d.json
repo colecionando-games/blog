@@ -1,0 +1,60 @@
+{
+  "title": "Space Harrier 3D",
+  "original_developer": "Sega",
+  "original_publisher": "",
+  "original_release_year": "1988",
+  "game_type": "Versão expandida do Space Harrier",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa de papelão",
+              "description": "Letra A",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa de papelão",
+              "description": "Sem letra; Logo Sega",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa de papelão",
+              "description": "Sem letra; Frase 'Produzido sob Licença de SEGA Enterprises'",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Space Harrier 3D",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Space_Harrier_3D",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Super Futebol",
+  "alt_titles": ["World Soccer"],
+  "original_developer": "Sega",
+  "original_publisher": "",
+  "original_release_year": "1985",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "release_date": "1991",
+          "versions": [
+            {
+              "case_format": "Caixa de papelão",
+              "description": "Logo Sega",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa de papelão",
+              "description": "Letra B; Frase 'Produzido sob Licença de SEGA Enterprises'",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados grandes",
+              "description": "",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Super Futebol",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Super_Futebol",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

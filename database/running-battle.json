@@ -1,0 +1,40 @@
+{
+  "title": "Running Battle",
+  "original_developer": "Opera House",
+  "original_publisher": "",
+  "original_release_year": "1991",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "release_date": "1992",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados grandes",
+              "description": "",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Running Battle",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Running_Battle",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

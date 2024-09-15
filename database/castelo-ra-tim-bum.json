@@ -1,0 +1,39 @@
+{
+  "title": "Castelo Rá-Tim-Bum",
+  "original_developer": "Tec Toy",
+  "original_publisher": "",
+  "original_release_year": "1997",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte azul",
+              "description": "",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Castelo Rá-Tim-Bum",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Castelo_R%C3%A1_Tim_Bum",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "The Simpsons: Bart vs The World",
+  "original_developer": "Imagineering, Inc.",
+  "original_publisher": "",
+  "original_release_year": "1991",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "release_date": "1993",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte azul e branco",
+              "description": "Letra D",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "gg"
+    },
+    {
+      "platform": "nes"
+    },
+    {
+      "platform": "md"
+    },
+    {
+      "platform": "other",
+      "description": "Amiga, Atari ST/STE"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Simpsons Bart vs. The World, The",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Simpsons_Bart_vs._The_World,_The",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

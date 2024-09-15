@@ -1,0 +1,43 @@
+{
+  "title": "Cloud Master",
+  "original_developer": "Taito",
+  "original_publisher": "",
+  "original_release_year": "1988",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa de papelão",
+              "description": "Sem letra",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "other",
+      "description": "Arcade, Family Computer, MSX, Sharp X68000"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Cloud Master",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Cloud_Master",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

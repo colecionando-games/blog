@@ -1,0 +1,52 @@
+{
+  "title": "Disney's Bonkers: Wax Up!",
+  "original_developer": "Al Baker & Associates",
+  "original_publisher": "Sega",
+  "original_release_year": "1994",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte azul",
+              "description": "",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa plástica com encarte azul",
+              "description": "Adesivo novo endereço e símbolo Zona Franca de Manaus diferente",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "gg"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Bonkers Wax Up!",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Bonkers_Wax_Up!",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

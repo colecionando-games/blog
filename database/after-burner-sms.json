@@ -12,8 +12,8 @@
           "region": "br",
           "versions": [
             {
-              "version": "Caixa de papelão",
-              "description": "Versão com logo da SEGA",
+              "case_format": "Caixa de papelão (1V)",
+              "description": "Sem letra, logo da Sega",
               "distributor": "tectoy",
               "photos": [
                 {
@@ -22,8 +22,8 @@
               ]
             },
             {
-              "version": "Caixa de papelão",
-              "description": "Versão com frase 'Produzido sob licença de SEGA Enterprises",
+              "case_format": "Caixa de papelão (3V)",
+              "description": "Sem letra, frase 'Produzido sob licença de SEGA Enterprises'",
               "distributor": "tectoy",
               "photos": [
                 {
@@ -32,7 +32,7 @@
               ]
             },
             {
-              "version": "Caixa plástica com encarte branco com quadrados grandes",
+              "case_format": "Caixa plástica com encarte branco com quadrados grandes",
               "description": "",
               "distributor": "tectoy",
               "photos": [

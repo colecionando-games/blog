@@ -1,0 +1,63 @@
+{
+  "title": "Strider",
+  "original_developer": "Capcom",
+  "original_publisher": "",
+  "original_release_year": "1989",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "release_date": "1991",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados grandes",
+              "description": "",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "md"
+    },
+    {
+      "platform": "ps1"
+    },
+    {
+      "platform": "dos"
+    },
+    {
+      "platform": "wii",
+      "description": "Virtual Console",
+      "regions": []
+    },
+    {
+      "platform": "wii-u",
+      "description": "Virtual Console",
+      "regions": []
+    },
+    {
+      "platform": "other",
+      "description": "Amiga, Amstrad CPC, Arcade, Atari ST/STE, Commodore C64/128/MAX, Sharp X68000, ZX Spectrum"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Strider",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Strider",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

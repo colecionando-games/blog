@@ -1,0 +1,42 @@
+{
+  "title": "Quest for the Shaven Yak starring Ren Hoëk & Stimpy",
+  "original_developer": "Realtime Associates",
+  "original_publisher": "",
+  "original_release_year": "1993",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte azul e branco",
+              "description": "",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "gg"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Quest for the Shaven Yak Starring Ren & Stimpy",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Quest_for_the_Shaven_Yak_Starring_Ren_%26_Stimpy",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

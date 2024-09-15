@@ -1,0 +1,50 @@
+{
+  "title": "Double Dragon",
+  "original_developer": "Technos Japan",
+  "original_publisher": "",
+  "original_release_year": "1988",
+  "game_type": "Port",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa de papelão (3V)",
+              "description": "Letra C",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa de papelão",
+              "description": "Sem letra",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Double Dragon",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Double_Dragon",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

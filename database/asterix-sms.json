@@ -1,0 +1,40 @@
+{
+  "title": "Asterix",
+  "original_developer": "Bit Managers",
+  "original_publisher": "",
+  "original_release_year": "1993",
+  "game_type": "Port",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados grandes",
+              "description": "",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Asterix",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Asterix",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

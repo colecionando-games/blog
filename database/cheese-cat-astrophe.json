@@ -1,0 +1,66 @@
+{
+  "title": "Cheese Cat-Astrophe estrelando Speedy Gonzales",
+  "original_developer": "Cryo Interactive",
+  "original_publisher": "",
+  "original_release_year": "1995",
+  "game_type": "Port",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte azul",
+              "description": "Logo Inmetro na capa",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa plástica com encarte azul",
+              "description": "Logo Inmetro na lateral",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa plástica com encarte azul",
+              "description": "",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "gg"
+    },
+    {
+      "platform": "md"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Cheese Cat-Astrophe Estrelando Speedy Gonzales",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Astro_Warrior",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

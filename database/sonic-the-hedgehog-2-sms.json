@@ -1,0 +1,83 @@
+{
+  "title": "Sonic the Hedgehog 2",
+  "original_developer": "Aspect",
+  "original_publisher": "Sega",
+  "original_release_year": "1992",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados grandes",
+              "description": "",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados grandes",
+              "description": "Código de barras",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados grandes",
+              "description": "Código de barras; Modelo",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados grandes",
+              "description": "Sem frase 'GRÁTIS! Um Super Adesivo'; Cartucho label azul",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "gg"
+    },
+    {
+      "platform": "3ds",
+      "description": "Virtual Console",
+      "regions": []
+    },
+    {
+      "platform": "wii",
+      "description": "Virtual Console",
+      "regions": []
+    }
+
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Sonic The Hedgehog 2 (Master System)",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Sonic_The_Hedgehog_2_(Master_System)",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

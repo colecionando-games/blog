@@ -1,0 +1,58 @@
+{
+  "title": "Populous",
+  "original_developer": "Bullfrog Productions",
+  "original_publisher": "",
+  "original_release_year": "1989",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte azul e branco",
+              "description": "Letra B; Código de barras; Modelo",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "dos"
+    },
+    {
+      "platform": "gb"
+    },
+    {
+      "platform": "windows"
+    },
+    {
+      "platform": "md"
+    },
+    {
+      "platform": "snes"
+    },
+    {
+      "platform": "other",
+      "description": "Acorn Archimedes, Amiga, Atari ST/STE, PC-9800 Series, Sharp X68000, TurboGrafx-16"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Populous (Master System)",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Populous_(Master_System)",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

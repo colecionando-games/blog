@@ -1,0 +1,41 @@
+{
+  "title": "Mortal Kombat 3",
+  "original_developer": "Software Creations",
+  "original_publisher": "Tec Toy",
+  "original_release_year": "1995",
+  "game_type": "Port",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "release_date": "1996",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte azul",
+              "description": "Sem letra; Código de barras; Modelo; Selo Inmetro",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Mortal Kombat 3 (Master System)",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Mortal_Kombat_3_(Master_System)",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

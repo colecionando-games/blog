@@ -1,0 +1,65 @@
+{
+  "title": "Impossible Mission",
+  "original_developer": "Epyx",
+  "original_publisher": "",
+  "original_release_year": "1984",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "release_date": "1993",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados grandes",
+              "description": "Letra B",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados grandes",
+              "description": "Letra B, código de barras, modelo",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "psp"
+    },
+    {
+      "platform": "wii",
+      "description": "Virtual Console",
+      "regions": []
+    },
+    {
+      "platform": "other",
+      "description": "Acorn Electron, Amstrad CPC, Apple II, Atari 7800, BBC, Commodore C64/128/MAX, PC-8800 Series, Sharp X1, ZX Spectrum"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Impossible Mission",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Impossible_Mission",
+      "external": "TecToy Wiki"
+    },
+    {
+      "url": "https://www.igdb.com/games/impossible-mission"
+    }
+  ]
+}

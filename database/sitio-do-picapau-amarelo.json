@@ -1,0 +1,39 @@
+{
+  "title": "Sítio do Picapau Amarelo",
+  "original_developer": "Tec Toy",
+  "original_publisher": "",
+  "original_release_year": "1997",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte azul",
+              "description": "",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Sítio do Picapau Amarelo",
+      "url": "https://www.sega-brasil.com.br/Tectoy/S%C3%ADtio_do_Pica_Pau_Amarelo",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

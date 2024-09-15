@@ -1,0 +1,50 @@
+{
+  "title": "OutRun",
+  "original_developer": "",
+  "original_publisher": "Sega",
+  "original_release_year": "1987",
+  "game_type": "Port",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa de papelão (1V)",
+              "description": "",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa plástica com encarte azul",
+              "description": "Sem letra; Código de barras; Modelo; Selo Inmetro",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Out Run",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Out_Run_(Master_System)",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

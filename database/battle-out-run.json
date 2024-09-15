@@ -1,0 +1,40 @@
+{
+  "title": "Battle OutRun",
+  "original_developer": "Sega",
+  "original_publisher": "",
+  "original_release_year": "1989",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "release_date": "1991",
+          "versions": [
+            {
+              "case_format": "Caixa de papelão (3V)",
+              "description": "Letra B",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Battle OutRun",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Battle_Out_Run",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "title": "Vigilante",
+  "original_developer": "Irem Corporation",
+  "original_publisher": "",
+  "original_release_year": "1988",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa de papelão",
+              "description": "Sem letra",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa de papelão",
+              "description": "Letra C",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados grandes",
+              "description": "Letra C",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "msx"
+    },
+    {
+      "platform": "wii",
+      "description": "Virtual Console",
+      "regions": []
+    },
+    {
+      "platform": "wii-u",
+      "description": "Virtual Console",
+      "regions": []
+    },
+    {
+      "platform": "other",
+      "description": "Amiga, Amstrad CPC, Arcade, Atari ST/STE, Commodore C64/128/MAX, TurboGrafx-16, ZX Spectrum"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Vigilante",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Vigilante",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

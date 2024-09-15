@@ -107,6 +107,7 @@ exports.createPages = ({ graphql, actions, reporter }) => {
               release_date
               versions {
                 version
+                case_format
                 edition
                 description
                 distributor

@@ -1,0 +1,54 @@
+{
+  "title": "Sonic the Hedgehog",
+  "original_developer": "Ancient",
+  "original_publisher": "Sega",
+  "original_release_year": "1991",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados grandes",
+              "description": "Letra C",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados grandes",
+              "description": "Letra C; Sem '2 MEGA' na frente",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "wii",
+      "description": "Virtual Console",
+      "regions": []
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Sonic The Hedgehog (Master System)",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Sonic_The_Hedgehog_(Master_System)",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

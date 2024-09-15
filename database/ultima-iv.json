@@ -1,0 +1,53 @@
+{
+  "title": "Última IV",
+  "alt_titles": ["Ultima IV: Quest of the Avatar"],
+  "original_developer": "Origin Systems",
+  "original_publisher": "",
+  "original_release_year": "1985",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados grandes",
+              "description": "Letra E",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "dos"
+    },
+    {
+      "platform": "windows"
+    },
+    {
+      "platform": "msx"
+    },
+    {
+      "platform": "other",
+      "description": "Amiga, Apple II, Atari 8-bit, Atari ST/STE, Commodore C64/128/MAX, FM Towns, FM-7, iOS, Mac, PC-8800 Series, PC-9800 Series, Sharp X1, Sharp X68000"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Última IV",
+      "url": "https://www.sega-brasil.com.br/Tectoy/%C3%9Altima_IV",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

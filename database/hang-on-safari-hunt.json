@@ -1,0 +1,40 @@
+{
+  "title": "Hang On / Safari Hunt",
+  "original_developer": "Tec Toy",
+  "original_publisher": "",
+  "original_release_year": "1991",
+  "game_type": "Coletânea",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Somente cartucho",
+              "description": "",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Hang On & Safari Hunt",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Hang_On_%26_Safari_Hunt",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

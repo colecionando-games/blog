@@ -1,0 +1,41 @@
+{
+  "title": "Sapo Xulé: S.O.S. Lagoa Poluída",
+  "original_developer": "Tec Toy",
+  "original_publisher": "",
+  "original_release_year": "1996",
+  "game_type": "Port de Astro Warrior",
+  "game_type_ref": "/games/astro-warrior",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte azul",
+              "description": "Letra B",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Sapo Xulé SOS Lagoa Poluída",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Sapo_Xul%C3%A9_SOS_Lagoa_Polu%C3%ADda",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

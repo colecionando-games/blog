@@ -1,0 +1,54 @@
+{
+  "title": "The Lucky Dime Caper estrelando Pato Donald",
+  "alt_titles": ["The Lucky Dime Caper starring Donald Duck"],
+  "original_developer": "Sega",
+  "original_publisher": "",
+  "original_release_year": "1991",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "release_date": "1992",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados grandes",
+              "description": "Letra C",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados grandes",
+              "description": "Letra C; Código de barras; Modelo",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "gg"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Lucky Dime Caper Estrelando Pato Donald, The (Master System)",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Lucky_Dime_Caper_Estrelando_Pato_Donald,_The_(Master_System)",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

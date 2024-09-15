@@ -1,0 +1,40 @@
+{
+  "title": "Turma da Mônica em: O Resgate",
+  "original_developer": "Tec Toy / Westone",
+  "original_publisher": "",
+  "original_release_year": "1993",
+  "game_type": "Port de Wonder Boy III: The Dragon's Trap",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte azul e branco",
+              "description": "Letra C",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Turma da Mônica em O Resgate",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Turma_da_M%C3%B4nica_em_O_Resgate",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

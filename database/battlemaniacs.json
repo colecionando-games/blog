@@ -1,0 +1,40 @@
+{
+  "title": "Battlemaniacs",
+  "original_developer": "Syrox",
+  "original_publisher": "Tec Toy",
+  "original_release_year": "1996",
+  "game_type": "Port de Battletoads in Battlemaniacs",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte azul",
+              "description": "Letra D",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Battlemaniacs",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Battlemaniacs",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

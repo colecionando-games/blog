@@ -1,0 +1,66 @@
+{
+  "title": "Heroes of the Lance",
+  "alt_titles": ["Advanced Dungeons & Dragons: Heroes of the Lance"],
+  "original_developer": "U.S. Gold",
+  "original_publisher": "",
+  "original_release_year": "1988",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados grandes",
+              "description": "Código de barras",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados grandes",
+              "description": "Código de barras, modelo",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "dos"
+    },
+    {
+      "platform": "nes"
+    },
+    {
+      "platform": "msx"
+    },
+    {
+      "platform": "other",
+      "description": "Amiga, Amstrad CPC, Atari ST/STE, Commodore C64/128/MAX, FM Towns, ZX Spectrum" 
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Heroes of the Lance",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Heroes_of_the_Lance",
+      "external": "TecToy Wiki"
+    },
+    {
+      "url": "https://www.igdb.com/games/advanced-dungeons-and-dragons-heroes-of-the-lance"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Super Monaco GP",
+  "original_developer": "Sega",
+  "original_publisher": "",
+  "original_release_year": "1989",
+  "game_type": "Port",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa de papelão",
+              "description": "Letra B",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa plástica com encarte azul",
+              "description": "",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "gg"
+    },
+    {
+      "platform": "md"
+    },
+    {
+      "platform": "other",
+      "description": "Amiga, Amstrad CPC, Arcade, Atari ST/STE, Commodore C64/128/MAX, ZX Spectrum"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Super Monaco GP (Master System)",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Super_Monaco_GP_(Master_System)",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

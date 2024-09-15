@@ -1,0 +1,45 @@
+{
+  "title": "The Jungle Book",
+  "alt_titles": ["Walt Disney's The Jungle Book"],
+  "original_developer": "Syrox Developments",
+  "original_publisher": "",
+  "original_release_year": "1994",
+  "game_type": "Port",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "release_date": "1996",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte azul e branco",
+              "description": "Letra D",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "gg"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Jungle Book, The",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Jungle_Book,_The",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

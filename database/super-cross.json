@@ -1,0 +1,45 @@
+{
+  "title": "Super Cross",
+  "alt_titles": ["Enduro Racer"],
+  "original_developer": "Sega",
+  "original_publisher": "",
+  "original_release_year": "1987",
+  "game_type": "Port de Enduro Racer",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa de papelão",
+              "description": "",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "wii",
+      "description": "Virtual Console"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Super Cross",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Super_Cross",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

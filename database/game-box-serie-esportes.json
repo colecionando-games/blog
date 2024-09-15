@@ -1,0 +1,40 @@
+{
+  "title": "Game Box série Esportes",
+  "original_developer": "Tec Toy",
+  "original_publisher": "",
+  "original_release_year": "1994",
+  "game_type": "Coletânea com os jogos Great Voley, Super Futebol II e Winbledon",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte azul e branco",
+              "description": "",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Game Box Série Esportes",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Game_Box_S%C3%A9rie_Esportes",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

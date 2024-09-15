@@ -1,0 +1,43 @@
+{
+  "title": "Streets of Rage",
+  "original_developer": "Japan System House",
+  "original_publisher": "",
+  "original_release_year": "1992",
+  "game_type": "Port",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados pequenos",
+              "description": "",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "gg"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Streets of Rage",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Streets_of_Rage",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

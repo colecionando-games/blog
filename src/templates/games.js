@@ -74,13 +74,14 @@ const Games = ({ pageContext }) => {
                               {regionsData.find(r => r.id === region).name}
                             </S.GameSectionTitle>
                             <span>{fmtDate(release_date)}</span>
-                            {versions?.map(({ edition, distributor, version, description, photos }) => {
+                            {versions?.map(({ edition, case_format, distributor, version, description, photos }) => {
                               return (
                                 <S.GameRelease>
                                   {!!distributor && <S.GameReleaseRegionDistributorLogo src={distributorsData.find(d => d.id === distributor).logo} />}
                                   <S.GameReleaseInfo>
                                     <S.GameReleaseEdition>{edition}</S.GameReleaseEdition>
                                     <S.GameReleaseVersion>{version}</S.GameReleaseVersion>
+                                    <S.GameReleaseCaseFormat>{case_format}</S.GameReleaseCaseFormat>
                                     <S.GameReleaseDescription>{description}</S.GameReleaseDescription>
                                   </S.GameReleaseInfo>
                                   {!!photos && <Lightbox images={photos}></Lightbox>}

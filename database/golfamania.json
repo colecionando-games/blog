@@ -1,0 +1,43 @@
+{
+  "title": "Golfamania",
+  "original_developer": "",
+  "original_publisher": "",
+  "original_release_year": "1990",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados grandes",
+              "description": "Letra B",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Golfamania",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Golfamania",
+      "external": "TecToy Wiki"
+    },
+    {
+      "url": "https://www.igdb.com/games/golfamania",
+      "external": "IGDB"
+    }
+  ]
+}

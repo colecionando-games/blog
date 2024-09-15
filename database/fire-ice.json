@@ -1,0 +1,52 @@
+{
+  "title": "Fire & Ice",
+  "alt_titles": ["Fire & Ice: The Daring Adventures of Cool Coyote"],
+  "original_developer": "Graftgold Creative Software",
+  "original_publisher": "",
+  "original_release_year": "1992",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte azul",
+              "description": "",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "dos"
+    },
+    {
+      "platform": "other",
+      "description": "Acorn Archimedes, Amiga, Amiga CD32, Atari ST/STE"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Fire & Ice",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Fire_%26_Ice",
+      "external": "TecToy Wiki"
+    },
+    {
+      "title":"Fire & Ice",
+      "url": "https://www.igdb.com/games/fire-and-ice-the-daring-adventures-of-cool-coyote",
+      "external": "IGDB"
+    }
+  ]
+}

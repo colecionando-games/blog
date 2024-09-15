@@ -1,0 +1,41 @@
+{
+  "title": "Sapo Xulé: O Mestre do Kung Fu",
+  "original_developer": "Tec Toy",
+  "original_publisher": "",
+  "original_release_year": "1995",
+  "game_type": "Port de Kung Fu Kid",
+  "game_type_ref": "/games/kung-fu-kid",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte azul",
+              "description": "Letra B",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Sapo Xulé O Mestre do Kung Fu",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Sapo_Xul%C3%A9_O_Mestre_do_Kung_Fu",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

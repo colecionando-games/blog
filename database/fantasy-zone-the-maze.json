@@ -1,0 +1,43 @@
+{
+  "title": "Fantasy Zone: The Maze",
+  "original_developer": "Sega",
+  "original_publisher": "",
+  "original_release_year": "1987",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa de papelão",
+              "description": "",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "other",
+      "description": "Arcade"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Fantasy Zone: The Maze",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Fantasy_Zone:_The_Maze",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

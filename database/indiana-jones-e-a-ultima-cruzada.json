@@ -1,0 +1,83 @@
+{
+  "title": "Indiana Jones e a Última Cruzada",
+  "alt_titles": ["Indiana Jones and the Last Crusade: The Action Game"],
+  "original_developer": "NMS Software",
+  "original_publisher": "",
+  "original_release_year": "1989",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "release_date": "1991",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados grandes",
+              "description": "Letra D",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa plástica com encarte azul",
+              "description": "Letra D",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa plástica com encarte azul",
+              "description": "Letra D, logo Inmetro",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "gg"
+    },
+    {
+      "platform": "md"
+    },
+    {
+      "platform": "nes"
+    },
+    {
+      "platform": "dos"
+    },
+    {
+      "platform": "msx"
+    },
+    {
+      "platform": "other",
+      "description": "Amiga, Amstrad CPC, Atari ST/STE, Commodore C64/128/MAX, ZX Spectrum"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Indiana Jones e a Última Cruzada",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Indiana_Jones_e_a_%C3%9Altima_Cruzada",
+      "external": "TecToy Wiki"
+    },
+    {
+      "url": "https://www.igdb.com/games/indiana-jones-and-the-last-crusade-the-action-game"
+    }
+  ]
+}

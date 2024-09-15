@@ -1,0 +1,56 @@
+{
+  "title": "RoboCop 3",
+  "original_developer": "Eden Entertainment Software",
+  "original_publisher": "",
+  "original_release_year": "1992",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "release_date": "1994",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte azul",
+              "description": "Letra D",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "gg"
+    },
+    {
+      "platform": "md"
+    },
+    {
+      "platform": "nes"
+    },
+    {
+      "platform": "snes"
+    },
+    {
+      "platform": "other",
+      "description": "Arcade"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "RoboCop 3",
+      "url": "https://www.sega-brasil.com.br/Tectoy/RoboCop_3",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

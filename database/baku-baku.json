@@ -1,0 +1,53 @@
+{
+  "title": "Baku Baku",
+  "original_developer": "Minato Giken",
+  "original_publisher": "",
+  "original_release_year": "1996",
+  "game_type": "Port",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte azul",
+              "description": "Logo do Inmetro (sem fundo)",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa plástica com encarte azul",
+              "description": "Logo do Inmetro (fundo branco)",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "gg"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Baku Baku",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Baku_Baku",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

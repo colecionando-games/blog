@@ -1,0 +1,54 @@
+{
+  "title": "Jogos de Verão II",
+  "alt_titles": ["California Games II"],
+  "original_developer": "Epyx",
+  "original_publisher": "",
+  "original_release_year": "1993",
+  "game_type": "Port",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte azul e branco",
+              "description": "Letra B, código de barras, modelo",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa plástica com encarte azul e branco",
+              "description": "Letra B, código de barras, modelo, logo do Inmetro",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Jogos de Verão II",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Jogos_de_Ver%C3%A3o_II",
+      "external": "TecToy Wiki"
+    },
+    {
+      "url": "https://www.igdb.com/games/california-games-ii--3"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "title": "OutRun Europa",
+  "original_developer": "Probe Software",
+  "original_publisher": "",
+  "original_release_year": "1991",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "release_date": "1993",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados grandes",
+              "description": "Letra B",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "gg"
+    },
+    {
+      "platform": "other",
+      "description": "Amiga, Amstrad CPC, Atari ST/STE, Commodore C64/128/MAX, ZX Spectrum"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Out Run Europa (Master System)",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Out_Run_Europa_(Master_System)",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

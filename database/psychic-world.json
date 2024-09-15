@@ -1,0 +1,46 @@
+{
+  "title": "Psychic World",
+  "original_developer": "Hertz",
+  "original_publisher": "",
+  "original_release_year": "1988",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "release_date": "1991",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados grandes",
+              "description": "Letra A",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "gg"
+    },
+    {
+      "platform": "msx"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Psychic World (Master System)",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Psychic_World_(Master_System)",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

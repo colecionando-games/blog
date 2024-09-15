@@ -1,0 +1,60 @@
+{
+  "title": "Street Fighter II",
+  "original_developer": "Tec Toy",
+  "original_publisher": "Capcom",
+  "original_release_year": "1997",
+  "game_type": "Port de Street Fighter II: Champion Edition",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte azul",
+              "description": "",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa plástica com encarte azul",
+              "description": "Código de barras (adesivo)",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa plástica com encarte azul",
+              "description": "Código de barras (adesivo diferente)",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Street Fighter II",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Street_Fighter_II",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

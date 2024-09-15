@@ -1,0 +1,48 @@
+{
+  "title": "Andre Agassi Tennis",
+  "original_developer": "TecMagik",
+  "original_publisher": "",
+  "original_release_year": "1992",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte azul e branco",
+              "description": "Modelo Nº 025420",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "gg"
+    },
+    {
+      "platform": "md"
+    },
+    {
+      "platform": "snes"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Andre Agassi Tennis",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Andre_Agassi_Tennis",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

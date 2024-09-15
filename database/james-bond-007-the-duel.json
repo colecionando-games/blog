@@ -1,0 +1,48 @@
+{
+  "title": "James Bond 007: The Duel",
+  "original_developer": "Domark Software",
+  "original_publisher": "",
+  "original_release_year": "1993",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte azul e branco",
+              "description": "Letra B",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "gg"
+    },
+    {
+      "platform": "md"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "James Bond 007: The Duel",
+      "url": "https://www.sega-brasil.com.br/Tectoy/James_Bond_007_-_The_Duel",
+      "external": "TecToy Wiki"
+    },
+    {
+      "url": "https://www.igdb.com/games/james-bond-007-the-duel"
+    }
+  ]
+}

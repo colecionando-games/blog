@@ -1,0 +1,60 @@
+{
+  "title": "Aztec Adventure",
+  "original_developer": "Sega",
+  "original_publisher": "",
+  "original_release_year": "1987",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "release_date": "1991", 
+          "versions": [
+            {
+              "case_format": "Caixa de papelão (3V)",
+              "description": "Letra B, frase 'Produzido sob licença de SEGA Enterprises' centralizado",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa de papelão (3V)",
+              "description": "Letra B, frase 'Produzido sob licença de SEGA Enterprises' na esquerda",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa de papelão (1V)",
+              "description": "Sem letra, frase 'Produzido sob licença de SEGA Enterprises' na esquerda",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Aztec Adventure",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Aztec_Adventure",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "title": "Alex Kidd in Miracle World",
+  "original_developer": "Sega",
+  "original_publisher": "",
+  "original_release_year": "1986",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa de papelão (1V)",
+              "description": "Sem letra, frase 'Produzido sob licença de SEGA Enterprises'",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa de papelão (1V)",
+              "description": "Sem letra, logo da Sega",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa de papelão (3V)",
+              "description": "Letra B, frase 'Produzido sob licença de SEGA Enterprises'",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa plástica com encarte branco com quadrados grandes",
+              "description": "",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "wii",
+      "description": "Virtual Console",
+      "regions": []
+    },
+    {
+      "platform": "ps3",
+      "description": "PSN",
+      "regions": []
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Alex Kidd in Miracle World",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Alex_Kidd_in_Miracle_World",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "title": "As Aventuras da TV Colosso",
+  "original_developer": "Tec Toy",
+  "original_publisher": "",
+  "original_release_year": "1996",
+  "game_type": "Port de Asterix and the Secret Mission",
+  "game_type_ref": "/games/asterix-and-the-secret-mission",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte azul",
+              "description": "",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "As Aventuras da TV Colosso",
+      "url": "https://www.sega-brasil.com.br/Tectoy/As_Aventuras_da_TV_Colosso",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

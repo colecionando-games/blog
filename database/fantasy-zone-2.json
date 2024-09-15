@@ -1,0 +1,47 @@
+{
+  "title": "Fantasy Zone II",
+  "original_developer": "Sega",
+  "original_publisher": "",
+  "original_release_year": "1987",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa de papelão",
+              "description": "",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "wii",
+      "description": "Virtual Console"
+    },
+    {
+      "platform": "other",
+      "description": "Arcade, MSX2"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Fantasy Zone II",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Fantasy_Zone_II",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

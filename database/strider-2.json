@@ -1,0 +1,48 @@
+{
+  "title": "Strider II",
+  "alt_titles": ["Journey from Darkness: Strider Returns"],
+  "original_developer": "Tiertex Design Studios",
+  "original_publisher": "U.S. Gold",
+  "original_release_year": "1991",
+  "game_type": "Port",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "release_date": "1993",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte azul e branco",
+              "description": "Letra C",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "gg"
+    },
+    {
+      "platform": "md"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Strider II",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Strider_II",
+      "external": "TecToy Wiki"
+    }
+  ]
+}

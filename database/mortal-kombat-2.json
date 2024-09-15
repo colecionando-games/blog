@@ -1,0 +1,53 @@
+{
+  "title": "Mortal Kombat II",
+  "original_developer": "Probe Entertainment",
+  "original_publisher": "",
+  "original_release_year": "1994",
+  "game_type": "Port",
+  "releases": [
+    {
+      "platform": "sms",
+      "regions": [
+        {
+          "region": "br",
+          "versions": [
+            {
+              "case_format": "Caixa plástica com encarte azul e branco",
+              "description": "Código de barras; Modelo",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            },
+            {
+              "case_format": "Caixa plástica com encarte azul e branco",
+              "description": "Código de barras; Modelo; Selo Inmetro",
+              "distributor": "tectoy",
+              "photos": [
+                {
+                  "url": "../static/assets/img/games/no-photo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform": "gg"
+    }
+  ],
+  "pingbacks": [
+    {
+      "title": "Lista completa de jogos para Master System lançados pela Tec Toy no Brasil",
+      "url": "/lista-completa-master-system-tectoy/"
+    },
+    {
+      "title": "Mortal Kombat II (Master System)",
+      "url": "https://www.sega-brasil.com.br/Tectoy/Mortal_Kombat_II_(Master_System)",
+      "external": "TecToy Wiki"
+    }
+  ]
+}
