@@ -425,3 +425,4 @@ Além disso, tivemos dois jogos totalmente traduzidos para o português: **Phant
 - **25/06/21:** Adicionei o link de cada jogo para sua respectiva página no **TecToy Wiki** para maiores detalhes.
 - **18/09/23:** Separei as coletâneas 'Game Box' em uma categoria exclusiva, antes estavam dentro da categoria **Caixa plástica com encarte azul**. Sugestão vinda do grupo de WhatsApp "[Master System Sem Miséria](https://chat.whatsapp.com/BOabR2Ng36RHK8fLRLpIOV)" através do colecionador Fábio Martucci.
 - **26/11/23:** Adicionei o jogo 'Alex Kidd in Miracle World' na versão **Caixa plástica com encarte branco com quadrados grandes** conforme comentário do colecionador Flavio Lima.
+- **15/09/24:** Criado uma página individual para cada jogo da lista.
