@@ -178,15 +178,9 @@ export const MainContent = styled.section`
   }
   h2 {
     font-size: 2.1rem;
-    ${media.lessThan("large")`
-      font-size: 1.375rem;
-    `}
   }
   h3 {
     font-size: 1.6rem;
-    ${media.lessThan("large")`
-      font-size: 1.125rem;
-    `}
   }
   h4 {
     font-size: 1.4rem;
