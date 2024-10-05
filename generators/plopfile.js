@@ -22,6 +22,7 @@ module.exports = function (plop) {
         name: 'firstPlatform',
         message: 'Escolha uma plataforma',
         choices: [
+          'sms', 'md', '32x', 'sega-cd', 'saturn', 'dc', 'gg',
           'nes', 'snes', 'n64', 'gamecube', 'wii', 'wiiu', 'switch',
           'gb', 'gbc', 'gba', 'nds', '3ds', 
           'ps1', 'ps2', 'ps3', 'ps4', 'ps5', 'psp', 'ps-vita', 
