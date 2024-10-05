@@ -9,7 +9,7 @@ const HeaderLogo = () => {
       query {
         logoImage: file(relativePath: { eq: "logo_v2.png" }) {
           childImageSharp {
-            gatsbyImageData(layout: FULL_WIDTH)
+            gatsbyImageData(layout: CONSTRAINED)
           }
         }
       }
@@ -18,7 +18,9 @@ const HeaderLogo = () => {
 
   return (
     <Link to="/" title="Voltar ao Home">
-      <S.LogoWrapper key="logo" image={logoImage.childImageSharp.gatsbyImageData} alt="Logo Colecionando.Games" />
+      <S.LogoWrapper key="logo" 
+        image={logoImage.childImageSharp.gatsbyImageData}
+        alt="Logo Colecionando.Games" />
     </Link>
   )
 

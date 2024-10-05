@@ -1,12 +1,16 @@
 import styled from "styled-components"
 import { Link } from "gatsby"
 import { GatsbyImage } from "gatsby-plugin-image"
+import media from "styled-media-query"
 
 export const PostItemLink = styled(Link)`
   color: var(--texts);
   display: flex;
   text-decoration: none;
   justify-self: center;
+  max-width: 350px;
+  width: 100%;
+  margin: 10px;
 `
 
 export const PostItemWrapper = styled.section`
@@ -22,7 +26,6 @@ export const PostItemWrapper = styled.section`
 
 export const PostItemThumb = styled(GatsbyImage)`
   grid-area: post-item-thumb;
-  max-width: 100%;
   height: 100%;
   
 `
@@ -32,8 +35,10 @@ export const PostItemTag = styled.div`
   background: linear-gradient(180deg, rgba(255,183,0,1) 0%, rgba(255,221,0,1) 100%);
   color: black;
   box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.5);
-  padding: 3px 10px 4px;
-  margin: -26px -32px 10px 250px;
+  padding: 3px 10px 5px;
+  position: absolute;
+  right: -10px;
+  top: -13px;
   z-index: 5;
   text-transform: uppercase;
   text-align: center;
@@ -45,6 +50,7 @@ export const PostItemInfo = styled.div`
   flex-direction: column;
   padding: 0.8rem 1.5rem 1.5rem;
   grid-area: post-item-info;
+  position: relative;
 `
 
 export const PostItemDate = styled.time`

@@ -6,7 +6,7 @@ import { Link } from "gatsby"
 export const MenuLinksWrapper = styled.nav`
   ${media.lessThan("large")`
     margin: 8px 0 10px;
-    height: 30px;
+    padding: 3px 0 1px;
     width: 100%;
     background: rgba(0, 0, 0, 0.2);
   `}
@@ -19,17 +19,13 @@ export const MenuLinksList = styled.ul`
   flex-direction: row;
   justify-content: center;
   align-items: baseline;
+  flex-wrap: wrap;
 `
 
 export const MenuLinksItem = styled.li`
   padding: 2px 20px 6px;
-  border-right: 2px dotted rgba(255,255,255,0.15);
   text-transform: lowercase;
   font-variant: small-caps;
-
-  &:last-child {
-    border-right: 0;
-  }
 
   .active {
     border-bottom: 2px solid yellow;
