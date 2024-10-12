@@ -1,4 +1,4 @@
-import React from "react"
+import React, { useEffect } from "react"
 import { graphql } from "gatsby"
 
 import Layout from "../components/Layout"
@@ -13,6 +13,17 @@ const BlogPost = ({ data, pageContext }) => {
   const next = pageContext.nextPost
   const prev = pageContext.previousPost
   const tags = post.frontmatter.tags;
+
+  useEffect(() => {
+    var tables = document.getElementsByTagName("table");
+    for (var i = 0; i < tables.length; i++) {
+      var divEl = document.createElement("div");
+      divEl.style.overflowX = "auto";
+      divEl.id = tables[i].id + "_div";
+      tables[i].insertAdjacentElement("beforebegin", divEl);
+      divEl.appendChild(tables[i]);
+    }
+  });
 
   return (
     <Layout>
@@ -34,7 +45,7 @@ const BlogPost = ({ data, pageContext }) => {
         <S.MainContent>
           <div dangerouslySetInnerHTML={{ __html: post.html }}></div>
 
-          <S.PostTags>TAGS: 
+          <S.PostTags>🏷 
             {tags.map(tag => (
               <S.PostTag key={tag} to={`/tags/${tag}`}>{tag}</S.PostTag>
             ))}
