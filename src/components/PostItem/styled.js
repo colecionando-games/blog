@@ -11,6 +11,10 @@ export const PostItemLink = styled(Link)`
   max-width: 350px;
   width: 100%;
   margin: 10px;
+
+  ${media.lessThan("420px")`
+    margin: 10px 15px;
+  `}
 `
 
 export const PostItemWrapper = styled.section`
