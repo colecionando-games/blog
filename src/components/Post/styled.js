@@ -67,8 +67,8 @@ export const PostAuthor = styled.p`
   `}
 `
 
-export const PostTags = styled.section`
-  margin: 10px 20px;
+export const PostTags = styled.p`
+  font-size: 1rem !important;
 `
 
 export const PostTag = styled(Link)`
