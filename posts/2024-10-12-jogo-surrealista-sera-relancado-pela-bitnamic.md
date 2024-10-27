@@ -25,7 +25,7 @@ Hoje, o jogo está disponível digitalmente tanto a versão original de 1999 no 
 
 ![Caixa protótipo do jogo no stand da Bitnamic na BGS 2024 - Imagem: YouTube/Bitnamic Software](/assets/img/posts/relancamento-surrealidade/surrealidade-stand-bitnamic-bgs24.jpg)
 
-Só nos resta saber como será esse relançamento, será que vai ser em CD-ROM como foi o [Incidente em Varginha](relancamento-incidente-em-varginha/)? Será que será a versão definitiva? Provavelmente sim! Enfim, estou curioso por mais novidades!
+Só nos resta saber como será esse relançamento, será que vai ser em CD-ROM como foi o [Incidente em Varginha](/relancamento-incidente-em-varginha/)? Será que será a versão definitiva? Provavelmente sim! Enfim, estou curioso por mais novidades!
 
 ### Sobre Dimitri Kozma
 
