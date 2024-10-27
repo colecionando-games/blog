@@ -30,9 +30,9 @@ Antes de mais nada, a primeira coisa que precisa ser dita é que existem seis ti
 
 Além disso, tivemos dois jogos que foram lançados sem caixas, pois eles vinham junto no pacote com alguns consoles.
 
-## A lista
+## Lista de jogos separados por formato
 
-Dito isso, a lista está categorizada pelos formatos em sua ordem de lançamentos. E nas colunas estão:
+Dito isso, a lista está categorizada pelos formatos em sua ordem de lançamentos e nas colunas estão:
 
 - **Nome**: Título do jogo escrito na caixa, não necessariamente é o título original do jogo;
 - **Letra**: Estas letras serviam como referência de preço com base numa tabela da época, A, B, C, D, E e sem letra (S/L);
@@ -375,6 +375,259 @@ Saíram apenas **2 jogos** neste formato, pois eles eram inclusos em algum conso
 | [Hang On & Safari Hunt](/games/hang-on-safari-hunt) |     Vermelho      | Master System 3D <br> Master System III Compact c/ Light Phaser (azul) |
 | [20 em 1](/games/20-em-1)                           |       Azul        | Master System III Compact 21 Jogos                                     |
 
+## Lista de jogos independentes do formato
+
+Essa é a mesma lista acima, porém compilada sem repetir os jogos em cada formato de caixa, ou seja, a Tec Toy lançou ao todo **245 jogos** diferentes para o Master System:
+
+| Nome                                                                                      | Formatos                                                                                                           |
+| :---------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------ |
+| [20 em 1](/games/20-em-1)                                                                 | Sem caixa                                                                                                           |
+| [Ace of Aces](/games/ace-of-aces)                                                         | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Action Fighter](/games/action-fighter)                                                   | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Aerial Assault](/games/aerial-assault)                                                   | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [After Burner](/games/after-burner-sms)                                                   | Caixa de papelão; Caixa plástica com encarte branco com quadrados grandes                                           |
+| [Air Rescue](/games/air-rescue)                                                           | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Alex Kidd High-Tech World](/games/alex-kidd-high-tech-world)                             | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Alex Kidd in Miracle World](/games/alex-kidd-in-miracle-world)                           | Caixa de papelão; Caixa plástica com encarte branco com quadrados grandes                                           |
+| [Alex Kidd In Shinobi World](/games/alex-kidd-in-shinobi-world)                           | Caixa de papelão; Caixa plástica com encarte branco com quadrados grandes                                           |
+| [Alex Kidd: The Lost Stars](/games/alex-kidd-the-lost-stars)                              | Caixa de papelão                                                                                                    |
+| [Alien 3](/games/alien-3)                                                                 | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Alien Storm](/games/alien-storm)                                                         | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Alien Syndrome](/games/alien-syndrome-sms)                                               | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Altered Beast](/games/altered-beast-sms)                                                 | Caixa de papelão; Caixa plástica com encarte branco com quadrados grandes; Caixa plástica com encarte azul          |
+| [American Baseball](/games/american-baseball)                                             | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Andre Agassi Tennis](/games/andre-agassi-tennis)                                         | Caixa plástica com encarte azul e branco                                                                            |
+| [Ariel The Little Mermaid](/games/ariel-the-little-mermaid)                               | Caixa plástica com encarte azul                                                                                     |
+| [As Aventuras da TV Colosso](/games/as-aventuras-da-tv-colosso)                           | Caixa plástica com encarte azul                                                                                     |
+| [Assault City](/games/assault-city)                                                       | Caixa de papelão                                                                                                    |
+| [Asterix](/games/asterix-sms)                                                             | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Asterix and the Great Rescue](/games/asterix-and-the-great-rescue)                       | Caixa plástica com encarte azul e branco                                                                            |
+| [Astérix and the Secret Mission](/games/asterix-and-the-secret-mission)                   | Caixa plástica com encarte azul e branco                                                                            |
+| [Astro Warrior](/games/astro-warrior)                                                     | Caixa de papelão; Caixa plástica com encarte branco com quadrados grandes                                           |
+| [Ayrton Senna's Super Monaco GP II](/games/ayrton-sennas-super-monaco-gp-2)               | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Aztec Adventure](/games/aztec-adventure)                                                 | Caixa de papelão                                                                                                    |
+| [Back to the Future II](/games/back-to-the-future-2)                                      | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Baku Baku](/games/baku-baku)                                                             | Caixa plástica com encarte azul                                                                                     |
+| [Bank Panic](/games/bank-panic)                                                           | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Basketball Nightmare](/games/basketball-nightmare)                                       | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Batman Returns](/games/batman-returns-sms)                                               | Caixa plástica com encarte branco com quadrados pequenos                                                            |
+| [Battle OutRun](/games/battle-out-run)                                                    | Caixa de papelão                                                                                                    |
+| [Battlemaniacs](/games/battlemaniacs)                                                     | Caixa plástica com encarte azul                                                                                     |
+| [Black Belt](/games/black-belt)                                                           | Caixa de papelão                                                                                                    |
+| [Blade Eagle 3D](/games/blade-eagle-3d)                                                   | Caixa de papelão                                                                                                    |
+| [Bonanza Brothers](/games/bonanza-brothers)                                               | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Buggy Run](/games/buggy-run)                                                             | Caixa plástica com encarte azul e branco                                                                            |
+| [Captain Silver](/games/captain-silver)                                                   | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Castelo Rá-Tim-Bum](/games/castelo-ra-tim-bum)                                           | Caixa plástica com encarte azul                                                                                     |
+| [Castle of Illusion Estrelando Mickey Mouse](/games/castle-of-illusion-sms)               | Caixa de papelão; Caixa plástica com encarte branco com quadrados grandes                                           |
+| [Champions of Europe](/games/champions-of-europe)                                         | Caixa plástica com encarte azul e branco                                                                            |
+| [Chapolim x Drácula: Um Duelo Assustador](/games/chapolim-x-dracula)                      | Caixa plástica com encarte azul e branco                                                                            |
+| [Cheese Cat-Astrophe estrelando Speedy Gonzales](/games/cheese-cat-astrophe)              | Caixa plástica com encarte azul                                                                                     |
+| [Choplifter](/games/choplifter)                                                           | Caixa de papelão                                                                                                    |
+| [Chuck Rock](/games/chuck-rock)                                                           | Caixa plástica com encarte branco com quadrados pequenos                                                            |
+| [Chuck Rock II: Son of Chuck](/games/chuck-rock-2)                                        | Caixa plástica com encarte azul e branco                                                                            |
+| [Cloud Master](/games/cloud-master)                                                       | Caixa de papelão                                                                                                    |
+| [Crash Dummies](/games/crash-dummies)                                                     | Caixa plástica com encarte azul e branco                                                                            |
+| [Cyber Shinobi](/games/cyber-shinobi)                                                     | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Cyborg Hunter](/games/cyborg-hunter)                                                     | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Daffy Duck in Hollywood](/games/daffy-duck-in-hollywood)                                 | Caixa plástica com encarte azul e branco                                                                            |
+| [Danan](/games/danan)                                                                     | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Dead Angle](/games/dead-angle)                                                           | Caixa de papelão                                                                                                    |
+| [Deep Duck Trouble estrelando Pato Donald](/games/deep-duck-trouble)                      | Caixa plástica com encarte azul e branco                                                                            |
+| [Desert Speedtrap starring Road Runner and Wile E. Coyote](/games/desert-speedtrap)       | Caixa plástica com encarte azul e branco                                                                            |
+| [Dick Tracy](/games/dick-tracy)                                                           | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Disney's Aladdin](/games/aladdin-sms)                                                    | Caixa plástica com encarte azul e branco                                                                            |
+| [Disney's Bonkers Wax Up!](/games/bonkers-wax-up)                                         | Caixa plástica com encarte azul                                                                                     |
+| [Double Dragon](/games/double-dragon-sms)                                                 | Caixa de papelão                                                                                                    |
+| [Dr. Robotnik's Mean Bean Machine](/games/dr-robotniks-mean-bean-machine-sms)             | Caixa plástica com encarte azul e branco                                                                            |
+| [Dragon Crystal](/games/dragon-crystal)                                                   | Caixa plástica com encarte azul e branco                                                                            |
+| [Dragon Maze](/games/dragon-maze)                                                         | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Dynamite Duke](/games/dynamite-duke)                                                     | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Dynamite Dux](/games/dynamite-dux)                                                       | Caixa de papelão                                                                                                    |
+| [Dynamite Headdy](/games/dynamite-headdy)                                                 | Caixa plástica com encarte azul                                                                                     |
+| [E-SWAT](/games/e-swat)                                                                   | Caixa de papelão; Caixa plástica com encarte branco com quadrados grandes                                           |
+| [Earthworm Jim](/games/earthworm-jim)                                                     | Caixa plástica com encarte azul                                                                                     |
+| [Ecco The Dolphin](/games/ecco-the-dolphin)                                               | Caixa plástica com encarte azul e branco                                                                            |
+| [Ecco: The Tides of Time](/games/ecco-the-tides-of-time)                                  | Caixa plástica com encarte azul                                                                                     |
+| [F-16 Fighter](/games/f-16-fighter)                                                       | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [F1](/games/f1)                                                                           | Caixa plástica com encarte azul e branco                                                                            |
+| [Fantasy Zone: The Maze](/games/fantasy-zone-the-maze)                                    | Caixa de papelão                                                                                                    |
+| [Fantasy Zone II](/games/fantasy-zone-2)                                                  | Caixa de papelão                                                                                                    |
+| [Férias Frustradas do Pica-Pau](/games/ferias-frustradas-do-pica-pau)                     | Caixa plástica com encarte azul                                                                                     |
+| [FIFA International Soccer](/games/fifa-international-soccer)                             | Caixa plástica com encarte azul                                                                                     |
+| [Fire & Ice](/games/fire-ice)                                                             | Caixa plástica com encarte azul                                                                                     |
+| [Forgotten Worlds](/games/forgotten-worlds)                                               | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [G-Loc](/games/g-loc)                                                                     | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Gain Ground](/games/gain-ground)                                                         | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Galaxy Force](/games/galaxy-force)                                                       | Caixa de papelão; Caixa plástica com encarte branco com quadrados grandes                                           |
+| [Game Box série Corridas](/games/game-box-serie-corridas)                                 | Game Box                                                                                                            |
+| [Game Box série Esportes](/games/game-box-serie-esportes)                                 | Game Box                                                                                                            |
+| [Game Box série Esportes Radicais](/games/game-box-serie-esportes-radicais)               | Game Box                                                                                                            |
+| [Game Box série Lutas](/games/game-box-serie-lutas)                                       | Game Box                                                                                                            |
+| [Gang's Fighter](/games/gangs-fighter)                                                    | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Gangster Town](/games/gangster-town)                                                     | Caixa de papelão; Caixa plástica com encarte azul                                                                   |
+| [Gauntlet](/games/gauntlet)                                                               | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [George Foreman's KO Boxing](/games/george-foremans-ko-boxing)                            | Caixa plástica com encarte azul e branco                                                                            |
+| [Geraldinho](/games/geraldinho)                                                           | Caixa plástica com encarte azul e branco                                                                            |
+| [Ghost House](/games/ghost-house)                                                         | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Ghostbusters](/games/ghostbusters)                                                       | Caixa de papelão                                                                                                    |
+| [Ghouls 'n Ghosts](/games/ghouls-n-ghosts)                                                | Caixa de papelão; Caixa plástica com encarte branco com quadrados grandes; Caixa plástica com encarte azul          |
+| [Global Defense](/games/global-defense)                                                   | Caixa de papelão                                                                                                    |
+| [Global Gladiators](/games/global-gladiators)                                             | Caixa plástica com encarte branco com quadrados pequenos                                                            |
+| [Golden Axe](/games/golden-axe)                                                           | Caixa de papelão; Caixa plástica com encarte branco com quadrados grandes                                           |
+| [Golden Axe Warrior](/games/golden-axe-warrior)                                           | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Golfamania](/games/golfamania)                                                           | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Golvellius](/games/golvellius)                                                           | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [GP Rider](/games/gp-rider)                                                               | Caixa plástica com encarte branco com quadrados pequenos                                                            |
+| [Great Basket](/games/great-basket)                                                       | Caixa de papelão                                                                                                    |
+| [Great Voley](/games/great-voley)                                                         | Caixa de papelão; Caixa plástica com encarte branco com quadrados grandes                                           |
+| [Hang On & Safari Hunt](/games/hang-on-safari-hunt)                                       | Sem caixa                                                                                                           |
+| [Heavyweight Champ](/games/heavyweight-champ)                                             | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Heroes of the Lance](/games/heroes-of-the-lance)                                         | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Impossible Mission](/games/impossible-mission)                                           | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Indiana Jones e a Última Cruzada](/games/indiana-jones-e-a-ultima-cruzada)               | Caixa plástica com encarte branco com quadrados grandes; Caixa plástica com encarte azul                            |
+| [James Bond 007 - The Duel](/games/james-bond-007-the-duel)                               | Caixa plástica com encarte azul e branco                                                                            |
+| [James Pond 2 Codename RoboCod](/games/james-pond-2-codename-robocod)                     | Caixa plástica com encarte azul                                                                                     |
+| [Joe Montana Football](/games/joe-montana-football)                                       | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Jogos de Verão](/games/jogos-de-verao)                                                   | Caixa de papelão; Caixa plástica com encarte branco com quadrados grandes                                           |
+| [Jogos de Verão II](/games/jogos-de-verao-2)                                              | Caixa plástica com encarte azul e branco                                                                            |
+| [Jogos Olímpicos](/games/jogos-olimpicos)                                                 | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Jurassic Park](/games/jurassic-park)                                                     | Caixa plástica com encarte azul e branco                                                                            |
+| [Kenseiden](/games/kenseiden)                                                             | Caixa de papelão; Caixa plástica com encarte branco com quadrados grandes                                           |
+| [Krusty's Fun House](/games/krustys-fun-house)                                            | Caixa plástica com encarte azul e branco                                                                            |
+| [Kung Fu Kid](/games/kung-fu-kid)                                                         | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Land of Illusion Estrelando Mickey Mouse](/games/land-of-illusion)                       | Caixa plástica com encarte branco com quadrados pequenos                                                            |
+| [Legend of Illusion starring Mickey Mouse](/games/legend-of-illusion)                     | Caixa plástica com encarte azul                                                                                     |
+| [Lemmings](/games/lemmings)                                                               | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Line of Fire](/games/line-of-fire)                                                       | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Lord of the Sword](/games/lord-of-the-sword)                                             | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Marksman Shooting & Trap Shooting](/games/marksman-shooting-trap-shooting)               | Caixa de papelão                                                                                                    |
+| [Master of Darkness](/games/master-of-darkness)                                           | Caixa plástica com encarte branco com quadrados pequenos                                                            |
+| [Masters of Combat](/games/masters-of-combat)                                             | Caixa plástica com encarte azul e branco                                                                            |
+| [Maze Hunter 3D](/games/maze-hunter-3d)                                                   | Caixa de papelão                                                                                                    |
+| [Mercs](/games/mercs)                                                                     | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Mickey's Ultimate Challenge](/games/mickeys-ultimate-challenge)                          | Caixa plástica com encarte azul                                                                                     |
+| [Minigolf](/games/minigolf)                                                               | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Miracle Warriors](/games/miracle-warriors)                                               | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Missile Defense 3D](/games/missile-defense-3d)                                           | Caixa de papelão; Caixa plástica com encarte branco com quadrados grandes                                           |
+| [Mônica no Castelo do Dragão](/games/monica-no-castelo-do-dragao)                         | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Moonwalker](/games/moonwalker)                                                           | Caixa de papelão; Caixa plástica com encarte branco com quadrados grandes                                           |
+| [Mortal Kombat](/games/mortal-kombat)                                                     | Caixa plástica com encarte azul e branco                                                                            |
+| [Mortal Kombat II](/games/mortal-kombat-2)                                                | Caixa plástica com encarte azul e branco                                                                            |
+| [Mortal Kombat 3](/games/mortal-kombat-3)                                                 | Caixa plástica com encarte azul                                                                                     |
+| [Ms. Pac-Man](/games/ms-pac-man)                                                          | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Ninja Gaiden](/games/ninja-gaiden)                                                       | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Nuclear Creature](/games/nuclear-creature)                                               | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Olympic Gold](/games/olympic-gold)                                                       | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Operation Wolf](/games/operation-wolf)                                                   | Caixa de papelão                                                                                                    |
+| [Out Run](/games/out-run)                                                                 | Caixa de papelão; Caixa plástica com encarte azul                                                                   |
+| [Out Run 3D](/games/out-run-3d)                                                           | Caixa de papelão                                                                                                    |
+| [Out Run Europa](/games/out-run-europa)                                                   | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Paper Boy](/games/paper-boy)                                                             | Caixa de papelão; Caixa plástica com encarte branco com quadrados grandes                                           |
+| [Phantasy Star](/games/phantasy-star)                                                     | Caixa plástica com encarte branco com quadrados grandes; Caixa plástica com encarte azul                            |
+| [Pit-Fighter](/games/pit-fighter)                                                         | Caixa plástica com encarte azul e branco                                                                            |
+| [Populous](/games/populous)                                                               | Caixa plástica com encarte azul e branco                                                                            |
+| [Poseidon Wars 3D](/games/poseidon-wars-3d)                                               | Caixa de papelão                                                                                                    |
+| [Power Strike](/games/power-strike)                                                       | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Power Strike II](/games/power-strike-2)                                                  | Caixa plástica com encarte azul e branco                                                                            |
+| [Predator 2](/games/predator-2)                                                           | Caixa plástica com encarte branco com quadrados pequenos                                                            |
+| [Prince of Persia](/games/prince-of-persia-sms)                                           | Caixa plástica com encarte azul e branco                                                                            |
+| [Pro Wrestling](/games/pro-wrestling)                                                     | Caixa de papelão                                                                                                    |
+| [Psychic World](/games/psychic-world)                                                     | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Psycho Fox](/games/psycho-fox)                                                           | Caixa de papelão; Caixa plástica com encarte branco com quadrados grandes                                           |
+| [Quest for the Shaven Yak Starring Ren Hoëk & Stimpy](/games/quest-for-the-shaven-yak)    | Caixa plástica com encarte azul e branco                                                                            |
+| [R.C. Grand Prix](/games/rc-grand-prix)                                                   | Caixa de papelão; Caixa plástica com encarte branco com quadrados grandes                                           |
+| [R-Type](/games/r-type)                                                                   | Caixa de papelão                                                                                                    |
+| [Rainbow Islands](/games/rainbow-islands)                                                 | Caixa plástica com encarte azul                                                                                     |
+| [Rambo III](/games/rambo-3)                                                               | Caixa de papelão                                                                                                    |
+| [Rampage](/games/rampage)                                                                 | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Rastan](/games/rastan)                                                                   | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Renegade](/games/renegade)                                                               | Caixa plástica com encarte branco com quadrados pequenos                                                            |
+| [Rescue Mission](/games/rescue-mission)                                                   | Caixa de papelão                                                                                                    |
+| [Road Rash](/games/road-rash)                                                             | Caixa plástica com encarte azul e branco                                                                            |
+| [RoboCop versus The Terminator](/games/robocop-vs-the-terminator)                         | Caixa plástica com encarte azul e branco                                                                            |
+| [RoboCop 3](/games/robocop-3)                                                             | Caixa plástica com encarte azul                                                                                     |
+| [Rocky](/games/rocky)                                                                     | Caixa de papelão                                                                                                    |
+| [Running Battle](/games/running-battle)                                                   | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Sagaia](/games/sagaia)                                                                   | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Sapo Xulé vs. Os Invasores do Brejo](/games/sapo-xule-vs-os-invasores-do-brejo)          | Caixa plástica com encarte azul e branco                                                                            |
+| [Sapo Xulé: O Mestre do Kung Fu](/games/sapo-xule-o-mestre-do-kung-fu)                    | Caixa plástica com encarte azul                                                                                     |
+| [Sapo Xulé: S.O.S. Lagoa Poluída](/games/sapo-xule-sos-lagoa-poluida)                     | Caixa plástica com encarte azul                                                                                     |
+| [Scramble Spirits](/games/scramble-spirits)                                               | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Sega Chess](/games/sega-chess)                                                           | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Sega World Tournament Golf](/games/sega-world-tournament-golf)                           | Caixa plástica com encarte branco com quadrados pequenos                                                            |
+| [Shadow of the Beast](/games/shadow-of-the-beast)                                         | Caixa plástica com encarte azul e branco                                                                            |
+| [Shapes and Columns](/games/shapes-and-columns)                                           | Caixa de papelão; Caixa plástica com encarte branco com quadrados grandes                                           |
+| [Shinobi](/games/shinobi)                                                                 | Caixa de papelão; Caixa plástica com encarte branco com quadrados grandes; Caixa plástica com encarte azul e branco |
+| [Shooting G](/games/shooting-g)                                                           | Caixa de papelão; Caixa plástica com encarte branco com quadrados grandes                                           |
+| [Sítio do Picapau Amarelo](/games/sitio-do-picapau-amarelo)                               | Caixa plástica com encarte azul                                                                                     |
+| [Slap Shot](/games/slap-shot)                                                             | Caixa plástica com encarte branco com quadrados pequenos                                                            |
+| [Sonic The Hedgehog](/games/sonic-the-hedgehog-sms)                                       | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Sonic The Hedgehog 2](/games/sonic-the-hedgehog-2-sms)                                   | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Sonic The Hedgehog: Chaos](/games/sonic-chaos)                                           | Caixa plástica com encarte azul e branco                                                                            |
+| [Sonic The Hedgehog: Spinball](/games/sonic-spinball)                                     | Caixa plástica com encarte azul e branco                                                                            |
+| [Sonic Blast](/games/sonic-blast)                                                         | Caixa plástica com encarte azul                                                                                     |
+| [Space Harrier 3D](/games/space-harrier-3d)                                               | Caixa de papelão                                                                                                    |
+| [SpellCaster](/games/spellcaster)                                                         | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Spider-Man](/games/spider-man)                                                           | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Spider-Man: Return of the Sinister Six](/games/spider-man-return-of-the-sinister-six)    | Caixa plástica com encarte azul e branco                                                                            |
+| [Spy vs. Spy](/games/spy-vs-spy)                                                          | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Star Wars](/games/star-wars)                                                             | Caixa plástica com encarte azul e branco                                                                            |
+| [Street Fighter II](/games/street-fighter-2-sms)                                          | Caixa plástica com encarte azul                                                                                     |
+| [Streets of Rage](/games/streets-of-rage)                                                 | Caixa plástica com encarte branco com quadrados pequenos                                                            |
+| [Streets of Rage II](/games/streets-of-rage-2)                                            | Caixa plástica com encarte azul e branco                                                                            |
+| [Strider](/games/strider)                                                                 | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Strider II](/games/strider-2)                                                            | Caixa plástica com encarte azul e branco                                                                            |
+| [Submarine Attack](/games/submarine-attack)                                               | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Super Cross](/games/super-cross)                                                         | Caixa de papelão                                                                                                    |
+| [Super Futebol](/games/super-futebol)                                                     | Caixa de papelão                                                                                                    |
+| [Super Futebol II](/games/super-futebol-2)                                                | Caixa de papelão; Caixa plástica com encarte branco com quadrados grandes                                           |
+| [Super Kick Off](/games/super-kick-off)                                                   | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Super Mônaco GP](/games/super-monaco-gp)                                                 | Caixa de papelão; Caixa plástica com encarte azul                                                                   |
+| [Super Tennis](/games/super-tennis)                                                       | Caixa de papelão                                                                                                    |
+| [Superman: The Man of Steel](/games/superman-the-man-of-steel)                            | Caixa plástica com encarte azul e branco                                                                            |
+| [Taz-Mania](/games/taz-mania)                                                             | Caixa plástica com encarte branco com quadrados pequenos                                                            |
+| [Taz in Escape From Mars](/games/taz-in-escape-from-mars)                                 | Caixa plástica com encarte azul                                                                                     |
+| [Teddy Boy](/games/teddy-boy)                                                             | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [The Flash](/games/the-flash)                                                             | Caixa plástica com encarte azul e branco                                                                            |
+| [The Flintstones](/games/the-flintstones)                                                 | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [The Incredible Hulk](/games/the-incredible-hulk)                                         | Caixa plástica com encarte azul e branco                                                                            |
+| [The Jungle Book](/games/the-jungle-book)                                                 | Caixa plástica com encarte azul e branco                                                                            |
+| [The Lion King](/games/the-lion-king)                                                     | Caixa plástica com encarte azul e branco                                                                            |
+| [The Lucky Dime Caper Estrelando Pato Donald](/games/the-lucky-dime-caper)                | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [The Ninja](/games/the-ninja)                                                             | Caixa plástica com encarte branco com quadrados pequenos                                                            |
+| [The Ottifants](/games/the-ottifants)                                                     | Caixa plástica com encarte azul e branco                                                                            |
+| [The Secret of Shinobi](/games/the-secret-of-shinobi)                                     | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [The Simpsons: Bart vs. The Space Mutants](/games/the-simpsons-bart-vs-the-space-mutants) | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [The Simpsons: Bart vs. The World](/games/the-simpsons-bart-vs-the-world)                 | Caixa plástica com encarte azul e branco                                                                            |
+| [The Smurfs](/games/the-smurfs)                                                           | Caixa plástica com encarte azul                                                                                     |
+| [The Terminator](/games/the-terminator)                                                   | Caixa plástica com encarte azul e branco                                                                            |
+| [Thunder Blade](/games/thunder-blade)                                                     | Caixa de papelão                                                                                                    |
+| [Time Soldiers](/games/time-soldiers)                                                     | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Tom and Jerry: The Movie](/games/tom-and-jerry-the-movie)                                | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Turma da Mônica em: O Resgate](/games/turma-da-monica-em-o-resgate)                      | Caixa plástica com encarte azul e branco                                                                            |
+| [Última IV](/games/ultima-iv)                                                             | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Ultimate Soccer](/games/ultimate-soccer)                                                 | Caixa plástica com encarte azul e branco                                                                            |
+| [Vigilante](/games/vigilante)                                                             | Caixa de papelão; Caixa plástica com encarte branco com quadrados grandes                                           |
+| [Virtua Fighter Animation](/games/virtua-fighter-animation)                               | Caixa plástica com encarte azul                                                                                     |
+| [Wanted](/games/wanted)                                                                   | Caixa de papelão                                                                                                    |
+| [Wimbledon](/games/wimbledon)                                                             | Caixa plástica com encarte branco com quadrados pequenos                                                            |
+| [Where in the World is Carmen Sandiego?](/games/where-in-the-world-is-carmen-sandiego)    | Caixa plástica com encarte azul e branco                                                                            |
+| [Winter Olympics](/games/winter-olympics)                                                 | Caixa plástica com encarte azul e branco                                                                            |
+| [Wolfchild](/games/wolfchild)                                                             | Caixa plástica com encarte azul e branco                                                                            |
+| [Wonder Boy](/games/wonder-boy)                                                           | Caixa de papelão                                                                                                    |
+| [World Class Leader Board](/games/world-class-leader-board)                               | Caixa plástica com encarte branco com quadrados pequenos                                                            |
+| [World Cup USA 94](/games/world-cup-usa-94)                                               | Caixa plástica com encarte azul e branco                                                                            |
+| [World Games](/games/world-games)                                                         | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [World Grand Prix](/games/world-grand-prix)                                               | Caixa de papelão; Caixa plástica com encarte branco com quadrados grandes                                           |
+| [WWF Wrestlemania Steel Cage Challenge](/games/wwf-wrestlemania-steel-cage-challenge)     | Caixa plástica com encarte azul e branco                                                                            |
+| [X-Men Mojo World](/games/x-men-mojo-world)                                               | Caixa plástica com encarte azul                                                                                     |
+| [Y's](/games/ys-sms)                                                                      | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Zaxxon 3D](/games/zaxxon-3d)                                                             | Caixa de papelão                                                                                                    |
+| [Zillion](/games/zillion)                                                                 | Caixa plástica com encarte branco com quadrados grandes                                                             |
+| [Zillion II](/games/zillion-2)                                                            | Caixa de papelão                                                                                                    |
+
+
 ## Bônus: Os exclusivos do Brasil
 
 Para complementar o post, gostaria de enfatizar o quão bom foi o trabalho da Tec Toy na década de 90 selecionando dentre os jogos lançados, os que saíram **exclusivamente para o Brasil**, ou seja, em nenhum outro lugar no mundo você vai encontrar esses jogos para Master System!
@@ -422,7 +675,11 @@ Além disso, tivemos dois jogos totalmente traduzidos para o português: **Phant
 
 #### Atualizações
 
-- **25/06/21:** Adicionei o link de cada jogo para sua respectiva página no **TecToy Wiki** para maiores detalhes.
-- **18/09/23:** Separei as coletâneas 'Game Box' em uma categoria exclusiva, antes estavam dentro da categoria **Caixa plástica com encarte azul**. Sugestão vinda do grupo de WhatsApp "[Master System Sem Miséria](https://chat.whatsapp.com/BOabR2Ng36RHK8fLRLpIOV)" através do colecionador Fábio Martucci.
-- **26/11/23:** Adicionei o jogo 'Alex Kidd in Miracle World' na versão **Caixa plástica com encarte branco com quadrados grandes** conforme comentário do colecionador Flavio Lima.
+- **27/10/24:** Adicionado uma segunda opção de lista de jogos sem a separação por formatos de caixa.
 - **15/09/24:** Criado uma página individual para cada jogo da lista.
+- **26/11/23:** Adicionado o jogo 'Alex Kidd in Miracle World' na versão **Caixa plástica com encarte branco com quadrados grandes** conforme comentário do colecionador Flavio Lima.
+- **18/09/23:** Separado as coletâneas 'Game Box' em uma categoria exclusiva, antes estavam dentro da categoria **Caixa plástica com encarte azul**. Sugestão vinda do grupo de WhatsApp "[Master System Sem Miséria](https://chat.whatsapp.com/BOabR2Ng36RHK8fLRLpIOV)" através do colecionador Fábio Martucci.
+- **25/06/21:** Adicionado o link de cada jogo para sua respectiva página no **TecToy Wiki** para maiores detalhes.
+
+
+
