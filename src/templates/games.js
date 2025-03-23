@@ -69,7 +69,7 @@ const Games = ({ pageContext }) => {
                     {!regions ? <div style={{ fontStyle: 'italic', marginTop: '7px', color: 'gray' }}>Nenhum jogo cadastrado.</div> :
                       regions.map(({ region, release_date, versions }) => {
                         return (
-                          <S.GameReleaseRegion>
+                          <S.GameReleaseRegion key={region}>
                             <S.GameSectionTitle>
                               {regionsData.find(r => r.id === region).name}
                             </S.GameSectionTitle>
