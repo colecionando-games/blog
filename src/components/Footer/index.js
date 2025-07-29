@@ -21,10 +21,14 @@ const Footer = () => {
   return (
     <S.FooterWrapper>
       <S.FooterCopyrightBox>
-        <S.FooterLogo image={logoFooter.childImageSharp.gatsbyImageData} alt="Logo Colecionado.Games"/>  
+        <S.FooterLogo image={logoFooter.childImageSharp.gatsbyImageData} alt="Logo colecionado.games"/>  
         <S.FooterCopyright>
-          &copy; 2024 Colecionando.Games<br></br>
-          O manual do colecionador de videogames!
+          &copy; 2025 colecionando.games<br></br>
+          O manual do colecionador de videogames!<br></br>
+          <small style={{ fontSize: "1rem" }}>
+            <a href="mailto:colecionando.games@vgscomcerveja.com.br">entre em contato</a> • <a href="/sobre">sobre</a>
+          </small>
+
         </S.FooterCopyright>
       </S.FooterCopyrightBox>
       <S.FooterSocialLinks>
