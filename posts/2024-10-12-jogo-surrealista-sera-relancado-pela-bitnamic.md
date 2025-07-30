@@ -4,7 +4,7 @@ description: Após um lançamento discreto em 2003 pela Revista do CD-ROM, o jog
 date: 2024-10-13 09:30:00
 author: felipebbarbosa
 category: notícia
-tags: [surrealidade, bitnamic, pc, big-box, jogos-brasileiros, cd-rom]
+tags: [surrealidade, bitnamic, pc, big-box, jogos-brasileiros, cd-rom, indies]
 thumbnail: ../static/assets/img/posts/relancamento-surrealidade/post_thumbnail.jpg
 cover: /assets/img/posts/relancamento-surrealidade/post_thumbnail.jpg
 ---
