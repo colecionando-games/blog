@@ -17,7 +17,7 @@ A campanha, já ativa, vai até o dia 23/09/2025 e ofere diferentes níveis de r
 
 ![Capa prévia do livro - Imagem: Divulgação](/assets/img/posts/livro-indie-brasilis/post_thumbnail.jpg)
 
-A obra terá tiragem limitada de 300 exemplares e vai cobrir títulos nacionais desde a década de 1980 até os dias atuais. Eu, que sou fascinado pelo desenvolvimento de jogos brasileiros, já garanti meu apoio! 👉 [Apoie o projeto você também!](ttps://www.catarse.me/indiebrasilis)
+A obra terá tiragem limitada de 300 exemplares e vai cobrir títulos nacionais desde a década de 1980 até os dias atuais. Eu, que sou fascinado pelo desenvolvimento de jogos brasileiros, já garanti meu apoio! 👉 [Apoie o projeto você também!](https://www.catarse.me/indiebrasilis)
 
 ### Sobre os autores
 
