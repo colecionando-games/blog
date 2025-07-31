@@ -4,7 +4,7 @@ description: O sapo mais mal cheiroso do brejo de Sapópolis voltou e desta vez,
 date: 2025-07-10 23:00:00
 author: felipebbarbosa
 category: notícia
-tags: [sapo-xule, pc, jogos-brasileiros, retrocon]
+tags: [sapo-xule, pc, jogos-brasileiros, retrocon, indies]
 thumbnail: ../static/assets/img/posts/sapo-xule-casamento-indesejado/post_thumbnail.jpg
 cover: /assets/img/posts/sapo-xule-casamento-indesejado/post_thumbnail.jpg
 ---
