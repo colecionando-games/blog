@@ -73,7 +73,6 @@ export const query = graphql`
         cover
         tags
         author {
-          id
           name
           bio
           twitter

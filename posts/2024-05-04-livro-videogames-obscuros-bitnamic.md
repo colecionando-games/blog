@@ -2,7 +2,7 @@
 title: Bitnamic lançará livro sobre videogames obscuros na Retrocon!
 description: Encabeçado e escrito pelo colecionador Marco Lazzeri, o livro apresentará os videogames mais diferentes e estranhos da história.
 date: 2024-05-04 22:00:00
-author: felipebbarbosa
+author: Felipe B. Barbosa
 category: notícia
 tags: [bitnamic, retrocon, livro]
 thumbnail: ../static/assets/img/posts/livro-videogames-obscuros-bitnamic/post_thumbnail.jpg

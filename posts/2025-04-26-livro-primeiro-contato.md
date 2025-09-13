@@ -2,7 +2,7 @@
 title: Podcast Primeiro Contato ganha versão em livro!
 description: Sob as mãos de Henrique Sampaio, a aguardada adaptação do podcast para livro está saindo do forno!
 date: 2025-04-26 21:30:00
-author: felipebbarbosa
+author: Felipe B. Barbosa
 category: notícia
 tags: [livro, primeiro-contato, editora-europa, pc, brasoft, cd-rom]
 thumbnail: ../static/assets/img/posts/livro-primeiro-contato/post_thumbnail.jpg

@@ -2,7 +2,7 @@
 title: Limited Run e a paixão por jogos em mídia física
 description: Conheça empresas que mantém aceso o prazer de colecionar jogos de videogames.
 date: 2021-06-15 16:00:00
-author: felipebbarbosa
+author: Felipe B. Barbosa
 category: artigo
 tags:
   [

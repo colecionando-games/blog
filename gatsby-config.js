@@ -1,7 +1,7 @@
 require("dotenv").config()
 
 const pluginSetup = [ 
-  `gatsby-plugin-react-helmet`,
+  `gatsby-plugin-react-helmet-async`,
   {
     // needs to be the first to work with gatsby-remark-images
     resolve: `gatsby-source-filesystem`,
@@ -27,7 +27,7 @@ const pluginSetup = [
   {
     resolve: `gatsby-source-filesystem`,
     options: {
-      name: 'mappings',
+      name: 'authors',
       path: `${__dirname}/content/`
     }
   },
@@ -48,12 +48,6 @@ const pluginSetup = [
             maxWidth: 960,
             linkImagesToOriginal: false,
             showCaptions: true
-          }
-        },
-        {
-          resolve: `gatsby-remark-figure-caption`,
-          options: {
-            figureClassName: 'md-figure'
           }
         },
         `gatsby-remark-responsive-iframe`,
@@ -95,7 +89,6 @@ const pluginSetup = [
       headers: {},
       allPageHeaders: [],
       mergeSecurityHeaders: true,
-      mergeLinkHeaders: true,
       mergeCachingHeaders: true,
       transformHeaders: (headers, path) => headers,
       generateMatchPathRewrites: true
@@ -180,11 +173,7 @@ module.exports = {
     siteUrl: `https://blog.colecionando.games`
   },
   mapping: {
-    'MarkdownRemark.frontmatter.author': `AuthorYaml`
+    'MarkdownRemark.frontmatter.author': `AuthorYaml.name`
   },
-  plugins: pluginSetup,
-  flags: {
-    DEV_SSR: true,
-    FAST_DEV: true
-  }
+  plugins: pluginSetup
 }

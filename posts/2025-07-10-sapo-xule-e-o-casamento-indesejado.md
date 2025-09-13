@@ -2,7 +2,7 @@
 title: Sapo Xulé retorna ao mundo dos games com uma edição ultra limitada!
 description: O sapo mais mal cheiroso do brejo de Sapópolis voltou e desta vez, em um game inédito na Steam!
 date: 2025-07-10 23:00:00
-author: felipebbarbosa
+author: Felipe B. Barbosa
 category: notícia
 tags: [sapo-xule, pc, jogos-brasileiros, retrocon, indies]
 thumbnail: ../static/assets/img/posts/sapo-xule-casamento-indesejado/post_thumbnail.jpg

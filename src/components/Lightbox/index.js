@@ -1,18 +1,12 @@
 import React, { useState } from "react"
 import PropTypes from "prop-types"
-import { Dialog } from "@reach/dialog"
-import "@reach/dialog/styles.css"
+import * as Dialog from '@radix-ui/react-dialog'
 
 import * as S from "./styled"
 import "./custom-dialog-style.css"
 
 const Lightbox = ({ images }) => {
-  const [{ showLightbox, selectedImage }, setState] = useState({
-    showLightbox: false,
-    selectedImage: null
-  })
-
-  const close = () => setState({ showLightbox: false });
+  const [selectedImage, setSelectedImage] = useState(null)
 
   return (
     <S.Lightbox>
@@ -22,28 +16,42 @@ const Lightbox = ({ images }) => {
             <S.PreviewButton
               key={img.url.childImageSharp.id}
               type="button"
-              onClick={() => setState({ showLightbox: true, selectedImage: img })}>
+              onClick={() => setSelectedImage(img)}
+              aria-label={`Abrir imagem ${img.description}`}
+            >
               <S.LightboxPhoto 
-                key={img.url.childImageSharp.id}
                 image={img.url.childImageSharp.gatsbyImageData}
                 alt={img.description}
-              /><br></br>
-              {!img.author ? <></> : <>Foto: {img.author}</>}
+              /><br/>
+              {img.author && <>Foto: {img.author}</>}
             </S.PreviewButton>
           ))
         }
       </S.LightboxContainer>
-      {showLightbox && (
-        <Dialog onDismiss={close}>
-          <S.LightboxDialogPhoto
-            image={selectedImage.url.childImageSharp.gatsbyImageData}
-            alt={selectedImage.description} />
-          <p></p>
-          <S.CloseButton onClick={close}>
-            Fechar
-          </S.CloseButton>
-        </Dialog>
-      )}
+      <Dialog.Root open={!!selectedImage} onOpenChange={open => !open && setSelectedImage(null)}>
+        <Dialog.Portal>
+          <Dialog.Overlay asChild>
+            <S.DialogOverlay />
+          </Dialog.Overlay>
+          <Dialog.Content asChild>
+            <S.DialogContent>
+              {selectedImage && (
+                <>
+                  <Dialog.Title>{selectedImage.description}</Dialog.Title>
+                  <S.LightboxDialogPhoto
+                    image={selectedImage.url.childImageSharp.gatsbyImageData}
+                    alt={selectedImage.description} 
+                  />
+                  <p></p>
+                  <Dialog.Close asChild>
+                    <S.CloseButton>Fechar</S.CloseButton>
+                  </Dialog.Close>
+                </>
+              )}
+            </S.DialogContent>
+          </Dialog.Content>
+        </Dialog.Portal>        
+      </Dialog.Root>      
     </S.Lightbox>
   )
 }

@@ -2,7 +2,7 @@
 title: Conheça (e apoie) o projeto Indie Brasilis
 description: O livro que pretende registrar a história do game design brasileiro
 date: 2025-07-29 23:00:00
-author: felipebbarbosa
+author: Felipe B. Barbosa
 category: notícia
 tags: [livro, indie-brasilis, jogos-brasileiros, indies]
 thumbnail: ../static/assets/img/posts/livro-indie-brasilis/post_thumbnail.jpg

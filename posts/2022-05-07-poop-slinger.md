@@ -2,7 +2,7 @@
 title: Poop Slinger, o 'jogo de bosta' que se tornou raro!
 description: Conheça a curiosa história de Poop Slinger, o jogo que teoricamente só possui 84 cópias conhecidas no mundo!
 date: 2022-05-20 22:00:00
-author: felipebbarbosa
+author: Felipe B. Barbosa
 category: artigo
 tags: ["playstation", "ps4"]
 thumbnail: ../static/assets/img/posts/poop-slinger/post_thumbnail.jpg

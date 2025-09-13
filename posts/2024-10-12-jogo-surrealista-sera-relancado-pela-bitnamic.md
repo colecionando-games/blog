@@ -2,7 +2,7 @@
 title: Surrealidade finalmente terá o lançamento físico que merece?
 description: Após um lançamento discreto em 2003 pela Revista do CD-ROM, o jogo será relançado, desta vez pela Bitnamic.
 date: 2024-10-13 09:30:00
-author: felipebbarbosa
+author: Felipe B. Barbosa
 category: notícia
 tags: [surrealidade, bitnamic, pc, big-box, jogos-brasileiros, cd-rom, indies]
 thumbnail: ../static/assets/img/posts/relancamento-surrealidade/post_thumbnail.jpg

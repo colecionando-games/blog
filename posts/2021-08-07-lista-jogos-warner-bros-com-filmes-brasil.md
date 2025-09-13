@@ -2,7 +2,7 @@
 title: Lista completa das edições "JOGO + FILME" da WB Games Brasil
 description: Conheça todos os jogos lançados no Brasil neste formato especial para Wii, PS3, PS4, Xbox 360 e Xbox One.
 date: 2021-08-07 17:00:00
-author: felipebbarbosa
+author: Felipe B. Barbosa
 category: lista
 tags: ["playstation", "nintendo", "xbox", "ps3", "ps4", "xbox-one", "wii"]
 thumbnail: ../static/assets/img/posts/wb-games-brasil-jogo-filme/post_thumbnail.jpg

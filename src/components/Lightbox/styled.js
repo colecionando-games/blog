@@ -43,3 +43,24 @@ export const CloseButton = styled.button`
 `
 
 export const AuthorLink = styled(Link)``
+
+export const DialogOverlay = styled.div`
+  background: rgba(0,0,0,0.7);
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+`
+
+export const DialogContent = styled.div`
+  background: #fff;
+  border-radius: 2px;
+  width: 100%;
+  max-width: 960px;
+  max-height: 90vh;
+  overflow: auto;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1001;
+`

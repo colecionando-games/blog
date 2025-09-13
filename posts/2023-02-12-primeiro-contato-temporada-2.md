@@ -2,7 +2,7 @@
 title: Vem aí a 2ª temporada de Primeiro Contato
 description: Desta vez, sobre a relação entre os brasileiros com a internet desde os primórdios.
 date: 2023-02-12 11:00:00
-author: felipebbarbosa
+author: Felipe B. Barbosa
 category: notícia
 tags: [pc, primeiro-contato, podcast, documentario]
 thumbnail: ../static/assets/img/posts/primeiro-contato-2a-temp/post_thumbnail.jpg

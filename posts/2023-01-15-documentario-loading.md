@@ -2,7 +2,7 @@
 title: Assistimos LOADING... Nossos Primeiros Jogos de Computador
 description: O documentário que conta como eram os jogos dos primeiros microcomputadores pessoais.
 date: 2023-01-15 12:00:00
-author: felipebbarbosa
+author: Felipe B. Barbosa
 category: notícia
 tags: [pc, jogos-brasileiros, documentario]
 thumbnail: ../static/assets/img/posts/loading/post_thumbnail.jpg

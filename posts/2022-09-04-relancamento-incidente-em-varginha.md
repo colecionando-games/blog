@@ -2,7 +2,7 @@
 title: Incidente em Varginha é relançado em CD-ROM
 description: O clássico jogo brasileiro de computador ganha relançamento exclusivo pela Bitnamic Software.
 date: 2022-09-04 17:00:00
-author: felipebbarbosa
+author: Felipe B. Barbosa
 category: notícia
 tags: [pc, big-box, jogos-brasileiros, bitnamic, cd-rom]
 thumbnail: ../static/assets/img/posts/relancamento-incidente-varginha/post_thumbnail.jpg

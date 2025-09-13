@@ -2,7 +2,7 @@
 title: Depois de 30 anos, a Atari volta a lançar um jogo para o Atari 2600 em cartucho!
 description: Mr. Run and Jump é mais novo game da empresa que sairá para diversas plataformas, inclusive para o icônico Atari 2600!
 date: 2023-06-28 23:30:00
-author: felipebbarbosa
+author: Felipe B. Barbosa
 category: notícia
 tags: [atari, atari-2600, homebrew]
 thumbnail: ../static/assets/img/posts/mr-run-and-jump-atari/post_thumbnail.jpg
