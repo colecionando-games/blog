@@ -1,6 +1,6 @@
 require("dotenv").config()
 
-const adapter = require("gatsby-adapter-netlify")
+const adapter = require("gatsby-adapter-netlify").default
 
 const pluginSetup = [ 
   `gatsby-plugin-react-helmet-async`,
@@ -167,7 +167,8 @@ module.exports = {
     'MarkdownRemark.frontmatter.author': `AuthorYaml.name`
   },
   adapter: adapter({
-    excludeDatastoreFromEngineFunction: false
+    excludeDatastoreFromEngineFunction: false,
+    imageCDN: false
   }),
   plugins: pluginSetup
 }
