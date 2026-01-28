@@ -140,22 +140,6 @@ const pluginSetup = [
   }
 ]
 
-if (process.env.CONTEXT === 'production') {
-  const analytics = {
-    resolve: `gatsby-plugin-google-gtag`,
-    options: {
-      trackingIds: [
-        process.env.GOOGLE_ANALYTICS_ID
-      ],
-      head: false,
-      anonymize: true,
-      respectDNT: true
-    }
-  }
-
-  pluginSetup.push(analytics)
-}
-
 module.exports = {
   siteMetadata: {
     title: `Colecionando.Games`,
