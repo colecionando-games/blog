@@ -58,7 +58,6 @@ const pluginSetup = [
           }
         },
         `gatsby-remark-responsive-iframe`,
-        `gatsby-remark-lazy-load`,
         `gatsby-remark-prismjs`,
         `gatsby-remark-emoji`,
         {
