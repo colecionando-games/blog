@@ -1,14 +1,14 @@
 import React from "react"
 import propTypes from "prop-types"
-import ReactGA from "react-ga"
+
+import { trackEvent } from "../../utils/analytics"
 
 import * as S from "./styled"
 
 const RecommendedClickTrack = () => {
-  ReactGA.event({
-    category: "menu link",
-    action: "click",
-    label: "Clicou em um post recomendado"
+  trackEvent("click", {
+    event_category: "menu link",
+    event_label: "Clicou em um post recomendado"
   })
 }
 

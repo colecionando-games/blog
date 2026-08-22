@@ -6,6 +6,10 @@ import * as S from "./styled"
 
 const Comments = ({ url, title }) => {
 
+  if (typeof window === "undefined") {
+    return null
+  }
+
   const completeURL = `https://blog.colecionando.games${url}`
 
   let disqusConfig = {

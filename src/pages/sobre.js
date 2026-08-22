@@ -1,7 +1,5 @@
 import React from "react"
 
-import { Helmet } from "react-helmet"
-
 import Layout from "../components/Layout"
 import Seo from "../components/seo"
 import Comments from "../components/Comments"
@@ -11,11 +9,6 @@ import * as S from "../components/Post/styled"
 
 const AboutPage = () => (
   <Layout>
-    <Helmet title="Sobre o colecionando.games!" />
-    <Seo 
-        title="Sobre"
-        description="Sobre o colecionando.games!" />
-
     <S.PostWrapper>
       <S.PostHeader>
         <S.PostTitle>Sobre o colecionando.games</S.PostTitle>
@@ -48,19 +41,21 @@ const AboutPage = () => (
 
         <p>
           Desenvolvedor de software metido a colecionador, historiador e arquivista de jogos eletrônicos. 
-          Além de ter criado este site, também escreve para o <a href="https://www.vgscomcerveja.com.br" target="_blank">Videogames com Cerveja</a>.
+          Além de ter criado este site, também escreve para o <a href="https://www.vgscomcerveja.com.br" target="_blank" rel="noopener noreferrer">Videogames com Cerveja</a>.
         </p>
-        
-        
         
       </S.MainContent>    
 
       <Comments url="/sobre" title="Sobre" />
 
     </S.PostWrapper>
-
-
   </Layout>
+)
+
+export const Head = () => (
+  <Seo 
+    title="Sobre"
+    description="Sobre o colecionando.games! Projeto independente focado no colecionismo e na preservação de jogos eletrônicos." />
 )
 
 export default AboutPage

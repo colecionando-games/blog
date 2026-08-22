@@ -1,7 +1,7 @@
 import React from "react"
-import ReactGA from "react-ga"
 import { Youtube } from "@styled-icons/boxicons-logos/Youtube"
 
+import { trackEvent } from "../../utils/analytics"
 import links from "./content"
 
 import * as S from "./styled"
@@ -9,10 +9,9 @@ import * as S from "./styled"
 
 const HeaderMenu = () => {
   const menuLinkClickTrack = link => {
-    ReactGA.event({
-      category: 'menu link',
-      action: 'click',
-      label: `Menu Link - ${link}`
+    trackEvent("click", {
+      event_category: 'menu link',
+      event_label: `Menu Link - ${link}`
     })
   }
 

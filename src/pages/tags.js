@@ -1,7 +1,5 @@
 import React from "react"
 import PropTypes from "prop-types"
-
-import { Helmet } from "react-helmet"
 import { Link, graphql } from "gatsby"
 
 import Layout from "../components/Layout"
@@ -9,21 +7,12 @@ import Seo from "../components/seo"
 
 import * as S from "../components/Tags/styled"
 
-
 const TagsPage = ({
   data: {
     allMarkdownRemark: { group },
-    site: {
-      siteMetadata: { title },
-    },
   },
 }) => (
   <Layout>
-    <Helmet title={title} />
-    <Seo 
-        title="TAGS"
-        description="Todas as TAGS do blog" />
-
     <S.TagsWrapper>
       <S.TagsHeader>
         <S.TagsTitle>TAGS</S.TagsTitle>
@@ -43,6 +32,12 @@ const TagsPage = ({
   </Layout>
 )
 
+export const Head = () => (
+  <Seo 
+    title="TAGS"
+    description="Todas as TAGS do blog" />
+)
+
 TagsPage.propTypes = {
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
@@ -53,11 +48,6 @@ TagsPage.propTypes = {
         }).isRequired
       ),
     }),
-    site: PropTypes.shape({
-      siteMetadata: PropTypes.shape({
-        title: PropTypes.string.isRequired,
-      }),
-    }),
   }),
 }
 
@@ -65,11 +55,6 @@ export default TagsPage
 
 export const pageQuery = graphql`
   query {
-    site {
-      siteMetadata {
-        title
-      }
-    }
     allMarkdownRemark(limit: 2000) {
       group(field: { frontmatter: { tags: SELECT } }) {
         fieldValue

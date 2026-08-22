@@ -1,9 +1,8 @@
 import React from "react"
 import PropTypes from "prop-types"
-import { Helmet } from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
 
-function Seo({ description, lang, meta, title, image, author, type }) {
+function Seo({ description, lang, meta, title, image, author, type, children }) {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -19,73 +18,46 @@ function Seo({ description, lang, meta, title, image, author, type }) {
   )
 
   const metaDescription = description || site.siteMetadata.description
-
   const ogImage = image || 'https://blog.colecionando.games/assets/img/thumbnail_default.png'
   const contentAuthor = author || site.siteMetadata.author
   const contentType = type || 'website'
+  const pageTitle = title ? `${title} | ${site.siteMetadata.title}` : site.siteMetadata.title
+  
+  const defaultMeta = [
+    { name: `application-name`, content: `Colecionando.Games` },
+    { name: `description`, content: metaDescription },
+    { name: `author`, content: contentAuthor },
+    { property: `og:image`, content: ogImage },
+    { property: `og:title`, content: title || site.siteMetadata.title },
+    { property: `og:type`, content: contentType },
+    { property: `og:description`, content: metaDescription },
+    { name: `twitter:card`, content: `summary_large_image` },
+    { name: `twitter:image:src`, content: ogImage },
+    { name: `twitter:creator`, content: contentAuthor },
+    { name: `twitter:title`, content: title || site.siteMetadata.title },
+    { name: `twitter:description`, content: metaDescription },
+  ]
+
+  const allMeta = defaultMeta.concat(meta)
 
   return (
-    <Helmet
-      htmlAttributes={{
-        lang,
-      }}
-      title={title}
-      titleTemplate={`%s | ${site.siteMetadata.title}`}
-      meta={[
-        {
-          name: `aplication-name`,
-          content: 'Colecionando.Games'
-        },
-        {
-          name: `description`,
-          content: metaDescription,
-        },
-        {
-          name: `author`,
-          content: contentAuthor
-        },
-        {
-          property: `og:image`,
-          content: ogImage
-        },
-        {
-          property: `og:title`,
-          content: title,
-        },
-        {
-          property: `og:type`,
-          content: contentType
-        },
-        {
-          property: `og:description`,
-          content: metaDescription,
-        },
-        {
-          property: `og:type`,
-          content: `website`,
-        },
-        {
-          name: `twitter:card`,
-          content: `summary_large_image`,
-        },
-        {
-          name: `twitter:image:src`,
-          content: ogImage
-        },
-        {
-          name: `twitter:creator`,
-          content: contentAuthor,
-        },
-        {
-          name: `twitter:title`,
-          content: title,
-        },
-        {
-          name: `twitter:description`,
-          content: metaDescription,
-        },
-      ].concat(meta)}
-    />
+    <>
+      <html lang={lang} />
+      <title>{pageTitle}</title>
+
+      {allMeta.map((item, index) => {
+        if (item.name) {
+          return <meta key={index} name={item.name} content={item.content} />
+        }
+
+        if (item.property) {
+          return <meta key={index} property={item.property} content={item.content} />
+        }
+
+        return null
+      })}
+      {children}
+    </>
   )
 }
 
@@ -100,6 +72,10 @@ Seo.propTypes = {
   lang: PropTypes.string,
   meta: PropTypes.arrayOf(PropTypes.object),
   title: PropTypes.string.isRequired,
+  image: PropTypes.string,
+  author: PropTypes.string,
+  type: PropTypes.string,
+  children: PropTypes.node,
 }
 
 export default Seo
