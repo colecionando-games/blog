@@ -3,6 +3,22 @@ require("dotenv").config()
 const adapter = require("gatsby-adapter-netlify").default
 
 const pluginSetup = [ 
+  {
+    resolve: `gatsby-plugin-google-gtag`,
+    options: {
+      trackingIds: [
+        process.env.GOOGLE_ANALYTICS_ID,
+      ],
+      gtagConfig: {
+        anonymize_ip: true,
+        cookie_expires: 0,
+      },
+      pluginConfig: {
+        head: true,
+        respectDNT: true
+      }
+    }
+  },
   `gatsby-plugin-react-helmet-async`,
   {
     // needs to be the first to work with gatsby-remark-images
