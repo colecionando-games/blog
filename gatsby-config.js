@@ -46,7 +46,7 @@ const pluginSetup = [
         {
           resolve: `gatsby-remark-embed-video`,
           options: {
-            privacyEnhanced: false
+            privacyEnhanced: true
           }
         },
         { 
