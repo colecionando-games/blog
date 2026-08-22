@@ -43,7 +43,12 @@ const pluginSetup = [
     resolve: `gatsby-transformer-remark`,
     options: {
       plugins: [
-        `gatsby-remark-embed-video`,
+        {
+          resolve: `gatsby-remark-embed-video`,
+          options: {
+            privacyEnhanced: false
+          }
+        },
         { 
           resolve: `gatsby-remark-images`,
           options: {

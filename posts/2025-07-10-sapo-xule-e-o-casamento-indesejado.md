@@ -17,7 +17,7 @@ E não parou por aí: nas mãos da desenvolvedora **Squash Studios**, o personag
 
 Batizado de **Sapo Xulé e o Casamento Indesejado**, o jogo contará com uma história criada especialmente para o game, toda ilustrada pelo próprio criador do personagem. A trilha sonora também é original, composta pelos músicos Leandro e Nelton Matioli, do estúdio **Salamandratra**.
 
-`youtube: https://www.youtube.com/watch?v=diq9V6gI6yk`
+`youtube: diq9V6gI6yk`
 
 O jogo será lançado na [**Steam**](https://store.steampowered.com/app/2667990/Sapo_Xul_and_the_Unwanted_Marriage/) no dia 21 de julho! Mas o mais legal, quem tiver a oportunidade de comparecer à [**Retrocon**](https://retrocon.com.br/), em São Paulo, nos dias 25, 26 e 27 de julho, poderá colocar as mãos em uma edição bastante limitada — com apenas 150 cópias — que simula uma caixa de jogos de PC antigos e vem repleta de conteúdo: trilha sonora oficial em CD, manual retrô, chave para download do jogo e um certificado de autenticidade numerado e autografado pelo Paulo José.
 
