@@ -36,7 +36,7 @@ exports.createPages = ({ graphql, actions, reporter }) => {
   const gamesTemplate = path.resolve(`./src/templates/games.js`)
 
   return graphql(`{
-    allMarkdownRemark(sort: {fields: frontmatter___date, order: DESC}) {
+    allMarkdownRemark(sort: { frontmatter: { date: DESC } }) {
       edges {
         node {
           fields {
@@ -75,12 +75,12 @@ exports.createPages = ({ graphql, actions, reporter }) => {
       }
     }
     tagsGroup: allMarkdownRemark(limit: 2000) {
-      group(field: frontmatter___tags) {
+      group(field: { frontmatter: { tags: SELECT } }) {
         fieldValue
       }
     }
     categoriesGroup: allMarkdownRemark(limit: 2000) {
-      group(field: frontmatter___category) {
+      group(field: { frontmatter: { category: SELECT } }) {
         fieldValue
       }
     }
