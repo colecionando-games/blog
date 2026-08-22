@@ -6,7 +6,7 @@
   "author": "Felipe B. Barbosa <felipebbarbosa@gmail.com>",
   "dependencies": {
     "@radix-ui/react-dialog": "^1.1.15",
-    "dotenv": "^8.2.0",
+    "dotenv": "^16.6.1",
     "gatsby": "^5.12.0",
     "gatsby-adapter-netlify": "^1.3.0",
     "gatsby-plugin-disqus": "^1.2.2",
@@ -30,7 +30,7 @@
     "gatsby-transformer-remark": "^6.12.0",
     "gatsby-transformer-sharp": "^5.12.0",
     "gatsby-transformer-yaml": "^5.12.0",
-    "joi": "^17.5.0",
+    "joi": "^17.13.6",
     "lazysizes": "^5.3.0",
     "prismjs": "^1.27.0",
     "prop-types": "^15.7.2",
@@ -40,13 +40,13 @@
     "react-helmet": "^6.1.0",
     "react-helmet-async": "^1.0.0",
     "styled-components": "^5.2.1",
-    "styled-icons": "^10.31.0",
+    "styled-icons": "^10.47.1",
     "styled-media-query": "^2.1.2",
     "type-fest": "^2.10.0"
   },
   "devDependencies": {
     "plop": "^4.0.1",
-    "prettier": "2.2.1"
+    "prettier": "^2.8.8"
   },
   "keywords": [
     "gatsby"
