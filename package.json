@@ -45,6 +45,7 @@
     "type-fest": "^2.10.0"
   },
   "devDependencies": {
+    "baseline-browser-mapping": "^2.11.17",
     "plop": "^4.0.1",
     "prettier": "2.2.1"
   },
