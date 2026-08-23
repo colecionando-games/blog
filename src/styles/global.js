@@ -81,10 +81,6 @@ const GlobalStyles = createGlobalStyle`
     border: 1px solid #cecece;
     padding: 10px;
   }
-  .gatsby-resp-image-figcaption {
-    padding: 5px;
-    text-align: center;
-  }
   td a {
     color: black !important;
     border-bottom-color: black !important;

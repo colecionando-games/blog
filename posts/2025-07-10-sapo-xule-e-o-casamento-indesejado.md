@@ -21,6 +21,6 @@ Batizado de **Sapo Xulé e o Casamento Indesejado**, o jogo contará com uma his
 
 O jogo será lançado na [**Steam**](https://store.steampowered.com/app/2667990/Sapo_Xul_and_the_Unwanted_Marriage/) no dia 21 de julho! Mas o mais legal, quem tiver a oportunidade de comparecer à [**Retrocon**](https://retrocon.com.br/), em São Paulo, nos dias 25, 26 e 27 de julho, poderá colocar as mãos em uma edição bastante limitada — com apenas 150 cópias — que simula uma caixa de jogos de PC antigos e vem repleta de conteúdo: trilha sonora oficial em CD, manual retrô, chave para download do jogo e um certificado de autenticidade numerado e autografado pelo Paulo José.
 
-![Uma edição bem caprichada! - Imagem: Instagram/Sapo Xulé Oficial](/assets/img/posts/sapo-xule-casamento-indesejado/sapo-xule-e-o-casamento-indesejado-edicao-limitada-divulgacao.jpg)
+![Propaganda do jogo](/assets/img/posts/sapo-xule-casamento-indesejado/sapo-xule-e-o-casamento-indesejado-edicao-limitada-divulgacao.jpg "Uma edição bem caprichada! - Imagem: Instagram/Sapo Xulé Oficial")
 
 A **Squash Studios** estará presente na área indie, no estande L109, e contará com a presença do criador do Sapo Xulé e de toda equipe de desenvolvimento do jogo! 

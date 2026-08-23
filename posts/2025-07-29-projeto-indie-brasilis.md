@@ -15,7 +15,7 @@ Encabeçado pelo jornalista Kao Tokio e pelo game designer Renato Degiovani, o p
 
 A campanha, já ativa, vai até o dia 23/09/2025 e ofere diferentes níveis de recompensa. É possível contribuir com valores a partir de R$ 10 (2 bits) até R$ 250 ou mais (128 bits). No entanto, somente a partir do nível de R$ 160 (32 bits) é garantida uma cópia impressa do livro físico. 
 
-![Capa prévia do livro - Imagem: Divulgação](/assets/img/posts/livro-indie-brasilis/post_thumbnail.jpg)
+![Capa prévia do livro](/assets/img/posts/livro-indie-brasilis/post_thumbnail.jpg "Capa prévia do livro - Imagem: Divulgação")
 
 A obra terá tiragem limitada de 300 exemplares e vai cobrir títulos nacionais desde a década de 1980 até os dias atuais. Eu, que sou fascinado pelo desenvolvimento de jogos brasileiros, já garanti meu apoio! 👉 [Apoie o projeto você também!](https://www.catarse.me/indiebrasilis)
 

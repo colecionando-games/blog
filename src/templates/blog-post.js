@@ -31,7 +31,7 @@ const BlogPost = ({ data, pageContext }) => {
         title={post.frontmatter.title}
         description={post.frontmatter.description}
         image={post.frontmatter.cover}
-        author={post.frontmatter.author}
+        author={post.frontmatter.author?.name || post.frontmatter.author}
       />
 
       <S.PostWrapper>

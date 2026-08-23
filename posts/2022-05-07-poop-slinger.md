@@ -24,11 +24,11 @@ Mas foi por uma série de fatores que levaram à isso. Fatores tão grotescos, q
 
 Mas enfim, vamos aos motivos do fracasso... Primeiro, o site deles, que hoje está fora do ar, era bastante simples e "suspeito", que incluia até um rodapé com *copyright* escrito em RUSSO!
 
-![Imagem: Internet](/assets/img/posts/poop-slinger/limited_rare_site_poop_slinger.jpg)
+![Print do site da Limited Rare](/assets/img/posts/poop-slinger/limited_rare_site_poop_slinger.jpg "Print do site da Limited Rare - Imagem: Internet")
 
 E reparem no logo deles, uma cópia descarada da Limited Run...
 
-![Imagem: Internet](/assets/img/posts/poop-slinger/limited_rare_limited_run_comparacao.jpg)
+![Logos da Limited Rare e Limited Run](/assets/img/posts/poop-slinger/limited_rare_limited_run_comparacao.jpg "Comparação dos logos da Limited Rare com a Limited Run - Imagem: Internet")
 
 Outra suspeita: No anúncio dizia que o jogo teria apenas 820 cópias disponíveis, sendo que limite mínimo exigido pela **Sony** é de 1.000 cópias.
 
@@ -42,15 +42,15 @@ Mas ainda sim, teve "meia dúzia de gato pingado", 84 para ser mais exato, que a
 
 Algum tempo depois, os compradores começaram a receber sua cópia em casa!
 
-![Removeram da capa o logo plagiado - Foto: Internet](/assets/img/posts/poop-slinger/poop_slinger_front.jpg)
+![Poop Slinger para PS4](/assets/img/posts/poop-slinger/poop_slinger_front.jpg "Removeram da capa o logo plagiado - Foto: Internet")
 
-![Mas o mantiveram na parte de trás - Foto: Internet](/assets/img/posts/poop-slinger/poop_slinger_back.jpg)
+![Parte de trás do jogo](/assets/img/posts/poop-slinger/poop_slinger_back.jpg "Mas o mantiveram na parte de trás - Foto: Internet")
 
-![O negócio é real mesmo - Foto: Internet](/assets/img/posts/poop-slinger/poop_slinger_disc.jpg)
+![Parte de dentro do jogo](/assets/img/posts/poop-slinger/poop_slinger_disc.jpg "O negócio é real mesmo - Foto: Internet")
 
 Hoje, essas cópias estão valendo uma pequena fortuna no eBay!
 
-![Mais de R$ 20.000 - Imagem: Recorte do site eBay (20/05/2022)](/assets/img/posts/poop-slinger/poop_slinger_ebay.jpg)
+![Print do site eBay](/assets/img/posts/poop-slinger/poop_slinger_ebay.jpg "Mais de R$ 20.000 - Imagem: Recorte do site eBay no dia 20/05/2022")
 
 Algumas mídias especializadas tentaram entrar em contato com os donos da empresa e descobriram que se tratava de um russo que estava tentando "ganhar a vida" no EUA e o motivo para tantos erros é que ele desconhecia a tradição do 1º de abril (April Fool's Day) e que também não via problemas em ter um logo parecido com o da Limited Run. Bizarro, não?
 

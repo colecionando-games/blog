@@ -1,0 +1,6 @@
+{
+  "name": "gatsby-remark-custom-captions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": ["gatsby", "gatsby-plugin", "remark"]
+}

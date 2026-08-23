@@ -59,6 +59,7 @@ const pluginSetup = [
     resolve: `gatsby-transformer-remark`,
     options: {
       plugins: [
+        `gatsby-remark-custom-captions`,
         {
           resolve: `gatsby-remark-embed-video`,
           options: {
@@ -70,7 +71,6 @@ const pluginSetup = [
           options: {
             maxWidth: 960,
             linkImagesToOriginal: false,
-            showCaptions: true
           }
         },
         `gatsby-remark-responsive-iframe`,

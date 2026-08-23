@@ -13,7 +13,7 @@ Adaptado da primeira temporada do podcast **Primeiro Contato**, o livro é o res
 
 A obra, escrita pelo jornalista Henrique Sampaio e publicada pela Editora Europa, contará com 472 páginas, sendo 384 em preto e branco e 88 coloridas, incluindo fotos, artes e documentos. Além disso, traz dois artigos extras, um deles inédito.
 
-![O livro contará com páginas preto e branco e também coloridas! - Montagem: Instagram/Rique Sampaio](/assets/img/posts/livro-primeiro-contato/livro-primeiro-contato_montagem.jpg)
+![Livro Primeiro Contato](/assets/img/posts/livro-primeiro-contato/livro-primeiro-contato_montagem.jpg "O livro contará com páginas preto e branco e também coloridas! - Montagem: Instagram/Rique Sampaio")
 
 Os principais temas abordados no livro incluem:
 - O impacto das crises políticas e econômicas das décadas de 1980 e 1990;

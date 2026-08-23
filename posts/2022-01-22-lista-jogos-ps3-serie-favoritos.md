@@ -11,7 +11,7 @@ cover: /assets/img/posts/ps3-favoritos/post_thumbnail2.jpg
 
 Criada no intuito de oferecer ao consumidor uma opção mais acessível ($$$) de jogar os maiores sucessos da plataforma, a linha **Favoritos** do **PlayStation 3** chegou ao Brasil e alguns países da América Latina (LatAm) em 2013. Porém, entre os colecionadores, essa coleção divide opiniões, pois muitos não gostam e preferem a versão original (black label), mas alguns a consideram como um _subset_ interessante e legal de colecionar, ainda mais sabendo que só saíram nos países da América Latina.
 
-![Foto: Acervo pessoal](/assets/img/posts/ps3-favoritos/favoritos.jpg)
+![Alguns jogos Favoritos para PS3](/assets/img/posts/ps3-favoritos/favoritos.jpg "Alguns dos jogos da coleção Favoritos - Foto: Acervo pessoal")
 
 Por esse fato, foi até difícil de levantar essa lista definitiva de quantos realmente saíram, pois tem muita informação desatualizada na internet, já que alguns dos jogos anunciados para essa linha acabaram não sendo lançados de fato, tais como DuckTales: Remastered e Fallout: New Vegas, por exemplos.
 

@@ -247,9 +247,5 @@ export const MainContent = styled.section`
     img {
       margin: 0 auto; 
     }
-    figcaption {
-      padding: 5px 10px;
-      text-align: center;
-    }
   }
 `

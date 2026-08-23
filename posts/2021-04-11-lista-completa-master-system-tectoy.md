@@ -19,7 +19,7 @@ Para chegar nessa lista, demoraram aproxidamente 3 anos para ser concluída, mas
 
 Antes de mais nada, a primeira coisa que precisa ser dita é que existem seis tipos, ou melhor, formatos/layout de caixas lançadas no Brasil, são elas:
 
-![](/assets/img/posts/fullset-master-system-tectoy/formatos-capas-sms-tectoy.jpg)
+![Formatos de capa dos jogos de Master System](/assets/img/posts/fullset-master-system-tectoy/formatos-capas-sms-tectoy.jpg)
 
 - Caixa de papelão com 1 vinco (1V) ou 3 vincos (3V);
 - Caixa plástica com encarte branco com quadrados grandes;
@@ -43,7 +43,7 @@ Dito isso, a lista está categorizada pelos formatos em sua ordem de lançamento
 
 Foram lançados **62 jogos** neste formato.
 
-![Jogos na caixa de papelão — Foto: Acervo pessoal](/assets/img/posts/fullset-master-system-tectoy/sms-caixas-papelao-tectoy.jpg)
+![Jogos na caixa de papelão](/assets/img/posts/fullset-master-system-tectoy/sms-caixas-papelao-tectoy.jpg "Alguns dos jogos na caixa de papelão — Foto: Acervo pessoal")
 
 | Nome                                                                        |         Letra         |        Tipo        | Variações                                              |
 | :-------------------------------------------------------------------------- | :-------------------: | :----------------: | :----------------------------------------------------- |
@@ -114,7 +114,7 @@ Foram lançados **62 jogos** neste formato.
 
 O formato com a maior quantidade de jogos. Foram lançados **103 jogos** no total.
 
-![Jogos na caixa plástica com encarte branco com quadrados grandes — Foto: Acervo pessoal](/assets/img/posts/fullset-master-system-tectoy/sms-caixas-plastica-branca-quadrados-grandes-tectoy.jpg)
+![Jogos na caixa plástica com encarte branco com quadrados grandes](/assets/img/posts/fullset-master-system-tectoy/sms-caixas-plastica-branca-quadrados-grandes-tectoy.jpg "Alguns dos jogos na caixa plástica com encarte branco com quadrados grandes — Foto: Acervo pessoal")
 
 | Nome                                                                                      | Letra | Variações                                                                                                       |
 | :---------------------------------------------------------------------------------------- | :---: | :-------------------------------------------------------------------------------------------------------------- |
@@ -226,7 +226,7 @@ O formato com a maior quantidade de jogos. Foram lançados **103 jogos** no tota
 
 Foram lançados apenas **15 jogos** neste formato.
 
-![Jogos na caixa plástica com encarte branco com quadrados pequenos — Foto: Acervo pessoal](/assets/img/posts/fullset-master-system-tectoy/sms-caixas-plastica-branca-quadrados-pequenos-tectoy.jpg)
+![Jogos na caixa plástica com encarte branco com quadrados pequenos](/assets/img/posts/fullset-master-system-tectoy/sms-caixas-plastica-branca-quadrados-pequenos-tectoy.jpg "Alguns dos jogos na caixa plástica com encarte branco com quadrados pequenos — Foto: Acervo pessoal")
 
 | Nome                                                                | Letra | Variações                                    |
 | :------------------------------------------------------------------ | :---: | :------------------------------------------- |
@@ -250,7 +250,7 @@ Foram lançados apenas **15 jogos** neste formato.
 
 Eu gosto deste formato, pois tem o logo do jogo na lateral, porém saíram apenas **56 jogos** neste formato.
 
-![Jogos na caixa plástica com encarte azul e branco — Foto: Acervo pessoal](/assets/img/posts/fullset-master-system-tectoy/sms-caixas-plastica-azul-branca-tectoy.jpg)
+![Jogos na caixa plástica com encarte azul e branco](/assets/img/posts/fullset-master-system-tectoy/sms-caixas-plastica-azul-branca-tectoy.jpg "Alguns dos jogos na caixa plástica com encarte azul e branco — Foto: Acervo pessoal")
 
 | Nome                                                                                   | Letra | Variações                                         |
 | :------------------------------------------------------------------------------------- | :---: | :------------------------------------------------ |
@@ -315,7 +315,7 @@ Eu gosto deste formato, pois tem o logo do jogo na lateral, porém saíram apena
 
 No formato, todo azul, teve **35 jogos**.
 
-![Jogos na caixa plástica com encarte azul — Foto: Acervo pessoal](/assets/img/posts/fullset-master-system-tectoy/sms-caixas-plastica-azul-tectoy.jpg)
+![Jogos na caixa plástica com encarte azul](/assets/img/posts/fullset-master-system-tectoy/sms-caixas-plastica-azul-tectoy.jpg "Alguns dos jogos na caixa plástica com encarte azul — Foto: Acervo pessoal")
 
 | Nome                                                                         | Letra | Variações                                                                                   |
 | :--------------------------------------------------------------------------- | :---: | :------------------------------------------------------------------------------------------ |
@@ -632,7 +632,7 @@ Essa é a mesma lista acima, porém compilada sem repetir os jogos em cada forma
 
 Para complementar o post, gostaria de enfatizar o quão bom foi o trabalho da Tec Toy na década de 90 selecionando dentre os jogos lançados, os que saíram **exclusivamente para o Brasil**, ou seja, em nenhum outro lugar no mundo você vai encontrar esses jogos para Master System!
 
-![Alguns dos jogos exclusivos do Brasil — Foto: Acervo pessoal](/assets/img/posts/fullset-master-system-tectoy/sms-br-exclusivos-tectoy.jpg)
+![Alguns dos jogos exclusivos do Brasil](/assets/img/posts/fullset-master-system-tectoy/sms-br-exclusivos-tectoy.jpg "Alguns dos jogos exclusivos do Brasil — Foto: Acervo pessoal")
 
 Em ordem alfabética:
 

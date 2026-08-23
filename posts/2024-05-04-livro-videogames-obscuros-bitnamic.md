@@ -15,9 +15,9 @@ Entitulado provisoriamente como "O Livro dos Videogames Obscuros", o livro está
 
 Além disso, a diagramação do livro está sendo feita pelo artista e designer **Leonardo Bussadori**.
 
-![Imagem: Bitnamic/Divulgação](/assets/img/posts/livro-videogames-obscuros-bitnamic/livro-dos-videogames-obscuros_ss1.jpg)
+![Trecho do livro](/assets/img/posts/livro-videogames-obscuros-bitnamic/livro-dos-videogames-obscuros_ss1.jpg "Imagem: Bitnamic/Divulgação")
 
-![Imagem: Bitnamic/Divulgação](/assets/img/posts/livro-videogames-obscuros-bitnamic/livro-dos-videogames-obscuros_ss2.jpg)
+![Trecho do livro](/assets/img/posts/livro-videogames-obscuros-bitnamic/livro-dos-videogames-obscuros_ss2.jpg "Imagem: Bitnamic/Divulgação")
 
 ### Sobre a Bitnamic
 

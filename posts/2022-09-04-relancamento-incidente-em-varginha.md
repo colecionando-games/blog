@@ -13,7 +13,7 @@ Desenvolvido pela **Perceptum Informática** e lançado pela **Cia. do Software*
 
 Encabeçados por **Marcos Cuzziol** e **Odair Gaspar**, o jogo vendeu cerca de duas mil cópias no Brasil. Entretanto, o jogo também foi comercializado fora do território nacional, pela **Midas Interactive**, sob o nome de **Alien Anarchy** ou **Misión Alien** e vendeu algo em torno de 20 mil cópias.
 
-![Screenshot do jogo — Imagem: Divulgação](/assets/img/posts/relancamento-incidente-varginha/incidente-em-varginha-ss1.jpg)
+![Screenshot do jogo](/assets/img/posts/relancamento-incidente-varginha/incidente-em-varginha-ss1.jpg "Screenshot do jogo — Imagem: Divulgação/Bitnamic Software")
 
 Ambientado em cidades brasileiras como Rio de Janeiro, São Paulo e Varginha, o jogo se baseia muito nos relatos dos moradores locais. Inclusive, a trilha sonora, composta por **Fábio Cardelli**, tem sons característicos de cada local.
 
@@ -21,7 +21,7 @@ Hoje, praticamente 24 anos depois, você terá a chance de [adquirir uma nova c�
 
 A edição contará com o CD-ROM com o jogo original e extras, além do manual caprichado em formato de HQ, como era o original, dentro de uma caixa "big box", como mandava o figurino da época! O jogo custa R$ 134,90 mais frete.
 
-![Caixa do jogo em comparação a um cartucho de Atari e um estojo de DVD — Foto: Instagram/Bitnamic Software](/assets/img/posts/relancamento-incidente-varginha/incidente-em-varginha-bitnamic-comp.jpg)
+![Caixa do jogo em comparação a um cartucho de Atari e um estojo de DVD](/assets/img/posts/relancamento-incidente-varginha/incidente-em-varginha-bitnamic-comp.jpg "Caixa do jogo em comparação a um cartucho de Atari e um estojo de DVD — Foto: Instagram/Bitnamic Software")
 
 ### Sobre a Bitnamic Software
 

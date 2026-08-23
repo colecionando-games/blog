@@ -13,7 +13,7 @@ Sou totalmente suspeito para falar sobre esse documentário, pois curto demais c
 
 Dos mesmos criadores do excelente documentário ["1983 - O Ano dos Videogames no Brasil"](https://youtu.be/BpYfeR7p8yw), Marcus Vinicius Garrett Chiado e Carlos Bighetti trazem em "LOADING... Nossos Primeiros Jogos de Computador" uma série de relatos e registros históricos de uma época pré-PC no Brasil.
 
-`youtube: https://www.youtube.com/watch?v=DOvRYd0Q0pc`
+`youtube: DOvRYd0Q0pc`
 
 Você terá a oportunidade de conhecer jogos dessas máquinas pioneiras, tais como o **Apple II**, o **TRS Color**, o **ZX Spectrum**, o **Amiga** e o **MSX**, que eram superiores aos jogos dos videogames da época, como o **Odyssey**, **Atari 2600** e o **Intellivision**. Os jogos nestes computadores, além de serem superiores no quesito de gráficos e efeitos sonoros, eram mais complexos, tinham enredo, apresentações e uma coisa que era bem raro na época, tinham final!
 
@@ -38,7 +38,7 @@ No documentário você irá encontrar todos eles e mais alguns outros nomes dand
 
 Este documentário é uma produção da [Revista Jogos 80](https://www.jogos80.com.br/) e do [Canal Flashback](https://www.youtube.com/channel/UCzgdopElkXdUvqMO3IEkuFQ) em associação com [VGDB - Vídeo Game Data Base](https://www.vgdb.com.br/) e [WarpZone](https://warpzone.me/). Os trabalhos foram iniciados em 2019 e contou, inclusive, com apoio de uma [campanha de financiamento coletivo](https://www.kickante.com.br/vaquinha-online/loading) (que na qual eu tive a satisfação de contribuir), porém com o advento da pandemia do COVID-19, atrasou, mas finalmente o documentário já é uma realidade disponível!
 
-![Meu nome nos créditos! :) — Imagem: LOADING.../Hotmart](/assets/img/posts/loading/credits_felipebbarbosa.jpg)
+![Meu nome nos créditos](/assets/img/posts/loading/credits_felipebbarbosa.jpg "Meu nome nos créditos! :) — Imagem: LOADING.../Hotmart")
 
 ### Onde assistir?
 
@@ -47,4 +47,4 @@ O documentário não é gratuito e está disponível a venda tanto em mídia fí
 - DVD/Blu-Ray está disponível na [Bitnamic Software](https://www.bitnamic.com.br/produto/loading-nossos-primeiros-jogos-de-computador/) a partir de R$ 44,90 ([edição de colecionador](https://www.bitnamic.com.br/produto/loading-nossos-primeiros-jogos-de-computador-colecionador/) a partir de R$ 69,90).
 - Formato digital/streaming está na [Hotmart](https://hotmart.com/pt-br/marketplace/produtos/loading-nossos-primeiros-jogos-de-computador-standard) por R$ 69,90 ([edição de colecionador](https://hotmart.com/pt-br/marketplace/produtos/loading-colecionador) por R$ 89,90).
 
-![Poster do documentário inspirado no filme Jogos de Guerra (Wargames) — Imagem: Divulgação](/assets/img/posts/loading/poster.jpg)
+![Poster do documentário](/assets/img/posts/loading/poster.jpg "Poster do documentário inspirado no filme Jogos de Guerra (Wargames) — Imagem: Divulgação")
