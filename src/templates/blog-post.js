@@ -1,4 +1,4 @@
-import React, { useEffect } from "react"
+import React, { useEffect, useRef } from "react"
 import { graphql } from "gatsby"
 
 import Layout from "../components/Layout"
@@ -12,44 +12,55 @@ const BlogPost = ({ data, pageContext }) => {
   const post = data.markdownRemark
   const next = pageContext.nextPost
   const prev = pageContext.previousPost
-  const tags = post.frontmatter.tags;
+  const tags = post.frontmatter.tags ||  []
+  const contentRef = useRef(null)
+
+  const authorName = typeof post.frontmatter.author === "object"
+    ? post.frontmatter.author?.name
+    : post.frontmatter.author
 
   useEffect(() => {
-    var tables = document.getElementsByTagName("table");
-    for (var i = 0; i < tables.length; i++) {
-      var divEl = document.createElement("div");
-      divEl.style.overflowX = "auto";
-      divEl.id = tables[i].id + "_div";
-      tables[i].insertAdjacentElement("beforebegin", divEl);
-      divEl.appendChild(tables[i]);
-    }
-  });
+    if (!contentRef.current) return
+
+    const tables = contentRef.current.querySelectorAll("table")
+
+
+    tables.forEach((table) => {
+      if (table.parentElement && table.parentElement.classList.contains("table-wrapper")) {
+        return
+      }
+
+      const divEl = document.createElement("div")
+      divEl.className = "table-wraper"
+      divEl.style.overflowX = "auto"
+
+      table.parentNode.insertBefore(divEl, table)
+      divEl.appendChild(table);
+    })
+
+  }, [post.html]);
 
   return (
     <Layout>
-      <Seo 
-        title={post.frontmatter.title}
-        description={post.frontmatter.description}
-        image={post.frontmatter.cover}
-        author={post.frontmatter.author?.name || post.frontmatter.author}
-      />
-
       <S.PostWrapper>
         <S.PostHeader>
           <S.PostDate>{post.frontmatter.date} • {post.timeToRead} min de leitura</S.PostDate>
           <S.PostTitle>{post.frontmatter.title}</S.PostTitle>
           <S.PostDescription>{post.frontmatter.description}</S.PostDescription>
-          <S.PostAuthor>por {post.frontmatter.author.name}</S.PostAuthor>
+          {authorName && <S.PostAuthor>por {authorName}</S.PostAuthor>}
         </S.PostHeader>
 
-        <S.MainContent>
+        <S.MainContent ref={contentRef}>
           <div dangerouslySetInnerHTML={{ __html: post.html }}></div>
 
-          <S.PostTags>🏷 
-            {tags.map(tag => (
-              <S.PostTag key={tag} to={`/tags/${tag}`}>{tag}</S.PostTag>
-            ))}
-          </S.PostTags>
+          {tags.length > 0 && (
+            <S.PostTags>
+              🏷{" "} 
+              {tags.map((tag) => (
+                <S.PostTag key={tag} to={`/tags/${tag}`}>{tag}</S.PostTag>
+              ))}
+            </S.PostTags>
+          )}
         </S.MainContent>
 
         <Comments url={post.fields.slug} title={post.frontmatter.title} />
@@ -57,6 +68,24 @@ const BlogPost = ({ data, pageContext }) => {
 
       <RecommendedPosts next={next} previous={prev} />
     </Layout>
+  )
+}
+
+export const Head = ({ data, location }) => {
+  const post = data.markdownRemark
+  const authorName = typeof post.frontmatter.author === "object"
+    ? post.frontmatter.author?.name
+    : post.frontmatter.author
+
+  return (
+    <Seo
+      title={post.frontmatter.title}
+      description={post.frontmatter.description}
+      image={post.frontmatter.cover}
+      author={authorName}
+      pathname={location.pathname}
+      type="article"
+    />
   )
 }
 
