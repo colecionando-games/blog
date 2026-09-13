@@ -112,7 +112,9 @@ const pluginSetup = [
       resolveSiteUrl: () => `https://blog.colecionando.games`,
       serialize: ({ path }) => {
         return {
-          url: path
+          url: `https://blog.colecionando.games${path}`,
+          changefreq: 'daily',
+          priority: 0.7
         }
       }
     }
