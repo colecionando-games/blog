@@ -104,7 +104,19 @@ const pluginSetup = [
       icon: `static/assets/img/favicon.png` // This path is relative to the root of the site.
     }
   },
-  `gatsby-plugin-sitemap`,
+  {
+    resolve: `gatsby-plugin-sitemap`,
+    options: {
+      output: `/`,
+      entryLimit: 50000,
+      resolveSiteUrl: () => `https://blog.colecionando.games`,
+      serialize: ({ path }) => {
+        return {
+          url: path
+        }
+      }
+    }
+  },  
   // this (optional) plugin enables Progressive Web App + Offline functionality
   // To learn more, visit: https://gatsby.dev/offline
   //`gatsby-plugin-offline`,
