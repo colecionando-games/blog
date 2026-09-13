@@ -8,10 +8,10 @@ import Pagination from "../components/Pagination"
 
 import * as S from "../components/ListWrapper/styled"
 
-const BlogList = props => {
-  const postList = props.data.allMarkdownRemark.edges
+const BlogList = ({ data, pageContext }) => {
+  const postList = data.allMarkdownRemark.edges
 
-  const { currentPage, numPages } = props.pageContext
+  const { currentPage, numPages } = pageContext
   const isFirst = currentPage === 1
   const isLast = currentPage === numPages
   const prevPage = currentPage - 1 === 1 ? "/" : `/page/${currentPage - 1}`
@@ -19,11 +19,10 @@ const BlogList = props => {
 
   return (
     <Layout>
-      <Seo title="Home" />
       <S.ListWrapper>
-        { postList.map(({ node }, i) => (
+        { postList.map(({ node }) => (
             <PostItem
-              key={i}
+              key={node.fields.slug}
               slug={node.fields.slug}
               category={node.frontmatter.category}
               date={node.frontmatter.date}
@@ -47,7 +46,24 @@ const BlogList = props => {
   )
 }
 
-export default BlogList
+export const Head = ({ pageContext, location }) => {
+  const { currentPage } = pageContext
+  const pageTitle = currentPage === 1 ? "Home" : `Página ${currentPage}`
+
+  return (
+    <Seo title={pageTitle} pathname={location.pathname}>
+      {currentPage > 1 && (
+        <link 
+          rel="prev"
+          href={currentPage - 1 === 1 ? "/" : `/page/${currentPage - 1}`}
+        />
+      )}
+      {currentPage < pageContext.numPages && (
+        <link rel="next" href={`/page/${currentPage + 1}`} />
+      )}
+    </Seo>
+  )
+}
 
 export const query = graphql`
   query PostList($skip: Int!, $limit: Int!) {
@@ -78,3 +94,5 @@ export const query = graphql`
     }
   }
 `
+
+export default BlogList
