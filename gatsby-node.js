@@ -1,7 +1,9 @@
 const path = require("path")
 const { createFilePath } = require("gatsby-source-filesystem")
+const slugify = require("slugify")
 
-// to add the slug field to each post
+const sanitizeSlug = (text) => slugify(text, { lower: true, strict: true })
+
 exports.onCreateNode = ({ node, getNode, actions }) => {
   const { createNodeField } = actions
 
@@ -26,7 +28,7 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
   }
 }
 
-exports.createPages = ({ graphql, actions, reporter }) => {
+exports.createPages = async ({ graphql, actions, reporter }) => {
   const { createPage } = actions
 
   const blogPostTemplate = path.resolve(`./src/templates/blog-post.js`)
@@ -35,193 +37,128 @@ exports.createPages = ({ graphql, actions, reporter }) => {
   const categoryTemplate = path.resolve(`./src/templates/categories.js`)
   const gamesTemplate = path.resolve(`./src/templates/games.js`)
 
-  return graphql(`{
-    allMarkdownRemark(sort: { frontmatter: { date: DESC } }) {
-      edges {
-        node {
-          fields {
-            slug
-          }
-          frontmatter {
-            date(locale: "pt-br", formatString: "DD [de] MMMM [de] YYYY")
-            description
-            title
-            category
-            tags
-            thumbnail {
-              childImageSharp {
-                gatsbyImageData(width: 500, placeholder: BLURRED, layout: CONSTRAINED)
-              }
+  const result = await graphql(`
+    {
+      allMarkdownRemark(sort: { frontmatter: { date: DESC } }) {
+        edges {
+          node {
+            fields {
+              slug
             }
           }
-          timeToRead
-        }
-        next {
-          frontmatter {
-            title
-          }
-          fields {
-            slug
-          }
-        }
-        previous {
-          frontmatter {
-            title
-          }
-          fields {
-            slug
-          }
-        }
-      }
-    }
-    tagsGroup: allMarkdownRemark(limit: 2000) {
-      group(field: { frontmatter: { tags: SELECT } }) {
-        fieldValue
-      }
-    }
-    categoriesGroup: allMarkdownRemark(limit: 2000) {
-      group(field: { frontmatter: { category: SELECT } }) {
-        fieldValue
-      }
-    }
-    gamesGroup: allDatabaseJson {
-      edges {
-        node {
-          fields {
-            slug
-          }
-          title
-          original_developer
-          original_publisher
-          original_release_year
-          game_type
-          game_type_ref
-          releases {
-            platform
-            developer
-            publisher
-            release_date
-            description
-            regions {
-              region
-              release_date
-              versions {
-                version
-                case_format
-                edition
-                description
-                distributor
-                photos {
-                  caption
-                  author
-                  url {
-                    childImageSharp {
-                      gatsbyImageData(width: 1080, placeholder: BLURRED, layout: CONSTRAINED)
-                    }
-                  }
-                }
-              }
+          next {
+            frontmatter {
+              title
+            }
+            fields {
+              slug
             }
           }
-          pingbacks {
-            title
-            url
-            external
+          previous {
+            frontmatter {
+              title
+            }
+            fields {
+              slug
+            }
+          }            
+        }
+      }
+      tagsGroup: allMarkdownRemark(limit: 2000) {
+        group(field: { frontmatter: { tags: SELECT } }) {
+          fieldValue
+        }
+      }
+      categoriesGroup: allMarkdownRemark(limit: 2000) {
+        group(field: { frontmatter: { category: SELECT } }) {
+          fieldValue
+        }
+      }
+      gamesGroup: allDatabaseJson {
+        edges {
+          node {
+            fields {
+              slug
+            }
           }
         }
       }
     }
+  `)
+  
+  if (result.errors) {
+    reporter.panicOnBuild(`Error while running GraphQL query in createPages.`)
+    return
   }
-  `).then(result => {
 
-    if (result.errors) {
-      reporter.panicOnBuild(`Error while running GraphQL query.`)
-      return
-    }
+  const posts = result.data.allMarkdownRemark.edges
 
-    const posts = result.data.allMarkdownRemark.edges
-
-    posts.forEach(({ node, next, previous }) => {
-      createPage({
-        path: node.fields.slug,
-        component: blogPostTemplate,
-        context: {
-          slug: node.fields.slug,
-          previousPost: next,
-          nextPost: previous
-        }
-      })
+  posts.forEach(({ node, next, previous }) => {
+    createPage({
+      path: node.fields.slug,
+      component: blogPostTemplate,
+      context: {
+        slug: node.fields.slug,
+        previousPost: next,
+        nextPost: previous
+      }
     })
+  })
 
-    const postsPerPage = 24;
-    const numPages = Math.ceil(posts.length / postsPerPage)
+  // blog list
+  const postsPerPage = 24;
+  const numPages = Math.ceil(posts.length / postsPerPage)
 
-    Array.from({ length: numPages }).forEach((_, index) => {
-      createPage({
-        path: index === 0 ? `/` : `/page/${index + 1}`,
-        component: blogPostListTemplate,
-        context: {
-          limit: postsPerPage,
-          skip: index * postsPerPage,
-          numPages,
-          currentPage: index + 1
-        }
-      })
+  Array.from({ length: numPages }).forEach((_, index) => {
+    createPage({
+      path: index === 0 ? `/` : `/page/${index + 1}`,
+      component: blogPostListTemplate,
+      context: {
+        limit: postsPerPage,
+        skip: index * postsPerPage,
+        numPages,
+        currentPage: index + 1
+      }
     })
+  })
 
-    const tags = result.data.tagsGroup.group
+  // tags
+  const tags = result.data.tagsGroup.group
 
-    tags.forEach(tag => {
-      createPage({
-        path: `/tags/${tag.fieldValue}/`,
-        component: tagTemplate,
-        context: {
-          tag: tag.fieldValue
-        }
-      })
+  tags.forEach(tag => {
+    createPage({
+      path: `/tags/${sanitizeSlug(tag.fieldValue)}/`,
+      component: tagTemplate,
+      context: {
+        tag: tag.fieldValue
+      }
     })
+  })
 
-    const categories = result.data.categoriesGroup.group
+  // categorias
+  const categories = result.data.categoriesGroup.group
 
-    categories.forEach(category => {
-      createPage({
-        path: `/${category.fieldValue}/`,
-        component: categoryTemplate,
-        context: {
-          category: category.fieldValue,
-        }
-      })
+  categories.forEach(category => {
+    createPage({
+      path: `/${sanitizeSlug(category.fieldValue)}/`,
+      component: categoryTemplate,
+      context: {
+        category: category.fieldValue,
+      }
     })
+  })
 
-    const games = result.data.gamesGroup.edges
+  // games
+  const games = result.data.gamesGroup.edges
 
-    games.forEach(game => {
-      const { 
-        title, 
-        original_developer, 
-        original_publisher, 
-        original_release_year, 
-        game_type,
-        game_type_ref,
-        releases, 
-        pingbacks 
-      } = game.node
-      const { slug } = game.node.fields
-      createPage({
-        path: `/games${slug}`,
-        component: gamesTemplate,
-        context: {
-          title,
-          original_developer,
-          original_publisher,
-          original_release_year,
-          game_type,
-          game_type_ref,
-          releases,
-          pingbacks
-        }
-      })
+  games.forEach((game) => {
+    const { slug } = game.node.fields
+    createPage({
+      path: `/games${slug}`,
+      component: gamesTemplate,
+      context: {
+        slug: slug
+      }
     })
-
   })
 }
