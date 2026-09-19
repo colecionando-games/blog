@@ -43,10 +43,26 @@ export const FooterLogo = styled(GatsbyImage)`
   width: 80px;
 `
 
+export const FooterLinks = styled.div`
+  display: flex;
+  align-items: center;
+
+  ${media.lessThan("large")`
+    margin-top: 20px;
+  `}
+`
+
 export const FooterProjectCopy = styled.div`
   text-align: right;
   font-size: 0.8em;
   margin-right: 10px;
+  display: flex;
+  flex-direction: column;
+
+  a {
+    text-decoration: none;
+    color: #2980b9;
+  }
 `
 
 export const FooterSocialLinks = styled.ul`
@@ -63,10 +79,6 @@ export const FooterSocialLinks = styled.ul`
   svg {
     margin: 5px;
   }
-
-  ${media.lessThan("large")`
-    margin-top: 32px;
-  `}
 `
 
 export const SocialLink = styled.div`

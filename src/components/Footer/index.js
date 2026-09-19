@@ -23,7 +23,7 @@ const Footer = () => {
       <S.FooterCopyrightBox>
         <S.FooterLogo image={logoFooter.childImageSharp.gatsbyImageData} alt="Logo colecionado.games"/>  
         <S.FooterCopyright>
-          &copy; 2025 colecionando.games<br></br>
+          &copy; 2026 colecionando.games<br></br>
           O manual do colecionador de videogames!<br></br>
           <small style={{ fontSize: "1rem" }}>
             <a href="mailto:colecionando.games@vgscomcerveja.com.br">entre em contato</a> • <a href="/sobre">sobre</a>
@@ -31,22 +31,24 @@ const Footer = () => {
 
         </S.FooterCopyright>
       </S.FooterCopyrightBox>
-      <S.FooterSocialLinks>
+      <S.FooterLinks>
         <S.FooterProjectCopy>
-          um projeto<br></br>
+          <span>um projeto</span>
           <a href="https://www.vgscomcerveja.com.br">videogames com cerveja</a>
         </S.FooterProjectCopy>
-        {links.map((link, i) => { 
-          const Icon = Icons[link.label]
-          return (
-            <li key={i}>
-              <a href={link.url} title={link.label} target="_blank" rel="noopener noreferrer">
-                <S.SocialLink><Icon /></S.SocialLink>
-              </a>
-            </li>
-          )
-        })}
-      </S.FooterSocialLinks>
+        <S.FooterSocialLinks>
+          {links.map((link, i) => { 
+            const Icon = Icons[link.label]
+            return (
+              <li key={i}>
+                <a href={link.url} title={link.label} target="_blank" rel="noopener noreferrer">
+                  <S.SocialLink><Icon /></S.SocialLink>
+                </a>
+              </li>
+            )
+          })}
+        </S.FooterSocialLinks>
+      </S.FooterLinks>
     </S.FooterWrapper>
   )
 }
