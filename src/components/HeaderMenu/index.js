@@ -31,7 +31,8 @@ const HeaderMenu = () => {
         )
         })}
         <S.MenuLinksItem key="menu-unboxing">
-          <S.MenuLinksExtLink href="https://www.youtube.com/@colecionandogames/videos">
+          <S.MenuLinksExtLink href="https://www.youtube.com/@colecionandogames/videos"
+              aria-label="Acesse nosso canal de Unboxing no YouTube!">
             <Youtube />
             <span>Unboxing</span>
           </S.MenuLinksExtLink>
