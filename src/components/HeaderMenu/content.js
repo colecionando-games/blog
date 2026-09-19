@@ -9,7 +9,7 @@ const links = [
   },
   {
     label: "Notícias",
-    url: "/notícia"
+    url: "/noticia"
   }
 ]
 
