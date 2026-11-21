@@ -108,15 +108,16 @@ const pluginSetup = [
     resolve: `gatsby-plugin-sitemap`,
     options: {
       output: `/`,
-      entryLimit: 50000,
       resolveSiteUrl: () => `https://blog.colecionando.games`,
-      serialize: ({ path }) => {
-        return {
-          url: `https://blog.colecionando.games${path}`,
-          changefreq: 'daily',
-          priority: 0.7
-        }
-      }
+      excludes: [
+        `/tags`,
+        `/tags/`,
+        `/tags/**`,
+        `/games/**`,
+        `/404`,
+        `/404.html`,
+        `/dev-404-page`,
+      ]
     }
   },  
   // this (optional) plugin enables Progressive Web App + Offline functionality
